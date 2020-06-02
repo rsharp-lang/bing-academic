@@ -3,7 +3,7 @@ Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Scripting.MetaData
 
 <Package("search")>
-Public Class academic
+Public Module academic
 
     Const searchApiTemplate$ = "https://cn.bing.com/academic/search?q=%s&FORM=HDRSC4"
 
@@ -12,4 +12,4 @@ Public Class academic
 
     End Function
 
-End Class
+End Module
