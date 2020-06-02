@@ -3,6 +3,7 @@ Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Scripting.MetaData
 Imports Microsoft.VisualBasic.Language.C
 Imports Microsoft.VisualBasic.Text.Parser.HtmlParser
+Imports SMRUCC.Rsharp.Runtime.Interop
 
 ''' <summary>
 ''' Bing search for academic
@@ -19,6 +20,7 @@ Public Module academic
     ''' <param name="term">the term string for search in bing.</param>
     ''' <returns></returns>
     <ExportAPI("search")>
+    <RApiReturn(GetType(literatureEntry))>
     Public Function search(term As String) As Object
         Dim url As String = sprintf(searchApiTemplate, term.UrlEncode)
         Dim html As String = url.GET
@@ -26,7 +28,13 @@ Public Module academic
         ' clean up html codes
         html = html.RemovesJavaScript.RemovesCSSstyles
 
-        Return html
+        Dim blocks = html.Matches("<ol.+?</ol>", RegexICSng).ToArray
+        Dim list As literatureEntry() = blocks(Scan0) _
+            .Matches("<li[^>]+?class[=].+?</li>", RegexICSng) _
+            .Select(AddressOf literatureEntry.literatureEntry) _
+            .ToArray
+
+        Return list
     End Function
 
     ''' <summary>
