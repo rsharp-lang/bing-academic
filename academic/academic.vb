@@ -3,7 +3,9 @@ Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Language.C
 Imports Microsoft.VisualBasic.Scripting.MetaData
 Imports Microsoft.VisualBasic.Text.Parser.HtmlParser
+Imports SMRUCC.Rsharp.Runtime.Internal.Object
 Imports SMRUCC.Rsharp.Runtime.Interop
+Imports SMRUCC.Rsharp.Runtime
 
 ''' <summary>
 ''' Bing search for academic
@@ -11,8 +13,24 @@ Imports SMRUCC.Rsharp.Runtime.Interop
 <Package("search", Category:=APICategories.UtilityTools, Publisher:="xie.guigang@gcmodeller.org")>
 Public Module academic
 
-    Const searchApiTemplate$ = "https://cn.bing.com/academic/search?q=%s&FORM=HDRSC4"
+    Const searchApiTemplate$ = "https://cn.bing.com/academic/search?q=%s&first=%s&FORM=HDRSC4"
     Const literatureProfileApiTemplate$ = "https://cn.bing.com/academic/profile?id=%s&encoded=0&v=paper_preview&mkt=zh-cn"
+
+    Sub New()
+        Call Converts.makeDataframe.addHandler(GetType(literatureEntry()), AddressOf getListTable)
+    End Sub
+
+    Private Function getListTable(x As literatureEntry(), args As list, env As Environment) As dataframe
+        Dim data As New dataframe With {
+            .columns = New Dictionary(Of String, Array) From {
+                {NameOf(literatureEntry.authors), x.Select(Function(a) a.authors.JoinBy(", ")).ToArray},
+                {NameOf(literatureEntry.title), x.Select(Function(a) a.title).ToArray}
+            },
+            .rownames = Nothing
+        }
+
+        Return data
+    End Function
 
     ''' <summary>
     ''' Do bing academic term search
@@ -21,8 +39,8 @@ Public Module academic
     ''' <returns></returns>
     <ExportAPI("search")>
     <RApiReturn(GetType(literatureEntry))>
-    Public Function search(term As String) As Object
-        Dim url As String = sprintf(searchApiTemplate, term.UrlEncode)
+    Public Function search(term As String, Optional offset% = 1) As Object
+        Dim url As String = sprintf(searchApiTemplate, term.UrlEncode, offset)
         Dim html As String = url.GET
 
         ' clean up html codes
@@ -32,6 +50,7 @@ Public Module academic
         Dim list As literatureEntry() = blocks(Scan0) _
             .Matches("<li[^>]+?class[=].+?</li>", RegexICSng) _
             .Select(AddressOf literatureEntry.literatureEntry) _
+            .Where(Function(a) Not a Is Nothing) _
             .ToArray
 
         Return list

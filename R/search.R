@@ -1,3 +1,6 @@
 imports "search" from "../dist/academic.dll";
 
-let result = search("aes");
+search("aes")
+:> as.data.frame
+:> print
+;
