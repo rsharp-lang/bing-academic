@@ -41,7 +41,7 @@ Public Module academic
     <RApiReturn(GetType(literatureEntry))>
     Public Function search(term As String, Optional offset% = 1) As Object
         Dim url As String = sprintf(searchApiTemplate, term.UrlEncode, offset)
-        Dim html As String = url.GET
+        Dim html As String = url.GET(echo:=False)
 
         ' clean up html codes
         html = html.RemovesJavaScript.RemovesCSSstyles
@@ -60,7 +60,7 @@ Public Module academic
     ''' Get profile of the given literature entry
     ''' </summary>
     ''' <param name="literature">
-    ''' the literature term entry from the <see cref="search(String)"/> result.
+    ''' the literature term entry from the <see cref="search"/> result.
     ''' </param>
     ''' <returns></returns>
     <ExportAPI("profile.literature")>
