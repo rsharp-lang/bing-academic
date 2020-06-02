@@ -1,0 +1,11 @@
+,authors,year,title,journal,cites,keywords
+"[1, ]","Joan Daemen, Vincent Rijmen",2002,The Design of Rijndael: AES - The Advanced Encryption Standard,NULL,5264,Computer Science; AES Implementations; Advanced Encryption Standard Process
+"[2, ]","Joan Daemen, Vincent Rijmen",2002,The Design of Rijndael,NULL,2453,Computer Security; Computer Science; AES Implementations
+"[3, ]",Simon Heron,2009,Encryption: Advanced Encryption Standard (AES),Network Security archive,1494,Computer Security; Computer Science; 56-bit Encryption
+"[4, ]","Frederic P Miller, Agnes F Vandome, John Mcbrewster",2009,Advanced Encryption Standard,NULL,1014,Computer Security; Computer Science; AES Implementations
+"[5, ]","Martin Feldhofer, Sandra Dominikus, Johannes Wolkerstorfer",2004,Strong authentication for RFID systems using the AES algorithm,cryptographic hardware and embedded systems,989,Cryptographic Primitive; Authentication Protocol; Computer Science
+"[6, ]","Akashi Satoh, Sumio Morioka, Kohji Takano, Seiji Munetoh",2001,A Compact Rijndael Hardware Architecture with S-Box Optimization,international conference on the theory and application of cryptology and infor…,874,Computer Science; S-box; AES Implementations
+"[7, ]","Mehdilaurent Akkar, Christophe Giraud",2001,"An Implementation of DES and AES, Secure against Some Attacks",cryptographic hardware and embedded systems,656,Implementation; Computer Security; Computer Science
+"[8, ]","Craig Gentry, Shai Halevi, Nigel P Smart",2012,Homomorphic Evaluation of the AES Circuit,international cryptology conference,641,Computer Science; Bootstrapping; Theoretical Computer Science
+"[9, ]","Adam J Elbirt, W Yip, B Chetwynd, Christof Paar",2001,An FPGA-based performance evaluation of the AES block cipher candidate algorithm finalists,IEEE Transactions on Very Large Scale Integration Systems,537,Algorithm; Electronic Engineering; Computer Science
+"[10, ]","Xinmiao Zhang, Keshab K Parhi",2004,High-speed VLSI architectures for the AES algorithm,IEEE Transactions on Very Large Scale Integration Systems,512,Algorithm; Very-large-scale Integration; Electronic Engineering

@@ -24,7 +24,11 @@ Public Module academic
         Dim data As New dataframe With {
             .columns = New Dictionary(Of String, Array) From {
                 {NameOf(literatureEntry.authors), x.Select(Function(a) a.authors.JoinBy(", ")).ToArray},
-                {NameOf(literatureEntry.title), x.Select(Function(a) a.title).ToArray}
+                {NameOf(literatureEntry.year), x.Select(Function(a) a.year).ToArray},
+                {NameOf(literatureEntry.title), x.Select(Function(a) a.title).ToArray},
+                {NameOf(literatureEntry.journal), x.Select(Function(a) a.journal).ToArray},
+                {NameOf(literatureEntry.cites), x.Select(Function(a) a.cites).ToArray},
+                {NameOf(literatureEntry.keywords), x.Select(Function(a) a.keywords.JoinBy("; ")).ToArray}
             },
             .rownames = Nothing
         }
