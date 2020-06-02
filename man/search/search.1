@@ -3,7 +3,8 @@
 .SH NAME
 search \- Do bing academic term search
 .SH SYNOPSIS
-\fIsearch(\fBterm\fR as string);\fR
+\fIsearch(\fBterm\fR as string, 
+\fBoffset\fR as integer = 1);\fR
 .SH DESCRIPTION
 .PP
 Do bing academic term search
@@ -11,6 +12,10 @@ Do bing academic term search
 .SH OPTIONS
 .PP
 \fBterm\fB \fR\- the term string for search in bing.
+.PP
+.SH VALUE
+.PP
+a vector of the literature summary entry items.
 .PP
 .SH SEE ALSO
 search

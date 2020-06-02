@@ -40,7 +40,9 @@ Public Module academic
     ''' Do bing academic term search
     ''' </summary>
     ''' <param name="term">the term string for search in bing.</param>
-    ''' <returns></returns>
+    ''' <returns>
+    ''' a vector of the literature summary entry items.
+    ''' </returns>
     <ExportAPI("search")>
     <RApiReturn(GetType(literatureEntry))>
     Public Function search(term As String, Optional offset% = 1) As Object
