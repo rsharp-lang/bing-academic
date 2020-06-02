@@ -13,7 +13,7 @@ Public Class literatureEntry
 
     Public Property guid As String
     Public Property title As String
-    Public Property authors As String()
+    Public Property authors As author()
     Public Property year As String
     Public Property journal As String
     Public Property cites As Integer
@@ -40,6 +40,8 @@ Public Class literatureEntry
                         }
                     End Function) _
             .ToArray
+
+        summary.authors = authors
 
         Return summary
     End Function
