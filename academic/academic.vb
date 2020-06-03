@@ -1,11 +1,12 @@
 ﻿
+Imports academic.Bing.Academic
 Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Language.C
 Imports Microsoft.VisualBasic.Scripting.MetaData
 Imports Microsoft.VisualBasic.Text.Parser.HtmlParser
+Imports SMRUCC.Rsharp.Runtime
 Imports SMRUCC.Rsharp.Runtime.Internal.Object
 Imports SMRUCC.Rsharp.Runtime.Interop
-Imports SMRUCC.Rsharp.Runtime
 
 ''' <summary>
 ''' Bing search for academic
@@ -73,9 +74,9 @@ Public Module academic
     ''' <returns>
     ''' the details information of the given article
     ''' </returns>
-    <ExportAPI("profile.literature")>
-    <RApiReturn(GetType(literature))>   
-    Public Function profile(literature As literatureEntry, Optional env As Environment = Nothing)
+    <ExportAPI("literature")>
+    <RApiReturn(GetType(literature))>
+    Public Function profile(literature As literatureEntry, Optional env As Environment = Nothing) As Object
         Dim url As String = sprintf(literatureProfileApiTemplate, literature.guid.UrlEncode)
         Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
 
