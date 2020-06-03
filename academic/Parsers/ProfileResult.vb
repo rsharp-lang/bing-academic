@@ -59,13 +59,13 @@ Namespace Bing.Academic
         ReadOnly htmlLink As String = HtmlStrips.Regexp("a")
 
         <Extension>
-        Private Function GetTarget(a As String) As Link
+        Private Function GetTarget(a As String) As link
             Dim attrs = a.TagAttributes.ToArray
             Dim name$ = a _
                 .GetValue _
                 .StripHTMLTags
 
-            Return New Link With {
+            Return New link With {
                 .title = name,
                 .href = attrs.KeyItem("href").Value,
                 .attr = attrs.KeyItem("h").Value
@@ -73,11 +73,11 @@ Namespace Bing.Academic
         End Function
 
         <Extension>
-        Public Function GetProfileID(article As ArticleProfile) As String
+        Public Function GetProfileID(article As literature) As String
             Return article.URL.QueryStringParameters!id
         End Function
 
-        Public Function GetProfile(url As String, Optional refer$ = Nothing) As ArticleProfile
+        Public Function GetProfile(url As String, Optional refer$ = Nothing) As literature
             Dim html$ = url.GET(refer:=refer) _
                 .RemovesCSSstyles _
                 .RemovesImageLinks _
@@ -112,12 +112,12 @@ Namespace Bing.Academic
                 .ToDictionary
 
             Dim time$
-            Dim journal As Link
+            Dim journal As link
             Dim volumn$
             Dim issue$
             Dim pageSpan$
             Dim doi$
-            Dim areas As Link()
+            Dim areas As link()
 
             If contents.Keys.Any(Function(fieldName) Not ASCII.IsASCIIString(fieldName)) Then
                 ' 中文的
@@ -175,7 +175,7 @@ Namespace Bing.Academic
                 pubDate = Date.Parse(time)
             End If
 
-            Return New ArticleProfile With {
+            Return New literature With {
                 .title = title,
                 .abstract = abstract _
                     .SplitParagraph(len:=200) _
@@ -185,16 +185,16 @@ Namespace Bing.Academic
                                Return l.href <> "javascript:void(0);"
                            End Function) _
                     .ToArray,
-                .doi = doi,
+                .DOI = doi,
                 .issue = issue,
                 .journal = journal,
                 .pages = pageSpan,
                 .volume = volumn,
-                .pubDate = pubDate,
+                .PubDate = pubDate,
                 .source = source.Where(Function(l) l.href <> "javascript:void(0);").ToArray,
-                .Keywords = areas.Where(Function(l) l.href <> "javascript:void(0);").ToArray,
+                .keywords = areas.Where(Function(l) l.href <> "javascript:void(0);").ToArray,
                 .cites = count,
-                .url = url
+                .URL = url
             }
         End Function
     End Module

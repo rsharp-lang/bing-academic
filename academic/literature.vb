@@ -63,17 +63,18 @@ Namespace Bing.Academic
     ''' <summary>
     ''' 文献的一些摘要信息
     ''' </summary>
-    Public Class ArticleProfile
+    Public Class literature
 
+        Public Property guid As String
         Public Property title As String
         Public Property URL As String
-        Public Property authors As Link()
+        Public Property authors As link()
         Public Property abstract As String
         <XmlElement("pub-date")>
         Public Property PubDate As Date
-        Public Property journal As Link
+        Public Property journal As link
         Public Property DOI As String
-        Public Property keywords As Link()
+        Public Property keywords As link()
         ''' <summary>
         ''' 按照年计数的被引用量
         ''' </summary>
@@ -90,7 +91,7 @@ Namespace Bing.Academic
         ''' <summary>
         ''' 有效的原文来源地址url
         ''' </summary>
-        Public Property source As Link()
+        Public Property source As link()
 
         Public Overrides Function ToString() As String
             Return $"[{GetProfileID}] {title}"
@@ -98,7 +99,7 @@ Namespace Bing.Academic
     End Class
 
     <XmlType("link")>
-    Public Structure Link
+    Public Structure link
         <XmlAttribute> Public Property title As String
         <XmlAttribute> Public Property attr As String
         <XmlText>
