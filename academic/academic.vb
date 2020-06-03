@@ -1,4 +1,5 @@
 ﻿
+Imports System.Text
 Imports academic.Bing.Academic
 Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Language.C
@@ -19,7 +20,19 @@ Public Module academic
 
     Sub New()
         Call Converts.makeDataframe.addHandler(GetType(literatureEntry()), AddressOf getListTable)
+
+        Call Internal.ConsolePrinter.AttachConsoleFormatter(Of literature)(AddressOf printInfo)
     End Sub
+
+    Private Function printInfo(literature As literature) As String
+        Dim sb As New StringBuilder(literature.title)
+
+        If Not literature.DOI.StringEmpty Then
+            Call sb.AppendLine("DOI: " & literature.DOI)
+        End If
+
+        Return sb.ToString
+    End Function
 
     Private Function getListTable(x As literatureEntry(), args As list, env As Environment) As dataframe
         Dim data As New dataframe With {
@@ -31,7 +44,7 @@ Public Module academic
                 {NameOf(literatureEntry.cites), x.Select(Function(a) a.cites).ToArray},
                 {NameOf(literatureEntry.keywords), x.Select(Function(a) a.keywords.JoinBy("; ")).ToArray}
             },
-            .rownames = Nothing
+            .rownames = x.Select(Function(a) a.guid).ToArray
         }
 
         Return data
@@ -69,15 +82,26 @@ Public Module academic
     ''' the information of the details contains reference list, cites data, DOI, etc...
     ''' </summary>
     ''' <param name="literature">
-    ''' the literature term entry from the <see cref="search"/> result.
+    ''' the literature term entry from the <see cref="search"/> result or 
+    ''' the bing guid of the literature.
     ''' </param>
     ''' <returns>
     ''' the details information of the given article
     ''' </returns>
     <ExportAPI("literature")>
     <RApiReturn(GetType(literature))>
-    Public Function profile(literature As literatureEntry, Optional env As Environment = Nothing) As Object
-        Dim url As String = sprintf(literatureProfileApiTemplate, literature.guid.UrlEncode)
+    Public Function profile(literature As Object, Optional env As Environment = Nothing) As Object
+        Dim guid As String
+
+        If literature Is Nothing Then
+            Return Internal.debug.stop("no data input for get literature data!", env)
+        ElseIf TypeOf literature Is literatureEntry Then
+            guid = DirectCast(literature, literatureEntry).guid
+        Else
+            guid = Scripting.ToString(literature)
+        End If
+
+        Dim url As String = sprintf(literatureProfileApiTemplate, guid.UrlEncode)
         Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
         Dim details As literature = ProfileResult.GetProfile(html)
 
