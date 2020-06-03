@@ -1,9 +1,10 @@
 .\" man page create by R# package system.
-.TH SEARCH 4 2020-06-01 "profile.literature" "profile.literature"
+.TH SEARCH 4 2020-06-03 "profile.literature" "profile.literature"
 .SH NAME
 profile.literature \- Get profile of the given literature entry
 .SH SYNOPSIS
-\fIprofile.literature(\fBliterature\fR as <generic> literatureEntry);\fR
+\fIprofile.literature(\fBliterature\fR as <generic> literatureEntry, 
+[\fB<Environment>\fR]);\fR
 .SH DESCRIPTION
 .PP
 Get profile of the given literature entry
@@ -11,7 +12,7 @@ Get profile of the given literature entry
 .SH OPTIONS
 .PP
 \fBliterature\fB \fR\- 
- the literature term entry from the @\fBM:academic.academic.search(System.String,System.Int32)\fR result.
+ the literature term entry from the @\fBM:academic.academic.search(System.String,System.Int32,SMRUCC.Rsharp.Runtime.Environment)\fR result.
 
 .PP
 .SH SEE ALSO
