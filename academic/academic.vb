@@ -25,10 +25,17 @@ Public Module academic
     End Sub
 
     Private Function printInfo(literature As literature) As String
-        Dim sb As New StringBuilder(literature.title)
+        Dim sb As New StringBuilder(literature.title & vbCrLf)
 
         If Not literature.DOI.StringEmpty Then
             Call sb.AppendLine("DOI: " & literature.DOI)
+        End If
+        If Not literature.journal.title.StringEmpty Then
+            Call sb.AppendLine("cite as")
+            Call sb.AppendLine($"{literature.authors.Select(Function(a) a.title).JoinBy(", ")}. {literature.title}. {literature.journal.title}. {literature.PubDate.ToString}")
+        End If
+        If Not literature.keywords.IsNullOrEmpty Then
+            Call sb.AppendLine("keywords: " & literature.keywords.Select(Function(a) a.title).JoinBy("; "))
         End If
 
         Return sb.ToString
