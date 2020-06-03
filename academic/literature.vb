@@ -67,7 +67,6 @@ Namespace Bing.Academic
 
         Public Property guid As String
         Public Property title As String
-        Public Property URL As String
         Public Property authors As link()
         Public Property abstract As String
         <XmlElement("pub-date")>
@@ -94,7 +93,7 @@ Namespace Bing.Academic
         Public Property source As link()
 
         Public Overrides Function ToString() As String
-            Return $"[{GetProfileID}] {title}"
+            Return $"[{guid}] {title}"
         End Function
     End Class
 

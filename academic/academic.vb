@@ -79,8 +79,9 @@ Public Module academic
     Public Function profile(literature As literatureEntry, Optional env As Environment = Nothing) As Object
         Dim url As String = sprintf(literatureProfileApiTemplate, literature.guid.UrlEncode)
         Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
+        Dim details As literature = ProfileResult.GetProfile(html)
 
-        Return html
+        Return details
     End Function
 End Module
 

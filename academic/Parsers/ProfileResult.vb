@@ -72,17 +72,13 @@ Namespace Bing.Academic
             }
         End Function
 
-        <Extension>
-        Public Function GetProfileID(article As literature) As String
-            Return article.URL.QueryStringParameters!id
-        End Function
-
-        Public Function GetProfile(url As String, Optional refer$ = Nothing) As literature
-            Dim html$ = url.GET(refer:=refer) _
+        Public Function GetProfile(html As String) As literature
+            html$ = html _
                 .RemovesCSSstyles _
                 .RemovesImageLinks _
                 .RemovesHtmlHead _
                 .RemovesFooter
+
             Dim count As cites() = html _
                 .GetBetween("""BarData""", "BarChart.render") _
                 .GetStackValue(":", "}") _
@@ -193,8 +189,7 @@ Namespace Bing.Academic
                 .PubDate = pubDate,
                 .source = source.Where(Function(l) l.href <> "javascript:void(0);").ToArray,
                 .keywords = areas.Where(Function(l) l.href <> "javascript:void(0);").ToArray,
-                .cites = count,
-                .URL = url
+                .cites = count
             }
         End Function
     End Module
