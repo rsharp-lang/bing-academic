@@ -63,13 +63,18 @@ Public Module academic
     End Function
 
     ''' <summary>
-    ''' Get profile of the given literature entry
+    ''' Get profile of the details information about the given literature entry
+    ''' 
+    ''' the information of the details contains reference list, cites data, DOI, etc...
     ''' </summary>
     ''' <param name="literature">
     ''' the literature term entry from the <see cref="search"/> result.
     ''' </param>
-    ''' <returns></returns>
+    ''' <returns>
+    ''' the details information of the given article
+    ''' </returns>
     <ExportAPI("profile.literature")>
+    <RApiReturn(GetType(literature))>
     Public Function profile(literature As literatureEntry)
         Dim url As String = sprintf(literatureProfileApiTemplate, literature.guid.UrlEncode)
         Dim html As String = url.GET
