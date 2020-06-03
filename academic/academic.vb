@@ -45,9 +45,9 @@ Public Module academic
     ''' </returns>
     <ExportAPI("search")>
     <RApiReturn(GetType(literatureEntry))>
-    Public Function search(term As String, Optional offset% = 1) As Object
+    Public Function search(term As String, Optional offset% = 1, Optional env As Environment = Nothing) As Object
         Dim url As String = sprintf(searchApiTemplate, term.UrlEncode, offset)
-        Dim html As String = url.GET(echo:=False)
+        Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
 
         ' clean up html codes
         html = html.RemovesJavaScript.RemovesCSSstyles
@@ -74,10 +74,10 @@ Public Module academic
     ''' the details information of the given article
     ''' </returns>
     <ExportAPI("profile.literature")>
-    <RApiReturn(GetType(literature))>
-    Public Function profile(literature As literatureEntry)
+    <RApiReturn(GetType(literature))>   
+    Public Function profile(literature As literatureEntry, Optional env As Environment = Nothing)
         Dim url As String = sprintf(literatureProfileApiTemplate, literature.guid.UrlEncode)
-        Dim html As String = url.GET
+        Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
 
         Return html
     End Function

@@ -107,6 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="academic.vb" />
+    <Compile Include="literature.vb" />
     <Compile Include="models.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -123,6 +124,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Parsers\ProfileResult.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

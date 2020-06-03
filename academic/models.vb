@@ -2,13 +2,6 @@
 Imports Microsoft.VisualBasic.Text
 Imports Microsoft.VisualBasic.Text.Parser.HtmlParser
 
-Public Class literature
-
-    Public Property guid As String
-
-
-End Class
-
 Public Class literatureEntry
 
     Public Property guid As String
