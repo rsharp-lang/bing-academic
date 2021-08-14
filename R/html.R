@@ -12,11 +12,18 @@ imports "graphquery" from "webKit";
 #' @return a list/vector of html document element query result output
 #' 
 const html_query as function(html, queryName) {
+    const queryfile as string = system.file(queryName, package = "BingAcademic");
+
+    print("query of html components from query file:");
+    print(queryfile);
+
     Html::parse(html)
     |> query(
-        graphquery = system.file(queryName, package = "BingAcademic")
-                    |> readText
-                    |> parseQuery
+        graphquery = queryfile
+          |> readText
+          |> parseQuery
+        ,
+        stripHtml  = TRUE
     )
     ;
 }
