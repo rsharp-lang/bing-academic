@@ -1,0 +1,40 @@
+{
+            "guid": "dfb1795754bc211a721dcdf4a3c0198b",
+"title": "Reconstruction and analysis of genome-scale metabolic model of a photosynthetic bacterium",
+"authors": [
+{
+            "name": "Arnau Montagud",
+"guid": "1395024416"
+        }, {
+            "name": "Emilio Navarro",
+"guid": "2117670734"
+        }, {
+            "name": "Pedro Fernandez De Cordoba",
+"guid": "2146386044"
+        }, {
+            "name": "Javier F Urchueguia",
+"guid": "1696918090"
+        }, {
+            "name": "Kiran Raosah…",
+"guid": "2169763613"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 131,
+"abstract": "Background#R##N#Synechocystis sp. PCC6803 is a cyanobacterium considered as a candidate photo-biological production platform - an attractive cell factory capable of using CO2 and light as carbon and e…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

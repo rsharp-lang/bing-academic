@@ -1,0 +1,40 @@
+{
+            "guid": "c554195ad971d58e075a5b1683d2b9af",
+"title": "YEAST 5 – AN EXPANDED RECONSTRUCTION OF THE SACCHAROMYCES CEREVISIAE METABOLIC NETWORK",
+"authors": [
+{
+            "name": "Benjamin D Heavner",
+"guid": "1645904605"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Brandon Barker",
+"guid": "2154617008"
+        }, {
+            "name": "Pedro Mendes",
+"guid": "2138913119"
+        }, {
+            "name": "Larry P Walker",
+"guid": "2131154625"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 146,
+"abstract": "Background: Efforts to improve the computational reconstruction of the Saccharomyces cerevisiae biochemical reaction network and to refine the stoichiometrically constrained metabolic models that can …",
+"keywords": [
+{
+            "word": "Markup Language",
+"guid": "45874996"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

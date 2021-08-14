@@ -1,0 +1,43 @@
+{
+            "guid": "4e3f399342e9c5dd91a3a44684d26ce3",
+"title": "A fragile metabolic network adapted for cooperation in the symbiotic bacterium Buchnera aphidicola",
+"authors": [
+{
+            "name": "Gavin H Thomas",
+"guid": "2542588231"
+        }, {
+            "name": "Jeremy Zucker",
+"guid": "2016435121"
+        }, {
+            "name": "Sandy J Macdonald",
+"guid": "2138566124"
+        }, {
+            "name": "Anatoly Sorokin",
+"guid": "2295793171"
+        }, {
+            "name": "Igor Goryanin",
+"guid": "2295581212"
+        }, {
+            "name": "Angela E D…",
+"guid": "2460502529"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 114,
+"abstract": "Background#R##N#In silico analyses provide valuable insight into the biology of obligately intracellular pathogens and symbionts with small genomes. There is a particular opportunity to apply systems-level t…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

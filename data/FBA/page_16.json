@@ -1,0 +1,46 @@
+{
+            "guid": "ce1a9990aefc3c7e0762e033a3edd7dd",
+"title": "Metabolic network reconstruction and genome-scale model of butanol-producing strain Clostridium beijerinckii NCIMB 8052",
+"authors": [
+{
+            "name": "Caroline B Milne",
+"guid": "2133230021"
+        }, {
+            "name": "James A Eddy",
+"guid": "2161965749"
+        }, {
+            "name": "Ravali Raju",
+"guid": "2168269478"
+        }, {
+            "name": "Soroush Ardekani",
+"guid": "2131606187"
+        }, {
+            "name": "Panjun Kim",
+"guid": "2121890496"
+        }, {
+            "name": "Ryan S Senger",
+"guid": "1974991969"
+        }, {
+            "name": "Yo…",
+"guid": "2147923674"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 105,
+"abstract": "Background#R##N#Solventogenic clostridia offer a sustainable alternative to petroleum-based production of butanol--an important chemical feedstock and potential fuel additive or replacement. C. beijerinckii is …",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

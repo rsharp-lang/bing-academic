@@ -1,0 +1,46 @@
+{
+            "guid": "5bf9ddc1f6f9ef4d916e5c4ee9eb6862",
+"title": "Comparative multi-omics systems analysis of Escherichia coli strains B and K-12.",
+"authors": [
+{
+            "name": "Sung Ho Yoon",
+"guid": "2130253966"
+        }, {
+            "name": "Meejung Han",
+"guid": "2108372840"
+        }, {
+            "name": "Haeyoung Jeong",
+"guid": "2150721381"
+        }, {
+            "name": "Choong Hoon Lee",
+"guid": "2173773251"
+        }, {
+            "name": "Xiaoxia Xia",
+"guid": "2943616873"
+        }, {
+            "name": "Daehee Lee",
+"guid": "2609187112"
+        }, {
+            "name": "Ji H…",
+"guid": "2282329512"
+        }
+]
+,
+"year": "2012",
+"journal": "· Genome Biology",
+"cites": 120,
+"abstract": "Background#R##N#Elucidation of a genotype-phenotype relationship is critical to understand an organism at the whole-system level. Here, we demonstrate that comparative analyses of multi-omics data combin…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

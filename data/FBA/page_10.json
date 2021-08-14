@@ -1,0 +1,46 @@
+{
+            "guid": "b4526159951776e2387de9999c93f332",
+"title": "Comparative Genome-Scale Metabolic Reconstruction and Flux Balance Analysis of Multiple Staphylococcus aureus Genomes …",
+"authors": [
+{
+            "name": "Deoksun Lee",
+"guid": "2420248355"
+        }, {
+            "name": "Henry Burd",
+"guid": "2491689333"
+        }, {
+            "name": "Jiangxia Liu",
+"guid": "2404908191"
+        }, {
+            "name": "Eivind Almaas",
+"guid": "25302217"
+        }, {
+            "name": "Olaf Wiest",
+"guid": "1974861996"
+        }, {
+            "name": "Albertlaszlo Barabasi",
+"guid": "2195478976"
+        }, {
+            "name": "Zoltan …",
+"guid": "2057996487"
+        }
+]
+,
+"year": "2009",
+"journal": "· Journal of Bacteriology",
+"cites": 161,
+"abstract": "Mortality due to multidrug-resistant Staphylococcus aureus infection is predicted to surpass that of human immunodeficiency virus\/AIDS in the United States. Despite the various treatment options for S. aureus i…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

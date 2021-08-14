@@ -1,0 +1,43 @@
+{
+            "guid": "71c61d67f7a99b0b91b8198c859757df",
+"title": "Systems biology towards life in silico: mathematics of the control of living cells",
+"authors": [
+{
+            "name": "Hans V Westerhoff",
+"guid": "89570192"
+        }, {
+            "name": "Alexey Kolodkin",
+"guid": "2150068755"
+        }, {
+            "name": "Riaan Conradie",
+"guid": "2015795585"
+        }, {
+            "name": "Stephen J Wilkinson",
+"guid": "2141059129"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }, {
+            "name": "Kl…",
+"guid": "1279729646"
+        }
+]
+,
+"year": "2009",
+"journal": "· Journal of Mathematical Biology",
+"cites": 98,
+"abstract": "Systems Biology is the science that aims to understand how biological function absent from macromolecules in isolation, arises when they are components of their system. Dedicated to the memor…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Function (biology)",
+"guid": "14036430"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

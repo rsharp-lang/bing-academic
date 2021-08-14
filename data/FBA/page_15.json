@@ -1,0 +1,37 @@
+{
+            "guid": "d91e5df1618ab6c95c25bbf1b947bd3d",
+"title": "Manipulating redox and ATP balancing for improved production of succinate in E. coli",
+"authors": [
+{
+            "name": "Amarjeet Singh",
+"guid": "2236362508"
+        }, {
+            "name": "Keng Cher Soh",
+"guid": "2121964572"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }, {
+            "name": "Ryan T Gill",
+"guid": "2098590853"
+        }
+]
+,
+"year": "2011",
+"journal": "· Metabolic Engineering",
+"cites": 108,
+"abstract": "Redox and energy balance plays a key role in determining microbial fitness. Efforts to redirect bacterial metabolism often involve overexpression and deletion of genes surrounding key central metabolites, suc…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

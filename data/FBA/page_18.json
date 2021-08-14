@@ -1,0 +1,34 @@
+{
+            "guid": "d8ab95d5c569b6d532a5bc64386f4dbe",
+"title": "A reliable simulator for dynamic flux balance analysis",
+"authors": [
+{
+            "name": "Kai Hoffner",
+"guid": "2023742012"
+        }, {
+            "name": "Stuart M Harwood",
+"guid": "1984029515"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 89,
+"abstract": "Dynamic flux balance analysis (DFBA) provides a platform for detailed design, control and optimization of biochemical process technologies. It is a promising modeling framework that combines genome-scale m…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

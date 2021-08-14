@@ -1,0 +1,31 @@
+{
+            "guid": "188dbe8d102b02a9f2cc53cdc6a2c7da",
+"title": "Metabolic Erosion Primarily Through Mutation Accumulation, and Not Tradeoffs, Drives Limited Evolution of Substrate Spec…",
+"authors": [
+{
+            "name": "Nicholas Leiby",
+"guid": "807720769"
+        }, {
+            "name": "Christopher J Marx",
+"guid": "2014197716"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS Biology",
+"cites": 86,
+"abstract": "Evolutionary adaptation to a constant environment is often accompanied by specialization and a reduction of fitness in other environments. We assayed the ability of the Lenski Escherichia coli populations to gro…",
+"keywords": [
+{
+            "word": "Carbohydrate Metabolism",
+"guid": "17093226"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
