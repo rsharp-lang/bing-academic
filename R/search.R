@@ -13,15 +13,17 @@ const search as function(term) {
     const result = html
     |> BingAcademic::html_query("graphquery/listPage.graphquery")
     |> sapply(function(i) {
-        summary(
+        .summary(
             title    = i$title$title, 
             guid     = i$title$guid, 
             ref      = i$publication$ref, 
             cites    = i$publication$cites, 
-            abstract = i$abstract
+            abstract = i$abstract,
+            authors  = frameData(i$authors)
         );
     })
     ;
 
     result;
 }
+

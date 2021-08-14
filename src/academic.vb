@@ -5,6 +5,7 @@ Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Scripting.MetaData
 Imports SMRUCC.Rsharp.Runtime
 Imports SMRUCC.Rsharp.Runtime.Internal.Object
+Imports any = Microsoft.VisualBasic.Scripting
 
 ''' <summary>
 ''' Bing search for academic
@@ -54,12 +55,13 @@ Public Module academic
         Return data
     End Function
 
-    <ExportAPI("summary")>
+    <ExportAPI(".summary")>
     Public Function createItem(title As String,
                                guid As String,
                                ref As String,
                                cites As Integer,
-                               abstract As String) As literatureEntry
+                               abstract As String,
+                               authors As dataframe) As literatureEntry
 
         Dim year As String = ref.Match("\d+")
         Dim jour As String = ref.Replace(year, "").Trim
@@ -70,7 +72,16 @@ Public Module academic
             .guid = guid,
             .title = title,
             .year = year,
-            .journal = jour
+            .journal = jour,
+            .authors = authors _
+                .forEachRow _
+                .Select(Function(i)
+                            Return New Models.author With {
+                                .guid = any.ToString(i(0)),
+                                .name = any.ToString(i(1))
+                            }
+                        End Function) _
+                .ToArray
         }
     End Function
 
