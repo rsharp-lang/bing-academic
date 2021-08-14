@@ -1,10 +1,9 @@
 ﻿
 Imports System.Text
-Imports Microsoft.Bing.Academic.Bing.Academic
+Imports Microsoft.Bing.Academic.Models
 Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Language.C
 Imports Microsoft.VisualBasic.Scripting.MetaData
-Imports Microsoft.VisualBasic.Text.Parser.HtmlParser
 Imports SMRUCC.Rsharp.Runtime
 Imports SMRUCC.Rsharp.Runtime.Internal.Object
 Imports SMRUCC.Rsharp.Runtime.Interop
@@ -57,62 +56,6 @@ Public Module academic
         Return data
     End Function
 
-    ''' <summary>
-    ''' Do bing academic term search
-    ''' </summary>
-    ''' <param name="term">the term string for search in bing.</param>
-    ''' <returns>
-    ''' a vector of the literature summary entry items.
-    ''' </returns>
-    <ExportAPI("search")>
-    <RApiReturn(GetType(literatureEntry))>
-    Public Function search(term As String, Optional offset% = 1, Optional env As Environment = Nothing) As Object
-        Dim url As String = sprintf(searchApiTemplate, term.UrlEncode, offset)
-        Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
 
-        ' clean up html codes
-        html = html.RemovesJavaScript.RemovesCSSstyles
-
-        Dim blocks = html.Matches("<ol.+?</ol>", RegexICSng).ToArray
-        Dim list As literatureEntry() = blocks(Scan0) _
-            .Matches("<li[^>]+?class[=].+?</li>", RegexICSng) _
-            .Select(AddressOf literatureEntry.literatureEntry) _
-            .Where(Function(a) Not a Is Nothing) _
-            .ToArray
-
-        Return list
-    End Function
-
-    ''' <summary>
-    ''' Get profile of the details information about the given literature entry
-    ''' 
-    ''' the information of the details contains reference list, cites data, DOI, etc...
-    ''' </summary>
-    ''' <param name="literature">
-    ''' the literature term entry from the <see cref="search"/> result or 
-    ''' the bing guid of the literature.
-    ''' </param>
-    ''' <returns>
-    ''' the details information of the given article
-    ''' </returns>
-    <ExportAPI("literature")>
-    <RApiReturn(GetType(literature))>
-    Public Function profile(literature As Object, Optional env As Environment = Nothing) As Object
-        Dim guid As String
-
-        If literature Is Nothing Then
-            Return Internal.debug.stop("no data input for get literature data!", env)
-        ElseIf TypeOf literature Is literatureEntry Then
-            guid = DirectCast(literature, literatureEntry).guid
-        Else
-            guid = Scripting.ToString(literature)
-        End If
-
-        Dim url As String = sprintf(literatureProfileApiTemplate, guid.UrlEncode)
-        Dim html As String = url.GET(echo:=env.globalEnvironment.Rscript.debug)
-        Dim details As literature = ProfileResult.GetProfile(html)
-
-        Return details
-    End Function
 End Module
 

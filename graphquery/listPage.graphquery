@@ -1,7 +1,7 @@
 list css(".aca_algo", "*") [
     {
         title css("h2", 0) {
-            id css("a") 
+            guid css("a") 
              | attr("href") 
              | regexp("id[=][a-z0-9]+") 
              | tagValue("=", "value")

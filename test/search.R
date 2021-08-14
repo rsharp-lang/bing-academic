@@ -6,3 +6,5 @@ const result = BingAcademic::search("aes");
 const json = json_encode(result);
 
 print(json);
+
+str(result[[1]]);
