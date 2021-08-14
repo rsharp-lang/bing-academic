@@ -1,0 +1,34 @@
+{
+            "guid": "f90f3af810bb9e282720a8ec86bc2726",
+"title": "What is flux balance analysis",
+"authors": [
+{
+            "name": "Jeffrey D Orth",
+"guid": "2129044226"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2010",
+"journal": "· Nature Biotechnology",
+"cites": 2885,
+"abstract": "Flux balance analysis is a mathematical approach for analyzing the flow of metabolites through a metabolic network. This primer covers the theoretical basis of the approach, several practical examples …",
+"keywords": [
+{
+            "word": "Flow (psychology)",
+"guid": "75673492"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

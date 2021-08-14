@@ -1,0 +1,31 @@
+{
+            "guid": "8d2aae21797dd31aaf12823b46bef6e9",
+"title": "The Escherichia coli MG1655 in silico metabolic genotype: Its definition, characteristics, and capabilities",
+"authors": [
+{
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2000",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 1103,
+"abstract": "The Escherichia coli MG1655 genome has been completely sequenced. The annotated sequence, biochemical information, and other information were used to reconstruct the E. coli metabolic map. The …",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

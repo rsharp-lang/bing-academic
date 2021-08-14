@@ -1,0 +1,40 @@
+{
+            "guid": "e9f41f9074102cb1202a033d3c675fce",
+"title": "Understanding the Adaptive Growth Strategy of Lactobacillus plantarum by In Silico Optimisation",
+"authors": [
+{
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Anne Wiersma",
+"guid": "1997751262"
+        }, {
+            "name": "Leo Jacobs",
+"guid": "2690227785"
+        }, {
+            "name": "Richard A Notebaart",
+"guid": "1992938829"
+        }, {
+            "name": "Eddy J Smid",
+"guid": "2462592271"
+        }
+]
+,
+"year": "2009",
+"journal": "· PLOS Computational Biology",
+"cites": 178,
+"abstract": "In the study of metabolic networks, optimization techniques are often used to predict flux distributions, and hence, metabolic phenotype. Flux balance analysis in particular has been successful in predicting meta…",
+"keywords": [
+{
+            "word": "Mixed Acid Fermentation",
+"guid": "53850387"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,46 @@
+{
+            "guid": "1f50dc48ee5a12fe5f2f67e6879b2963",
+"title": "OptFlux: an open-source software platform for in silico metabolic engineering",
+"authors": [
+{
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "Paulo Maia",
+"guid": "2154261331"
+        }, {
+            "name": "Pedro Evangelista",
+"guid": "1997777526"
+        }, {
+            "name": "Paulo Vilaca",
+"guid": "2008265950"
+        }, {
+            "name": "Simao Soares",
+"guid": "2302474736"
+        }, {
+            "name": "Jose P Pinto",
+"guid": "2124241657"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 370,
+"abstract": "Over the last few years a number of methods have been proposed for the phenotype simulation of microorganisms under different environmental and genetic conditions. These have been used as the ba…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

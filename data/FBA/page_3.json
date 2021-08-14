@@ -1,0 +1,31 @@
+{
+            "guid": "eed452f6f05a9c4a59ff6605bfcd8914",
+"title": "The Biomass Objective Function",
+"authors": [
+{
+            "name": "Adam M Feist",
+"guid": "2061080551"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2010",
+"journal": "· Current Opinion in Microbiology",
+"cites": 491,
+"abstract": "Flux balance analysis (FBA) is a mathematical approach for analyzing the flow of metabolites through a metabolic network. To computationally predict cell growth using FBA, one has to determine the biomas…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

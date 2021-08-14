@@ -1,0 +1,31 @@
+{
+            "guid": "9c854f5fdde63c0c4e7e2e103107f09b",
+"title": "Integration of expression data in genome-scale metabolic network reconstructions",
+"authors": [
+{
+            "name": "Anna S Blazier",
+"guid": "2039341590"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2012",
+"journal": "· Frontiers in Physiology",
+"cites": 214,
+"abstract": "With the advent of high-throughput technologies, the field of systems biology has amassed an abundance of “omics” data, quantifying thousands of cellular components across a variety of scales, ranging from m…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Computational Model",
+"guid": "66024118"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

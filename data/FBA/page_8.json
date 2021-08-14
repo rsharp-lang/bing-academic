@@ -1,0 +1,34 @@
+{
+            "guid": "6994dd93b38962477d215aa356fb2208",
+"title": "Flux Balance Analysis of Mycolic AcidPathway: Targets for Anti-Tubercular Drugs",
+"authors": [
+{
+            "name": "Karthik Raman",
+"guid": "2127877947"
+        }, {
+            "name": "Preethi Rajagopalan",
+"guid": "2438952582"
+        }, {
+            "name": "Nagasuma Chandra",
+"guid": "2257022061"
+        }
+]
+,
+"year": "2005",
+"journal": "· PLOS Computational Biology",
+"cites": 197,
+"abstract": "Mycobacterium tuberculosis is the focus of several investigations for design of newer drugs, as tuberculosis remains a major epidemic despite the availability of several drugs and a vaccine. Mycobact…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

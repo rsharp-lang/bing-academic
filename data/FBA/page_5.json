@@ -1,0 +1,31 @@
+{
+            "guid": "5a93357e740f8659963e7c4a832d5add",
+"title": "Systematic Evaluation of Methods for Integration of Transcriptomic Data into Constraint-Based Models of Metabol…",
+"authors": [
+{
+            "name": "Daniel Machado",
+"guid": "2233137791"
+        }, {
+            "name": "Markus J Herrgard",
+"guid": "1772558778"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS Computational Biology",
+"cites": 293,
+"abstract": "Constraint-based models of metabolism are a widely used framework for predicting flux distributions in genome-scale biochemical networks. The number of published methods for integration of transcriptomi…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

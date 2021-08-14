@@ -1,0 +1,34 @@
+{
+            "guid": "df778486345edf26820284df088213db",
+"title": "Microbial laboratory evolution in the era of genome-scale science",
+"authors": [
+{
+            "name": "Tom M Conrad",
+"guid": "2127070151"
+        }, {
+            "name": "Nathan E Lewis",
+"guid": "2157742992"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2011",
+"journal": "· Molecular Systems Biology",
+"cites": 250,
+"abstract": "Laboratory evolution studies provide fundamental biological insight through direct observation of the evolution process. They not only enable testing of evolutionary theory and principles, but also have appli…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
