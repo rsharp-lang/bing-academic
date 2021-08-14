@@ -9,4 +9,6 @@ print(json);
 
 str(result[1]);
 
-writeLines(json, con = `${dirname(@script)}/test.json`);
+# writeLines(json, con = `${dirname(@script)}/test.json`);
+
+print(profile(result[1]));
