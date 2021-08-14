@@ -11,7 +11,7 @@ imports "graphquery" from "webKit";
 #' 
 #' @return a list/vector of html document element query result output
 #' 
-const query as function(html, queryName) {
+const html_query as function(html, queryName) {
     Html::parse(html)
     |> query(
         graphquery = system.file(queryName, package = "BingAcademic")
