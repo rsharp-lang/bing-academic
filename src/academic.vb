@@ -1,6 +1,6 @@
 ﻿
 Imports System.Text
-Imports academic.Bing.Academic
+Imports Microsoft.Bing.Academic.Bing.Academic
 Imports Microsoft.VisualBasic.CommandLine.Reflection
 Imports Microsoft.VisualBasic.Language.C
 Imports Microsoft.VisualBasic.Scripting.MetaData

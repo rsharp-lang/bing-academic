@@ -10,7 +10,6 @@
     <Copyright>GPL3</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>http://sciBASIC.NET</PackageProjectUrl>
-    <PackageIcon>logo-knot.png</PackageIcon>
     <RepositoryUrl></RepositoryUrl>
     <Platforms>AnyCPU;x64</Platforms>
     <Configurations>Debug;Release;Rsharp_app_release;LipidSearch;PlantMAT;mzkit;NPSearch</Configurations>
@@ -149,6 +148,10 @@
 
   <ItemGroup>
     <None Remove="Resources\scripts\runNet5.sh" />
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
