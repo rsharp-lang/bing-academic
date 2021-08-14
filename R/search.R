@@ -8,7 +8,7 @@ imports ["Html", "http", "graphquery"] from "webKit";
 #'     the bing academic search engine.
 #' 
 const search as function(term) {
-    const urlq as string  = `https://cn.bing.com/academic/search?q=${urlencode(term)}&first=${urlencode(term)}&FORM=HDRSC4`;
+    const urlq as string  = `https://cn.bing.com/academic/search?q=${urlencode(term)}&qs=HS&sc=8-5&cvid=8B323F881DD4441999B907EA555EC5F0&FORM=QBAR&sp=1`;
     const html as string = REnv::getHtml(urlq);
     const result = html
     |> BingAcademic::html_query("graphquery/listPage.graphquery")
