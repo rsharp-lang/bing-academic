@@ -1,0 +1,31 @@
+{
+            "guid": "29b1c8c283195d8bc537119e0e67929b",
+"title": "Metabolic Flux Correlations, Genetic Interactions, and Disease",
+"authors": [
+{
+            "name": "Balaji Veeramani",
+"guid": "2206281326"
+        }, {
+            "name": "Joel S Bader",
+"guid": "1994680047"
+        }
+]
+,
+"year": "2009",
+"journal": "· Journal of Computational Biology",
+"cites": 7,
+"abstract": "Many diseases are caused by failures of metabolic enzymes. These enzymes exist in the context of networks defined by the static topology of enzyme-metabolite interactions and by the reaction fluxes tha…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,37 @@
+{
+            "guid": "ca79f75ca1afa71196f22a8ada78d702",
+"title": "Principal Metabolic Flux Mode Analysis",
+"authors": [
+{
+            "name": "Sahely Bhadra",
+"guid": "2070296011"
+        }, {
+            "name": "Peter Blomberg",
+"guid": "2292984065"
+        }, {
+            "name": "Sandra Castillo",
+"guid": "2297806552"
+        }, {
+            "name": "Juho Rousu",
+"guid": "2764080610"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioinformatics",
+"cites": 2,
+"abstract": "In the analysis of metabolism, two distinct and complementary approaches are frequently used: Principal component analysis (PCA) and stoichiometric flux analysis. PCA is able to capture the main modes of v…",
+"keywords": [
+{
+            "word": "Principal Component Analysis",
+"guid": "27438332"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,40 @@
+{
+            "guid": "5bb1aed0a3cb21b974175029bec03042",
+"title": "Identifying a gene knockout strategy using a hybrid of the bat algorithm and fluxbalanceanalysis to enhance the productio…",
+"authors": [
+{
+            "name": "Pooi San Chua",
+"guid": "2118222863"
+        }, {
+            "name": "Abdul Hakim Mohamed Salleh",
+"guid": "2124208187"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Sigeru Omatu",
+"guid": "665497035"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology and Bioprocess Engineering",
+"cites": 6,
+"abstract": "The current problem for metabolic engineering is how to identify a suitable set of genes for knockout that can improve the production of certain metabolites and sustain the growth rate from the thousands of met…",
+"keywords": [
+{
+            "word": "Bat Algorithm",
+"guid": "5351157"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

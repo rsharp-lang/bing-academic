@@ -1,0 +1,31 @@
+{
+            "guid": "cc4d2a394d4d9276b20fa9db16fc7318",
+"title": "Epistatic interactions among metabolic genes depend upon environmental conditions",
+"authors": [
+{
+            "name": "Chintan Joshi",
+"guid": "2711773739"
+        }, {
+            "name": "Ashok Prasad",
+"guid": "2112850228"
+        }
+]
+,
+"year": "2014",
+"journal": "· Molecular BioSystems",
+"cites": 5,
+"abstract": "When the effect of the state of one gene is dependent on the state of another gene in more than an additive or a neutral way, the phenomenon is termed epistasis. In particular, positive epistasis signifies t…",
+"keywords": [
+{
+            "word": "Epistasis And Functional Genomics",
+"guid": "36653963"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

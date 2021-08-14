@@ -1,0 +1,31 @@
+{
+            "guid": "5f2e9b934e61df0ff615292224d090bd",
+"title": "The poly-omics of ageing through individual-based metabolic modelling",
+"authors": [
+{
+            "name": "Elisabeth Yaneske",
+"guid": "2031829370"
+        }, {
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }
+]
+,
+"year": "2018",
+"journal": "· BMC Bioinformatics",
+"cites": 4,
+"abstract": "Ageing can be classified in two different ways, chronological ageing and biological ageing. While chronological age is a measure of the time that has passed since birth, biological (also known as transcr…",
+"keywords": [
+{
+            "word": "Metabolic Age",
+"guid": "47550476"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

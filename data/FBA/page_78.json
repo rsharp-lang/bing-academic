@@ -1,0 +1,34 @@
+{
+            "guid": "c0ed640427d2221ae11998909d134b28",
+"title": "Multi-objective MINLP Optimization Used to Identify Theoretical Gene Knockout Strategies for E. coli Cell",
+"authors": [
+{
+            "name": "G Maria",
+"guid": "2675929416"
+        }, {
+            "name": "Z Xu",
+"guid": "2939011425"
+        }, {
+            "name": "Jibin Sun",
+"guid": "2169805307"
+        }
+]
+,
+"year": "2011",
+"journal": "· Chemical and Biochemical Engineering Quarterly",
+"cites": 5,
+"abstract": "Bioprocess optimization by genetically modifying the microorganism characteristics is an intensively investigated subject due to the immediate economic interest. A large variety of alternatives using elabor…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

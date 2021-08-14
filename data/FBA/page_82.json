@@ -1,0 +1,40 @@
+{
+            "guid": "b2249ef02d8f512d7325dd9df7791a08",
+"title": "Discovery of metabolite biomarkers: flux analysis and reaction-reaction network approach",
+"authors": [
+{
+            "name": "Limin Li",
+"guid": "2241237151"
+        }, {
+            "name": "Hao Jiang",
+"guid": "2617452111"
+        }, {
+            "name": "Yushan Qiu",
+"guid": "2121193068"
+        }, {
+            "name": "Waiki Ching",
+"guid": "2112064047"
+        }, {
+            "name": "Vassilios S Vassiliadis",
+"guid": "540162473"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Systems Biology",
+"cites": 4,
+"abstract": "Background#R##N#Metabolism is a vital cellular process, and its malfunction can be a major contributor to many human diseases. Metabolites can serve as a metabolic disease biomarker. An detection of suc…",
+"keywords": [
+{
+            "word": "Biomarker (medicine)",
+"guid": "7466232"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

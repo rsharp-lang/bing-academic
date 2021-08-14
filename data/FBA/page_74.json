@@ -1,0 +1,40 @@
+{
+            "guid": "460e1ac4dfea994762f77b0856b195b6",
+"title": "Gene knockout identification for metabolite production improvement using a hybrid of genetic ant colony optimizatio…",
+"authors": [
+{
+            "name": "Abdul Hakim Mohamed Salleh",
+"guid": "2124208187"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Sigeru Omatu",
+"guid": "2148003413"
+        }, {
+            "name": "Florentino Fdez…",
+"guid": "314500980"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology and Bioprocess Engineering",
+"cites": 6,
+"abstract": "The increasing demand of biochemical supply for various industries has spurred the development of metabolic engineering to find the optimal design of the microbial cell factories. Traditional method of che…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Ant Colony Optimization Algorithms",
+"guid": "40128228"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

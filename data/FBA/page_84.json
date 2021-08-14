@@ -1,0 +1,37 @@
+{
+            "guid": "765e787a516c7dbb41f2daf5b272a15e",
+"title": "Modeling metabolic networks of individual bacterial agents in heterogeneous and dynamic soil habitats (IndiMeSH)",
+"authors": [
+{
+            "name": "Benedict Borer",
+"guid": "2761712905"
+        }, {
+            "name": "Meric Ataman",
+"guid": "2135485507"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }, {
+            "name": "Dani Or",
+"guid": "2238624689"
+        }
+]
+,
+"year": "2019",
+"journal": "· PLOS Computational Biology",
+"cites": 4,
+"abstract": "Natural soil is characterized as a complex habitat with patchy hydrated islands and spatially variable nutrients that is in a constant state of change due to wetting-drying dynamics. Soil microbial activity is of…",
+"keywords": [
+{
+            "word": "Biological Dispersal",
+"guid": "47559259"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,28 @@
+{
+            "guid": "b90155efe0fec3773895a31d46d46680",
+"title": "Simulation and System Understanding",
+"authors": [
+{
+            "name": "Gabriele Gramelsberger",
+"guid": "1118995573"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 6,
+"abstract": "Systems biology is based on a mathematized understanding of molecular biological processes. Because genetic networks are so complex, a system understanding is required that allows for the appropriate mo…",
+"keywords": [
+{
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

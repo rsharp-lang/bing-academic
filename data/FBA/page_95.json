@@ -1,0 +1,40 @@
+{
+            "guid": "f79d261d719742c5fd62caf90b5e70e8",
+"title": "Constraining Genome-Scale Models to Represent the Bow Tie Structure of Metabolism for 13C Metabolic Flux Analysis",
+"authors": [
+{
+            "name": "Tyler W H Backman",
+"guid": "2055827309"
+        }, {
+            "name": "David Ando",
+"guid": "2005952855"
+        }, {
+            "name": "Jahnavi Singh",
+"guid": "2782424748"
+        }, {
+            "name": "Jay D Keasling",
+"guid": "108817599"
+        }, {
+            "name": "Hector Garcia Martin",
+"guid": "2165986291"
+        }
+]
+,
+"year": "2018",
+"journal": "· Metabolites",
+"cites": 2,
+"abstract": "Determination of internal metabolic fluxes is crucial for fundamental and applied biology because they map how carbon and electrons flow through metabolism to enable cell function. 13 C Metabolic Flux Analysi…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Isotopic Labeling",
+"guid": "36674120"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

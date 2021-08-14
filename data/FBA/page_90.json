@@ -1,0 +1,34 @@
+{
+            "guid": "fb901e6368b795538eaa16c9b2edd94f",
+"title": "Computational modeling of quiescent platelet energy metabolism in the context of whole-body glucose turnover",
+"authors": [
+{
+            "name": "Taisiya O Shepelyuk",
+"guid": "2519407570"
+        }, {
+            "name": "Mikhail A Panteleev",
+"guid": "1216885063"
+        }, {
+            "name": "Anastasia N Sveshnikova",
+"guid": "2460955009"
+        }
+]
+,
+"year": "2016",
+"journal": "· Mathematical Modelling of Natural Phenomena",
+"cites": 3,
+"abstract": "Platelets are anucleate blood cells circulating in the bloodstream for up to 9 days in quiescent state. Upon vessel wall injury, platelets become activated, change their shape and adhere to the vessel wall and eac…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,37 @@
+{
+            "guid": "74c8443515ffb5fa7a790aff1caa8101",
+"title": "Insights into the spatial and temporal organisation of plant metabolism from network fluxanalysis",
+"authors": [
+{
+            "name": "Thiago Batista Moreira",
+"guid": "2606490283"
+        }, {
+            "name": "Janderson Moraes Lima",
+"guid": "2904023417"
+        }, {
+            "name": "Guilherme Carvalho Coca",
+"guid": "2883338200"
+        }, {
+            "name": "Thomas C R Williams",
+"guid": "2304170129"
+        }
+]
+,
+"year": "2019",
+"journal": "· Theoretical and Experimental Plant Physiology",
+"cites": 3,
+"abstract": "The great complexity of plant metabolism, with multiple subcellular compartments, cell types, tissues and organs, greatly complicates its analysis. This problem is compounded by the extensive changes that oc…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

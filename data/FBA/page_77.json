@@ -1,0 +1,25 @@
+{
+            "guid": "6dba7cad1b27d537c52fbcbb5e2ee83a",
+"title": "Metabolic Fluxes in Cancer Metabolism",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "",
+"cites": 5,
+"abstract": "Since Otto Warburg’s work almost a century ago, we have known that cancer cells undergo a metabolic transformation that makes them convert the majority of their glucose carbon into lactate. In the past dec…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Flux Analysis",
+"guid": "160941953"
+        }, {
+            "word": "Nuclear Magnetic Resonance",
+"guid": "46141821"
+        }
+]
+
+        }

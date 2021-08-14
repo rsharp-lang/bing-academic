@@ -1,0 +1,31 @@
+{
+            "guid": "7ea3fbab3552f122c4a7382983f28c4b",
+"title": "Metabolic Flux Analysis for Escherichia coli by Flux BalanceAnalysis",
+"authors": [
+{
+            "name": "Yu Matsuoka",
+"guid": "2137786009"
+        }, {
+            "name": "Kazuyuki Shimizu",
+"guid": "2533213921"
+        }
+]
+,
+"year": "2014",
+"journal": "· Methods of Molecular Biology",
+"cites": 3,
+"abstract": "Conventional metabolic flux analysis (MFA) of Escherichia coli wild type and of pathway gene knockout mutants cultivated under anaerobic condition is explained in detail in this chapter. To place the MFA res…",
+"keywords": [
+{
+            "word": "PEP Group Translocation",
+"guid": "45656491"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

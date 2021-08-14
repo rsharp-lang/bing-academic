@@ -1,0 +1,31 @@
+{
+            "guid": "901d8f069b15f9c2aa64f0b223c35203",
+"title": "Constrain-based analysis of gene deletion on the metabolic flux redistribution of Saccharomyces Cerevisiae",
+"authors": [
+{
+            "name": "Zixiang Xu",
+"guid": "2640292592"
+        }, {
+            "name": "Xiao Sun",
+"guid": "2637243034"
+        }
+]
+,
+"year": "2008",
+"journal": "· Journal of Biomedical Science and Engineering",
+"cites": 4,
+"abstract": "Based on the gene-protein-reaction (GPR) model of S. cerevisiae_iND750 and the method of constraint-based analysis, we first calculated the metabolic flux distribution of S. cere-visiae_iND750. Then we calc…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

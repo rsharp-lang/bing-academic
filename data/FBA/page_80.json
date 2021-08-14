@@ -1,0 +1,31 @@
+{
+            "guid": "93888dc80d62fb0f3e292ad4f37057b3",
+"title": "Theoretical exploration of optimal metabolic flux distributions for extracellular electron transfer by Shewanella oneidensis M…",
+"authors": [
+{
+            "name": "Longfei Mao",
+"guid": "2149052789"
+        }, {
+            "name": "W S Verwoerd",
+"guid": "2477011415"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biotechnology for Biofuels",
+"cites": 5,
+"abstract": "Background#R##N#Shewanella oneidensis MR-1 is one of the model microorganisms used for extracellular electron transfer. In this study, to elucidate the capability and the relevant metabolic proces…",
+"keywords": [
+{
+            "word": "Flavin Group",
+"guid": "33093398"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

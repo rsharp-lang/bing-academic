@@ -1,0 +1,37 @@
+{
+            "guid": "7b2636c5e7cb6bc2875af911f7772ebf",
+"title": "Flux Balance Analysis of Ammonia Assimilation Network in E. coli Predicts Preferred Regulation Point",
+"authors": [
+{
+            "name": "Lu Wang",
+"guid": "2641236291"
+        }, {
+            "name": "Luhua Lai",
+"guid": "2690361391"
+        }, {
+            "name": "Qi Ouyang",
+"guid": "2482914667"
+        }, {
+            "name": "Chao Tang",
+"guid": "2599499350"
+        }
+]
+,
+"year": "2011",
+"journal": "· PLOS ONE",
+"cites": 8,
+"abstract": "Nitrogen assimilation is a critical biological process for the synthesis of biomolecules in Escherichia coli. The central ammonium assimilation network in E. coli converts carbon skeleton α-ketoglutarate and am…",
+"keywords": [
+{
+            "word": "Nitrogen Assimilation",
+"guid": "3119751"
+        }, {
+            "word": "Nitrogen Cycle",
+"guid": "49045045"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

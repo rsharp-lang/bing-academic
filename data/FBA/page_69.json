@@ -1,0 +1,34 @@
+{
+            "guid": "739bd5b5c9141e80fb4444de9efc48e4",
+"title": "Hybrid neural modeling framework for simulation and optimization of diauxie-involved fed-batch fermentative succi…",
+"authors": [
+{
+            "name": "Payam Setoodeh",
+"guid": "2284680417"
+        }, {
+            "name": "A Jahanmiri",
+"guid": "2084463910"
+        }, {
+            "name": "Reza Eslamloueyan",
+"guid": "818753774"
+        }
+]
+,
+"year": "2012",
+"journal": "· Chemical Engineering Science",
+"cites": 8,
+"abstract": "Abstract In this theoretical study, a framework for simulation and optimization of diauxie-involved fed-batch fermentative succinate production is proposed. In the proposed method, for the first time, diauxie is emp…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

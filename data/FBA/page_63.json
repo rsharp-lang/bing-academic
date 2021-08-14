@@ -1,0 +1,34 @@
+{
+            "guid": "6400d82a755d5deb3a2c1cc7f53e57b9",
+"title": "Making life difficult for Clostridium difficile: augmenting the pathogen’s metabolic model with transcriptomic and codon u…",
+"authors": [
+{
+            "name": "Sara Saheb Kashaf",
+"guid": "2593498331"
+        }, {
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Systems Biology",
+"cites": 10,
+"abstract": "Background#R##N#Clostridium difficile is a bacterium which can infect various animal species, including humans. Infection with this bacterium is a leading healthcare-associated illness. A better understanding …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

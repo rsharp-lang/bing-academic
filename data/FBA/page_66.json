@@ -1,0 +1,40 @@
+{
+            "guid": "a9e71e0e803298a7913ae66423edfeda",
+"title": "A framework for the identification of promising bio-based chemicals",
+"authors": [
+{
+            "name": "Wenzhao Wu",
+"guid": "2401056909"
+        }, {
+            "name": "Matthew R Long",
+"guid": "2531590873"
+        }, {
+            "name": "Xiaolin Zhang",
+"guid": "2901368201"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }, {
+            "name": "Christos T Maravelias",
+"guid": "284711877"
+        }
+]
+,
+"year": "2018",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 9,
+"abstract": "",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Biochemical Engineering",
+"guid": "183696295"
+        }
+]
+
+        }

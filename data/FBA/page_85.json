@@ -1,0 +1,37 @@
+{
+            "guid": "a12d5b011aad477aa97f8628e136fece",
+"title": "Parametric analysis of metabolic fluxes of α-amylase and protease-producing Bacillus subtilis",
+"authors": [
+{
+            "name": "Wanwisa Skolpap",
+"guid": "2230093609"
+        }, {
+            "name": "Somboon Nuchprayoon",
+"guid": "1909057848"
+        }, {
+            "name": "Jeno M Scharer",
+"guid": "2104464443"
+        }, {
+            "name": "M Mooyoung",
+"guid": "2201130322"
+        }
+]
+,
+"year": "2007",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 3,
+"abstract": "Parametric analysis was applied for a metabolic flux model for the fed-batch culture of Bacillus subtilis producing recombinant α-amylase and protease. The metabolic flux model was formulated as a linear pr…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

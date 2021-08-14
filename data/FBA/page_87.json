@@ -1,0 +1,34 @@
+{
+            "guid": "a284092f91a8f04c5d0d046e0860ccc3",
+"title": "Graph theory augmented math programming approach to identify minimal reaction sets in metabolic networks",
+"authors": [
+{
+            "name": "Sudhakar Jonnalagadda",
+"guid": "2095907654"
+        }, {
+            "name": "Balaji Balagurunathan",
+"guid": "1212173937"
+        }, {
+            "name": "Rajagopalan Srinivasan",
+"guid": "2093935450"
+        }
+]
+,
+"year": "2011",
+"journal": "· Computers & Chemical Engineering",
+"cites": 3,
+"abstract": "Abstract Bioprocesses are of growing importance as an avenue to produce chemicals. Microorganisms containing only desired catalytic and replication capabilities in their metabolic pathways are expected to …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

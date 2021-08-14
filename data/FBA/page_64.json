@@ -1,0 +1,31 @@
+{
+            "guid": "46e0f569e99865e64c3b120a4ab7f142",
+"title": "Metabolic network modeling approaches for investigating the \"hungry cancer\".",
+"authors": [
+{
+            "name": "Ashwini Kumar Sharma",
+"guid": "2305174340"
+        }, {
+            "name": "Rainer Konig",
+"guid": "2051159698"
+        }
+]
+,
+"year": "2013",
+"journal": "· Seminars in Cancer Biology",
+"cites": 10,
+"abstract": "Abstract Metabolism is the functional phenotype of a cell, at a given condition, resulting from an intricate interplay of various regulatory processes. The study of these dynamic metabolic processes and their ca…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,49 @@
+{
+            "guid": "5eaad846ce896900f0959a00888cce46",
+"title": "EcoSynther: A Customized Platform To Explore the Biosynthetic Potential in E. coli",
+"authors": [
+{
+            "name": "Shaozhen Ding",
+"guid": "2896268016"
+        }, {
+            "name": "Xiaoping Liao",
+"guid": "2760200216"
+        }, {
+            "name": "Weizhong Tu",
+"guid": "2754650633"
+        }, {
+            "name": "Ling Wu",
+"guid": "2658838901"
+        }, {
+            "name": "Yu Tian",
+"guid": "2760186428"
+        }, {
+            "name": "Qiuping Sun",
+"guid": "2759076926"
+        }, {
+            "name": "Junni Chen",
+"guid": "2683424401"
+        }, {
+            "name": "Qiann…",
+"guid": "2141235852"
+        }
+]
+,
+"year": "2017",
+"journal": "· ACS Chemical Biology",
+"cites": 2,
+"abstract": "Developing computational tools for a chassis-centered biosynthetic pathway design is very important for a productive heterologous biosynthesis system by considering enormous foreign biosynthetic reactions. F…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

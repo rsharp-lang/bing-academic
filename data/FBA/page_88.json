@@ -1,0 +1,34 @@
+{
+            "guid": "6c952db7b7093420f0a0cde13d778faf",
+"title": "Computational Methods for Modification of Metabolic Networks",
+"authors": [
+{
+            "name": "Takeyuki Tamura",
+"guid": "2171727546"
+        }, {
+            "name": "Wei Lu",
+"guid": "2304482583"
+        }, {
+            "name": "Tatsuya Akutsu",
+"guid": "699492180"
+        }
+]
+,
+"year": "2015",
+"journal": "· Computational and structural biotechnology journal",
+"cites": 3,
+"abstract": "In metabolic engineering, modification of metabolic networks is an important biotechnology and a challenging computational task. In the metabolic network modification, we should modify metabolic netw…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Overfitting",
+"guid": "22019652"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

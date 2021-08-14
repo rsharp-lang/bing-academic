@@ -1,0 +1,25 @@
+{
+            "guid": "89c53e149c1b05e962f1d038475f29ac",
+"title": "Decomposition of Flux Distributions into Metabolic Pathways",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "· IEEE\/ACM Transactions on Computational Biology and Bioinformatics",
+"cites": 3,
+"abstract": "Genome-scale reconstructions are often used for studying relationships between fundamental components of a metabolic system. In this study, we develop a novel computational method for analyzin…",
+"keywords": [
+{
+            "word": "Biomass",
+"guid": "2779371384"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Directed Hypergraph",
+"guid": "2983211496"
+        }
+]
+
+        }

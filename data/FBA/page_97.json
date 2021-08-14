@@ -1,0 +1,37 @@
+{
+            "guid": "bb6c00cadc8bea04e13d43ddb8371e59",
+"title": "Noise effect in metabolic networks",
+"authors": [
+{
+            "name": "Li Zhengyan",
+"guid": "2723797377"
+        }, {
+            "name": "Xie Zhengwei",
+"guid": "2661761431"
+        }, {
+            "name": "Chen Tong",
+"guid": "2485150694"
+        }, {
+            "name": "Ouyang Qi",
+"guid": "2609578698"
+        }
+]
+,
+"year": "2009",
+"journal": "· Chinese Physics B",
+"cites": 2,
+"abstract": "Constraint-based models such as flux balanceanalysis (FBA) are a powerful tool to study biological metabolic networks. Under the hypothesis that cells operate at an optimal growth rate as the result of ev…",
+"keywords": [
+{
+            "word": "Quantum Mechanics",
+"guid": "62520636"
+        }, {
+            "word": "Natural Selection",
+"guid": "75268714"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

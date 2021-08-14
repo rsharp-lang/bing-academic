@@ -1,0 +1,25 @@
+{
+            "guid": "f2298c27f47689a47fb6fb6b6b6bace8",
+"title": "Systems Engineering and Metabolic Engineering: A Side-by-Side Comparison",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· Procedia Computer Science",
+"cites": 2,
+"abstract": "Abstract Cells of living organisms simultaneously operate hundreds or thousands of interconnected chemical reactions. Metabolic networks include these chemical reactions and the compounds participati…",
+"keywords": [
+{
+            "word": "Yeast Metabolism",
+"guid": "2992857623"
+        }, {
+            "word": "Synthetic Biology",
+"guid": "191908910"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

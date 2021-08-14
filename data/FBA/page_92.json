@@ -1,0 +1,37 @@
+{
+            "guid": "ad5aafdc7745ec36cdf6a9a602191186",
+"title": "Computationally efficient dynamic simulation of cellular kinetics via explicit solution of flux balanceanalysis: xDFBA m…",
+"authors": [
+{
+            "name": "Dong Hwi Jeong",
+"guid": "2315445963"
+        }, {
+            "name": "Sung Jin Yoo",
+"guid": "2503170668"
+        }, {
+            "name": "Jung Hun Kim",
+"guid": "2303152294"
+        }, {
+            "name": "Jong Min Lee",
+"guid": "2618939379"
+        }
+]
+,
+"year": "2016",
+"journal": "· Chemical Engineering Research & Design",
+"cites": 2,
+"abstract": "Abstract Recent developments in reconstruction of genome scale metabolism have seen their applications in predicting cell's dynamic responses by combining intracellular metabolism with macro-scale kinetic m…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Optimal Control",
+"guid": "91575142"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

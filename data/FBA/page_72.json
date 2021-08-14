@@ -1,0 +1,34 @@
+{
+            "guid": "caaec2d74a35559b9725a7fc3229d302",
+"title": "Complementary elementary modes for fast and efficient analysis of metabolic networks",
+"authors": [
+{
+            "name": "Md Bahadur Badsha",
+"guid": "2740325765"
+        }, {
+            "name": "Ryo Tsuboi",
+"guid": "2563859990"
+        }, {
+            "name": "Hiroyuki Kurata",
+"guid": "2189772778"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biochemical Engineering Journal",
+"cites": 7,
+"abstract": "Abstract Metabolic pathway analysis facilitates understanding or designing a complex metabolic system and enables prediction of steady-state metabolic flux distributions. A serious problem of elementary mod…",
+"keywords": [
+{
+            "word": "Linear Combination",
+"guid": "9260844"
+        }, {
+            "word": "Principle of Maximum Entropy",
+"guid": "9679016"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

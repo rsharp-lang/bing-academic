@@ -1,0 +1,37 @@
+{
+            "guid": "c97887c82c1af5dfc31c889195047f85",
+"title": "Photorespiratory Bypasses Lead to Increased Growth in Arabidopsis thaliana: Are Predictions Consistent with Experim…",
+"authors": [
+{
+            "name": "Georg Basler",
+"guid": "2115115461"
+        }, {
+            "name": "Anika Kuken",
+"guid": "2364455573"
+        }, {
+            "name": "Alisdair R Fernie",
+"guid": "2127484256"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": "2016",
+"journal": "· Frontiers in Bioengineering and Biotechnology",
+"cites": 9,
+"abstract": "Arguably the biggest challenge of modern plant systems biology lies in predicting the performance of plant species, and crops in particular, upon different intracellular and external perturbations. Recently, an incr…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

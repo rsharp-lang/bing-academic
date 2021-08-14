@@ -1,0 +1,43 @@
+{
+            "guid": "401543a8533df2a1a4e8569753df6906",
+"title": "A Genome-Scale Metabolic Reconstruction of Phytophthora infestans With the Integration of Transcriptional Data Reveals …",
+"authors": [
+{
+            "name": "David Botero",
+"guid": "2511653624"
+        }, {
+            "name": "Ivan Valdes",
+"guid": "2847386976"
+        }, {
+            "name": "Mariajuliana Rodriguez",
+"guid": "2856882746"
+        }, {
+            "name": "Diana Henao",
+"guid": "2479595128"
+        }, {
+            "name": "Giovanna Danies",
+"guid": "1623796165"
+        }, {
+            "name": "Andres Fernan…",
+"guid": "2749253470"
+        }
+]
+,
+"year": "2018",
+"journal": "· Frontiers in Genetics",
+"cites": 2,
+"abstract": "Phytophthora infestans, the causal agent of late blight disease, affects potatoes and tomatoes worldwide. This plant pathogen has a hemibiotrophic lifestyle, having an initial biotrophic infection phase during whi…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

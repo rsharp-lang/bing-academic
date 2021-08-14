@@ -1,0 +1,25 @@
+{
+            "guid": "b26ed9361613c2a9012176217eddac09",
+"title": "Selection Finder (SelFi): A computational metabolic engineering tool to enable directed evolution of enzymes",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· Metabolic Engineering Communications",
+"cites": 6,
+"abstract": "Directed evolution of enzymes consists of an iterative process of creating mutant libraries and choosing desired phenotypes through screening or selection until the enzymatic activity reaches a desired goal. T…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Text Mining",
+"guid": "71472368"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

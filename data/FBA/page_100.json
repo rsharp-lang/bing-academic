@@ -1,0 +1,43 @@
+{
+            "guid": "15f62d80329a04d02411474e2ba6dade",
+"title": "Genomewide Assessment of Mycobacterium tuberculosis Conditionally Essential Metabolic Pathways.",
+"authors": [
+{
+            "name": "Yusuke Minato",
+"guid": "2000848543"
+        }, {
+            "name": "Daryl M Gohl",
+"guid": "2081546313"
+        }, {
+            "name": "Joshua M Thiede",
+"guid": "2528695428"
+        }, {
+            "name": "Jeremy M Chacon",
+"guid": "2115702336"
+        }, {
+            "name": "William R Harcombe",
+"guid": "2245689179"
+        }, {
+            "name": "Fumito …",
+"guid": "2024987096"
+        }
+]
+,
+"year": "2019",
+"journal": "",
+"cites": 1,
+"abstract": "ABSTRACT A better understanding of essential cellular functions in pathogenic bacteria is important for the development of more effective antimicrobial agents. We performed a comprehensive identification o…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Drug Discovery",
+"guid": "74187038"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
