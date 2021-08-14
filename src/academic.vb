@@ -55,7 +55,12 @@ Public Module academic
     End Function
 
     <ExportAPI("summary")>
-    Public Function createItem(title As String, guid As String, ref As String, cites As Integer, abstract As String) As literatureEntry
+    Public Function createItem(title As String,
+                               guid As String,
+                               ref As String,
+                               cites As Integer,
+                               abstract As String) As literatureEntry
+
         Dim year As String = ref.Match("\d+")
         Dim jour As String = ref.Replace(year, "").Trim
 
