@@ -4,7 +4,7 @@ require(JSON);
 
 setwd(dirname(@script));
 # package_utils::attach("../");
-options(http.cache_dir = "./.cache/");
+options(http.cache_dir = "./.cache_html/");
 
 for (i in 1:100) {
     const result = BingAcademic::search("flux balance analysis", page = i);
