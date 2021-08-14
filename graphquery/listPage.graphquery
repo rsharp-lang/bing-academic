@@ -8,7 +8,7 @@ list css(".aca_algo", "*") [
                       id attr("href") 
                         | regexp("id[=]\d+") 
                         | tagValue("=", "value")
-                      name text()
+                      name text() | strip()
                   }
               ]
     }
