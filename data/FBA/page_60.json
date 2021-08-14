@@ -1,0 +1,34 @@
+{
+            "guid": "4cd10cd553147796006d7f95c656e3be",
+"title": "DFBA-LQR: An Optimal Control Approach to FluxBalanceAnalysis",
+"authors": [
+{
+            "name": "Korkut Uygun",
+"guid": "1165165085"
+        }, {
+            "name": "Howard W T Matthew",
+"guid": "2026270150"
+        }, {
+            "name": "Yinlun Huang",
+"guid": "2140602580"
+        }
+]
+,
+"year": "2006",
+"journal": "· Industrial & Engineering Chemistry Research",
+"cites": 11,
+"abstract": "Systems biology is becoming an emerging field, as systems science is demonstrated as an essential tool in untangling biocomplexity. While various steady-state-based methods have been developed for study …",
+"keywords": [
+{
+            "word": "Control Theory",
+"guid": "65244806"
+        }, {
+            "word": "Optimal Control",
+"guid": "91575142"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

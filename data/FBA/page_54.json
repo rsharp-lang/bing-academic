@@ -1,0 +1,37 @@
+{
+            "guid": "d0c5ef05612c0847fd2967ae5e00300c",
+"title": "Metabolic network model guided engineering ethylmalonyl-CoA pathway to improve ascomycin production in Streptomy…",
+"authors": [
+{
+            "name": "Junhua Wang",
+"guid": "2602247418"
+        }, {
+            "name": "Cheng Wang",
+"guid": "2677342490"
+        }, {
+            "name": "Kejing Song",
+"guid": "2558470597"
+        }, {
+            "name": "Jianping Wen",
+"guid": "2166027150"
+        }
+]
+,
+"year": "2017",
+"journal": "· Microbial Cell Factories",
+"cites": 13,
+"abstract": "Ascomycin is a 23-membered polyketide macrolide with high immunosuppressant and antifungal activity. As the lower production in bio-fermentation, global metabolic analysis is required to further explore its bi…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

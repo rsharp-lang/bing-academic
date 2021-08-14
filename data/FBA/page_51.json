@@ -1,0 +1,34 @@
+{
+            "guid": "a5ed9daf9cedc2ec120fb813713c54a8",
+"title": "Construction of robust dynamic genome-scale metabolic model structures of Saccharomyces cerevisiae through iterativ…",
+"authors": [
+{
+            "name": "Benjamin J Sanchez",
+"guid": "2195132659"
+        }, {
+            "name": "J R Perezcorrea",
+"guid": "1901697555"
+        }, {
+            "name": "Eduardo Agosin",
+"guid": "280152681"
+        }
+]
+,
+"year": "2014",
+"journal": "· Metabolic Engineering",
+"cites": 15,
+"abstract": "Abstract Dynamic fluxbalanceanalysis (dFBA) has been widely employed in metabolic engineering to predict the effect of genetic modifications and environmental conditions in the cell׳s metabolism during d…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

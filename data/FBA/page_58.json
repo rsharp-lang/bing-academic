@@ -1,0 +1,37 @@
+{
+            "guid": "336585cefa823eb5ed786ff9340229c0",
+"title": "Elucidating acetogenic H2 consumption in dark fermentation using fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Jerald A Lalman",
+"guid": "2105027020"
+        }, {
+            "name": "Subba Rao Chaganti",
+"guid": "2021607794"
+        }, {
+            "name": "Chungman Moon",
+"guid": "2599396630"
+        }, {
+            "name": "Donghoon Kim",
+"guid": "2150873014"
+        }
+]
+,
+"year": "2013",
+"journal": "· Bioresource Technology",
+"cites": 12,
+"abstract": "Abstract In this study, a fluxbalanceanalysis (FBA) was adopted to estimate the activity of acetogenic H2-consuming reaction. Experimental data at different substrate concentrations of 10, 20, and 30 g COD\/L s…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

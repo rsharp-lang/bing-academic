@@ -1,0 +1,31 @@
+{
+            "guid": "757df7efca0f3b2a8e844586951a4a6b",
+"title": "Genome-Scale Metabolic Network Reconstruction",
+"authors": [
+{
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }
+]
+,
+"year": "2015",
+"journal": "· Methods of Molecular Biology",
+"cites": 13,
+"abstract": "",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

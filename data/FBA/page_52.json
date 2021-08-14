@@ -1,0 +1,34 @@
+{
+            "guid": "b40475256e2d0f926b57dde40372d183",
+"title": "Understanding Metabolic Regulation at a Systems Level: Metabolite Sensing, Mathematical Predictions, and Model Or…",
+"authors": [
+{
+            "name": "Emma Watson",
+"guid": "2141017366"
+        }, {
+            "name": "L Safak Yilmaz",
+"guid": "2111640983"
+        }, {
+            "name": "Albertha J M Walhout",
+"guid": "331712814"
+        }
+]
+,
+"year": "2015",
+"journal": "· Annual Review of Genetics",
+"cites": 14,
+"abstract": "Metabolic networks are extensively regulated to facilitate tissue-specific metabolic programs and robustly maintain homeostasis in response to dietary changes. Homeostatic metabolic regulation is achieved thr…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

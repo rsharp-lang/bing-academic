@@ -1,0 +1,40 @@
+{
+            "guid": "b17a649656545c6d3e92f7abcf514913",
+"title": "Targeted metabolic reconstruction: a novel approach for the characterization of plant–pathogen interactions",
+"authors": [
+{
+            "name": "Andres Pinzon",
+"guid": "2151950941"
+        }, {
+            "name": "Luis M Rodriguezr",
+"guid": "1769116373"
+        }, {
+            "name": "Andres Gonzalez",
+"guid": "2617607112"
+        }, {
+            "name": "Adriana Bernal",
+"guid": "2127992867"
+        }, {
+            "name": "Silvia Restrepo",
+"guid": "2145565664"
+        }
+]
+,
+"year": "2011",
+"journal": "· Briefings in Bioinformatics",
+"cites": 12,
+"abstract": "Genome-scale metabolic reconstruction (GEMR), along with fluxbalanceanalysis, has been widely used to study complex metabolic networks in several microbial organisms. This approach is of particular appli…",
+"keywords": [
+{
+            "word": "Pathosystem",
+"guid": "23209589"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

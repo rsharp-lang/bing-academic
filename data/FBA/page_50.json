@@ -1,0 +1,31 @@
+{
+            "guid": "5253087a982aa12ad2bce32deeeba29d",
+"title": "Introduction to Biological Networks",
+"authors": [
+{
+            "name": "Alpan Raval",
+"guid": "2468607072"
+        }, {
+            "name": "Animesh Ray",
+"guid": "2130196399"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 16,
+"abstract": "The Living Interactome Biological Function Depends on Context The Nature of Interactions Network as a Metaphor in Biology Metabolic Networks Robustness at the Network Level Experimental Inference of Int…",
+"keywords": [
+{
+            "word": "Interactome",
+"guid": "9760119"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

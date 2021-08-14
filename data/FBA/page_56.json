@@ -1,0 +1,43 @@
+{
+            "guid": "a0d867be9e3896b8e5e2407566fdbdc5",
+"title": "Systems biology study of mucopolysaccharidosis using a human metabolic reconstruction network.",
+"authors": [
+{
+            "name": "Diego Salazar",
+"guid": "2612246385"
+        }, {
+            "name": "Alexander Rodriguezlopez",
+"guid": "2039777783"
+        }, {
+            "name": "Angelica Herreno",
+"guid": "2776227864"
+        }, {
+            "name": "Hector Barbosa",
+"guid": "2250174250"
+        }, {
+            "name": "Juliana Herrera",
+"guid": "2255881135"
+        }, {
+            "name": "And…",
+"guid": "2655545804"
+        }
+]
+,
+"year": "2016",
+"journal": "· Molecular Genetics and Metabolism",
+"cites": 13,
+"abstract": "Mucopolysaccharidosis (MPS) is a group of lysosomal storage diseases (LSD), characterized by the deficiency of a lysosomal enzyme responsible for the degradation of glycosaminoglycans (GAG). This d…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Biomarker (medicine)",
+"guid": "7466232"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

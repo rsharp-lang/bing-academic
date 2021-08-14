@@ -1,0 +1,34 @@
+{
+            "guid": "162dcb6831138190b2a41c596691d2c2",
+"title": "Modelling osmotic stress by Flux BalanceAnalysis at the genomic scale",
+"authors": [
+{
+            "name": "Aline Metris",
+"guid": "1876737993"
+        }, {
+            "name": "Susan M George",
+"guid": "2804712956"
+        }, {
+            "name": "Jozsef Baranyi",
+"guid": "1836725922"
+        }
+]
+,
+"year": "2012",
+"journal": "· International Journal of Food Microbiology",
+"cites": 14,
+"abstract": "Abstract Predictive microbiology for food safety is still primarily based on empirical models describing the effect of the environmental conditions of the food on the kinetics of the growth of foodborne pathogens. …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

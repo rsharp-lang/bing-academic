@@ -1,0 +1,31 @@
+{
+            "guid": "cf56b3fc93a0c0e64cf5c325d0ab3673",
+"title": "Horizontally transferred genes cluster spatially and metabolically",
+"authors": [
+{
+            "name": "Alexander Dilthey",
+"guid": "1993001202"
+        }, {
+            "name": "Martin J Lercher",
+"guid": "277508283"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biology Direct",
+"cites": 10,
+"abstract": "Background#R##N#Genomic uptake of DNA by prokaryotes often encompasses more than a single gene. In many cases, several horizontally transferred genes may be acquired together. Accordingly, we expec…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

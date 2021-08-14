@@ -1,0 +1,31 @@
+{
+            "guid": "a2f70b495e40577f6e791801629311e3",
+"title": "Thermodynamics-based Metabolite Sensitivity Analysis in metabolic networks",
+"authors": [
+{
+            "name": "Alexandros Kiparissides",
+"guid": "225726867"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": "2017",
+"journal": "· Metabolic Engineering",
+"cites": 12,
+"abstract": "The increasing availability of large metabolomics datasets enhances the need for computational methodologies that can organize the data in a way that can lead to the inference of meaningful relations…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
