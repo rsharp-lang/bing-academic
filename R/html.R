@@ -17,7 +17,7 @@ const html_query as function(html, queryName) {
     print("query of html components from query file:");
     print(queryfile);
 
-    Html::parse(html)
+    Html::parse(html, strip = TRUE)
     |> query(
         graphquery = queryfile
           |> readText

@@ -1,3 +1,15 @@
-list css(".aca_algo") [
-    text()
+list css(".aca_algo", "*") [
+    {
+        authors css(".aca_caption", 0) 
+              | css(".caption_author", 0)
+              | css("a")
+              [
+                  {
+                      id attr("href") 
+                        | regexp("id[=]\d+") 
+                        | tagValue("=", "value")
+                      name text()
+                  }
+              ]
+    }
 ]
