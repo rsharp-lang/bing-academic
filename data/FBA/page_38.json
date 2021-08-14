@@ -1,3 +1,4 @@
+[
 {
             "guid": "01ae9121aae4f92ad560091bebcf61c9",
 "title": "Metabolic investigation of host\/pathogen interaction using MS2-infected Escherichia coli",
@@ -28,4 +29,311 @@
         }
 ]
 
+        }, {
+            "guid": "473d33ecc76b09949768df5c20b29bae",
+"title": "A curated C. difficile strain 630 metabolic network: prediction of essential targets and inhibitors",
+"authors": [
+{
+            "name": "Mathieu Larocque",
+"guid": "2184123971"
+        }, {
+            "name": "Thierry Chenard",
+"guid": "1108995357"
+        }, {
+            "name": "Rafael Najmanovich",
+"guid": "734969778"
         }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 26,
+"abstract": "Clostridium difficile is the leading cause of hospital-borne infections occurring when the natural intestinal flora is depleted following antibiotic treatment. Current treatments for Clostridium difficile infections pres…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1190f100cfb59fdafc52f3dbaa54455c",
+"title": "Biomass composition: the \"elephant in the room\" of metabolic modelling.",
+"authors": [
+{
+            "name": "Duygu Dikicioglu",
+"guid": "1115533022"
+        }, {
+            "name": "Betul Kirdar",
+"guid": "879979628"
+        }, {
+            "name": "Stephen G Oliver",
+"guid": "2141347178"
+        }
+]
+,
+"year": "2015",
+"journal": "· Metabolomics",
+"cites": 26,
+"abstract": "Genome-scale stoichiometric models, constrained to optimise biomass production are often used to predict mutant phenotypes. However, for Saccharomyces cerevisiae, the representation of biomass in it…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0fb467494dbc59dc26fa2c15c9b37f95",
+"title": "The genome-scale metabolic network of Ectocarpus siliculosus (EctoGEM): a resource to study brown algal physiology and b…",
+"authors": [
+{
+            "name": "Sylvain Prigent",
+"guid": "2145734225"
+        }, {
+            "name": "Guillaume Collet",
+"guid": "2163273410"
+        }, {
+            "name": "Simon M Dittami",
+"guid": "76116290"
+        }, {
+            "name": "Ludovic Delage",
+"guid": "2739926838"
+        }, {
+            "name": "Floriane Ethis De Corny",
+"guid": "2038726185"
+        }, {
+            "name": "Olivie…",
+"guid": "2526257448"
+        }
+]
+,
+"year": "2014",
+"journal": "· Plant Journal",
+"cites": 26,
+"abstract": "Summary#R##N#Brown algae (stramenopiles) are key players in intertidal ecosystems, and represent a source of biomass with several industrial applications. Ectocarpus siliculosus is a model to study the biol…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "74b68c49d84cb88b8ef7c7db8c04cedb",
+"title": "Determining Host Metabolic Limitations on Viral Replication via Integrated Modeling and Experimental Perturbation",
+"authors": [
+{
+            "name": "Elsa W Birch",
+"guid": "2161991239"
+        }, {
+            "name": "Nicholas A Ruggero",
+"guid": "1967338293"
+        }, {
+            "name": "Markus W Covert",
+"guid": "1748710400"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS Computational Biology",
+"cites": 26,
+"abstract": "Viral replication relies on host metabolic machinery and precursors to produce large numbers of progeny - often very rapidly. A fundamental example is the infection of Escherichia coli by bacteriophage T7. The r…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dc71ea769f0a111feb86c2b0ef3beaea",
+"title": "Multiobjective flux balancing using the NISE method for metabolic network analysis",
+"authors": [
+{
+            "name": "Younggyun Oh",
+"guid": "2112877335"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }, {
+            "name": "Sunwon Park",
+"guid": "2159876294"
+        }
+]
+,
+"year": "2009",
+"journal": "· Biotechnology Progress",
+"cites": 26,
+"abstract": "Flux balance analysis (FBA) is well acknowledged as an analysis tool of metabolic networks in the framework of metabolic engineering. However, FBA has a limitation for solving a multiobjective optimizat…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e25058034b3c3a8b790acd347f116a09",
+"title": "An ancient Chinese wisdom for metabolic engineering: Yin-Yang",
+"authors": [
+{
+            "name": "Stephen G Wu",
+"guid": "2158553408"
+        }, {
+            "name": "Lian He",
+"guid": "2166059467"
+        }, {
+            "name": "Qingzhao Wang",
+"guid": "2563899306"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }
+]
+,
+"year": "2015",
+"journal": "· Microbial Cell Factories",
+"cites": 26,
+"abstract": "In ancient Chinese philosophy, Yin-Yang describes two contrary forces that are interconnected and interdependent. This concept also holds true in microbial cell factories, where Yin represents energy me…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f2dbe86e920a0da785e73dc611d195d2",
+"title": "Fluxes through plant metabolic networks: measurements, predictions, insights and challenges",
+"authors": [
+{
+            "name": "Nicholas J Kruger",
+"guid": "2052914492"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biochemical Journal",
+"cites": 26,
+"abstract": "Although the flows of material through metabolic networks are central to cell function, they are not easy to measure other than at the level of inputs and outputs. This is particularly true in plant cells, where the ne…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f23e6429df3911b04d7ce9ce31a95f74",
+"title": "A computational analysis of stoichiometric constraints and trade-offs in cyanobacterial biofuel production.",
+"authors": [
+{
+            "name": "Henning Knoop",
+"guid": "2148431468"
+        }, {
+            "name": "Ralf Steuer",
+"guid": "2031826790"
+        }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Bioengineering and Biotechnology",
+"cites": 26,
+"abstract": "Cyanobacteria are a promising biological chassis for the synthesis of renewable fuels and chemical bulk commodities. Significant efforts have been devoted to improve the yields of cyanobacterial products. Ho…",
+"keywords": [
+{
+            "word": "Renewable Fuels",
+"guid": "52208190"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "defde6b7259a8c21350194654c7ed509",
+"title": "Using chemical organization theory for model checking",
+"authors": [
+{
+            "name": "Christoph Kaleta",
+"guid": "74203850"
+        }, {
+            "name": "Stephan Richter",
+"guid": "2536199847"
+        }, {
+            "name": "Peter Dittrich",
+"guid": "2261774788"
+        }
+]
+,
+"year": "2009",
+"journal": "· Bioinformatics",
+"cites": 26,
+"abstract": "Motivation: The increasing number and complexity of biomodels makes automatic procedures for checking the models' properties and quality necessary. Approaches like elementary mode analysis, flux balance a…",
+"keywords": [
+{
+            "word": "Java Applet",
+"guid": "15524039"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

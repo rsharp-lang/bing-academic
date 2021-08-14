@@ -1,3 +1,4 @@
+[
 {
             "guid": "02825c1f9dc1e1d89c562e1cef91547b",
 "title": "Flux balance analysis: A geometric perspective",
@@ -28,4 +29,335 @@
         }
 ]
 
+        }, {
+            "guid": "878b01edfdf9ef89c2897d34832e2d85",
+"title": "Heterogeneity in protein expression induces metabolic variability in a modeled Escherichia coli population.",
+"authors": [
+{
+            "name": "Piyush Labhsetwar",
+"guid": "2302743033"
+        }, {
+            "name": "John A Cole",
+"guid": "2146265515"
+        }, {
+            "name": "Elijah Roberts",
+"guid": "2110188049"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }, {
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
         }
+]
+,
+"year": "2013",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 80,
+"abstract": "Stochastic gene expression can lead to phenotypic differences among cells even in isogenic populations growing under macroscopically identical conditions. Here, we apply flux balance analysis in investigatin…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "06c492cfdffa81f22593a201ddb7a074",
+"title": "Flux balance analysis: interrogating genome-scale metabolic networks.",
+"authors": [
+{
+            "name": "Matthew A Oberhardt",
+"guid": "2312160716"
+        }, {
+            "name": "Arvind K Chavali",
+"guid": "2013334876"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2009",
+"journal": "· Methods of Molecular Biology",
+"cites": 79,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6ef55b8d019b0c4a63b97ea7590e87f9",
+"title": "Metabolic network modeling and simulation for drug targeting and discovery",
+"authors": [
+{
+            "name": "Hyun Uk Kim",
+"guid": "2096908699"
+        }, {
+            "name": "Seung Bum Sohn",
+"guid": "2139858073"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }
+]
+,
+"year": "2012",
+"journal": "· Biotechnology Journal",
+"cites": 78,
+"abstract": "Systems biology has greatly contributed toward the analysis and understanding of biological systems under various genotypic and environmental conditions on a much larger scale than ever before. One of t…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "161034a87281885322d86c9578df185c",
+"title": "Integrated energy and fluxbalance based multiobjective framework for large-scale metabolic networks.",
+"authors": [
+{
+            "name": "Deepak Nagrath",
+"guid": "2273128398"
+        }, {
+            "name": "Marco Avilaelchiver",
+"guid": "246469827"
+        }, {
+            "name": "Francois Berthiaume",
+"guid": "1781402356"
+        }, {
+            "name": "Arno W Tilles",
+"guid": "2950337921"
+        }, {
+            "name": "Achille Messac",
+"guid": "2176818070"
+        }, {
+            "name": "Martin …",
+"guid": "18008844"
+        }
+]
+,
+"year": "2007",
+"journal": "· Annals of Biomedical Engineering",
+"cites": 78,
+"abstract": "Flux balance analysis (FBA) provides a framework for the estimation of intracellular fluxes and energy balanceanalysis (EBA) ensures the thermodynamic feasibility of the computed optimal fluxes. Previousl…",
+"keywords": [
+{
+            "word": "Multi-objective Optimization",
+"guid": "68781425"
+        }, {
+            "word": "Metabolic Control Analysis",
+"guid": "70818257"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2ade069babb1d3bf326fc84492155c48",
+"title": "Metabolic modeling and analysis of the metabolic switch in Streptomyces coelicolor",
+"authors": [
+{
+            "name": "Mohammad Tauqeer Alam",
+"guid": "2810412632"
+        }, {
+            "name": "Maria Elena Merlo",
+"guid": "2098393422"
+        }, {
+            "name": "David A Hodgson",
+"guid": "2145334299"
+        }, {
+            "name": "Elizabeth M H Wellington",
+"guid": "2112675025"
+        }, {
+            "name": "Eriko T…",
+"guid": "2026558465"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Genomics",
+"cites": 78,
+"abstract": "The transition from exponential to stationary phase in Streptomyces coelicolor is accompanied by a major metabolic switch and results in a strong activation of secondary metabolism. Here we have explored th…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "04b34565f6d865fdd404690edd2bd227",
+"title": "Mathematical models of metabolic pathways",
+"authors": [
+{
+            "name": "Jeffrey D Varner",
+"guid": "2019038162"
+        }, {
+            "name": "Doraiswami Ramkrishna",
+"guid": "2009889351"
+        }
+]
+,
+"year": "1999",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 77,
+"abstract": "Abstract There have been recent advances in metabolic fluxanalysis. In particular, the marriage of traditional flux balancing with NMR isotopomer distribution analysis holds great promise for the detailed …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1744652a9a05f3f1504027f693f4d341",
+"title": "Comparative Genome-Scale Reconstruction of Gapless Metabolic Networks for Present and Ancestral Species",
+"authors": [
+{
+            "name": "Esa Pitkanen",
+"guid": "2006042496"
+        }, {
+            "name": "Paula Jouhten",
+"guid": "117753723"
+        }, {
+            "name": "Jian Hou",
+"guid": "2617925936"
+        }, {
+            "name": "Muhammad Fahad Syed",
+"guid": "2143152374"
+        }, {
+            "name": "Peter Blomberg",
+"guid": "2292984065"
+        }, {
+            "name": "Jana Kludas",
+"guid": "333183669"
+        }, {
+            "name": "M…",
+"guid": "2517068169"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS Computational Biology",
+"cites": 76,
+"abstract": "We introduce a novel computational approach, CoReCo, for comparative metabolic reconstruction and provide genome-scale metabolic network models for 49 important fungal species. Leveraging on the exp…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "89af5bd4c676d946e9870e215c2300b0",
+"title": "Systematic Comparison of C3 and C4 Plants Based on Metabolic Network Analysis",
+"authors": [
+{
+            "name": "Chuanli Wang",
+"guid": "2127327964"
+        }, {
+            "name": "Longyun Guo",
+"guid": "2270776487"
+        }, {
+            "name": "Yixue Li",
+"guid": "2420797795"
+        }, {
+            "name": "Zhuo Wang",
+"guid": "2608289827"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 75,
+"abstract": "The C4 photosynthetic cycle supercharges photosynthesis by concentrating CO2 around ribulose-1,5-bisphosphate carboxylase and significantly reduces the oxygenation reaction. Therefore engineering C…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9f5ce4ec17b5fbe4940fa61f2e06dab8",
+"title": "DFBAlab: a fast and reliable MATLAB code for dynamic flux balance analysis",
+"authors": [
+{
+            "name": "J A Gomez",
+"guid": "2110489425"
+        }, {
+            "name": "Kai Hoffner",
+"guid": "2023742012"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Bioinformatics",
+"cites": 75,
+"abstract": "Dynamic Flux Balance Analysis (DFBA) is a dynamic simulation framework for biochemical processes. DFBA can be performed using different approaches such as static optimization (SOA), dynamic optimiz…",
+"keywords": [
+{
+            "word": "Penalty Method",
+"guid": "6180225"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

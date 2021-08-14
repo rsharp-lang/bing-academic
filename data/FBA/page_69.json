@@ -1,3 +1,4 @@
+[
 {
             "guid": "739bd5b5c9141e80fb4444de9efc48e4",
 "title": "Hybrid neural modeling framework for simulation and optimization of diauxie-involved fed-batch fermentative succi…",
@@ -31,4 +32,314 @@
         }
 ]
 
+        }, {
+            "guid": "1c3f41d694145e215149219fcedf3379",
+"title": "Dynamic Modeling and Metabolic FluxAnalysis for Optimized Production of Rhamnolipids",
+"authors": [
+{
+            "name": "J Satya Eswari",
+"guid": "2565213693"
+        }, {
+            "name": "Ch Venkateswarlu",
+"guid": "2519644233"
         }
+]
+,
+"year": "2016",
+"journal": "· Chemical Engineering Communications",
+"cites": 8,
+"abstract": "A comprehensive metabolic network based on the fundamental pathways representing the central metabolism of rhamnolipid by Pseudomonas aeruginosa is proposed and a dynamic model compatible …",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Differential Evolution",
+"guid": "74750220"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e72d09161a373103e3d344413fa871c6",
+"title": "Sampling with poling-based fluxbalanceanalysis: optimal versus sub-optimal flux space analysis of Actinobacillus succin…",
+"authors": [
+{
+            "name": "Michael Binns",
+"guid": "2237143100"
+        }, {
+            "name": "Pedro De Atauri",
+"guid": "2075461777"
+        }, {
+            "name": "Anestis Vlysidis",
+"guid": "2064945255"
+        }, {
+            "name": "Marta Cascante",
+"guid": "2172148279"
+        }, {
+            "name": "Constantinos Theodoropoulos",
+"guid": "2617950423"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Bioinformatics",
+"cites": 7,
+"abstract": "Fluxbalanceanalysis is traditionally implemented to identify the maximum theoretical flux for some specified reaction and a single distribution of flux values for all the reactions present which achieve this …",
+"keywords": [
+{
+            "word": "Penalty Method",
+"guid": "6180225"
+        }, {
+            "word": "Subspace Topology",
+"guid": "32834561"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9c36c32a638a3f71edb000cb484c1caf",
+"title": "Predicting the metabolic capabilities of Synechococcus elongatus PCC 7942 adapted to different light regimes",
+"authors": [
+{
+            "name": "Jared T Broddrick",
+"guid": "2327217158"
+        }, {
+            "name": "David G Welkie",
+"guid": "2811276402"
+        }, {
+            "name": "Denis Jallet",
+"guid": "2928830651"
+        }, {
+            "name": "Susan S Golden",
+"guid": "2096431904"
+        }, {
+            "name": "Graham Peers",
+"guid": "2310873962"
+        }, {
+            "name": "Bernhard O Pals…",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2019",
+"journal": "· Metabolic Engineering",
+"cites": 7,
+"abstract": "There is great interest in engineering photoautotrophic metabolism to generate bioproducts of societal importance. Despite the success in employing genome-scale modeling coupled with fluxbalanceanalysi…",
+"keywords": [
+{
+            "word": "Heterotroph",
+"guid": "35195898"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "77e81369f1bcf165aea10b771b1c2104",
+"title": "Development of a minimal chemically defined medium for Ketogulonicigenium vulgare WSH001 based on its genome-sc…",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· Journal of Biotechnology",
+"cites": 7,
+"abstract": "Abstract Commercial production of 2-keto- l -gulonic acid (2-KLG), the immediate precursor of l -ascorbic acid, is by Ketogulonicigenium vulgare in co-culture with Bacillus megaterium . We used fluxbalancean…",
+"keywords": [
+{
+            "word": "Essential Nutrient",
+"guid": "186940473"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Chemically Defined Medium",
+"guid": "98648569"
+        }
+]
+
+        }, {
+            "guid": "5236078ecd633d5c7b8ce5d23b58dca0",
+"title": "Developing next generation predictive models: a systems biology approach",
+"authors": [
+{
+            "name": "Jan Van Impe",
+"guid": "2550126532"
+        }, {
+            "name": "Dominique Vercammen",
+"guid": "2063690941"
+        }, {
+            "name": "Eva Van Derlinden",
+"guid": "2499621214"
+        }
+]
+,
+"year": "2011",
+"journal": "· Procedia food science",
+"cites": 7,
+"abstract": "In the area of predictive microbiology, most models focus on simplicity and general applicability and can be classified as black box models with the main emphasis on the description of the macroscopic (popula…",
+"keywords": [
+{
+            "word": "Complex System",
+"guid": "47822265"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f322fe910683da067a39ba09ebd6649a",
+"title": "Modeling and analysis of flux distribution and bioproduct formation in Synechocystis sp. PCC 6803 using a new genom…",
+"authors": [
+{
+            "name": "Chintan Joshi",
+"guid": "2711773739"
+        }, {
+            "name": "Christie A M Peebles",
+"guid": "2806212212"
+        }, {
+            "name": "Ashok Prasad",
+"guid": "2112850228"
+        }
+]
+,
+"year": "2017",
+"journal": "· Algal Research-Biomass Biofuels and Bioproducts",
+"cites": 7,
+"abstract": "Abstract Cyanobacteria are prokaryotes capable of performing oxygenic photosynthesis. This makes them an attractive candidate for genetic engineering to produce commercially important chemicals. However, …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f3b88f0a58bbf160c0aa8bbb84fb4a93",
+"title": "How accurate is automated gap filling of metabolic models",
+"authors": [
+{
+            "name": "Peter D Karp",
+"guid": "2124303263"
+        }, {
+            "name": "Daniel S Weaver",
+"guid": "2338414372"
+        }, {
+            "name": "Mario Latendresse",
+"guid": "2298522305"
+        }
+]
+,
+"year": "2018",
+"journal": "· BMC Systems Biology",
+"cites": 7,
+"abstract": "Reaction gap filling is a computational technique for proposing the addition of reactions to genome-scale metabolic models to permit those models to run correctly. Gap filling completes what are otherwise inco…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "604a74aac75dde6c2a19ef2d10ff158b",
+"title": "Simulating serial-target antibacterial drug synergies using fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Andrew S Krueger",
+"guid": "2012979273"
+        }, {
+            "name": "Christian Munck",
+"guid": "2740403303"
+        }, {
+            "name": "Gautam Dantas",
+"guid": "2148285083"
+        }, {
+            "name": "George M Church",
+"guid": "2111535815"
+        }, {
+            "name": "James E Galagan",
+"guid": "1987260672"
+        }, {
+            "name": "Josep…",
+"guid": "2761499030"
+        }
+]
+,
+"year": "2016",
+"journal": "· PLOS ONE",
+"cites": 7,
+"abstract": "Fluxbalanceanalysis (FBA) is an increasingly useful approach for modeling the behavior of metabolic systems. However, standard FBA modeling of genetic knockouts cannot predict drug combination syner…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6ae3cc2d5033593a5251a08ddd41e4b0",
+"title": "Flux duality in nonlinear GMA systems: Implications for metabolic engineering",
+"authors": [
+{
+            "name": "Alberto Marinsanguino",
+"guid": "1438369916"
+        }, {
+            "name": "Eduardo R Mendoza",
+"guid": "2163806058"
+        }, {
+            "name": "Eberhard O Voit",
+"guid": "2009454533"
+        }
+]
+,
+"year": "2010",
+"journal": "· Journal of Biotechnology",
+"cites": 7,
+"abstract": "Pathway models in biotechnology are customarily designed with metabolite concentrations as the primary, dependent variables, whereas fluxes are derived quantities that are secondarily computed from the prim…",
+"keywords": [
+{
+            "word": "Linear System",
+"guid": "6802819"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "29b1c8c283195d8bc537119e0e67929b",
 "title": "Metabolic Flux Correlations, Genetic Interactions, and Disease",
@@ -28,4 +29,329 @@
         }
 ]
 
+        }, {
+            "guid": "dd2200987793c75ba7687d57a2311a71",
+"title": "Model-based analysis of an adaptive evolution experiment with Escherichia coli in a pyruvate limited continuous culture with …",
+"authors": [
+{
+            "name": "Ronny Feuer",
+"guid": "2018496597"
+        }, {
+            "name": "Katrin Gottlieb",
+"guid": "2110035362"
+        }, {
+            "name": "Gero Viertel",
+"guid": "2408332206"
+        }, {
+            "name": "Johannes Georg Klotz",
+"guid": "2070571424"
+        }, {
+            "name": "Steffen Schober",
+"guid": "2151671279"
+        }, {
+            "name": "Martin Bossert",
+"guid": "1897771083"
         }
+]
+,
+"year": "2012",
+"journal": "· Eurasip Journal on Bioinformatics and Systems Biology",
+"cites": 7,
+"abstract": "Bacterial strains that were genetically blocked in important metabolic pathways and grown under selective conditions underwent a process of adaptive evolution: certain pathways may have been deregulated an…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "18519ebbb63207e127e2aab6dd955269",
+"title": "A systematic simulation of the effect of salicylic acid on sphingolipid metabolism",
+"authors": [
+{
+            "name": "Chao Shi",
+"guid": "2494291801"
+        }, {
+            "name": "Jian Yin",
+"guid": "2509685812"
+        }, {
+            "name": "Zhe Liu",
+"guid": "2303701359"
+        }, {
+            "name": "Jianxin Wu",
+"guid": "2262447989"
+        }, {
+            "name": "Qi Zhao",
+"guid": "2670400110"
+        }, {
+            "name": "Jian Ren",
+"guid": "2104725312"
+        }, {
+            "name": "Nan Yao",
+"guid": "2109096116"
+        }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Plant Science",
+"cites": 7,
+"abstract": "The phytohormone salicylic acid (SA) affects plant development and defense responses. Recent studies revealed that SA also participates in the regulation of sphingolipid metabolism, but the details of this reg…",
+"keywords": [
+{
+            "word": "Microarray Analysis Techniques",
+"guid": "8415881"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e728d531dfc3b60495c808a2de2dccc3",
+"title": "Dynamic fluxbalanceanalysis of metabolic networks using the penalty function methods",
+"authors": [
+{
+            "name": "Qinghua Zhou",
+"guid": "2309319681"
+        }, {
+            "name": "Dan Wang",
+"guid": "2425194721"
+        }, {
+            "name": "Momiao Xiong",
+"guid": "2098401168"
+        }
+]
+,
+"year": "2007",
+"journal": "· systems, man and cybernetics",
+"cites": 7,
+"abstract": "The ability to quantitatively describe metabolic fluxes through metabolic networks has been long desired, especially to describe the dynamic behavior of the fluxes and some important metabolites of a living cell …",
+"keywords": [
+{
+            "word": "Penalty Method",
+"guid": "6180225"
+        }, {
+            "word": "Heaviside Step Function",
+"guid": "7980502"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6aac16ca8d8dba8f742199b373eabaca",
+"title": "Multi-objective optimisation, sensitivity and robustness analysis in FBA modelling",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· computational methods in systems biology",
+"cites": 7,
+"abstract": "In this work, we propose a computational framework to design in silico robust bacteria able to overproduce multiple metabolites. To this end, we search the optimal genetic manipulations, in terms of knockout, wh…",
+"keywords": [
+{
+            "word": "Genetic Design",
+"guid": "2991746266"
+        }, {
+            "word": "Cell Metabolism",
+"guid": "2991704936"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "223d94b616add49057bc3784b9c1bd12",
+"title": "Predicting internal cell fluxes at sub-optimal growth",
+"authors": [
+{
+            "name": "Andre Schultz",
+"guid": "2284781495"
+        }, {
+            "name": "Amina A Qutub",
+"guid": "2204203028"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 7,
+"abstract": "FluxBalanceAnalysis (FBA) is a widely used tool to model metabolic behavior and cellular function. Applications of FBA span a breadth of research from synthetic engineering of biofuels to understanding …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e3244db46300fa90df35a4f3256275a8",
+"title": "Metabolic trade-offs between biomass synthesis and photosynthate export at different light intensities in a genom…",
+"authors": [
+{
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }, {
+            "name": "Sudip Kundu",
+"guid": "2157969787"
+        }, {
+            "name": "Rahul Shaw",
+"guid": "2249007605"
+        }, {
+            "name": "David A Fell",
+"guid": "2173109630"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Plant Science",
+"cites": 7,
+"abstract": "Previously we have used a genome scale model of rice metabolism to describe how metabolism reconfigures at different light intensities in an expanding leaf of rice. Although this established that the m…",
+"keywords": [
+{
+            "word": "Phloem",
+"guid": "35496372"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c9ca45eca52eda3f93284d75d5dc07b2",
+"title": "Development of thermodynamic optimum searching (TOS) to improve the prediction accuracy of fluxbalanceanalysis.",
+"authors": [
+{
+            "name": "Yan Zhu",
+"guid": "2427929851"
+        }, {
+            "name": "Jiangning Song",
+"guid": "2151785084"
+        }, {
+            "name": "Zixiang Xu",
+"guid": "2152983630"
+        }, {
+            "name": "Jibin Sun",
+"guid": "2169805307"
+        }, {
+            "name": "Yanping Zhang",
+"guid": "2589739048"
+        }, {
+            "name": "Yin Li",
+"guid": "2250419888"
+        }, {
+            "name": "Yanhe Ma",
+"guid": "2118215286"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 7,
+"abstract": "Fluxbalanceanalysis (FBA) has been widely used in calculating steady-state flux distributions that provide important information for metabolic engineering. Several thermodynamics-based methods, for example, …",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Second Law of Thermodynamics",
+"guid": "119820323"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f017d8819575cb72e30bb3d5616adcce",
+"title": "Integrative Analysis of Metabolic Models – from Structure to Dynamics",
+"authors": [
+{
+            "name": "Anja Hartmann",
+"guid": "2097865339"
+        }, {
+            "name": "Falk Schreiber",
+"guid": "2166292476"
+        }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Bioengineering and Biotechnology",
+"cites": 7,
+"abstract": "The characterization of biological systems with respect to their behavior and functionality based on versatile biochemical interactions is a major challenge. To understand these complex mechanisms at sy…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6f61143446b9ecb103c47b28005a0bd4",
+"title": "Systematic assessment of secondary bile acid metabolism in gut microbes reveals distinct metabolic capabilities in inflam…",
+"authors": [
+{
+            "name": "Almut Katrin Heinken",
+"guid": "1895208619"
+        }, {
+            "name": "Dmitry A Ravcheev",
+"guid": "188320361"
+        }, {
+            "name": "Federico Baldini",
+"guid": "2620059712"
+        }, {
+            "name": "Laurent Heirendt",
+"guid": "2610135189"
+        }, {
+            "name": "Ronan M T Fleming",
+"guid": "2103396758"
+        }
+]
+,
+"year": "2019",
+"journal": "· Microbiome",
+"cites": 7,
+"abstract": "The human gut microbiome performs important functions in human health and disease. A classic example for host-gut microbial co-metabolism is host biosynthesis of primary bile acids and their subsequent dec…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Biotransformation",
+"guid": "27881333"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

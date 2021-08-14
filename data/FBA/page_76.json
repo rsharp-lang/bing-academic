@@ -1,3 +1,4 @@
+[
 {
             "guid": "5bb1aed0a3cb21b974175029bec03042",
 "title": "Identifying a gene knockout strategy using a hybrid of the bat algorithm and fluxbalanceanalysis to enhance the productio…",
@@ -37,4 +38,314 @@
         }
 ]
 
+        }, {
+            "guid": "388cfee878418ac2a2fdebc88c9d1789",
+"title": "Pruning genome-scale metabolic models to consistent ad functionem networks.",
+"authors": [
+{
+            "name": "Sabrina Hoffmann",
+"guid": "2156684554"
+        }, {
+            "name": "Andreas Hoppe",
+"guid": "2029721110"
+        }, {
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
         }
+]
+,
+"year": "2007",
+"journal": "· Genome Informatics",
+"cites": 6,
+"abstract": "Metabolic networks represent a set of reactions and associated metabolites that mayoccur in a given cell or tissue. They are frequently reconstructed from pure genomic datawithout thorough biochemical valida…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Mathematical Model",
+"guid": "76969082"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "32009c1060c654f067e0efa05fe1de3f",
+"title": "Machine Learning Reveals Missing Edges and Putative Interaction Mechanisms in Microbial Ecosystem Networks",
+"authors": [
+{
+            "name": "Demetrius Dimucci",
+"guid": "2790664289"
+        }, {
+            "name": "Mark Kon",
+"guid": "731473246"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
+        }
+]
+,
+"year": "2018",
+"journal": "",
+"cites": 5,
+"abstract": "ABSTRACT Microbes affect each other’s growth in multiple, often elusive, ways. The ensuing interdependencies form complex networks, believed to reflect taxonomic composition as well as commu…",
+"keywords": [
+{
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Ecological Network",
+"guid": "36811481"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e791fe641ec501d7f846eb92744f52a7",
+"title": "Designing Metabolic Division of Labor in Microbial Communities.",
+"authors": [
+{
+            "name": "Meghan Thommes",
+"guid": "2569888662"
+        }, {
+            "name": "Taiyao Wang",
+"guid": "2547219689"
+        }, {
+            "name": "Qi Zhao",
+"guid": "2597949402"
+        }, {
+            "name": "Ioannis Ch Paschalidis",
+"guid": "1549817177"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
+        }
+]
+,
+"year": "2019",
+"journal": "",
+"cites": 5,
+"abstract": "ABSTRACT Microbes face a trade-off between being metabolically independent and relying on neighboring organisms for the supply of some essential metabolites. This balance of conflicting strategie…",
+"keywords": [
+{
+            "word": "Division of Labour",
+"guid": "994546"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "337e1f93b20c9c23433013e3e7cc1de6",
+"title": "A Genome‐Scale Modeling Approach to Quantify Biofilm Component Growth of Salmonella Typhimurium",
+"authors": [
+{
+            "name": "Nicholas Ribaudo",
+"guid": "2518251414"
+        }, {
+            "name": "Xianhua Li",
+"guid": "2530282336"
+        }, {
+            "name": "Brett Davis",
+"guid": "2715186248"
+        }, {
+            "name": "Thomas K Wood",
+"guid": "2132439325"
+        }, {
+            "name": "Zuyi Jacky Huang",
+"guid": "2341552624"
+        }
+]
+,
+"year": "2017",
+"journal": "· Journal of Food Science",
+"cites": 5,
+"abstract": "Salmonella typhimurium(S. typhimurium) is an extremely dangerous foodborne bacterium that infects both animal and human subjects, causing fatal diseases around the world. Salmonella's robust virulence, anti…",
+"keywords": [
+{
+            "word": "Biofilm",
+"guid": "58123911"
+        }, {
+            "word": "Virulence",
+"guid": "60987743"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c13863e377f4c60d0fdb7ae1c1765f3c",
+"title": "Insights into metabolic osmoadaptation of the ectoines-producer bacterium Chromohalobacter salexigens through a …",
+"authors": [
+{
+            "name": "Francine Piubeli",
+"guid": "2276284261"
+        }, {
+            "name": "Manuel Salvador",
+"guid": "2488787799"
+        }, {
+            "name": "Montserrat Argandona",
+"guid": "2122248166"
+        }, {
+            "name": "Joaquin J Nieto",
+"guid": "2460762097"
+        }, {
+            "name": "Vicente Bernal",
+"guid": "2917080005"
+        }, {
+            "name": "Jose …",
+"guid": "2429336575"
+        }
+]
+,
+"year": "2018",
+"journal": "· Microbial Cell Factories",
+"cites": 5,
+"abstract": "Background#R##N#The halophilic bacterium Chromohalobacter salexigens is a natural producer of ectoines, compatible solutes with current and potential biotechnological applications. As production of e…",
+"keywords": [
+{
+            "word": "Osmoprotectant",
+"guid": "26448091"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a86d039623e5b806cfea9cac64fd87ec",
+"title": "Genome-scale analysis to the impact of gene deletion on the metabolism of E. coli : constraint-based simulation approach",
+"authors": [
+{
+            "name": "Zixiang Xu",
+"guid": "2601766984"
+        }, {
+            "name": "Xiao Sun",
+"guid": "2311185804"
+        }, {
+            "name": "Shihai Yu",
+"guid": "2314327599"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Bioinformatics",
+"cites": 5,
+"abstract": "Background#R##N#Genome-scale models of metabolism have only been analyzed with the constraint-based modelling philosophy. Some gene deletion studies on in silico organism models at genome-scale …",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "45078838a061cd52696931deb7859732",
+"title": "Disruption of cell wall fatty acid biosynthesis in Mycobacterium tuberculosis using a graph theoretic approach",
+"authors": [
+{
+            "name": "Veeky Baths",
+"guid": "46715429"
+        }, {
+            "name": "Utpal Roy",
+"guid": "2172410851"
+        }, {
+            "name": "Tarkeshwar Singh",
+"guid": "2153526587"
+        }
+]
+,
+"year": "2011",
+"journal": "· Theoretical Biology and Medical Modelling",
+"cites": 5,
+"abstract": "Fatty acid biosynthesis of Mycobacterium tuberculosis was analyzed using graph theory and influential (impacting) proteins were identified. The graphs (digraphs) representing this biological network provide i…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Plasma Protein Binding",
+"guid": "51639874"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4a8f014700139f97e5000620169f73a7",
+"title": "Constraint based modeling of metabolism allows finding metabolic cancer hallmarks and identifying personalized thera…",
+"authors": [
+{
+            "name": "Sergio Bordel",
+"guid": "1719129262"
+        }
+]
+,
+"year": "2018",
+"journal": "· Oncotarget",
+"cites": 5,
+"abstract": "\/\/ Sergio Bordel 1 1 Institute of Cardiology, Lithuanian University of Health Sciences, LT- 50162, Kaunas, Lithuania Correspondence to: Sergio Bordel, email: sergio_bordel@hotmail.com Keywords: metabolism…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b5f631dacc5b81cb661ca5004e9cfca7",
+"title": "Identification of active constraints in dynamic fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Ali Nikdel",
+"guid": "2264255665"
+        }, {
+            "name": "Hector Budman",
+"guid": "2020319352"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology Progress",
+"cites": 5,
+"abstract": "This study deals with the calibration of dynamic metabolic flux models that are formulated as the maximization of an objective subject to constraints. Two approaches were applied for identifying the con…",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Bounded Function",
+"guid": "34388435"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

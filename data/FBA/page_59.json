@@ -1,3 +1,4 @@
+[
 {
             "guid": "b17a649656545c6d3e92f7abcf514913",
 "title": "Targeted metabolic reconstruction: a novel approach for the characterization of plant–pathogen interactions",
@@ -37,4 +38,287 @@
         }
 ]
 
+        }, {
+            "guid": "0828a35dd1ebeecb74e12845a4e11dda",
+"title": "Adaptive Genetic Robustness of Escherichia coli Metabolic Fluxes",
+"authors": [
+
+]
+,
+"year": "2016",
+"journal": "· Molecular Biology and Evolution",
+"cites": 11,
+"abstract": "Genetic robustness refers to phenotypic invariance in the face of mutation and is a common characteristic of life, but its evolutionary origin is highly controversial. Genetic robustness could be an intrinsic propert…",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Natural Selection",
+"guid": "75268714"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
         }
+]
+
+        }, {
+            "guid": "564cb3ec3075709a88ea576b417ece29",
+"title": "Comprehensive analysis of a Metabolic Model for lipid production in Rhodosporidium toruloides",
+"authors": [
+{
+            "name": "Maria Teresita Castaneda",
+"guid": "2614512903"
+        }, {
+            "name": "Sebastian Nunez",
+"guid": "2118122525"
+        }, {
+            "name": "Fabricio Garelli",
+"guid": "2465814415"
+        }, {
+            "name": "C E Voget",
+"guid": "1978713206"
+        }, {
+            "name": "Hernan De Battista",
+"guid": "22535122"
+        }
+]
+,
+"year": "2018",
+"journal": "· Journal of Biotechnology",
+"cites": 11,
+"abstract": "Abstract The yeast Rhodosporidium toruloides has been extensively studied for its application in biolipid production. The knowledge of its metabolism capabilities and the application of constraint-based fluxan…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bca6e6f98cd78a434c23927a1db1110b",
+"title": "Genome-scale metabolic networks in time and space",
+"authors": [
+{
+            "name": "Ove Oyas",
+"guid": "2776609091"
+        }, {
+            "name": "Jorg Stelling",
+"guid": "1947938797"
+        }
+]
+,
+"year": "2018",
+"journal": "· Current Opinion in Systems Biology",
+"cites": 11,
+"abstract": "Abstract Constraint-based models (CBMs) are key tools for elucidating the behavior of genome-scale metabolic networks, but the assumption of steady state hinders their application to spatiotemporally vary…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5697cb14a381baf6053d9498f0b3bbae",
+"title": "Elucidating the adaptation and temporal coordination of metabolic pathways using in-silico evolution",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· BioSystems",
+"cites": 11,
+"abstract": "Cellular metabolism, the interconversion of small molecules by chemical reactions, is a tightly coordinated process that requires integration of diverse environmental and intracellular cues. While for many organis…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }
+]
+
+        }, {
+            "guid": "9bef257e01f852ec22a974bbe3eab0c3",
+"title": "Functional genomics of Plasmodium falciparum using metabolic modelling and analysis",
+"authors": [
+{
+            "name": "Stepan Tymoshenko",
+"guid": "1388962652"
+        }, {
+            "name": "Rebecca D Oppenheim",
+"guid": "2114387366"
+        }, {
+            "name": "Dominique Soldatifavre",
+"guid": "157386012"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": "2013",
+"journal": "· Briefings in Functional Genomics",
+"cites": 11,
+"abstract": "Plasmodium falciparum is an obligate intracellular parasite and the leading cause of severe malaria responsible for tremendous morbidity and mortality particularly in sub-Saharan Africa. Successful compl…",
+"keywords": [
+{
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "93f25a665d786caca7af7f7880918e4b",
+"title": "Genome-scale modelling of microbial metabolism with temporal and spatial resolution",
+"authors": [
+{
+            "name": "Michael A Henson",
+"guid": "2283948593"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biochemical Society Transactions",
+"cites": 11,
+"abstract": "Most natural microbial systems have evolved to function in environments with temporal and spatial variations. A major limitation to understanding such complex systems is the lack of mathematical modelli…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Complex System",
+"guid": "47822265"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bd3785b7c1ab9e7e51ac23ceaddd172d",
+"title": "A Method for Estimating Metabolic Fluxes from Incomplete Isotopomer Information",
+"authors": [
+{
+            "name": "Juho Rousu",
+"guid": "2764080610"
+        }, {
+            "name": "Ari Rantanen",
+"guid": "2132487240"
+        }, {
+            "name": "Hannu Maaheimo",
+"guid": "2272715721"
+        }, {
+            "name": "Esa Pitkanen",
+"guid": "2006042496"
+        }, {
+            "name": "Katja Saarela",
+"guid": "2552696097"
+        }, {
+            "name": "Esko Ukkonen",
+"guid": "582562560"
+        }
+]
+,
+"year": "2003",
+"journal": "· computational methods in systems biology",
+"cites": 11,
+"abstract": "Metabolic flux estimation--the problem of finding out the rates of reactions in metabolic pathways--is an important problem area in the study of metabolism. The most accurate technique for this task today is th…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "36f65a764b1ba1600d1db83961f56aec",
+"title": "Systematic Applications of Metabolomics in Metabolic Engineering",
+"authors": [
+{
+            "name": "Robert A Dromms",
+"guid": "2101371180"
+        }, {
+            "name": "Mark P Styczynski",
+"guid": "1986743995"
+        }
+]
+,
+"year": "2012",
+"journal": "· Metabolites",
+"cites": 11,
+"abstract": "The goals of metabolic engineering are well-served by the biological information provided by metabolomics: information on how the cell is currently using its biochemical resources is perhaps one o…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9a035fd24a39c781430fbc662c8364ab",
+"title": "ORCA: a COBRA toolbox extension for model-driven discovery and analysis",
+"authors": [
+{
+            "name": "Longfei Mao",
+"guid": "2149052789"
+        }, {
+            "name": "W S Verwoerd",
+"guid": "2477011415"
+        }
+]
+,
+"year": "2014",
+"journal": "· Bioinformatics",
+"cites": 11,
+"abstract": "Summary: Over past decades, constraint-based modelling has emerged as an important approach to obtain referential information about mechanisms behind biological phenotypes and identify physiologica…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

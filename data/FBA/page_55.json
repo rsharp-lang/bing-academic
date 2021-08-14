@@ -1,3 +1,4 @@
+[
 {
             "guid": "757df7efca0f3b2a8e844586951a4a6b",
 "title": "Genome-Scale Metabolic Network Reconstruction",
@@ -28,4 +29,323 @@
         }
 ]
 
+        }, {
+            "guid": "e806d4d6fb71d551446e63cf2b7a3bc5",
+"title": "OPTIMIZATION OF FED-BATCH RECOMBINANT YEAST FERMENTATION FOR ETHANOL PRODUCTION USING A REDU…",
+"authors": [
+{
+            "name": "Reza Eslamloueyan",
+"guid": "818753774"
+        }, {
+            "name": "Payam Setoodeh",
+"guid": "2284680417"
         }
+]
+,
+"year": "2011",
+"journal": "· Chemical Engineering Communications",
+"cites": 13,
+"abstract": "In this work, a reduced form of dynamic fluxbalance model based on artificial neural networks for batch and fed-batch fermentation of xylose-utilizing engineered Saccharomyces cerevisiae RWB 218 is develo…",
+"keywords": [
+{
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1faeae242064b1e04139d7318e6ca24d",
+"title": "Detection of transcriptional triggers in the dynamics of microbial growth: application to the respiratorily versatile bac…",
+"authors": [
+{
+            "name": "Qasim K Beg",
+"guid": "2761506125"
+        }, {
+            "name": "Mattia Zampieri",
+"guid": "1986313651"
+        }, {
+            "name": "Niels Klitgord",
+"guid": "2761534349"
+        }, {
+            "name": "Sara B Collins",
+"guid": "2346000479"
+        }, {
+            "name": "Claudio Altafini",
+"guid": "2658512520"
+        }, {
+            "name": "Margrethe H Serres",
+"guid": "1999136693"
+        }
+]
+,
+"year": "2012",
+"journal": "· Nucleic Acids Research",
+"cites": 13,
+"abstract": "The capacity of microorganisms to respond to variable external conditions requires a coordination of environment-sensing mechanisms and decision-making regulatory circuits. Here, we seek to understan…",
+"keywords": [
+{
+            "word": "Bacterial Growth",
+"guid": "17741926"
+        }, {
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "598acd44ac53f9afee11145c79a9e56f",
+"title": "Phosphate limited fed-batch processes: Impact on carbon usage and energy metabolism in Escherichia coli",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· Journal of Biotechnology",
+"cites": 13,
+"abstract": "Abstract Phosphate starvation is often applied as a tool to limit cell growth in microbial production processes without hampering carbon and\/or nitrogen supply alternatively. This contribution focuses on t…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Transcriptome",
+"guid": "162317418"
+        }, {
+            "word": "Energy Metabolism",
+"guid": "2986317502"
+        }
+]
+
+        }, {
+            "guid": "efac891f1b2cf654f5c48c1ec66b8bd1",
+"title": "Semi-automated Curation of Metabolic Models via FluxBalanceAnalysis: A Case Study with Mycoplasma gallisepticum",
+"authors": [
+{
+            "name": "Eddy J Bautista",
+"guid": "2115610400"
+        }, {
+            "name": "Joseph Zinski",
+"guid": "2713625671"
+        }, {
+            "name": "Steven M Szczepanek",
+"guid": "1429876728"
+        }, {
+            "name": "Erik L Johnson",
+"guid": "2138173231"
+        }, {
+            "name": "E R Tulman",
+"guid": "2741040195"
+        }, {
+            "name": "Weimei Ching",
+"guid": "2663469957"
+        }
+]
+,
+"year": "2013",
+"journal": "· PLOS Computational Biology",
+"cites": 13,
+"abstract": "Primarily used for metabolic engineering and synthetic biology, genome-scale metabolic modeling shows tremendous potential as a tool for fundamental research and curation of metabolism. Through a novel in…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fda4769f20c67f6101db1dc700e26a34",
+"title": "Elucidating Xylose Metabolism of Scheffersomyces stipitis for Lignocellulosic Ethanol Production",
+"authors": [
+{
+            "name": "Meng Liang",
+"guid": "2251241238"
+        }, {
+            "name": "Andrew Damiani",
+"guid": "2137323053"
+        }, {
+            "name": "Q Peter He",
+"guid": "2119832328"
+        }, {
+            "name": "Jin Wang",
+"guid": "2117524406"
+        }
+]
+,
+"year": "2014",
+"journal": "· ACS Sustainable Chemistry & Engineering",
+"cites": 13,
+"abstract": "The conversion of pentose to ethanol is one of the major barriers of industrializing the lignocellulosic ethanol processes. As one of the most promising native strains for pentose fermentation, Scheffersomyc…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Ethanol Fuel",
+"guid": "65183824"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "21cd70a72d24b69931aa9fa7f4b1fceb",
+"title": "Diversity of flux distribution in central carbon metabolism of S. cerevisiae strains from diverse environments",
+"authors": [
+{
+            "name": "Thibault Nidelet",
+"guid": "2799122096"
+        }, {
+            "name": "Pascale Brial",
+"guid": "2337864906"
+        }, {
+            "name": "Carole Camarasa",
+"guid": "2761281968"
+        }, {
+            "name": "Sylvie Dequin",
+"guid": "10862675"
+        }
+]
+,
+"year": "2016",
+"journal": "· Microbial Cell Factories",
+"cites": 13,
+"abstract": "Background#R##N#S. cerevisiae has attracted considerable interest in recent years as a model for ecology and evolutionary biology, revealing a substantial genetic and phenotypic diversity. However, the…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Genetic Variation",
+"guid": "68873052"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d8246ebc76f8d584574be46f57d7a0f",
+"title": "Genome wide analysis of protein production load in Trichoderma reesei",
+"authors": [
+{
+            "name": "Tiina Pakula",
+"guid": "2090362271"
+        }, {
+            "name": "Heli Nygren",
+"guid": "2118220097"
+        }, {
+            "name": "Dorothee Barth",
+"guid": "2241397759"
+        }, {
+            "name": "Markus Heinonen",
+"guid": "2148731679"
+        }, {
+            "name": "Sandra Castillo",
+"guid": "2297806552"
+        }, {
+            "name": "Merja Penttila",
+"guid": "1974556113"
+        }, {
+            "name": "Mikk…",
+"guid": "1861780664"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology for Biofuels",
+"cites": 13,
+"abstract": "The filamentous fungus Trichoderma reesei (teleomorph Hypocrea jecorina) is a widely used industrial host organism for protein production. In industrial cultivations, it can produce over 100 g\/l of extracellula…",
+"keywords": [
+{
+            "word": "Protein Biosynthesis",
+"guid": "3675279"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c4504d7be46f9be048349f8d87fe1521",
+"title": "Dynamic fluxbalanceanalysis of batch fermentation: effect of genetic manipulations on ethanol production",
+"authors": [
+{
+            "name": "K P Lisha",
+"guid": "2444138994"
+        }, {
+            "name": "Debasis Sarkar",
+"guid": "2557333966"
+        }
+]
+,
+"year": "2014",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 13,
+"abstract": "In silico optimization of bioethanol production from lignocellulosic biomasses is investigated by combining process systems engineering approach and systems biology approach. Lignocellulosic biomass is an att…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8660c88a811a28c5d4751fd1fb33f364",
+"title": "Multi-Objective Optimization of Biological Networks for Prediction of Intracellular Fluxes",
+"authors": [
+{
+            "name": "Joseoscar H Sendin",
+"guid": "2439466242"
+        }, {
+            "name": "Antonio A Alonso",
+"guid": "2342467809"
+        }, {
+            "name": "Julio R Banga",
+"guid": "2164273415"
+        }
+]
+,
+"year": "2009",
+"journal": "",
+"cites": 13,
+"abstract": "In this contribution, we face the problem of predicting intracellular fluxes using a multi-criteria optimization approach, i.e. the simultaneous optimization of two or more cellular functions. Based on FluxBalanceA…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

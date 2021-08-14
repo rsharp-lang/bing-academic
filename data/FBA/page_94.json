@@ -1,3 +1,4 @@
+[
 {
             "guid": "401543a8533df2a1a4e8569753df6906",
 "title": "A Genome-Scale Metabolic Reconstruction of Phytophthora infestans With the Integration of Transcriptional Data Reveals …",
@@ -40,4 +41,284 @@
         }
 ]
 
+        }, {
+            "guid": "cbc4448b4669f85d225be3b0e93422b4",
+"title": "An Improved Multi-parametric Programming Algorithm for Flux BalanceAnalysis of Metabolic Networks",
+"authors": [
+{
+            "name": "Amir Akbari",
+"guid": "2951209391"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
         }
+]
+,
+"year": "2018",
+"journal": "· Journal of Optimization Theory and Applications",
+"cites": 2,
+"abstract": "Flux balanceanalysis has proven an effective tool for analyzing metabolic networks. In flux balanceanalysis, reaction rates and optimal pathways are ascertained by solving a linear program, in which the …",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7f4a4ca85cee9c2e8c8051f8c3a3c40b",
+"title": "Two-Scale 13 C Metabolic Flux Analysis for Metabolic Engineering",
+"authors": [
+{
+            "name": "David Ando",
+"guid": "2005952855"
+        }, {
+            "name": "Hector Garcia Martin",
+"guid": "2165986291"
+        }
+]
+,
+"year": "2018",
+"journal": "· Methods of Molecular Biology",
+"cites": 2,
+"abstract": "Author(s): Ando, David; Garcia Martin, Hector | Abstract: Accelerating the Design-Build-Test-Learn (DBTL) cycle in synthetic biology is critical to achieving rapid and facile bioengineering of organisms for the prod…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Design of Experiments",
+"guid": "34559072"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6eec34ad3157189d6667fdae38c615ad",
+"title": "Addressing the Need for a Model Selection Framework in Systems Biology Using Information Theory",
+"authors": [
+{
+            "name": "Frank Devilbiss",
+"guid": "2313647810"
+        }, {
+            "name": "Doraiswami Ramkrishna",
+"guid": "2009889351"
+        }
+]
+,
+"year": "2017",
+"journal": "",
+"cites": 2,
+"abstract": "The field of systems biology thrives upon the use of models to organize biological knowledge and make predictions of complex processes that are hard to measure. When attempting to generate model descrip…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Information Theory",
+"guid": "52622258"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1c3e393de09984f084bdb17c06160094",
+"title": "Reconstruction of the Fatty Acid Biosynthetic Pathway of Exiguobacterium antarcticum B7 Based on Genomic and Bibli…",
+"authors": [
+{
+            "name": "Regiane Kawasaki",
+"guid": "2396439226"
+        }, {
+            "name": "Rafael A Barauna",
+"guid": "2081773452"
+        }, {
+            "name": "Artur Silva",
+"guid": "2129455102"
+        }, {
+            "name": "Marta S P Carepo",
+"guid": "2050238164"
+        }, {
+            "name": "Rui Oliveira",
+"guid": "2193071107"
+        }, {
+            "name": "Rodolfo Marques",
+"guid": "2279272724"
+        }
+]
+,
+"year": "2016",
+"journal": "· BioMed Research International",
+"cites": 2,
+"abstract": "Exiguobacterium antarcticum B7 is extremophile Gram-positive bacteria able to survive in cold environments. A key factor to understanding cold adaptation processes is related to the modification of f…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d04d65303198ae46ea71b596dddc9ca0",
+"title": "The use of genome-scale metabolic network reconstruction to predict fluxes and equilibrium composition of N-fixing versus …",
+"authors": [
+{
+            "name": "Joseph J Gardner",
+"guid": "2557982602"
+        }, {
+            "name": "Nanette R Boyle",
+"guid": "2136719151"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Systems Biology",
+"cites": 2,
+"abstract": "Background#R##N#Computational, genome based predictions of organism phenotypes has enhanced the ability to investigate the biological phenomena that help organisms survive and respond to their environ…",
+"keywords": [
+{
+            "word": "Nitrogen Cycle",
+"guid": "49045045"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e96b33fe46a2f02c8dcaa58c91e6d54c",
+"title": "Electron Partitioning in Anoxic Phototrophic Bacteria",
+"authors": [
+{
+            "name": "Melanie A Spero",
+"guid": "2137261726"
+        }, {
+            "name": "Saheed Imam",
+"guid": "2166695859"
+        }, {
+            "name": "Daniel R Noguera",
+"guid": "2305524397"
+        }, {
+            "name": "Timothy J Donohue",
+"guid": "2162040898"
+        }
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 2,
+"abstract": "Photosynthetic cells make major contributions to many important processes on this planet, including solar energy capture, nitrogen or carbon dioxide sequestration and production of useful biocommodities. The …",
+"keywords": [
+{
+            "word": "Carbon Sequestration",
+"guid": "22884784"
+        }, {
+            "word": "Environmental Chemistry",
+"guid": "107872376"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e785d872c1d44b46a24698d681da1ba6",
+"title": "Phenome Analysis of Microorganisms",
+"authors": [
+
+]
+,
+"year": "2009",
+"journal": "",
+"cites": 2,
+"abstract": "Many terms used in systems biology and bioinformatics are loosely defined and may be interpreted differently depending upon the individual. The introductory section will detail our working definition of a p…",
+"keywords": [
+{
+            "word": "High-performance Liquid Chromatography",
+"guid": "179998833"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }
+]
+
+        }, {
+            "guid": "eed153ee322b97b470784059e6881e2e",
+"title": "Using Genome-Scale Metabolic Models to Compare Serovars of the Foodborne Pathogen Listeria monocytogenes",
+"authors": [
+{
+            "name": "Zachary P Metz",
+"guid": "2634251911"
+        }, {
+            "name": "Tong Ding",
+"guid": "2525042049"
+        }, {
+            "name": "David J Baumler",
+"guid": "2028729096"
+        }
+]
+,
+"year": "2018",
+"journal": "· PLOS ONE",
+"cites": 2,
+"abstract": "University of Minnesota M.S. thesis. August 2016. Major: Food Science. Advisor: David Baumler. 1 computer file (PDF); viii, 103 pages.",
+"keywords": [
+{
+            "word": "Serotype",
+"guid": "10389963"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3bfb9f17a6cd2e40f9b7962ab3db3925",
+"title": "Microalgal Systems Biology for Biofuel Production",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "",
+"cites": 2,
+"abstract": "In recent years, microalgae has received a lot of attention as potential sources of renewable energy, especially given the increase in oil prices and environmental concerns. Therefore, microalgal systems bi…",
+"keywords": [
+{
+            "word": "Photosynthesis",
+"guid": "183688256"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Terpenoid",
+"guid": "206103511"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "3e5de29c373ad13182073ff03806e16a",
 "title": "Network integration meets network dynamics",
@@ -28,4 +29,323 @@
         }
 ]
 
+        }, {
+            "guid": "bfa1eaf127eedfbf3298ee4cab663457",
+"title": "Strategies for efficient disruption of metabolism in Mycobacterium tuberculosis from network analysis",
+"authors": [
+{
+            "name": "Karthik Raman",
+"guid": "2127877947"
+        }, {
+            "name": "Rohit Vashisht",
+"guid": "2065536119"
+        }, {
+            "name": "Nagasuma Chandra",
+"guid": "2257022061"
         }
+]
+,
+"year": "2009",
+"journal": "· Molecular BioSystems",
+"cites": 25,
+"abstract": "Tuberculosis continues to be a major health challenge, warranting the need for newer strategies for therapeutic intervention and newer approaches to discover them. Here, we report the identification of effi…",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "96f22980b7593ef821a61e29d38f8cbc",
+"title": "A genome-scale metabolic flux model of Escherichia coli K–12 derived from the EcoCyc database",
+"authors": [
+{
+            "name": "Daniel S Weaver",
+"guid": "2338414372"
+        }, {
+            "name": "Ingrid M Keseler",
+"guid": "262975264"
+        }, {
+            "name": "Amanda Mackie",
+"guid": "2557709592"
+        }, {
+            "name": "Ian T Paulsen",
+"guid": "448623749"
+        }, {
+            "name": "Peter D Karp",
+"guid": "2124303263"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 25,
+"abstract": "Background#R##N#Constraint-based models of Escherichia coli metabolic flux have played a key role in computational studies of cellular metabolism at the genome scale. We sought to develop a next-generati…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "97b19350f0c1b9697a07d832ab5ba3ff",
+"title": "Flux balance analysis accounting for metabolite dilution",
+"authors": [
+{
+            "name": "Tomer Benyamini",
+"guid": "299162645"
+        }, {
+            "name": "Ori Folger",
+"guid": "734294298"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }, {
+            "name": "Tomer Shlomi",
+"guid": "172881847"
+        }
+]
+,
+"year": "2010",
+"journal": "· Genome Biology",
+"cites": 25,
+"abstract": "Flux balance analysis is a common method for predicting steady-state flux distributions within metabolic networks, accounting for the growth demand for the synthesis of a predefined set of essential biomass p…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2ea110e304dea180723e573d22fce419",
+"title": "Data reconciliation and parameter estimation in flux‐balance analysis",
+"authors": [
+{
+            "name": "Arvind U Raghunathan",
+"guid": "2780943138"
+        }, {
+            "name": "J Ricardo Perezcorrea",
+"guid": "395541463"
+        }, {
+            "name": "Lorenz T Bieger",
+"guid": "2487889708"
+        }
+]
+,
+"year": "2003",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 25,
+"abstract": "Flux balance analysis (FBA) has been shown to be a very effective tool to interpret and predict the metabolism of various microorganisms when the set of available measurements is not sufficient to deter…",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c5edba17cf32b051dca058d7fffdd16b",
+"title": "A metabolic core model elucidates how enhanced utilization of glucose and glutamine, with enhanced glutamine-dependent …",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Daniela Gaglio",
+"guid": "2303886116"
+        }, {
+            "name": "Fabrizia Mastroianni",
+"guid": "2642772838"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Hans V W…",
+"guid": "89570192"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS Computational Biology",
+"cites": 25,
+"abstract": "Cancer cells share several metabolic traits, including aerobic production of lactate from glucose (Warburg effect), extensive glutamine utilization and impaired mitochondrial electron flow. It is still unclear how the…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "82da06778754cc21aa3e2accb57c39db",
+"title": "Computational modeling of human metabolism and its application to systems biomedicine",
+"authors": [
+{
+            "name": "Maike K Aurich",
+"guid": "2076153174"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }
+]
+,
+"year": "2016",
+"journal": "· Methods of Molecular Biology",
+"cites": 25,
+"abstract": "",
+"keywords": [
+{
+            "word": "Systems Biomedicine",
+"guid": "39089638"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cdd03badbdc9726d2b4e85723be81be1",
+"title": "An experimentally-supported genome-scale metabolic network reconstruction for Yersinia pestis CO92",
+"authors": [
+{
+            "name": "Pep Charusanti",
+"guid": "868280607"
+        }, {
+            "name": "Sadhana Chauhan",
+"guid": "2402911349"
+        }, {
+            "name": "Kathleen Mcateer",
+"guid": "1904188471"
+        }, {
+            "name": "Joshua A Lerman",
+"guid": "2072803459"
+        }, {
+            "name": "Daniel R Hyduke",
+"guid": "2074995921"
+        }, {
+            "name": "Vladi…",
+"guid": "2266735848"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 25,
+"abstract": "Background#R##N#Yersinia pestis is a gram-negative bacterium that causes plague, a disease linked historically to the Black Death in Europe during the Middle Ages and to several outbreaks during the mo…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2026950ac12c725c0337ebded4694f2b",
+"title": "The generalized flux-minimization method and its application to metabolic networks affected by enzyme deficiencies.",
+"authors": [
+{
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
+        }
+]
+,
+"year": "2006",
+"journal": "· BioSystems",
+"cites": 25,
+"abstract": "The flux-minimization method [Holzhutter, H.G., 2004. The principle of flux-minimization and its application to calculate stationary fluxes in metabolic networks. Eur. J. Biochem. 271, 2905-2922] has been propos…",
+"keywords": [
+{
+            "word": "Constrained Optimization",
+"guid": "55660270"
+        }, {
+            "word": "Metabolic Control Analysis",
+"guid": "70818257"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "638f292f4b537dfb822889e2323d28fe",
+"title": "Use of CellNetAnalyzer in biotechnology and metabolic engineering",
+"authors": [
+{
+            "name": "Axel Von Kamp",
+"guid": "2124958365"
+        }, {
+            "name": "Sven Thiele",
+"guid": "1975568949"
+        }, {
+            "name": "Oliver Hadicke",
+"guid": "2011622146"
+        }, {
+            "name": "Steffen Klamt",
+"guid": "2097038584"
+        }
+]
+,
+"year": "2017",
+"journal": "· Journal of Biotechnology",
+"cites": 25,
+"abstract": "Mathematical models of the cellular metabolism have become an essential tool for the optimization of biotechnological processes. They help to obtain a systemic understanding of the metabolic processes i…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Graphical User Interface",
+"guid": "37789001"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

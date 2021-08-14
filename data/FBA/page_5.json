@@ -1,3 +1,4 @@
+[
 {
             "guid": "5a93357e740f8659963e7c4a832d5add",
 "title": "Systematic Evaluation of Methods for Integration of Transcriptomic Data into Constraint-Based Models of Metabol…",
@@ -28,4 +29,341 @@
         }
 ]
 
+        }, {
+            "guid": "6217ebfb88f6c9813cf79a52f4a93d82",
+"title": "Combining pathway analysis with flux balance analysis for the comprehensive study of metabolic systems",
+"authors": [
+{
+            "name": "Christophe H Schilling",
+"guid": "2159110332"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "David Letscher",
+"guid": "2241431321"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
         }
+]
+,
+"year": "2000",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 285,
+"abstract": "The elucidation of organism-scale metabolic networks necessitates the development of integrative methods to analyze and interpret the systemic properties of cellular metabolism. A shift in emphasis fro…",
+"keywords": [
+{
+            "word": "Convex Analysis",
+"guid": "12108790"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "335d2c7ba54540db73d948a9e0ce1339",
+"title": "OptCom: a multi-level optimization framework for the metabolic modeling and analysis of microbial communities.",
+"authors": [
+{
+            "name": "Ali R Zomorrodi",
+"guid": "1998219508"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS Computational Biology",
+"cites": 276,
+"abstract": "Microorganisms rarely live isolated in their natural environments but rather function in consolidated and socializing communities. Despite the growing availability of high-throughput sequencing and metagenom…",
+"keywords": [
+{
+            "word": "Community",
+"guid": "4590074"
+        }, {
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9d6b0416a08fad5c61a8da3cd66fee58",
+"title": "Metabolic Resource Allocation in Individual Microbes Determines Ecosystem Interactions and Spatial Dynamics",
+"authors": [
+{
+            "name": "William R Harcombe",
+"guid": "2245689179"
+        }, {
+            "name": "William J Riehl",
+"guid": "1988512038"
+        }, {
+            "name": "Ilija Dukovski",
+"guid": "2329941213"
+        }, {
+            "name": "Brian R Granger",
+"guid": "2080030094"
+        }, {
+            "name": "Alex Betts",
+"guid": "2444606671"
+        }, {
+            "name": "Alex H Lang",
+"guid": "2112482110"
+        }, {
+            "name": "Gra…",
+"guid": "2140401623"
+        }
+]
+,
+"year": "2014",
+"journal": "· Cell Reports",
+"cites": 275,
+"abstract": "SUMMARY The interspecies exchange of metabolites plays a key role in the spatiotemporal dynamics of microbial communities. This raises the question of whether ecosystem-level behavior of structured com…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "25c62cf98c3cb4ea6d5c71ceca7be306",
+"title": "Modeling Lactococcus lactis using a genome-scale flux model",
+"authors": [
+{
+            "name": "Ana Paula Oliveira",
+"guid": "2115690093"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }, {
+            "name": "Jochen Forster",
+"guid": "2234829248"
+        }
+]
+,
+"year": "2005",
+"journal": "· BMC Microbiology",
+"cites": 274,
+"abstract": "Background#R##N#Genome-scale flux models are useful tools to represent and analyze microbial metabolism. In this work we reconstructed the metabolic network of the lactic acid bacteria Lactococcus …",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Microbiology",
+"guid": "89423630"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "da74362626fdc5718c9be917b3075519",
+"title": "Analysis of growth of Lactobacillus plantarum WCFS1 on a complex medium using a genome-scale metabolic model",
+"authors": [
+{
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Anne Wiersma",
+"guid": "1997751262"
+        }, {
+            "name": "Douwe Molenaar",
+"guid": "2128267214"
+        }, {
+            "name": "Christof Francke",
+"guid": "2471537116"
+        }, {
+            "name": "Willem M De Vos",
+"guid": "2585739441"
+        }, {
+            "name": "Roland J Siezen",
+"guid": "177163101"
+        }
+]
+,
+"year": "2006",
+"journal": "· Journal of Biological Chemistry",
+"cites": 265,
+"abstract": "A genome-scale metabolic model of the lactic acid bacterium Lactobacillus plantarum WCFS1 was constructed based on genomic content and experimental data. The complete model includes 721 genes…",
+"keywords": [
+{
+            "word": "Anabolism",
+"guid": "1008401"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "246b236b4694421204fe07f9d3b2113c",
+"title": "Genome-Scale Reconstruction and Analysis of the Pseudomonas putida KT2440 Metabolic Network Facilitates A…",
+"authors": [
+{
+            "name": "Jacek Puchalka",
+"guid": "1972853797"
+        }, {
+            "name": "Matthew A Oberhardt",
+"guid": "2312160716"
+        }, {
+            "name": "Miguel Godinho",
+"guid": "2152802199"
+        }, {
+            "name": "Agata Bielecka",
+"guid": "2683240903"
+        }, {
+            "name": "Daniela Regenhardt",
+"guid": "145444327"
+        }, {
+            "name": "Ken…",
+"guid": "560154397"
+        }
+]
+,
+"year": "2008",
+"journal": "· PLOS Computational Biology",
+"cites": 262,
+"abstract": "A cornerstone of biotechnology is the use of microorganisms for the efficient production of chemicals and the elimination of harmful waste. Pseudomonas putida is an archetype of such microbes due to its meta…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "db11df2e712b9ab5d4261d50414d505c",
+"title": "A genome-scale computational study of the interplay between transcriptional regulation and metabolism.",
+"authors": [
+{
+            "name": "Tomer Shlomi",
+"guid": "172881847"
+        }, {
+            "name": "Yariv Eisenberg",
+"guid": "2167764720"
+        }, {
+            "name": "Roded Sharan",
+"guid": "2234942671"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }
+]
+,
+"year": "2007",
+"journal": "· Molecular Systems Biology",
+"cites": 262,
+"abstract": "This paper presents a new method, steady-state regulatory flux balance analysis (SR-FBA), for predicting gene expression and metabolic fluxes in a large-scale integrated metabolic‐regulatory model. Using SR …",
+"keywords": [
+{
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "53b8d8909417e036e1e2aa624d429ed2",
+"title": "Comparative Metabolic Flux Profiling of Melanoma Cell Lines BEYOND THE WARBURG EFFECT",
+"authors": [
+{
+            "name": "David A Scott",
+"guid": "2441403672"
+        }, {
+            "name": "Adam D Richardson",
+"guid": "2130537039"
+        }, {
+            "name": "Fabian V Filipp",
+"guid": "2030170937"
+        }, {
+            "name": "Christine A Knutzen",
+"guid": "2020984839"
+        }, {
+            "name": "Gary G Chiang",
+"guid": "2674680538"
+        }, {
+            "name": "Zeev Ronai",
+"guid": "2800388596"
+        }
+]
+,
+"year": "2011",
+"journal": "· Journal of Biological Chemistry",
+"cites": 257,
+"abstract": "Metabolic rewiring is an established hallmark of cancer, but the details of this rewiring at a systems level are not well characterized. Here we acquire this insight in a melanoma cell line panel by tracking metab…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "62e7b7130f83115e770953523575e936",
+"title": "Optimization‐based framework for inferring and testing hypothesized metabolic objective functions",
+"authors": [
+{
+            "name": "Anthony P Burgard",
+"guid": "2763851512"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2003",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 255,
+"abstract": "An optimization-based framework is introduced for testing whether experimental flux data are consistent with different hypothesized objective functions. Specifically, we examine whether the maximization of a …",
+"keywords": [
+{
+            "word": "Bilevel Optimization",
+"guid": "3309286"
+        }, {
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

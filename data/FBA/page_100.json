@@ -1,3 +1,4 @@
+[
 {
             "guid": "15f62d80329a04d02411474e2ba6dade",
 "title": "Genomewide Assessment of Mycobacterium tuberculosis Conditionally Essential Metabolic Pathways.",
@@ -40,4 +41,272 @@
         }
 ]
 
+        }, {
+            "guid": "8fcab8a1544fbab0c1293a6cb3859f59",
+"title": "Comparative analysis of metabolic machinery of Frankia along with other selected actinobacteria",
+"authors": [
+{
+            "name": "Subarna Thakur",
+"guid": "2777568462"
+        }, {
+            "name": "Arnab Sen",
+"guid": "2421461660"
         }
+]
+,
+"year": "2016",
+"journal": "· Symbiosis",
+"cites": 1,
+"abstract": "Actinobacteria exhibits a wide range of adaptive strategies by adjusting their transcriptional and metabolic profiles for optimum utilization of available resources. Thus, a proper understanding of metabolic pathwa…",
+"keywords": [
+{
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6582b5b9956c511560f76320fc1da25a",
+"title": "Use of genome-scale metabolic models for plant metabolism",
+"authors": [
+{
+            "name": "H Huili Yuan",
+"guid": "2248292174"
+        }, {
+            "name": "B Wijnen",
+"guid": "2097683564"
+        }, {
+            "name": "Guofu Zhou",
+"guid": "2475554144"
+        }, {
+            "name": "Paj Peter Hilbers",
+"guid": "2478718110"
+        }, {
+            "name": "Van Naw Natal Riel",
+"guid": "2509488668"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 1,
+"abstract": "Genome-scale metabolic models (GSMM) have been extensively applied for a wide variety of organisms. However, for plants genome-scale modeling is still in its infancy. It has been successfully developed for …",
+"keywords": [
+{
+            "word": "Nitrogen Assimilation",
+"guid": "3119751"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2057c274d4d2bebef9cd8d5f331e5479",
+"title": "Flux BalanceAnalysis Within Physiologically Feasible Region",
+"authors": [
+
+]
+,
+"year": "2009",
+"journal": "· international conference on bioinformatics and biomedical engineering",
+"cites": 1,
+"abstract": "Flux balanceanalysis (FBA) has emerged as an ef- fective means to quantitatively analyze cell steady-state metabolic behaviors. However, regardless of environmental factors, basal FBA predictions usually …",
+"keywords": [
+{
+            "word": "Escherichia Coli",
+"guid": "547475151"
+        }, {
+            "word": "Computer Network",
+"guid": "31258907"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5c3de23318ce1f588e2d181ada0b309b",
+"title": "A scalable systems analysis approach for regulated metabolic networks",
+"authors": [
+{
+            "name": "Paul A Jensen",
+"guid": "2613309014"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2009",
+"journal": "· international conference of the ieee engineering in medicine and biology soci…",
+"cites": 1,
+"abstract": "High-throughput data such as genome sequencing and genome expression profiling have enabled the reconstruction of cellular networks. These networks have been represented in computational framework…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Systems Analysis",
+"guid": "24119478"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e9f9692ef2be838eab4e2b35b0d790c9",
+"title": "Gene-centric constraint of metabolic models",
+"authors": [
+{
+            "name": "Nick Fyson",
+"guid": "2595721071"
+        }, {
+            "name": "Min Kyung Kim",
+"guid": "2619766159"
+        }, {
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }, {
+            "name": "Caroline Colijn",
+"guid": "1975765587"
+        }
+]
+,
+"year": "2017",
+"journal": "· bioRxiv",
+"cites": 1,
+"abstract": "Motivation: A number of approaches have been introduced in recent years allowing gene expression data to be integrated into the standard Flux BalanceAnalysis (FBA) technique. This additional information pe…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fb906a35ee2e6c1f579c765430292246",
+"title": "Model-based optimization of the recombinant protein production in Pichia pastoris based on dynamic flux balancea…",
+"authors": [
+{
+            "name": "Victor Nnamdi Emenike",
+"guid": "2887492405"
+        }, {
+            "name": "Moritz Schulze",
+"guid": "2767372823"
+        }, {
+            "name": "Rene Schenkendorf",
+"guid": "2664022014"
+        }, {
+            "name": "Ulrike Krewer",
+"guid": "1967539378"
+        }
+]
+,
+"year": "2017",
+"journal": "",
+"cites": 1,
+"abstract": "Abstract Pichia pastoris is an important host cell for the heterologous expression of recombinant proteins. In order to understand and design optimal biopharmaceutical processes with P. pastoris, unstructured a…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Recombinant DNA",
+"guid": "40767141"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1db6db2d5396c05f2b73f8cf8e5defd0",
+"title": "Constraint-Based Modeling of Metabolic Interactions in and Between Astrocytes and Neurons",
+"authors": [
+
+]
+,
+"year": "2019",
+"journal": "",
+"cites": 1,
+"abstract": "Through its metabolic network, a cell distributes the available carbon flux into several pathways. The pathway activity information for a cell is crucial to deduce underlying molecular mechanisms and to moni…",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "54656a835ee1696faf364c91baad7ac4",
+"title": "Flux BalanceAnalysis and LP Problems",
+"authors": [
+
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 1,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "971723a10d96baeec177aba26965617a",
+"title": "Plant Metabolic Pathways: Databases and Pipeline for Stoichiometric Analysis",
+"authors": [
+{
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Bjorn H Junker",
+"guid": "2013242263"
+        }, {
+            "name": "Falk Schreiber",
+"guid": "2166292476"
+        }
+]
+,
+"year": "2012",
+"journal": "",
+"cites": 1,
+"abstract": "Mathematical modeling of plant metabolism offers new approaches to improve the understanding of complex biological processes. In this chapter an overview of resources and tools available for the recon…",
+"keywords": [
+{
+            "word": "Data Mining",
+"guid": "124101348"
+        }, {
+            "word": "Engineering",
+"guid": "127413603"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "b40475256e2d0f926b57dde40372d183",
 "title": "Understanding Metabolic Regulation at a Systems Level: Metabolite Sensing, Mathematical Predictions, and Model Or…",
@@ -31,4 +32,338 @@
         }
 ]
 
+        }, {
+            "guid": "b26a5e136fd5b19a7a849b96d201759d",
+"title": "Acorn: A grid computing system for constraint based modeling and visualization of the genome scale metabolic reaction net…",
+"authors": [
+{
+            "name": "Jacek Sroka",
+"guid": "2646749190"
+        }, {
+            "name": "Łukasz Bieniaszkrzywiec",
+"guid": "2653498378"
+        }, {
+            "name": "Szymon Gwoźdź",
+"guid": "1740216599"
+        }, {
+            "name": "Dariusz Leniowski",
+"guid": "122057539"
+        }, {
+            "name": "Jakub Łącki",
+"guid": "2278912984"
+        }, {
+            "name": "Mateus…",
+"guid": "2090883547"
         }
+]
+,
+"year": "2011",
+"journal": "· BMC Bioinformatics",
+"cites": 14,
+"abstract": "Background: Constraint-based approaches facilitate the prediction of cellular metabolic capabilities, based, in turn on predictions of the repertoire of enzymes encoded in the genome. Recently, genome an…",
+"keywords": [
+{
+            "word": "Web Server",
+"guid": "11392498"
+        }, {
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b892a3b5c8f1bc45b370f1bb455a131f",
+"title": "Comprehensive evaluation of two genome‐scale metabolic network models for Scheffersomyces stipitis",
+"authors": [
+{
+            "name": "Andrew Damiani",
+"guid": "2137323053"
+        }, {
+            "name": "Q Peter He",
+"guid": "2119832328"
+        }, {
+            "name": "Thomas W Jeffries",
+"guid": "2463362953"
+        }, {
+            "name": "Jin Wang",
+"guid": "2117524406"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 14,
+"abstract": "Genome-scale metabolic network models represent the link between the genotype and phenotype of the organism, which are usually reconstructed based on the genome sequence annotation and relevant bio…",
+"keywords": [
+{
+            "word": "Principal Component Analysis",
+"guid": "27438332"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d652ee30368ec237ad8c407414852f56",
+"title": "Genome‐scale metabolic representation of Amycolatopsis balhimycina",
+"authors": [
+{
+            "name": "Wanwipa Vongsangnak",
+"guid": "1074713982"
+        }, {
+            "name": "Luis F De Figueiredo",
+"guid": "2136552502"
+        }, {
+            "name": "Jochen Forster",
+"guid": "2234829248"
+        }, {
+            "name": "Tilmann Weber",
+"guid": "2211543134"
+        }, {
+            "name": "Jette Thykaer",
+"guid": "2009303134"
+        }, {
+            "name": "Evi …",
+"guid": "2162065248"
+        }
+]
+,
+"year": "2012",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 14,
+"abstract": "Infection caused by methicillin-resistant Staphylococcus aureus (MRSA) is an increasing societal problem. Typically, glycopeptide antibiotics are used in the treatment of these infections. The most comprehensiv…",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "07acfec0e0ed86b87649dbcae194d441",
+"title": "Construction of a Genome-Scale Metabolic Model of Arthrospira platensis NIES-39 and Metabolic Design for Cyan…",
+"authors": [
+{
+            "name": "Katsunori Yoshikawa",
+"guid": "2241571910"
+        }, {
+            "name": "Shimpei Aikawa",
+"guid": "2121245824"
+        }, {
+            "name": "Yuta Kojima",
+"guid": "2161759673"
+        }, {
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Akihiko Ko…",
+"guid": "2128658185"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 14,
+"abstract": "Arthrospira (Spirulina) platensis is a promising feedstock and host strain for bioproduction because of its high accumulation of glycogen and superior characteristics for industrial production. Metabolic simulatio…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5ff7cf0aed3259076a636f1a055b2d52",
+"title": "A fuzzy logic approach for regulation in fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Aris Tepeli",
+"guid": "2555600852"
+        }, {
+            "name": "Amable Hortacsu",
+"guid": "1698187435"
+        }
+]
+,
+"year": "2008",
+"journal": "· Biochemical Engineering Journal",
+"cites": 14,
+"abstract": "Abstract Technological advances in experimental observations provide the opportunity to examine complex biological systems and the chance to forecast bacterial behaviour in silico. The optimal growth …",
+"keywords": [
+{
+            "word": "Fuzzy Logic",
+"guid": "58166"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "274817c69a21e56ff2ebfad84a0c8310",
+"title": "When is the Quasi-Steady-State Approximation Admissible in Metabolic Modeling? When Admissible, What Models are Des…",
+"authors": [
+{
+            "name": "Hyunseob Song",
+"guid": "2139895672"
+        }, {
+            "name": "Doraiswami Ramkrishna",
+"guid": "2009889351"
+        }
+]
+,
+"year": "2009",
+"journal": "· Industrial & Engineering Chemistry Research",
+"cites": 14,
+"abstract": "A strategy is presented for scrutiny of the quasi-steady-state (QSS) approximation in metabolic modeling that involves tracking dynamic data on extracellular products in so-called flux, as well as yield vector spa…",
+"keywords": [
+{
+            "word": "Vector Space",
+"guid": "13336665"
+        }, {
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1d37f827d84cce91a06d9e81a751c426",
+"title": "Osmoregulation in the Halophilic Bacterium Halomonas elongata: A Case Study for Integrative Systems Biology",
+"authors": [
+{
+            "name": "Viktoria Kindzierski",
+"guid": "2678609863"
+        }, {
+            "name": "Silvia Raschke",
+"guid": "2976026100"
+        }, {
+            "name": "Nicole Knabe",
+"guid": "2343393982"
+        }, {
+            "name": "Frank Siedler",
+"guid": "231610682"
+        }, {
+            "name": "Beatrix Scheffer",
+"guid": "2169839840"
+        }, {
+            "name": "Katharina Pfluge…",
+"guid": "2060425865"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS ONE",
+"cites": 14,
+"abstract": "Halophilic bacteria use a variety of osmoregulatory methods, such as the accumulation of one or more compatible solutes. The wide diversity of compounds that can act as compatible solute complicates the t…",
+"keywords": [
+{
+            "word": "Osmoprotectant",
+"guid": "26448091"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0909a5973c98e7898727f297b15843e8",
+"title": "Metabolic modeling predicts metabolite changes in Mycobacterium tuberculosis.",
+"authors": [
+{
+            "name": "Christopher D Garay",
+"guid": "2531210775"
+        }, {
+            "name": "Jonathan M Dreyfuss",
+"guid": "2235099585"
+        }, {
+            "name": "James E Galagan",
+"guid": "1987260672"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 14,
+"abstract": "Background#R##N#Mycobacterium tuberculosis (MTB) is the causal agent of the disease tuberculosis (TB). Metabolic adaptations are thought to be critical to the survival of MTB during pathogenesis. Comp…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "455a27cc7cfac7e91a99dc256c4db9c8",
+"title": "Systems Metabolic Engineering: The Creation of Microbial Cell Factories by Rational Metabolic Design and Evolution",
+"authors": [
+{
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Takaaki Horinouchi",
+"guid": "2165985010"
+        }, {
+            "name": "Takashi Hirasawa",
+"guid": "2146155068"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2012",
+"journal": "· Advances in Biochemical Engineering \/ Biotechnology",
+"cites": 14,
+"abstract": "It is widely acknowledged that in order to establish sustainable societies, production processes should shift from petrochemical-based processes to bioprocesses. Because bioconversion technologies, in whi…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

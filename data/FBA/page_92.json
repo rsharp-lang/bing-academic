@@ -1,3 +1,4 @@
+[
 {
             "guid": "ad5aafdc7745ec36cdf6a9a602191186",
 "title": "Computationally efficient dynamic simulation of cellular kinetics via explicit solution of flux balanceanalysis: xDFBA m…",
@@ -34,4 +35,287 @@
         }
 ]
 
+        }, {
+            "guid": "5ff6423916dbc72d22d971346d6b0261",
+"title": "An Integration and Analysis Pipeline for Systems Biology in Crop Plant Metabolism",
+"authors": [
+{
+            "name": "Stephan Weise",
+"guid": "2199854801"
+        }, {
+            "name": "Christian Colmsee",
+"guid": "1058109949"
+        }, {
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Bjorn H Junker",
+"guid": "2013242263"
+        }, {
+            "name": "Christian Klukas",
+"guid": "2083291279"
+        }, {
+            "name": "Matthi…",
+"guid": "2120844076"
         }
+]
+,
+"year": "2009",
+"journal": "· data integration in the life sciences",
+"cites": 2,
+"abstract": "To advance the comprehension of complex biological processes occurring in crop plants (e.g. for improvement of growth or yield) it is of high interest to reconstruct and analyse detailed metabolic model…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "53dd2120c26e64f73396c765f3626564",
+"title": "Co-operative co-evolutionary approach for flux balance in Bacillus subtilis",
+"authors": [
+
+]
+,
+"year": "2008",
+"journal": "· world congress on computational intelligence",
+"cites": 2,
+"abstract": "Flux balanceanalysis of the metabolic network of Bacillus subtilis was employed to investigate flux distribution with maximizing ATP and ATP per sum of all flux values. The first objective function, which i…",
+"keywords": [
+{
+            "word": "Mathematical Optimization",
+"guid": "126255220"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d2ffbcf6944b9faa19b771ff10d0db0d",
+"title": "Engineering Corynebacterium glutamicum for high-titer biosynthesis of hyaluronic acid",
+"authors": [
+{
+            "name": "Fangyu Cheng",
+"guid": "2430477802"
+        }, {
+            "name": "Huimin Yu",
+"guid": "2577182016"
+        }, {
+            "name": "Gregory Stephanopoulos",
+"guid": "682994428"
+        }
+]
+,
+"year": "2019",
+"journal": "· Metabolic Engineering",
+"cites": 2,
+"abstract": "Abstract Hyaluronic acid (HA) is a member of the glycosaminoglycan family and has been widely used in the clinical, medical, cosmetic and food industries. In this study, we constructed a superior cell factory i…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0cda1d49d85e9a31da6cc56340ff6500",
+"title": "Metabolic Plasticity and Inter-Compartmental Interactions in Rice Metabolism: An Analysis from Reaction Deletion Study",
+"authors": [
+{
+            "name": "Rahul Shaw",
+"guid": "2249007605"
+        }, {
+            "name": "Sudip Kundu",
+"guid": "2157969787"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 2,
+"abstract": "More than 20% of the total caloric intake of human population comes from rice. The expression of rice genes and hence, the concentration of enzymatic proteins might vary due to several biotic and abiotic st…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3bdaa5e696389232e4c948114924c66d",
+"title": "Differential Search Algorithm in Deep Neural Network for the Predictive Analysis of Xylitol Production in Escherichia Coli",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· asian simulation conference",
+"cites": 2,
+"abstract": "Xylitol is one of the bio-based chemical products that received well recognition and highly demanded from both food and pharmaceutical industries which led to various experiment to be carried out on various or…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Differential Search Algorithm",
+"guid": "2992397129"
+        }, {
+            "word": "Xylitol",
+"guid": "2776031079"
+        }
+]
+
+        }, {
+            "guid": "2e10266be8342dfde1985e7ff228160f",
+"title": "FLUX DISTRIBUTION IN BACILLUS SUBTILIS: INSPECTION ON PLURALITY OF OPTIMAL SOLUTIONS",
+"authors": [
+{
+            "name": "Motamedian Ehsan",
+"guid": "2775450415"
+        }, {
+            "name": "Naeimpoor Fereshteh",
+"guid": "2771119382"
+        }
+]
+,
+"year": "2011",
+"journal": "· Iranian Journal of Biotechnology",
+"cites": 2,
+"abstract": "Linear programming problems with alternate solutions are challenging due to the choice of multiple strategies resulting in the same optimal value of the objective function. However, searching for these sol…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "be2fa240d19b88ed7cba4e5645c75b14",
+"title": "Optimal Allocation of Bacterial Protein Resources under Nonlethal Protein Maturation Stress",
+"authors": [
+{
+            "name": "Qing Zhang",
+"guid": "2646367155"
+        }, {
+            "name": "Rui Li",
+"guid": "2671750851"
+        }, {
+            "name": "Junbai Li",
+"guid": "2147145998"
+        }, {
+            "name": "Hualin Shi",
+"guid": "2734597884"
+        }
+]
+,
+"year": "2018",
+"journal": "· Biophysical Journal",
+"cites": 2,
+"abstract": "Abstract Under different environmental stresses, bacteria optimize the allocation of cellular resources through a variety of mechanisms. Recently, researchers have used phenomenological models to quantit…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Bacterial Growth",
+"guid": "17741926"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e0fda559273d5d5dd9568ce72eeeda4d",
+"title": "LAMOS: A linear algorithm to identify the origin of multiple optimal flux distributions in metabolic networks",
+"authors": [
+{
+            "name": "Ehsan Motamedian",
+"guid": "1747667545"
+        }, {
+            "name": "Fereshteh Naeimpoor",
+"guid": "2269806944"
+        }
+]
+,
+"year": "2018",
+"journal": "· Computers & Chemical Engineering",
+"cites": 2,
+"abstract": "Abstract In flux balanceanalysis, where flux distribution within a cell metabolic network is estimated by optimizing an objective function, there commonly exist multiple optimal flux distributions. Although findin…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "541f9c9f313ba10ce8ac17f20fd6956b",
+"title": "Symbolic flux analysis for genome-scale metabolic networks",
+"authors": [
+{
+            "name": "David W Schryer",
+"guid": "2129229774"
+        }, {
+            "name": "Marko Vendelin",
+"guid": "2045950943"
+        }, {
+            "name": "Pearu Peterson",
+"guid": "2103902117"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 2,
+"abstract": "Background: With the advent of genomic technology, the size of metabolic networks that are subject to analysis is growing. A common task when analyzing metabolic networks is to find all possible steady sta…",
+"keywords": [
+{
+            "word": "Singular Value Decomposition",
+"guid": "22789450"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

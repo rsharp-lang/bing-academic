@@ -1,3 +1,4 @@
+[
 {
             "guid": "93888dc80d62fb0f3e292ad4f37057b3",
 "title": "Theoretical exploration of optimal metabolic flux distributions for extracellular electron transfer by Shewanella oneidensis M…",
@@ -28,4 +29,326 @@
         }
 ]
 
+        }, {
+            "guid": "d842153357d6f0d6d94f2a57725acba1",
+"title": "Comparative determination of biomass composition in differentially active metabolic States.",
+"authors": [
+{
+            "name": "Hsuanchao Chiu",
+"guid": "2008516528"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
         }
+]
+,
+"year": "2008",
+"journal": "· Genome Informatics",
+"cites": 5,
+"abstract": "FluxBalanceAnalysis (FBA) has been successfully applied to facilitate the understanding of cellular metabolism in model organisms. Standard formulations of FBA can be applied to large systems, but the …",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5084c48f616be48adb5fb380435d5182",
+"title": "An interspecies malate–pyruvate shuttle reconciles redox imbalance in an anaerobic microbial community",
+"authors": [
+{
+            "name": "Pohsiang Wang",
+"guid": "2142844442"
+        }, {
+            "name": "Kevin Correia",
+"guid": "2714729416"
+        }, {
+            "name": "Hanchen Ho",
+"guid": "2883686118"
+        }, {
+            "name": "Naveen Venayak",
+"guid": "2078455353"
+        }, {
+            "name": "Kayla Nemr",
+"guid": "2657550635"
+        }, {
+            "name": "Robert Flick",
+"guid": "2157997183"
+        }, {
+            "name": "Radhak…",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2019",
+"journal": "· The ISME Journal",
+"cites": 5,
+"abstract": "Microbes in ecosystems often develop coordinated metabolic interactions. Therefore, understanding metabolic interdependencies between microbes is critical to deciphering ecosystem function. In this stud…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b03ef896fe2a1ff97bc076f1bf5e76fe",
+"title": "Metabolic network analysis revealed distinct routes of deletion effects between essential and non-essential genes",
+"authors": [
+{
+            "name": "Jing Ma",
+"guid": "2305531716"
+        }, {
+            "name": "Xun Zhang",
+"guid": "2114872352"
+        }, {
+            "name": "Choong Yong Ung",
+"guid": "2195461027"
+        }, {
+            "name": "Yu Zong Chen",
+"guid": "2097665374"
+        }, {
+            "name": "Baowen Li",
+"guid": "2105634767"
+        }
+]
+,
+"year": "2012",
+"journal": "· Molecular BioSystems",
+"cites": 5,
+"abstract": "Interest in essential genes has arisen recently given their importance in antimicrobial drug development. Although knockouts of essential genes are commonly known to cause lethal phenotypes, there is insuffi…",
+"keywords": [
+{
+            "word": "Minimal Genome",
+"guid": "42480944"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "59492d15e2e4992a74f2d51e13065233",
+"title": "An accurate description of Aspergillus niger organic acid batch fermentation through dynamic metabolic modelling",
+"authors": [
+{
+            "name": "Daniel J Upton",
+"guid": "2768079708"
+        }, {
+            "name": "Simon J Mcqueenmason",
+"guid": "226757230"
+        }, {
+            "name": "A Jamie Wood",
+"guid": "2126794510"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology for Biofuels",
+"cites": 5,
+"abstract": "Aspergillus niger fermentation has provided the chief source of industrial citric acid for over 50 years. Traditional strain development of this organism was achieved through random mutagenesis, but advanc…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d306d87721c37baa85f4998a5ab6a03d",
+"title": "Stoichiometry Based Steady-State Hepatic FluxAnalysis: Computational and Experimental Aspects",
+"authors": [
+{
+            "name": "Mehmet A Orman",
+"guid": "2172133860"
+        }, {
+            "name": "John S Mattick",
+"guid": "2023857555"
+        }, {
+            "name": "Ioannis P Androulakis",
+"guid": "1971457040"
+        }, {
+            "name": "Francois Berthiaume",
+"guid": "1781402356"
+        }, {
+            "name": "Marianthi G Ierapetr…",
+"guid": "1973433285"
+        }
+]
+,
+"year": "2012",
+"journal": "· Metabolites",
+"cites": 5,
+"abstract": ": The liver has many complex physiological functions, including lipid, protein and carbohydrate metabolism, as well as bile and urea production. It detoxifies toxic substances and medicinal products. I…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Carbohydrate Metabolism",
+"guid": "17093226"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f2365cbdedff71aef58cbacd908ca9c0",
+"title": "Whole Cell Modeling: From Single Cells to Colonies.",
+"authors": [
+{
+            "name": "John A Cole",
+"guid": "2146265515"
+        }, {
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": "2014",
+"journal": "· Israel Journal of Chemistry",
+"cites": 4,
+"abstract": "A great deal of research over the last several years has focused on how the inherent randomness in movements and reactivity of biomolecules can give rise to unexpected large-scale differences in the beh…",
+"keywords": [
+{
+            "word": "Protein Expression",
+"guid": "6856738"
+        }, {
+            "word": "Randomness",
+"guid": "125112378"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ceb14d7f4ddd34f2f0061fa5641e76b4",
+"title": "Application of a genome-scale metabolic model to the inference of nutritional requirements and metabolic bottlenec…",
+"authors": [
+{
+            "name": "Sonia Carneiro",
+"guid": "2101223953"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "E C Ferreira",
+"guid": "2140807371"
+        }
+]
+,
+"year": "2006",
+"journal": "· Microbial Cell Factories",
+"cites": 4,
+"abstract": "Background Escherichia coli has been the organism of choice for the production of many recombinant proteins with high therapeutic value. However, while the research on molecular biology has allowed the …",
+"keywords": [
+{
+            "word": "Stringent Response",
+"guid": "26628138"
+        }, {
+            "word": "Recombinant DNA",
+"guid": "40767141"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b1993e1cd512596c8039a7eaec2ae1d4",
+"title": "In silico multiple-targets identification for heme detoxification in the human malaria parasite Plasmodium falciparum",
+"authors": [
+{
+            "name": "Suthat Phaiphinit",
+"guid": "2554361053"
+        }, {
+            "name": "Sittiporn Pattaradilokrat",
+"guid": "2557537954"
+        }, {
+            "name": "Chidchanok Lursinsap",
+"guid": "141315511"
+        }, {
+            "name": "Kitiporn Plaimas",
+"guid": "2089323263"
+        }
+]
+,
+"year": "2016",
+"journal": "· Infection, Genetics and Evolution",
+"cites": 4,
+"abstract": "Abstract Detoxification of hemoglobin byproducts or free heme is an essential step and considered potential targets for anti-malaria drug development. However, most of anti-malaria drugs are no longer e…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Drug Development",
+"guid": "64903051"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "df8c48f4ed58b47db203501fa9ffcd48",
+"title": "A case study in fluxbalanceanalysis: Lysine, a cephamycin C precursor, can also increase clavulanic acid production",
+"authors": [
+{
+            "name": "Andre Pastrelo Cavallieri",
+"guid": "2083904774"
+        }, {
+            "name": "Amanda Salvador Baptista",
+"guid": "2105298279"
+        }, {
+            "name": "Carla Andrea Leite",
+"guid": "2098857390"
+        }, {
+            "name": "Maria Lucia Gonsales Da …",
+"guid": "2328441538"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biochemical Engineering Journal",
+"cites": 4,
+"abstract": "Abstract Streptomyces clavuligerus is an excellent model for studying complex relationships involved in the biosynthesis of secondary metabolites. Despite the fact that several studies have investigated the m…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

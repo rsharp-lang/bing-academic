@@ -1,3 +1,4 @@
+[
 {
             "guid": "9c854f5fdde63c0c4e7e2e103107f09b",
 "title": "Integration of expression data in genome-scale metabolic network reconstructions",
@@ -28,4 +29,323 @@
         }
 ]
 
+        }, {
+            "guid": "fafe8f136af1913da975a33862a30be4",
+"title": "Flux-balance analysis of mitochondrial energy metabolism: consequences of systemic stoichiometric constraints",
+"authors": [
+{
+            "name": "Ramprasad Ramakrishna",
+"guid": "2203561081"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Andrew D Mcculloch",
+"guid": "2138470661"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
         }
+]
+,
+"year": "2001",
+"journal": "· American Journal of Physiology-regulatory Integrative and Comparative Phys…",
+"cites": 213,
+"abstract": "Mitochondrial metabolism is a critical component in the functioning and maintenance of cellular organs. The stoichiometry of biochemical reaction networks imposes constraints on mitochondrial function. A mo…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c164b1ff403a965a2577f9daddf975eb",
+"title": "Computationally efficient flux variability analysis",
+"authors": [
+{
+            "name": "Steinn Gudmundsson",
+"guid": "2102394432"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Bioinformatics",
+"cites": 213,
+"abstract": "Background#R##N#Flux variability analysis is often used to determine robustness of metabolic models in various simulation conditions. However, its use has been somehow limited by the long computation tim…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Biological Computation",
+"guid": "43987049"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a20851e94bfb56a3bc45f56f27296483",
+"title": "Functional integration of a metabolic network model and expression data without arbitrary thresholding",
+"authors": [
+{
+            "name": "Paul A Jensen",
+"guid": "2613309014"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2011",
+"journal": "· Bioinformatics",
+"cites": 210,
+"abstract": "Motivation: Flux balance analysis (FBA) has been used extensively to analyze genome-scale, constraint-based models of metabolism in a variety of organisms. The predictive accuracy of such models has rece…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "71478b84171925cf6095f14c1dc351b1",
+"title": "Synthetic biology of cyanobacteria: unique challenges and opportunities",
+"authors": [
+{
+            "name": "Bertram M Berla",
+"guid": "2050518654"
+        }, {
+            "name": "Rajib Saha",
+"guid": "2227653910"
+        }, {
+            "name": "Cheryl M Immethun",
+"guid": "1218765806"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }, {
+            "name": "Tae Seok Moon",
+"guid": "2080404950"
+        }, {
+            "name": "Himadri B …",
+"guid": "58005962"
+        }
+]
+,
+"year": "2013",
+"journal": "· Frontiers in Microbiology",
+"cites": 209,
+"abstract": "Photosynthetic organisms, and especially cyanobacteria, hold great promise as sources of renewably-produced fuels, bulk and specialty chemicals, and nutritional products. Synthetic biology tools can help …",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7153bdc3007603e284c9dbb1eef1d793",
+"title": "Flux Balance Analysis of Photoautotrophic Metabolism",
+"authors": [
+{
+            "name": "Avantika A Shastri",
+"guid": "2132814212"
+        }, {
+            "name": "John A Morgan",
+"guid": "2180064207"
+        }
+]
+,
+"year": "2005",
+"journal": "· Biotechnology Progress",
+"cites": 206,
+"abstract": "Photosynthesis is the principal process responsible for fixation of inorganic carbon dioxide into organic molecules with sunlight as the energy source. Potentially, many chemicals could be inexpensively produ…",
+"keywords": [
+{
+            "word": "Photophosphorylation",
+"guid": "26793543"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b7bae7f6e2aa2799f9784aa22f1c15e5",
+"title": "Multiple knockout analysis of genetic robustness in the yeast metabolic network",
+"authors": [
+{
+            "name": "David Deutscher",
+"guid": "2163598249"
+        }, {
+            "name": "Isaac Meilijson",
+"guid": "280422195"
+        }, {
+            "name": "Martin Kupiec",
+"guid": "249516215"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }
+]
+,
+"year": "2006",
+"journal": "· Nature Genetics",
+"cites": 204,
+"abstract": "Genetic robustness characterizes the constancy of the phenotype in face of heritable perturbations. Previous investigations have used comprehensive single and double gene knockouts to study gene ess…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Null Allele",
+"guid": "57708383"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "62673f89a71ae967ab6035b58dd2d4eb",
+"title": "Flux balance analysis of cyanobacterial metabolism: the metabolic network of Synechocystis sp. PCC 6803.",
+"authors": [
+{
+            "name": "Henning Knoop",
+"guid": "2148431468"
+        }, {
+            "name": "Marianne Grundel",
+"guid": "1987916956"
+        }, {
+            "name": "Yvonne Zilliges",
+"guid": "1135737666"
+        }, {
+            "name": "Robert Lehmann",
+"guid": "2191593468"
+        }, {
+            "name": "Sabrina Hoffmann",
+"guid": "2156684554"
+        }, {
+            "name": "Wolfgan…",
+"guid": "1647582128"
+        }
+]
+,
+"year": "2013",
+"journal": "· PLOS Computational Biology",
+"cites": 204,
+"abstract": "Cyanobacteria are versatile unicellular phototrophic microorganisms that are highly abundant in many environments. Owing to their capability to utilize solar energy and atmospheric carbon dioxide for growth…",
+"keywords": [
+{
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "63a400d95438fb638b176d7ea66e6b49",
+"title": "Plasticity of genetic interactions in metabolic networks of yeast",
+"authors": [
+{
+            "name": "Richard J Harrison",
+"guid": "2153556185"
+        }, {
+            "name": "Balazs Papp",
+"guid": "2126101777"
+        }, {
+            "name": "Csaba Pal",
+"guid": "2130121867"
+        }, {
+            "name": "Stephen G Oliver",
+"guid": "2141347178"
+        }, {
+            "name": "Daniela Delneri",
+"guid": "7424738"
+        }
+]
+,
+"year": "2007",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 201,
+"abstract": "Why are most genes dispensable? The impact of gene deletions may depend on the environment (plasticity), the presence of compensatory mechanisms (mutational robustness), or both. Here, we analy…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Epistasis",
+"guid": "61727976"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a5d6cc57a348d7dd479c1cd237d95cd3",
+"title": "Characterizing the metabolic phenotype: A phenotype phase plane analysis",
+"authors": [
+{
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Ramprasad Ramakrishna",
+"guid": "2203561081"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2002",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 197,
+"abstract": "Genome-scale metabolic maps can be reconstructed from annotated genome sequence data, biochemical literature, bioinformatic analysis, and strain-specific information. Flux-balance analysis has been useful f…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

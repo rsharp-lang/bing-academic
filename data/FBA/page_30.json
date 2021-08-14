@@ -1,3 +1,4 @@
+[
 {
             "guid": "1338c5b47b2358495a3a35c99c120eab",
 "title": "Computational Strategies for a System-Level Understanding of Metabolism",
@@ -40,4 +41,350 @@
         }
 ]
 
+        }, {
+            "guid": "4e5c3892e26692894528f968eef21881",
+"title": "Spatiotemporal modeling of microbial metabolism",
+"authors": [
+{
+            "name": "Jin Chen",
+"guid": "2302702452"
+        }, {
+            "name": "J A Gomez",
+"guid": "2110489425"
+        }, {
+            "name": "Kai Hoffner",
+"guid": "2023742012"
+        }, {
+            "name": "Poonam Phalak",
+"guid": "2290001352"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
+        }, {
+            "name": "Michael A Henson",
+"guid": "2283948593"
         }
+]
+,
+"year": "2016",
+"journal": "· BMC Systems Biology",
+"cites": 36,
+"abstract": "Background#R##N#Microbial systems in which the extracellular environment varies both spatially and temporally are very common in nature and in engineering applications. While the use of genome-scale …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4f69f1035ff29fba58d31e351a9d77c4",
+"title": "Modelling central metabolic fluxes by constraint-based optimization reveals metabolic reprogramming of developin…",
+"authors": [
+{
+            "name": "Sophie Colombie",
+"guid": "1987975782"
+        }, {
+            "name": "Christine Nazaret",
+"guid": "1981642410"
+        }, {
+            "name": "Camille Benard",
+"guid": "2003729579"
+        }, {
+            "name": "Benoit Biais",
+"guid": "2018992047"
+        }, {
+            "name": "Virginie Mengin",
+"guid": "2509580303"
+        }, {
+            "name": "Marion Sole",
+"guid": "2514310827"
+        }, {
+            "name": "L…",
+"guid": "2583947066"
+        }
+]
+,
+"year": "2015",
+"journal": "· Plant Journal",
+"cites": 36,
+"abstract": "Modelling of metabolic networks is a powerful tool to analyse the behaviour of developing plant organs, including fruits. Guided by our current understanding of heterotrophic metabolism of plant cells, a mediu…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ec3ea513cf37a316b7ad06cb83c441b5",
+"title": "Parameter estimation in metabolic fluxbalance models for batch fermentation—Formulation & Solution using Differenti…",
+"authors": [
+{
+            "name": "Arvind U Raghunathan",
+"guid": "2780943138"
+        }, {
+            "name": "J Ricardo Perezcorrea",
+"guid": "395541463"
+        }, {
+            "name": "Eduardo Agosin",
+"guid": "280152681"
+        }, {
+            "name": "Lorenz T Biegler",
+"guid": "2144738840"
+        }
+]
+,
+"year": "2006",
+"journal": "· Annals of Operations Research",
+"cites": 36,
+"abstract": "Recent years have witnessed a surge in research in cellular biology. There has been particular interest in the interaction between cellular metabolism and its environment. In this work we present a framework fo…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "042ba26bca9f29c665a9141acb5d0e8d",
+"title": "von Bertalanffy 1.0",
+"authors": [
+{
+            "name": "Ronan M T Fleming",
+"guid": "2103396758"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }
+]
+,
+"year": "2011",
+"journal": "· Bioinformatics",
+"cites": 36,
+"abstract": "Motivation: In flux balance analysis of genome scale stoichiometric models of metabolism, the principal constraints are uptake or secretion rates, the steady state mass conservation assumption and reaction …",
+"keywords": [
+{
+            "word": "Directionality",
+"guid": "29648211"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fdf157e5781ffc6c124dfd6aad662cec",
+"title": "Fumaric Acid Production in Saccharomyces cerevisiae by In Silico Aided Metabolic Engineering",
+"authors": [
+{
+            "name": "Guoqiang Xu",
+"guid": "2707955272"
+        }, {
+            "name": "Wei Zou",
+"guid": "2431052229"
+        }, {
+            "name": "Xiulai Chen",
+"guid": "2104517620"
+        }, {
+            "name": "Nan Xu",
+"guid": "2309593329"
+        }, {
+            "name": "Liming Liu",
+"guid": "2119846317"
+        }, {
+            "name": "Jian Chen",
+"guid": "2429854539"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS ONE",
+"cites": 36,
+"abstract": "Fumaric acid (FA) is a promising biomass-derived building-block chemical. Bio-based FA production from renewable feedstock is a promising and sustainable alternative to petroleum-based chemical synthesis. …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4a835f5e29b74d7607e8936a6e1cbd35",
+"title": "Metabolic network analysis predicts efficacy of FDA-approved drugs targeting the causative agent of a neglected tropical di…",
+"authors": [
+{
+            "name": "Arvind K Chavali",
+"guid": "2013334876"
+        }, {
+            "name": "Anna S Blazier",
+"guid": "2039341590"
+        }, {
+            "name": "Jose L Tlaxca",
+"guid": "1470493314"
+        }, {
+            "name": "Paul A Jensen",
+"guid": "2613309014"
+        }, {
+            "name": "Richard D Pearson",
+"guid": "2155112564"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 35,
+"abstract": "Background#R##N#Systems biology holds promise as a new approach to drug target identification and drug discovery against neglected tropical diseases. Genome-scale metabolic reconstructions, assemble…",
+"keywords": [
+{
+            "word": "Lethality",
+"guid": "20379349"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8307a477511fdf068e9ad331344bdc2d",
+"title": "Broad metabolic sensitivity profiling of a prototrophic yeast deletion collection",
+"authors": [
+{
+            "name": "Benjamin Vandersluis",
+"guid": "2052278556"
+        }, {
+            "name": "David C Hess",
+"guid": "2597764658"
+        }, {
+            "name": "Colin Pesyna",
+"guid": "2011975231"
+        }, {
+            "name": "Elias W Krumholz",
+"guid": "2599167074"
+        }, {
+            "name": "Tahin Syed",
+"guid": "2137965981"
+        }, {
+            "name": "Balazs Szappa…",
+"guid": "1890206974"
+        }
+]
+,
+"year": "2014",
+"journal": "· Genome Biology",
+"cites": 35,
+"abstract": "Background: Genome-wide sensitivity screens in yeast have been immensely popular following the construction of a collection of deletion mutants of non-essential genes. However, the auxotrophic marke…",
+"keywords": [
+{
+            "word": "Auxotrophy",
+"guid": "20950039"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8b80f8cd894802eeaf6469aa274bbe2e",
+"title": "Influence of Uncertainties in pH, pMg, Activity Coefficients, Metabolite Concentrations, and Other Factors on the Analysis …",
+"authors": [
+{
+            "name": "Vojislav Vojinovic",
+"guid": "2620360194"
+        }, {
+            "name": "Urs Von Stockar",
+"guid": "187858774"
+        }
+]
+,
+"year": "2009",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 35,
+"abstract": "Thermodynamic feasibility analysis (TFA) has been used as a toot capable of providing additional constraints to the mass balance-based methods of analysis of Metabolic networks (e.g., flux balance an…",
+"keywords": [
+{
+            "word": "Equilibrium Constant",
+"guid": "10710636"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6d13b2a5fdd5981433f2ee97400d5d70",
+"title": "A computational exploration of bacterial metabolic diversity identifying metabolic interactions and growth-efficient strain …",
+"authors": [
+{
+            "name": "Eleftheria Tzamali",
+"guid": "2618273639"
+        }, {
+            "name": "Panayiota Poirazi",
+"guid": "2197306891"
+        }, {
+            "name": "Ioannis G Tollis",
+"guid": "2309726537"
+        }, {
+            "name": "Martin Reczko",
+"guid": "1971209080"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 35,
+"abstract": "Background#R##N#Metabolic interactions involve the exchange of metabolic products among microbial species. Most microbes live in communities and usually rely on metabolic interactions to increase their s…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Strain (chemistry)",
+"guid": "61656845"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

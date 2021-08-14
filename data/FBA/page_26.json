@@ -1,3 +1,4 @@
+[
 {
             "guid": "088ff6676691bafa61c1e442972696a9",
 "title": "Metabolic network modeling of redox balancing and biohydrogen production in purple nonsulfur bacteria",
@@ -31,4 +32,350 @@
         }
 ]
 
+        }, {
+            "guid": "742d34b028c44940a3b8bdbe569d7694",
+"title": "Metabolism as means for hypoxia adaptation: metabolic profiling and flux balance analysis",
+"authors": [
+{
+            "name": "Jacob D Feala",
+"guid": "1257737874"
+        }, {
+            "name": "Laurence Coquin",
+"guid": "2002407875"
+        }, {
+            "name": "Dan Zhou",
+"guid": "2115596058"
+        }, {
+            "name": "Gabriel G Haddad",
+"guid": "2766143027"
+        }, {
+            "name": "Giovanni Paternostro",
+"guid": "2473331931"
+        }, {
+            "name": "Andrew D M…",
+"guid": "2138470661"
         }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 45,
+"abstract": "Cellular hypoxia is a component of many diseases, but mechanisms of global hypoxic adaptation and resistance are not completely understood. Previously, a population of Drosophila flies was experimentall…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5467439531ab4d288759e74d3761a356",
+"title": "A dynamic, genome-scale flux model of Lactococcus lactis to increase specific recombinant protein expression.",
+"authors": [
+{
+            "name": "Gian M Oddone",
+"guid": "2028616833"
+        }, {
+            "name": "David A Mills",
+"guid": "2141244368"
+        }, {
+            "name": "David E Block",
+"guid": "2108050984"
+        }
+]
+,
+"year": "2009",
+"journal": "· Metabolic Engineering",
+"cites": 45,
+"abstract": "Abstract Recently, lactic acid bacteria (LAB) have attracted a great deal of interest because of their potential to serve as oral delivery vehicles for recombinant protein vaccines. An important limitation to th…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Recombinant DNA",
+"guid": "40767141"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dbf5119a5fe67427d8adbe99894e5107",
+"title": "Metabolic requirements for cancer cell proliferation",
+"authors": [
+{
+            "name": "Mark A Keibler",
+"guid": "671640683"
+        }, {
+            "name": "Thomas M Wasylenko",
+"guid": "1515525285"
+        }, {
+            "name": "Joanne K Kelleher",
+"guid": "1989759742"
+        }, {
+            "name": "Othon Iliopoulos",
+"guid": "284268143"
+        }, {
+            "name": "Matthew G Vander Hei…",
+"guid": "2139370317"
+        }
+]
+,
+"year": "2016",
+"journal": "· Cancer and Metabolism",
+"cites": 45,
+"abstract": "The study of cancer metabolism has been largely dedicated to exploring the hypothesis that oncogenic transformation rewires cellular metabolism to sustain elevated rates of growth and division. Intense exa…",
+"keywords": [
+{
+            "word": "Anabolism",
+"guid": "1008401"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "13e7e48f71a8af79a9004c6d46a52407",
+"title": "Integrated stoichiometric, thermodynamic and kinetic modelling of steady state metabolism ☆",
+"authors": [
+{
+            "name": "Ronan M T Fleming",
+"guid": "2103396758"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Gregory Provan",
+"guid": "329377719"
+        }, {
+            "name": "Heinzpeter Nasheuer",
+"guid": "1934969129"
+        }
+]
+,
+"year": "2010",
+"journal": "· Journal of Theoretical Biology",
+"cites": 45,
+"abstract": "Abstract The quantitative analysis of biochemical reactions and metabolites is at frontier of biological sciences. The recent availability of high-throughput technology data sets in biology has paved the way f…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ee9704cd82ed5ad532ac4a5ff65f30ec",
+"title": "A detailed metabolic fluxanalysis of an underdetermined network of CHO cells",
+"authors": [
+{
+            "name": "Francisca Zamorano",
+"guid": "2133233276"
+        }, {
+            "name": "Alain Vande Wouwer",
+"guid": "2004468975"
+        }, {
+            "name": "Georges Bastin",
+"guid": "2143245734"
+        }
+]
+,
+"year": "2010",
+"journal": "· Journal of Biotechnology",
+"cites": 45,
+"abstract": "In this article the metabolic fluxanalysis of growing CHO-320 cells is performed for a detailed metabolic network which involves 100 reactions and embraces all the significant pathways describing the metaboli…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8818d53c706a87935263f519ea355d3f",
+"title": "Lethality and synthetic lethality in the genome-wide metabolic network of Escherichia coli",
+"authors": [
+{
+            "name": "Cheolmin Ghim",
+"guid": "2636964852"
+        }, {
+            "name": "Kwangil Goh",
+"guid": "2435970296"
+        }, {
+            "name": "B Kahng",
+"guid": "1916781381"
+        }
+]
+,
+"year": "2005",
+"journal": "· Journal of Theoretical Biology",
+"cites": 45,
+"abstract": "Recent genomic analyses on the cellular metabolic network show that reaction flux across enzymes are diverse and exhibit power-law behavior in its distribution. While intuition might suggest that the reaction…",
+"keywords": [
+{
+            "word": "Lethality",
+"guid": "20379349"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1352a46b36129e35f4c860ef6bcb9d1c",
+"title": "An in silico compartmentalized metabolic model of Brassica napus enables the systemic study of regulatory aspects of pla…",
+"authors": [
+{
+            "name": "Eleftherios Pilalis",
+"guid": "1256420572"
+        }, {
+            "name": "Aristotelis Chatziioannou",
+"guid": "1968136109"
+        }, {
+            "name": "Brigitte Thomasset",
+"guid": "137983695"
+        }, {
+            "name": "Fragiskos N Kolisis",
+"guid": "295427690"
+        }
+]
+,
+"year": "2011",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 44,
+"abstract": "Biochemical network reconstructions represent valuable tools for the computational metabolic modeling of organisms that present a great biotechnological interest. An in silico multi-compartmental model of the c…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "968df817a21aefbf5ddadb5ca535a54e",
+"title": "Photosynthetic metabolism of C3 plants shows highly cooperative regulation under changing environments: A syste…",
+"authors": [
+{
+            "name": "Ruoyu Luo",
+"guid": "2698950246"
+        }, {
+            "name": "Haibin Wei",
+"guid": "2676529441"
+        }, {
+            "name": "Lin Ye",
+"guid": "2682676817"
+        }, {
+            "name": "Kankan Wang",
+"guid": "2097477649"
+        }, {
+            "name": "Fan Chen",
+"guid": "2785083925"
+        }, {
+            "name": "Lijun Luo",
+"guid": "2714230108"
+        }, {
+            "name": "Lei Liu",
+"guid": "2723366319"
+        }, {
+            "name": "Yuanyuan Li",
+"guid": "2291766699"
+        }, {
+            "name": "M Ja…",
+"guid": "2793926607"
+        }
+]
+,
+"year": "2009",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 44,
+"abstract": "We studied the robustness of photosynthetic metabolism in the chloroplasts of C3 plants under drought stress and at high CO2 concentration conditions by using a method called Minimization of Metabolic Adj…",
+"keywords": [
+{
+            "word": "Normal Conditions",
+"guid": "4166729"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6784be6ad3ca4f16cf6937c256e0490f",
+"title": "High-throughput comparison, functional annotation, and metabolic modeling of plant genomes using the PlantSEED re…",
+"authors": [
+{
+            "name": "Samuel M D Seaver",
+"guid": "2034033404"
+        }, {
+            "name": "Svetlana Gerdes",
+"guid": "2309231354"
+        }, {
+            "name": "Oceane Frelin",
+"guid": "1584275015"
+        }, {
+            "name": "Claudia Lermaortiz",
+"guid": "288634975"
+        }, {
+            "name": "Louis M T Bradbury",
+"guid": "2106185229"
+        }, {
+            "name": "Re…",
+"guid": "7596913"
+        }
+]
+,
+"year": "2014",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 43,
+"abstract": "The increasing number of sequenced plant genomes is placing new demands on the methods applied to analyze, annotate, and model these genomes. Today’s annotation pipelines result in inconsistent gene …",
+"keywords": [
+{
+            "word": "Bacterial Genome Size",
+"guid": "3742359"
+        }, {
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

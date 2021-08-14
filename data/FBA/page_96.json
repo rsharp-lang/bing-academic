@@ -1,3 +1,4 @@
+[
 {
             "guid": "ca79f75ca1afa71196f22a8ada78d702",
 "title": "Principal Metabolic Flux Mode Analysis",
@@ -34,4 +35,299 @@
         }
 ]
 
+        }, {
+            "guid": "63015d6b771beb74983e9e899549384c",
+"title": "Anticancer drug discovery through genome-scale metabolic modeling",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· Current Opinion in Systems Biology",
+"cites": 2,
+"abstract": "Altered metabolism has long been recognized as a defining property of cancer physiology, but is experiencing renewed interest as the importance of such alterations are becoming fully realized. Once r…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Cancer Metabolism",
+"guid": "2992896050"
+        }, {
+            "word": "Personalized Medicine",
+"guid": "32220436"
         }
+]
+
+        }, {
+            "guid": "537d0f1677f0653c103cbba6b4038bd8",
+"title": "Resource constrained flux balanceanalysis predicts selective pressure on the global structure of metabolic networks",
+"authors": [
+{
+            "name": "Nima Abedpour",
+"guid": "2066213536"
+        }, {
+            "name": "Markus Kollmann",
+"guid": "2165599535"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 2,
+"abstract": "Background#R##N#A universal feature of metabolic networks is their hourglass or bow-tie structure on cellular level. This architecture reflects the conversion of multiple input nutrients into multiple biomass co…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Natural Selection",
+"guid": "75268714"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "12a899669a7b39ca99834869f5bc1858",
+"title": "System-level analysis of metabolic trade-offs during anaerobic photoheterotrophic growth in Rhodopseudomonas palustris",
+"authors": [
+{
+            "name": "Ali Navid",
+"guid": "2148589744"
+        }, {
+            "name": "Yongqin Jiao",
+"guid": "2992056443"
+        }, {
+            "name": "Sergio E Wong",
+"guid": "2114200298"
+        }, {
+            "name": "Jennifer Pettridge",
+"guid": "1935489670"
+        }
+]
+,
+"year": "2019",
+"journal": "· BMC Bioinformatics",
+"cites": 2,
+"abstract": "Living organisms need to allocate their limited resources in a manner that optimizes their overall fitness by simultaneously achieving several different biological objectives. Examination of these biological trade-off…",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a661d9f36908e1dab2829f2936f8110d",
+"title": "Glycerol metabolism of Pichia pastoris (Komagataella spp.) characterised by 13C-based metabolic flux analysis",
+"authors": [
+{
+            "name": "Marius Tomasgamisans",
+"guid": "2551018066"
+        }, {
+            "name": "Anders Sebastian Rosenkrans Odum",
+"guid": "2909608744"
+        }, {
+            "name": "Mhairi Workman",
+"guid": "2917797806"
+        }, {
+            "name": "Pau Ferrer",
+"guid": "2154875481"
+        }, {
+            "name": "Joan A…",
+"guid": "2164433623"
+        }
+]
+,
+"year": "2019",
+"journal": "· New Biotechnology",
+"cites": 2,
+"abstract": "Abstract Metabolic flux analysis based on 13C-derived constraints has proved to be a powerful method for quantitative physiological characterisation of one of the most extensively used microbial cell factory platf…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bd64d338e5e1a71551b59f2cf6bb6eca",
+"title": "Flux balance modeling to predict bacterial survival during pulsed-activity events",
+"authors": [
+{
+            "name": "Nicholas A Jose",
+"guid": "2765716534"
+        }, {
+            "name": "Rebecca Lau",
+"guid": "2406878342"
+        }, {
+            "name": "Tami L Swenson",
+"guid": "2581135662"
+        }, {
+            "name": "Niels Klitgord",
+"guid": "2295141456"
+        }, {
+            "name": "Ferran Garciapichel",
+"guid": "275510848"
+        }, {
+            "name": "Benjamin P B…",
+"guid": "2108536386"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biogeosciences",
+"cites": 2,
+"abstract": "Abstract. Desert biological soil crusts (BSCs) are cyanobacteria-dominated#N#surface soil microbial communities common to plant interspaces in arid#N#environments. The capability to significantly damp…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Osmoprotectant",
+"guid": "26448091"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bbd0c75e2d8a0f539e15458577d49cfd",
+"title": "Identification of gene knockout strategies using a hybrid of an ant colony optimization algorithm and flux balanceanalysis t…",
+"authors": [
+{
+            "name": "Shi Jing Lu",
+"guid": "2550014757"
+        }, {
+            "name": "Abdul Hakim Mohamed Salleh",
+"guid": "2124208187"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Sigeru Omatu",
+"guid": "665497035"
+        }, {
+            "name": "M…",
+"guid": "2027542045"
+        }
+]
+,
+"year": "2014",
+"journal": "· Computational Biology and Chemistry",
+"cites": 2,
+"abstract": "Abstract Reconstructions of genome-scale metabolic networks from different organisms have become popular in recent years. Metabolic engineering can simulate the reconstruction process to obtain desira…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7d6602447bb25a5639c1934d9bb004fa",
+"title": "Industrial Systems Biology and Metabolic Engineering of Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Otero Romero",
+"guid": "2562078799"
+        }, {
+            "name": "Jose Manuel",
+"guid": "2561562409"
+        }
+]
+,
+"year": "2009",
+"journal": "",
+"cites": 2,
+"abstract": "Saccharomyces cerevisiae is the most well characterized eukaryote, the preferred microbial cell factory#R##N#for the largest industrial biotechnology product (bioethanol), and a robust commercially c…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Directed Evolution",
+"guid": "9418097"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bfcfc6375d9b42e8c52ec99374347e51",
+"title": "Robust Analysis of Metabolic Pathways",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "",
+"cites": 2,
+"abstract": "Flux balanceanalysis (FBA) is a standard optimization model that is used to study the metabolisms of cells that are in a steady state of optimal growth. The model optimizes a biologically defined objective w…",
+"keywords": [
+{
+            "word": "Mathematical And Theoretical Biology",
+"guid": "20129857"
+        }, {
+            "word": "Second-order Cone Programming",
+"guid": "111397411"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "096b0ac292de598a98a2ccaaf7030594",
+"title": "Grid-based computational methods for the design of constraint-based parsimonious chemical reaction networks t…",
+"authors": [
+{
+            "name": "Takeyuki Tamura",
+"guid": "2171727546"
+        }
+]
+,
+"year": "2018",
+"journal": "· BMC Bioinformatics",
+"cites": 2,
+"abstract": "Constraint-based metabolic flux analysis of knockout strategies is an efficient method to simulate the production of useful metabolites in microbes. Owing to the recent development of technologies for artifici…",
+"keywords": [
+{
+            "word": "Source Code",
+"guid": "43126263"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

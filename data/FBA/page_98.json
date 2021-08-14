@@ -1,3 +1,4 @@
+[
 {
             "guid": "5eaad846ce896900f0959a00888cce46",
 "title": "EcoSynther: A Customized Platform To Explore the Biosynthetic Potential in E. coli",
@@ -46,4 +47,260 @@
         }
 ]
 
+        }, {
+            "guid": "526a2c1ffafb7ccd4445cf303d6fe84e",
+"title": "Evolution and regulation of nitrogen flux through compartmentalized metabolic networks in a marine diatom",
+"authors": [
+{
+            "name": "Sarah R Smith",
+"guid": "2763846164"
+        }, {
+            "name": "Christopher L Dupont",
+"guid": "2305690617"
+        }, {
+            "name": "James K Mccarthy",
+"guid": "2503992740"
+        }, {
+            "name": "Jared T Broddrick",
+"guid": "2327217158"
+        }, {
+            "name": "Miroslav Obornik",
+"guid": "133515595"
+        }, {
+            "name": "Ale…",
+"guid": "2304621787"
         }
+]
+,
+"year": "2019",
+"journal": "· Nature Communications",
+"cites": 2,
+"abstract": "Diatoms outcompete other phytoplankton for nitrate, yet little is known about the mechanisms underpinning this ability. Genomes and genome-enabled studies have shown that diatoms possess uniq…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "31f43df67594626012f8c682752b5c10",
+"title": "Systematic development and optimization of chemically defined medium supporting high cell density growth of Bacill…",
+"authors": [
+{
+            "name": "Yu Chen",
+"guid": "2589406910"
+        }, {
+            "name": "Fengqing Dong",
+"guid": "2582116216"
+        }, {
+            "name": "Yonghong Wang",
+"guid": "2104543289"
+        }
+]
+,
+"year": "2016",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 2,
+"abstract": "With determined components and experimental reducibility, the chemically defined medium (CDM) and the minimal chemically defined medium (MCDM) are used in many metabolism and regulation studies. This …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "da7d0fac468dc1b0f42c3b2d262a1395",
+"title": "Approaches to Computational Strain Design in the Multiomics Era",
+"authors": [
+{
+            "name": "Peter C St John",
+"guid": "2552683554"
+        }, {
+            "name": "Yannick J Bomble",
+"guid": "295390273"
+        }
+]
+,
+"year": "2019",
+"journal": "· Frontiers in Microbiology",
+"cites": 2,
+"abstract": "Modern omics analyses are able to effectively characterize the genetic, regulatory, and metabolic phenotypes of engineered microbes, yet designing genetic interventions to achieve a desired phenotyp…",
+"keywords": [
+{
+            "word": "Timeline",
+"guid": "4438859"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a5cbba8b9025d4c46899870c265dbf79",
+"title": "FluxVisualizer, a Software to Visualize Fluxes through Metabolic Networks",
+"authors": [
+{
+            "name": "Tim Daniel Rose",
+"guid": "2800091557"
+        }, {
+            "name": "Jeanpierre Mazat",
+"guid": "2235459224"
+        }
+]
+,
+"year": "2018",
+"journal": "",
+"cites": 2,
+"abstract": "FluxVisualizer (Version 1.0, 2017, freely available at https:\/\/fluxvisualizer.ibgc.cnrs.fr) is a software to visualize fluxes values on a scalable vector graphic (SVG) representation of a metabolic network by colo…",
+"keywords": [
+{
+            "word": "Computational Science",
+"guid": "459310"
+        }, {
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "489cb32e5844bff516ba4a444f277cd5",
+"title": "Evaluating simulated annealing algorithms in the optimization of bacterial strains",
+"authors": [
+
+]
+,
+"year": "2007",
+"journal": "· portuguese conference on artificial intelligence",
+"cites": 2,
+"abstract": "In this work, a Simulated Annealing (SA) algorithm is proposed for a Metabolic Engineering task: the optimization of the set of gene deletions to apply to a microbial strain to achieve a desired production go…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Simulated Annealing",
+"guid": "126980161"
+        }
+]
+
+        }, {
+            "guid": "49a118fcc92c582aa9b28ab9d8a4783f",
+"title": "A poly-omics machine-learning method to predict metabolite production in CHO cells",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "",
+"cites": 2,
+"abstract": "The success of therapeutic proteins such as insulin has led to the massive recognition of biological medical products as highly effective clinical drugs. As the use of biologics gains popularity, in industrial …",
+"keywords": [
+{
+            "word": "Machine Learning",
+"guid": "119857082"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8d83219cec844049e8435e97e6e88c76",
+"title": "On metabolic networks and multi-omics integration",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 2,
+"abstract": "Cellular metabolism is a highly complex chemical system, involving thousands of interacting metabolites and reactions. The traditional approach to understanding metabolism has been that of reductionism; by i…",
+"keywords": [
+{
+            "word": "Cancer",
+"guid": "121608353"
+        }, {
+            "word": "Penicillin",
+"guid": "174802600"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e92954f8a1db5d8be5353a4bc5530e6c",
+"title": "Enhancing Metabolic Models with Genome-Scale Experimental Data",
+"authors": [
+{
+            "name": "Kristian Jensen",
+"guid": "2924530306"
+        }, {
+            "name": "Steinn Gudmundsson",
+"guid": "2102394432"
+        }, {
+            "name": "Markus J Herrgard",
+"guid": "1772558778"
+        }
+]
+,
+"year": "2018",
+"journal": "",
+"cites": 2,
+"abstract": "Genome-scale metabolic reconstructions have found widespread use in scientific research as structured representations of knowledge about an organism’s metabolism and as starting points for metabolic simu…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a3c9f436193c029b24b5c58b7b8fc1b8",
+"title": "Detecting the Significant Flux Backbone of Escherichia coli metabolism",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· FEBS Letters",
+"cites": 2,
+"abstract": "The heterogeneity of computationally predicted reaction fluxes in metabolic networks within a single flux state can be exploited to detect their significant flux backbone. Here, we disclose the backbone of Esch…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

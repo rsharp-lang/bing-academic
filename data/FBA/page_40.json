@@ -1,3 +1,4 @@
+[
 {
             "guid": "20fb1740580883cba648e7f96d837b6f",
 "title": "A genome-scale metabolic network reconstruction of tomato (Solanum lycopersicum L.) and its application to photorespirat…",
@@ -37,4 +38,320 @@
         }
 ]
 
+        }, {
+            "guid": "d218190a05d9bb41b50e65f55d9d152e",
+"title": "Ensemble modeling of cancer metabolism",
+"authors": [
+{
+            "name": "Tahmineh Khazaei",
+"guid": "2723422138"
+        }, {
+            "name": "Alison P Mcguigan",
+"guid": "2072757257"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
         }
+]
+,
+"year": "2012",
+"journal": "· Frontiers in Physiology",
+"cites": 25,
+"abstract": "The metabolic behavior of cancer cells is adapted to meet their proliferative needs, with notable changes such as enhanced lactate secretion and glucose uptake rates. In this work, we use the Ensemble Model…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "260b4ab3499088d5ab7fbd5548c92e35",
+"title": "A refined genome‐scale reconstruction of Chlamydomonas metabolism provides a platform for systems‐level analyses",
+"authors": [
+{
+            "name": "Saheed Imam",
+"guid": "2166695859"
+        }, {
+            "name": "Sascha Schauble",
+"guid": "2164266881"
+        }, {
+            "name": "Jacob J Valenzuela",
+"guid": "2476488843"
+        }, {
+            "name": "Adrian Lopez Garcia De Lomana",
+"guid": "2289380978"
+        }, {
+            "name": "Warren Car…",
+"guid": "2189764164"
+        }
+]
+,
+"year": "2015",
+"journal": "· Plant Journal",
+"cites": 24,
+"abstract": "Microalgae have reemerged as organisms of prime biotechnological interest due to their ability to synthesize a suite of valuable chemicals. To harness the capabilities of these organisms, we need a co…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "725a37f3e9ef206a05ed96d7069e1323",
+"title": "Insights into pH‐induced metabolic switch by fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Marija Ivarsson",
+"guid": "2155735271"
+        }, {
+            "name": "Heeju Noh",
+"guid": "2708690592"
+        }, {
+            "name": "Massimo Morbidelli",
+"guid": "456289719"
+        }, {
+            "name": "Miroslav Soos",
+"guid": "2149723350"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology Progress",
+"cites": 24,
+"abstract": "Lactate accumulation in mammalian cell culture is known to impede cellular growth and productivity. The control of lactate formation and consumption in a hybridoma cell line was achieved by pH alteration duri…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Cell Growth",
+"guid": "62112901"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "92f5bea8ebe200b2132906cc1f25ef4e",
+"title": "13C-metabolic fluxanalysis for mevalonate-producing strain of Escherichia coli",
+"authors": [
+{
+            "name": "Keisuke Wada",
+"guid": "2939151162"
+        }, {
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Satomi Banno",
+"guid": "2582979296"
+        }, {
+            "name": "Katsunori Yoshikawa",
+"guid": "2241571910"
+        }, {
+            "name": "Fumio Matsuda",
+"guid": "1993147996"
+        }, {
+            "name": "Hiroshi Shim…",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2017",
+"journal": "· Journal of Bioscience and Bioengineering",
+"cites": 24,
+"abstract": "Mevalonate (MVA) is used to produce various useful products such as drugs, cosmetics and food additives. An MVA-producing strain of Escherichia coli (engineered) was constructed by introducing mva…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dcf0c8c6c7573c0459fbb1510702d467",
+"title": "Metabolic assessment of E. coli as a Biofactory for commercial products.",
+"authors": [
+{
+            "name": "Xiaolin Zhang",
+"guid": "2901368201"
+        }, {
+            "name": "Christopher J Tervo",
+"guid": "2009931019"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering",
+"cites": 24,
+"abstract": "Abstract Metabolic engineering uses microorganisms to synthesize chemicals from renewable resources. Given the thousands of known metabolites, it is unclear what valuable chemicals could be produced by …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "447f558e386ad3fccf2a855769efea72",
+"title": "Efficiently gap-filling reaction networks",
+"authors": [
+{
+            "name": "Mario Latendresse",
+"guid": "2298522305"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Bioinformatics",
+"cites": 24,
+"abstract": "FluxBalanceAnalysis (FBA) is a genome-scale computational technique for modeling the steady-state fluxes of an organism’s reaction network. When the organism’s reaction network needs to be completed …",
+"keywords": [
+{
+            "word": "Integer",
+"guid": "4071166"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4514714d72a8d840aca44acf3ff9fb25",
+"title": "Targeting multiple targets in Pseudomonas aeruginosa PAO1 using fluxbalanceanalysis of a reconstructed genome-scale …",
+"authors": [
+{
+            "name": "Deepak Perumal",
+"guid": "2147904760"
+        }, {
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }, {
+            "name": "Kishore R Sakharkar",
+"guid": "2930248659"
+        }, {
+            "name": "Meena K Sakharkar",
+"guid": "2317956554"
+        }
+]
+,
+"year": "2011",
+"journal": "· Journal of Drug Targeting",
+"cites": 24,
+"abstract": "Constraint-based fluxbalanceanalysis (FBA) is a powerful tool for predicting target genes that can be engineered by analyzing the redistribution of metabolic fluxes on specific gene modifications. Specificall…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1e1bd57dfc6dfc9642a7ad4b1ddd625c",
+"title": "Capturing the essence of a metabolic network: A fluxbalanceanalysis approach",
+"authors": [
+{
+            "name": "Ettore Murabito",
+"guid": "30318258"
+        }, {
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Jonathan Swinton",
+"guid": "2135951779"
+        }
+]
+,
+"year": "2009",
+"journal": "· Journal of Theoretical Biology",
+"cites": 24,
+"abstract": "As genome-scale metabolic reconstructions emerge, tools to manage their size and complexity will be increasingly important. FluxBalanceAnalysis (FBA) is a constraint-based approach widely used to stud…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1e7b9ff6e826f5fc513650d19ff217c7",
+"title": "Adaptive bi-level programming for optimal gene knockouts for targeted overproduction under phenotypic constraints",
+"authors": [
+{
+            "name": "Shaogang Ren",
+"guid": "2893991764"
+        }, {
+            "name": "Bo Zeng",
+"guid": "2184971861"
+        }, {
+            "name": "Xiaoning Qian",
+"guid": "2120003736"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Bioinformatics",
+"cites": 24,
+"abstract": "Background#R##N#Optimization procedures to identify gene knockouts for targeted biochemical overproduction have been widely in use in modern metabolic engineering. Fluxbalanceanalysis (FBA) f…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

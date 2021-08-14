@@ -1,3 +1,4 @@
+[
 {
             "guid": "c554195ad971d58e075a5b1683d2b9af",
 "title": "YEAST 5 – AN EXPANDED RECONSTRUCTION OF THE SACCHAROMYCES CEREVISIAE METABOLIC NETWORK",
@@ -37,4 +38,341 @@
         }
 ]
 
+        }, {
+            "guid": "c2d5ee7ae803c2c6a0d8910e2a517e32",
+"title": "Genome-scale in silico aided metabolic analysis and flux comparisons of Escherichia coli to improve succinate producti…",
+"authors": [
+{
+            "name": "Qingzhao Wang",
+"guid": "2125083994"
+        }, {
+            "name": "Xun Chen",
+"guid": "2105937359"
+        }, {
+            "name": "Yudi Yang",
+"guid": "2561412483"
+        }, {
+            "name": "Xueming Zhao",
+"guid": "2101109901"
         }
+]
+,
+"year": "2006",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 145,
+"abstract": "In the post-genome era, it is one challenge to understand the cellular metabolism at the systematic levels. Mathematical modeling of microorganisms and subsequent computer simulation are effective tools for s…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7f3d6c348e21c3e6922156e619a325d4",
+"title": "Method and system for modeling cellular metabolism",
+"authors": [
+{
+            "name": "Costas D Maranas",
+"guid": "2762978078"
+        }, {
+            "name": "Anthony P Burgard",
+"guid": "2763851512"
+        }
+]
+,
+"year": "2002",
+"journal": "",
+"cites": 144,
+"abstract": "This invention relates to methods and systems for in silico or bioinformatic modeling of cellular metabolism. The invention includes methods and systems for modeling cellular metabolism of an organi…",
+"keywords": [
+{
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "38a408646f71c77df03fa6731a2132bd",
+"title": "Reconstruction and flux‐balance analysis of the Plasmodium falciparum metabolic network",
+"authors": [
+{
+            "name": "German Plata",
+"guid": "2138178815"
+        }, {
+            "name": "Tzulin Hsiao",
+"guid": "2159595205"
+        }, {
+            "name": "Kellen L Olszewski",
+"guid": "1980429976"
+        }, {
+            "name": "Manuel Llinas",
+"guid": "2165746366"
+        }, {
+            "name": "Dennis Vitkup",
+"guid": "167887920"
+        }
+]
+,
+"year": "2010",
+"journal": "· Molecular Systems Biology",
+"cites": 142,
+"abstract": "Genome-scale metabolic reconstructions can serve as important tools for hypothesis generation and high-throughput data integration. Here, we present a metabolic network reconstruction and flux-balance anal…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "517c1083dfa176d0471f883845f6dabe",
+"title": "The application of flux balance analysis in systems biology",
+"authors": [
+{
+            "name": "Erwin P Gianchandani",
+"guid": "1962170659"
+        }, {
+            "name": "Arvind K Chavali",
+"guid": "2013334876"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2010",
+"journal": "· Wiley Interdisciplinary Reviews: Systems Biology and Medicine",
+"cites": 141,
+"abstract": "An increasing number of genome-scale reconstructions of intracellular biochemical networks are being generated. Coupled with these stoichiometric models, several systems-based approaches for probing th…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a36e0fdf424ebe85ac024ef0073cb821",
+"title": "A detailed genome-wide reconstruction of mouse metabolism based on human Recon 1",
+"authors": [
+{
+            "name": "Martin I Sigurdsson",
+"guid": "2148132610"
+        }, {
+            "name": "Neema Jamshidi",
+"guid": "2022775796"
+        }, {
+            "name": "Eirikur Steingrimsson",
+"guid": "1896501234"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 139,
+"abstract": "Background#R##N#Well-curated and validated network reconstructions are extremely valuable tools in systems biology. Detailed metabolic reconstructions of mammals have recently emerged, including hum…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0a2e97a8817e4cf65b9cb9c96a65fe5c",
+"title": "Systems biology and biotechnology of Streptomyces species for the production of secondary metabolites",
+"authors": [
+{
+            "name": "Kyusang Hwang",
+"guid": "2234215928"
+        }, {
+            "name": "Hyun Uk Kim",
+"guid": "2096908699"
+        }, {
+            "name": "Pep Charusanti",
+"guid": "868280607"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biotechnology Advances",
+"cites": 138,
+"abstract": "Abstract Streptomyces species continue to attract attention as a source of novel medicinal compounds. Despite a long history of studies on these microorganisms, they still have many biochemical mysteries t…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Gene",
+"guid": "104317684"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bddf4e372883b573bcd9365b1c860aac",
+"title": "Towards the identification of essential genes using targeted genome sequencing and comparative analysis.",
+"authors": [
+{
+            "name": "Adam M Gustafson",
+"guid": "2015778857"
+        }, {
+            "name": "Evan S Snitkin",
+"guid": "1869404106"
+        }, {
+            "name": "Stephen C J Parker",
+"guid": "2948363387"
+        }, {
+            "name": "Charles Delisi",
+"guid": "79138794"
+        }, {
+            "name": "Simon Kasif",
+"guid": "101464240"
+        }
+]
+,
+"year": "2006",
+"journal": "· BMC Genomics",
+"cites": 136,
+"abstract": "Background#R##N#The identification of genes essential for survival is of theoretical importance in the understanding of the minimal requirements for cellular life, and of practical importance in the identificatio…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4ca49579d36d8a936a3815e09d0f2751",
+"title": "Improving metabolic flux predictions using absolute gene expression data.",
+"authors": [
+{
+            "name": "Dave Lee",
+"guid": "2156787130"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Warwick B Dunn",
+"guid": "2160577273"
+        }, {
+            "name": "Ettore Murabito",
+"guid": "30318258"
+        }, {
+            "name": "Catherine L Winder",
+"guid": "1936942739"
+        }, {
+            "name": "Douglas B Kell",
+"guid": "2087190859"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 134,
+"abstract": "Constraint-based analysis of genome-scale metabolic models typically relies upon maximisation of a cellular objective function such as the rate or efficiency of biomass production. Whilst this assumption m…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Multicellular Organism",
+"guid": "74318829"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d584d653dcdaec2103295244ef35e9f0",
+"title": "Prevalent positive epistasis in Escherichia coli and Saccharomyces cerevisiae metabolic networks",
+"authors": [
+{
+            "name": "Xionglei He",
+"guid": "2130179677"
+        }, {
+            "name": "Wenfeng Qian",
+"guid": "2118225204"
+        }, {
+            "name": "Zhiliang Wang",
+"guid": "2603239629"
+        }, {
+            "name": "Ying Li",
+"guid": "2676802981"
+        }, {
+            "name": "Jianzhi Zhang",
+"guid": "2138618021"
+        }
+]
+,
+"year": "2010",
+"journal": "· Nature Genetics",
+"cites": 133,
+"abstract": "Jianzhi Zhang and colleagues examine epistasis within the metabolic networks of Escherichia coli and Saccharomyces cerevisiae using flux balance analysis. They find a strong bias towards positive epistasi…",
+"keywords": [
+{
+            "word": "Epistasis And Functional Genomics",
+"guid": "36653963"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

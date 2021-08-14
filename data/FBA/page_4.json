@@ -1,3 +1,4 @@
+[
 {
             "guid": "1f50dc48ee5a12fe5f2f67e6879b2963",
 "title": "OptFlux: an open-source software platform for in silico metabolic engineering",
@@ -43,4 +44,293 @@
         }
 ]
 
+        }, {
+            "guid": "3ca3d64adc4216f3010ba6cfd04de746",
+"title": "Flux balance analysis of biological systems: applications and challenges",
+"authors": [
+{
+            "name": "Karthik Raman",
+"guid": "2127877947"
+        }, {
+            "name": "Nagasuma Chandra",
+"guid": "2257022061"
         }
+]
+,
+"year": "2009",
+"journal": "· Briefings in Bioinformatics",
+"cites": 360,
+"abstract": "Systems level modelling and simulations of biological processes are proving to be invaluable in obtaining a quantitative and dynamic perspective of various aspects of cellular function. In particular, constraint-ba…",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "69b852c9f9c1d8804afaa77b68ba4b40",
+"title": "Interpreting expression data with metabolic flux models: predicting Mycobacterium tuberculosis mycolic acid producti…",
+"authors": [
+{
+            "name": "Caroline Colijn",
+"guid": "1975765587"
+        }, {
+            "name": "Aaron Brandes",
+"guid": "2009085939"
+        }, {
+            "name": "Jeremy Zucker",
+"guid": "2016435121"
+        }, {
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }, {
+            "name": "Brian Weiner",
+"guid": "2155951408"
+        }, {
+            "name": "Maha R Farhat",
+"guid": "2116235243"
+        }, {
+            "name": "T…",
+"guid": "2123411897"
+        }
+]
+,
+"year": "2009",
+"journal": "· PLOS Computational Biology",
+"cites": 346,
+"abstract": "Metabolism is central to cell physiology, and metabolic disturbances play a role in numerous disease states. Despite its importance, the ability to study metabolism at a global scale using genomic technolog…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "377239719ff2542c56942e18a71729c5",
+"title": "Probabilistic integrative modeling of genome-scale metabolic and regulatory networks in Escherichia coli and Mycobacteriu…",
+"authors": [
+{
+            "name": "Sriram Chandrasekaran",
+"guid": "2306215416"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }
+]
+,
+"year": "2010",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 340,
+"abstract": "Prediction of metabolic changes that result from genetic or environmental perturbations has several important applications, including diagnosing metabolic disorders and discovering novel drug targets. A c…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Probabilistic Logic",
+"guid": "49937458"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1da7f7d0ba6aa8a0fc90fa68cf84a00b",
+"title": "Investigating the metabolic capabilities of Mycobacterium tuberculosis H37Rv using the in silico strain iNJ661 and propo…",
+"authors": [
+{
+            "name": "Neema Jamshidi",
+"guid": "2022775796"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2007",
+"journal": "· BMC Systems Biology",
+"cites": 337,
+"abstract": "Background:#R##N#Mycobacterium tuberculosis continues to be a major pathogen in the third world, killing almost 2 million people a year by the most recent estimates. Even in industrialized countries, the …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Drug Development",
+"guid": "64903051"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0e4645feaa6aca2975807ac231f4a1b3",
+"title": "The principle of flux minimization and its application to estimate stationary fluxes in metabolic networks",
+"authors": [
+{
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
+        }
+]
+,
+"year": "2004",
+"journal": "· FEBS Journal",
+"cites": 334,
+"abstract": "Cellular functions are ultimately linked to metabolic fluxes brought about by thousands of chemical reactions and transport processes. The synthesis of the underlying enzymes and membrane transporter…",
+"keywords": [
+{
+            "word": "Linear Combination",
+"guid": "9260844"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "71de19fa8eaea46007199e6ec620008e",
+"title": "Metabolic flux balance analysis and the in silico analysis of Escherichia coli K-12 gene deletions",
+"authors": [
+{
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2000",
+"journal": "· BMC Bioinformatics",
+"cites": 325,
+"abstract": "Background#R##N#Genome sequencing and bioinformatics are producing detailed lists of the molecular components contained in many prokaryotic organisms. From this 'parts catalogue' of a microbial cell, in …",
+"keywords": [
+{
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cfcd84c70330eb955efe06cde99ef85b",
+"title": "Emergent cooperation in microbial metabolism",
+"authors": [
+{
+            "name": "Edwin H Wintermute",
+"guid": "1974634180"
+        }, {
+            "name": "Pamela A Silver",
+"guid": "2147902741"
+        }
+]
+,
+"year": "2010",
+"journal": "· Molecular Systems Biology",
+"cites": 325,
+"abstract": "Mixed microbial communities exhibit emergent biochemical properties not found in clonal monocultures. We report a new type of synthetic genetic interaction, synthetic mutualism in trans (SMIT), in which cert…",
+"keywords": [
+{
+            "word": "Auxotrophy",
+"guid": "20950039"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6f86b6f362f3b2fdd44b4ef22e550d3c",
+"title": "Flux balance analysis in the era of metabolomics",
+"authors": [
+{
+            "name": "Jong Min Lee",
+"guid": "2922654577"
+        }, {
+            "name": "Erwin P Gianchandani",
+"guid": "1962170659"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2006",
+"journal": "· Briefings in Bioinformatics",
+"cites": 314,
+"abstract": "Flux balance analysis (FBA) has emerged as an effective means to analyse biological networks in a quantitative manner. Much progress has been made on the extension of FBA to incorporate a priori biol…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "42f04c704a0656ce374bdb4b2aa65f58",
+"title": "Genome-scale analysis of Streptomyces coelicolor A3(2) metabolism",
+"authors": [
+{
+            "name": "Irina Borodina",
+"guid": "2059323156"
+        }, {
+            "name": "Preben Krabben",
+"guid": "1980967456"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2005",
+"journal": "· Genome Research",
+"cites": 298,
+"abstract": "Streptomyces are filamentous soil bacteria that produce more than half of the known microbial antibiotics. We present the first genome-scale metabolic model of a representative of this group—Streptomyces co…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

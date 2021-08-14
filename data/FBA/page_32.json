@@ -1,3 +1,4 @@
+[
 {
             "guid": "15fbb0a0d8655f984b80ae009774e667",
 "title": "Maximizing output and recognizing autocatalysis in chemical reaction networks is NP-complete",
@@ -34,4 +35,290 @@
         }
 ]
 
+        }, {
+            "guid": "fa4a69b272c921e7f30a1b4b009c6da3",
+"title": "A Method to Constrain Genome-Scale Models with 13C Labeling Data.",
+"authors": [
+{
+            "name": "Hector Garcia Martin",
+"guid": "2165986291"
+        }, {
+            "name": "Vinay Satish Kumar",
+"guid": "2558539380"
+        }, {
+            "name": "Daniel Weaver",
+"guid": "2245905693"
+        }, {
+            "name": "Amit Ghosh",
+"guid": "2421404382"
+        }, {
+            "name": "Victor Chubukov",
+"guid": "1784558308"
+        }, {
+            "name": "Aindrila …",
+"guid": "2136039368"
         }
+]
+,
+"year": "2015",
+"journal": "· PLOS Computational Biology",
+"cites": 34,
+"abstract": "Current limitations in quantitatively predicting biological behavior hinder our efforts to engineer biological systems to produce biofuels and other desired chemicals. Here, we present a new method for calculatin…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bcce99b8f4f6fc0f04b1561dbf796b86",
+"title": "Comparing methods for metabolic network analysis and an application to metabolic engineering.",
+"authors": [
+{
+            "name": "Namrata Tomar",
+"guid": "2127502230"
+        }, {
+            "name": "Rajat K De",
+"guid": "2119655096"
+        }
+]
+,
+"year": "2013",
+"journal": "· Gene",
+"cites": 34,
+"abstract": "Bioinformatics tools have facilitated the reconstruction and analysis of cellular metabolism of various organisms based on information encoded in their genomes. Characterization of cellular metabolism is u…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "059f563962e36780288bbae9486c7038",
+"title": "Insights into metabolic efficiency from fluxanalysis",
+"authors": [
+{
+            "name": "Xuewen Chen",
+"guid": "2426083619"
+        }, {
+            "name": "Yair Shacharhill",
+"guid": "2041323312"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Experimental Botany",
+"cites": 34,
+"abstract": "The efficiency of carbon and energy flows throughout metabolism defines the potential for growth and reproductive success of plants. Understanding the basis for metabolic efficiency requires relevant definiti…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7506c9dd64db0c749c7bfa9e0b84170f",
+"title": "Integration of Genome-Scale Modeling and Transcript Profiling Reveals Metabolic Pathways Underlying Light and Temperatur…",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "· The Plant Cell",
+"cites": 33,
+"abstract": "Understanding metabolic acclimation of plants to challenging environmental conditions is essential for dissecting the role of metabolic pathways in growth and survival. As stresses involve simultaneous physi…",
+"keywords": [
+{
+            "word": "Environmental Stress",
+"guid": "2986039202"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Nitric Oxide Synthase",
+"guid": "2777622882"
+        }
+]
+
+        }, {
+            "guid": "48367f4fd6bdc0645d636671e93e8685",
+"title": "Modelling metabolic CO₂ evolution--a fresh perspective on respiration.",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "· Plant Cell and Environment",
+"cites": 33,
+"abstract": "Respiration is a major contributor to net exchange of CO2 between plants and the atmosphere and thus an important aspect of the vegetation component of global climate change models. However, a mechani…",
+"keywords": [
+{
+            "word": "Climate Change",
+"guid": "132651083"
+        }, {
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a7f744456e336aac06855998e39a5b49",
+"title": "Spatially-resolved metabolic cooperativity within dense bacterial colonies",
+"authors": [
+{
+            "name": "John A Cole",
+"guid": "2146265515"
+        }, {
+            "name": "Lars Kohler",
+"guid": "2292289369"
+        }, {
+            "name": "Jamila Hedhli",
+"guid": "2420359302"
+        }, {
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 33,
+"abstract": "Background#R##N#The exchange of metabolites and the reprogramming of metabolism in response to shifting microenvironmental conditions can drive subpopulations of cells within colonies toward divergen…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fc02d6458de737000e10bb4e70b0cf44",
+"title": "Constraint-based strain design using continuous modifications (CosMos) of flux bounds finds new strategies for metabolic en…",
+"authors": [
+{
+            "name": "Cameron Cotten",
+"guid": "2273976672"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology Journal",
+"cites": 33,
+"abstract": "In recent years, a growing number of metabolic engineering strain design techniques have employed constraint-based modeling to determine metabolic and regulatory network changes which are needed t…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "206af8a282cbc27e86799d9495d8b5de",
+"title": "Fast thermodynamically constrained flux variability analysis",
+"authors": [
+{
+            "name": "Arne C Muller",
+"guid": "2121662098"
+        }, {
+            "name": "Alexander Bockmayr",
+"guid": "56252975"
+        }
+]
+,
+"year": "2013",
+"journal": "· Bioinformatics",
+"cites": 33,
+"abstract": "Motivation: Flux variability analysis (FVA) is an important tool to further analyse the results obtained by flux balance analysis (FBA) on genome-scale metabolic networks. For many constraint-based models, F…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "BioModels Database",
+"guid": "43366410"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fdd500de5cc16458119a90af4606394c",
+"title": "Data-driven integration of genome-scale regulatory and metabolic network models",
+"authors": [
+{
+            "name": "Saheed Imam",
+"guid": "2166695859"
+        }, {
+            "name": "Sascha Schauble",
+"guid": "2164266881"
+        }, {
+            "name": "Aaron N Brooks",
+"guid": "2142231699"
+        }, {
+            "name": "Nitin S Baliga",
+"guid": "1456319100"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Microbiology",
+"cites": 33,
+"abstract": "Microbes are diverse and extremely versatile organisms that play vital roles in all ecological niches. Understanding and harnessing microbial systems will be key to the sustainability of our planet. One appr…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

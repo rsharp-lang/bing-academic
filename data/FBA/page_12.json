@@ -1,3 +1,4 @@
+[
 {
             "guid": "dfb1795754bc211a721dcdf4a3c0198b",
 "title": "Reconstruction and analysis of genome-scale metabolic model of a photosynthetic bacterium",
@@ -37,4 +38,329 @@
         }
 ]
 
+        }, {
+            "guid": "6aad9453739203f9b332ce1f18f6f7d2",
+"title": "A community effort towards a knowledge-base and mathematical model of the human pathogen Salmonella Typh…",
+"authors": [
+{
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Daniel R Hyduke",
+"guid": "2074995921"
+        }, {
+            "name": "Benjamin Steeb",
+"guid": "342841636"
+        }, {
+            "name": "Guy Fankam",
+"guid": "2276929364"
+        }, {
+            "name": "Douglas K Allen",
+"guid": "2279838521"
+        }, {
+            "name": "Susanna Bazzani",
+"guid": "2508144233"
         }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 129,
+"abstract": "Background: Metabolic reconstructions (MRs) are common denominators in systems biology and represent biochemical, genetic, and genomic (BiGG) knowledge-bases for target organisms by capturin…",
+"keywords": [
+{
+            "word": "Knowledge Base",
+"guid": "4554734"
+        }, {
+            "word": "Human Pathogen",
+"guid": "24527192"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9861584144d6081388e465863636929d",
+"title": "Reconstruction of the central carbon metabolism of Aspergillus niger",
+"authors": [
+
+]
+,
+"year": "2003",
+"journal": "· FEBS Journal",
+"cites": 129,
+"abstract": "The topology of central carbon metabolism of Aspergillus niger was identified and the metabolic network reconstructed, by integrating genomic, biochemical and physiological information available for this micro…",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Aspergillus Niger",
+"guid": "2775960407"
+        }, {
+            "word": "Functional Genomics",
+"guid": "161078062"
+        }
+]
+
+        }, {
+            "guid": "9d57fbc572120024b0e940c9083a9f2f",
+"title": "Fifteen years of large scale metabolic modeling of yeast: Developments and impacts",
+"authors": [
+{
+            "name": "Tobias Osterlund",
+"guid": "2042356940"
+        }, {
+            "name": "Intawat Nookaew",
+"guid": "231832933"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2012",
+"journal": "· Biotechnology Advances",
+"cites": 126,
+"abstract": "Since the first large-scale reconstruction of the Saccharomyces cerevisiae metabolic network 15 years ago the development of yeast metabolic models has progressed rapidly, resulting in no less than nine differe…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e8e3232cb5ea8e7cc325cdd31b05f3d6",
+"title": "Genome-scale metabolic analysis of Clostridium thermocellum for bioethanol production",
+"authors": [
+{
+            "name": "Seth B Roberts",
+"guid": "2311059651"
+        }, {
+            "name": "Christopher M Gowen",
+"guid": "2146119903"
+        }, {
+            "name": "J Paul Brooks",
+"guid": "2148558718"
+        }, {
+            "name": "Stephen S Fong",
+"guid": "2230560253"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 125,
+"abstract": "Background#R##N#Microorganisms possess diverse metabolic capabilities that can potentially be leveraged for efficient production of biofuels. Clostridium thermocellum (ATCC 27405) is a thermophilic …",
+"keywords": [
+{
+            "word": "Thermophile",
+"guid": "27911776"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9bd5a9c8ae4a27aa665e3f414ec86435",
+"title": "Synergy between 13C-metabolic fluxanalysis and flux balance analysis for understanding metabolic adaption to anaerobiosi…",
+"authors": [
+{
+            "name": "Xuewen Chen",
+"guid": "2426083619"
+        }, {
+            "name": "Ana Paula Alonso",
+"guid": "2609971592"
+        }, {
+            "name": "Doug K Allen",
+"guid": "2266889759"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }, {
+            "name": "Yair Shacharhill",
+"guid": "2041323312"
+        }
+]
+,
+"year": "2011",
+"journal": "· Metabolic Engineering",
+"cites": 125,
+"abstract": "Genome-based Flux Balance Analysis (FBA) and steady-state isotopic-labeling-based Metabolic FluxAnalysis (MFA) are complimentary approaches to predicting and measuring the operation and regulatio…",
+"keywords": [
+{
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "659979876d0743aa8619f2195ccdadf8",
+"title": "Metabolic and evolutionary costs of herbivory defense: systems biology of glucosinolate synthesis",
+"authors": [
+{
+            "name": "Michael Bekaert",
+"guid": "1556967307"
+        }, {
+            "name": "Patrick P Edger",
+"guid": "307729203"
+        }, {
+            "name": "Corey M Hudson",
+"guid": "2149699357"
+        }, {
+            "name": "J Chris Pires",
+"guid": "2136502024"
+        }, {
+            "name": "Gavin C Conant",
+"guid": "2145245662"
+        }
+]
+,
+"year": "2012",
+"journal": "· New Phytologist",
+"cites": 124,
+"abstract": "Summary#R##N#Here, we describe our updated mathematical model of Arabidopsis thaliana Columbia metabolism, which adds the glucosinolates, an important group of secondary metabolites, to the reactio…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Herbivore",
+"guid": "46325548"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "685635feea806aa7b7341a47c03a0f37",
+"title": "Towards kinetic modeling of genome-scale metabolic networks without sacrificing stoichiometric, thermodynamic and physiol…",
+"authors": [
+{
+            "name": "Anirikh Chakrabarti",
+"guid": "2015733350"
+        }, {
+            "name": "Ljubisa Miskovic",
+"guid": "2008718698"
+        }, {
+            "name": "Keng Cher Soh",
+"guid": "2121964572"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology Journal",
+"cites": 123,
+"abstract": "Mathematical modeling is an essential tool for a comprehensive understanding of cell metabolism and its interactions with the environmental and process conditions. Recent developments in the construction an…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0d718f2b340b28da792fae14cd23683a",
+"title": "Two-Phase Resolution of Polyploidy in the Arabidopsis Metabolic Network Gives Rise to Relative and Absolute Dosag…",
+"authors": [
+{
+            "name": "Michael Bekaert",
+"guid": "1556967307"
+        }, {
+            "name": "Patrick P Edger",
+"guid": "307729203"
+        }, {
+            "name": "J Chris Pires",
+"guid": "2136502024"
+        }, {
+            "name": "Gavin C Conant",
+"guid": "2145245662"
+        }
+]
+,
+"year": "2011",
+"journal": "· The Plant Cell",
+"cites": 122,
+"abstract": "The abundance of detected ancient polyploids in extant genomes raises questions regarding evolution after whole-genome duplication (WGD). For instance, what rules govern the preservation or loss of the d…",
+"keywords": [
+{
+            "word": "Gene Duplication",
+"guid": "7602840"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ff95df6e20f17c1e2f22ba75e8f7b8a",
+"title": "Predicting biological system objectives de novo from internal state measurements",
+"authors": [
+{
+            "name": "Erwin P Gianchandani",
+"guid": "1962170659"
+        }, {
+            "name": "Matthew A Oberhardt",
+"guid": "2312160716"
+        }, {
+            "name": "Anthony P Burgard",
+"guid": "2763851512"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Bioinformatics",
+"cites": 121,
+"abstract": "Background#R##N#Optimization theory has been applied to complex biological systems to interrogate network properties and develop and refine metabolic engineering strategies. For example, methods are …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

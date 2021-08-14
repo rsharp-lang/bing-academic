@@ -1,3 +1,4 @@
+[
 {
             "guid": "d079042f0c679a0aeef00d71a4582865",
 "title": "A multi-objective constraint-based approach for modeling genome-scale microbial ecosystems",
@@ -34,4 +35,317 @@
         }
 ]
 
+        }, {
+            "guid": "9599fe43cfaa4af5bbf476e8e7855481",
+"title": "Model-driven elucidation of the inherent capacity of Geobacter sulfurreducens for electricity generation.",
+"authors": [
+{
+            "name": "Longfei Mao",
+"guid": "2149052789"
+        }, {
+            "name": "W S Verwoerd",
+"guid": "2477011415"
         }
+]
+,
+"year": "2013",
+"journal": "· Journal of Biological Engineering",
+"cites": 17,
+"abstract": "G. sulfurreducens is one of the commonest microbes used in microbial fuel cells (MFCs) for organic-to-electricity biotransformation. In MFCs based on this microorganism, electrons can be conveyed to the a…",
+"keywords": [
+{
+            "word": "Electricity Generation",
+"guid": "423512"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "83528c957cab50e20461ff0601d37bb2",
+"title": "Design of Large Metabolic Responses. Constraints and Sensitivity Analysis",
+"authors": [
+{
+            "name": "Luis Acerenza",
+"guid": "2600110475"
+        }
+]
+,
+"year": "2000",
+"journal": "· Journal of Theoretical Biology",
+"cites": 17,
+"abstract": "Abstract Metabolic control analysis (Kacser & Burns (1973). Symp. Soc. Exp. Biol.27, 65–104; Heinrich & Rapoport (1974). Eur. J. Biochem.42, 89–95) has been extensively used to describe the response of me…",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bb3b7db359bbc23f1f7608e85881a1fd",
+"title": "MetDFBA: incorporating time-resolved metabolomics measurements into dynamic fluxbalanceanalysis.",
+"authors": [
+{
+            "name": "A Marcel Willemsen",
+"guid": "2110659302"
+        }, {
+            "name": "Diana M Hendrickx",
+"guid": "1871915571"
+        }, {
+            "name": "Huub C J Hoefsloot",
+"guid": "70084084"
+        }, {
+            "name": "Margriet M W B Hendriks",
+"guid": "2121029401"
+        }, {
+            "name": "S Aljoscha …",
+"guid": "2151878795"
+        }
+]
+,
+"year": "2015",
+"journal": "· Molecular BioSystems",
+"cites": 17,
+"abstract": "Understanding cellular adaptation to environmental changes is one of the major challenges in systems biology. To understand how cellular systems react towards perturbations of their steady state, the metab…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8331eb553cb5c89e6761428b0f01c972",
+"title": "Interplay between Constraints, Objectives, and Optimality for Genome-Scale Stoichiometric Models",
+"authors": [
+{
+            "name": "Timo R Maarleveld",
+"guid": "2147088436"
+        }, {
+            "name": "Meike T Wortel",
+"guid": "2907713379"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS Computational Biology",
+"cites": 17,
+"abstract": "High-throughput data generation and genome-scale stoichiometric models have greatly facilitated the comprehensive study of metabolic networks. The computation of all feasible metabolic routes with thes…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Test Data Generation",
+"guid": "47980962"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e5fd4a309d4e0ecb6c5ca1d376d86bd8",
+"title": "Ménage à trois: the role of neurotransmitters in the energy metabolism of astrocytes, glutamatergic, and GABAergic neur…",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2893692570"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Cerebral Blood Flow and Metabolism",
+"cites": 17,
+"abstract": "This work is a computational study based on a new detailed metabolic network model comprising well-mixed compartments representing separate cytosol and mitochondria of astrocytes, glutamatergic and g…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Anesthesia",
+"guid": "42219234"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6b3ea003a57415c5991f9f54257abfe8",
+"title": "Exhaustive identification of steady state cycles in large stoichiometric networks",
+"authors": [
+{
+            "name": "Jeremiah Wright",
+"guid": "2620394671"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 16,
+"abstract": "Background#R##N#Identifying cyclic pathways in chemical reaction networks is important, because such cycles may indicate in silico violation of energy conservation, or the existence of feedback in vivo. Unfort…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a409a1ab55d2d9617e8cc0a80941a0c2",
+"title": "Genome-Scale Metabolic Network Validation of Shewanella oneidensis Using Transposon Insertion Frequency Analysis",
+"authors": [
+{
+            "name": "Hong Yang",
+"guid": "2689540620"
+        }, {
+            "name": "Elias W Krumholz",
+"guid": "2599167074"
+        }, {
+            "name": "Evan D Brutinel",
+"guid": "1966566010"
+        }, {
+            "name": "Nagendra P Palani",
+"guid": "1975256439"
+        }, {
+            "name": "Michael J Sadowsky",
+"guid": "212653876"
+        }, {
+            "name": "Andrew …",
+"guid": "2029350574"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS Computational Biology",
+"cites": 16,
+"abstract": "Transposon mutagenesis, in combination with parallel sequencing, is becoming a powerful tool for en-masse mutant analysis. A probability generating function was used to explain observed miniHimar trans…",
+"keywords": [
+{
+            "word": "Transposable Element",
+"guid": "4918238"
+        }, {
+            "word": "Transposon Mutagenesis",
+"guid": "28693550"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d3ad97a27c51b24d4836e6dd98d1ddf5",
+"title": "Differential Producibility Analysis (DPA) of Transcriptomic Data with Metabolic Networks: Deconstructing the Metabolic Resp…",
+"authors": [
+{
+            "name": "Bhushan Bonde",
+"guid": "1963683845"
+        }, {
+            "name": "Dany J V Beste",
+"guid": "2155014663"
+        }, {
+            "name": "Emma Laing",
+"guid": "2100154518"
+        }, {
+            "name": "Andrzej M Kierzek",
+"guid": "248477088"
+        }, {
+            "name": "Johnjoe Mcfadden",
+"guid": "2251044004"
+        }
+]
+,
+"year": "2011",
+"journal": "· PLOS Computational Biology",
+"cites": 16,
+"abstract": "A general paucity of knowledge about the metabolic state of Mycobacterium tuberculosis within the host environment is a major factor impeding development of novel drugs against tuberculosis. Current experi…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c5b73f811f377db5afac8fce965d847a",
+"title": "TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expr…",
+"authors": [
+{
+            "name": "Ehsan Motamedian",
+"guid": "1747667545"
+        }, {
+            "name": "Maryam Fazlollahi Mohammadi",
+"guid": "2396162614"
+        }, {
+            "name": "Seyed Abbas Shojaosadati",
+"guid": "2042034384"
+        }, {
+            "name": "Mona Heydari",
+"guid": "2569394562"
+        }
+]
+,
+"year": "2017",
+"journal": "· Bioinformatics",
+"cites": 16,
+"abstract": "Motivation: Integration of different biological networks and data-types has been a major challenge in systems biology. The present study introduces the transcriptional regulated fluxbalanceanalysis (TRFB…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

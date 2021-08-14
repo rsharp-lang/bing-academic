@@ -1,3 +1,4 @@
+[
 {
             "guid": "89c53e149c1b05e962f1d038475f29ac",
 "title": "Decomposition of Flux Distributions into Metabolic Pathways",
@@ -22,4 +23,293 @@
         }
 ]
 
+        }, {
+            "guid": "7920752e8764c27bc20ae13167df1867",
+"title": "Genome-wide assessment of Mycobacterium tuberculosis conditionally essential metabolic pathways",
+"authors": [
+{
+            "name": "Yusuke Minato",
+"guid": "2000848543"
+        }, {
+            "name": "Daryl M Gohl",
+"guid": "2081546313"
+        }, {
+            "name": "Joshua M Thiede",
+"guid": "2528695428"
+        }, {
+            "name": "Jeremy M Chacon",
+"guid": "2115702336"
+        }, {
+            "name": "William R Harcombe",
+"guid": "2245689179"
+        }, {
+            "name": "Fumito …",
+"guid": "2024987096"
         }
+]
+,
+"year": "2019",
+"journal": "· bioRxiv",
+"cites": 3,
+"abstract": "Abstract Better understanding of essential cellular functions in pathogenic bacteria is important for the development of more effective antimicrobial agents. We performed a comprehensive identification of ess…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Drug Discovery",
+"guid": "74187038"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "de27f7f0e376e76a84a47be5f791fb73",
+"title": "PreProPath : An Uncertainty-Aware Algorithm for Identifying Predictable Profitable Pathways in Biochemical Networks",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "· IEEE\/ACM Transactions on Computational Biology and Bioinformatics",
+"cites": 3,
+"abstract": "Pathway analysis is a powerful approach to enable rational design or redesign of biochemical networks for optimizing metabolic engineering and synthetic biology objectives such as production of desired chemic…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Prediction Algorithms",
+"guid": "2985663164"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "af1f84b2d9550b5a0144d2101c822b6a",
+"title": "Producing Succinic Acid in Yeast using A Hybrid of Differential Evolution and Flux BalanceAnalysis",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "· bio science and bio technology",
+"cites": 3,
+"abstract": "In the field of metabolic engineering, one of the primary goals is to maximize the production of a desired substance. However, to identify the set of gene deletions that will result to the desired production goals i…",
+"keywords": [
+{
+            "word": "Differential Evolution",
+"guid": "74750220"
+        }, {
+            "word": "Gene Deletions",
+"guid": "2911129602"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "911ef1e2429b5c1c8962ef6f6fc88a41",
+"title": "Optimizing cyanobacteria metabolic network for ethanol production",
+"authors": [
+{
+            "name": "Cecilia Paulo",
+"guid": "2097270959"
+        }, {
+            "name": "Jimena Di Maggio",
+"guid": "2735342299"
+        }, {
+            "name": "Vanina Estrada",
+"guid": "2157654739"
+        }, {
+            "name": "M Soledad Diaz",
+"guid": "2222738688"
+        }
+]
+,
+"year": "2011",
+"journal": "· Computer-aided chemical engineering",
+"cites": 3,
+"abstract": "This work addresses cyanobacteria Synechocystis PCC 6803 metabolic network optimization with potential gene knockouts for ethanol production as a Mixed Integer Lineal Programming problem. There …",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5a03a8cf0f83ec5fc471dec03b575f84",
+"title": "Exploring metabolism flexibility in complex organisms through quantitative study of precursor sets for system outputs",
+"authors": [
+{
+            "name": "Oumarou Abdouarbi",
+"guid": "2197273209"
+        }, {
+            "name": "Sophie Lemosquet",
+"guid": "2888243471"
+        }, {
+            "name": "Jaap Van Milgen",
+"guid": "1865399610"
+        }, {
+            "name": "Anne Siegel",
+"guid": "2305700178"
+        }, {
+            "name": "Jeremie Bourdon",
+"guid": "2193310788"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 3,
+"abstract": "Background#R##N#When studying metabolism at the organ level, a major challenge is to understand the matter exchanges between the input and output components of the system. For example, in nutrition, bi…",
+"keywords": [
+{
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "af7e2a93fffcd29676bc7c160ac48144",
+"title": "Uncertainty quantification in flux balanceanalysis of spatially lumped and distributed models of neuron–astrocyte metaboli…",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Yougan Cheng",
+"guid": "2160030224"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2016",
+"journal": "· Journal of Mathematical Biology",
+"cites": 3,
+"abstract": "Identifying feasible steady state solutions of a brain energy metabolism model is an inverse problem that allows infinitely many solutions. The characterization of the non-uniqueness, or the uncertainty quantific…",
+"keywords": [
+{
+            "word": "Distributed Element Model",
+"guid": "4292930"
+        }, {
+            "word": "Uncertainty Quantification",
+"guid": "32230216"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e848e506cf3760bb1db866be8fa18629",
+"title": "Metabolic flux prediction in cancer cells with altered substrate uptake",
+"authors": [
+{
+            "name": "Jeanmarc Schwartz",
+"guid": "2293965298"
+        }, {
+            "name": "Michael Barber",
+"guid": "2105895567"
+        }, {
+            "name": "Zita Soons",
+"guid": "2161580863"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biochemical Society Transactions",
+"cites": 3,
+"abstract": "Proliferating cells, such as cancer cells, are known to have an unusual metabolism, characterized by an increased rate of glycolysis and amino acid metabolism. Our understanding of this phenomenon is limite…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "01b050f106637e1dcc42d4b518a9dbc5",
+"title": "In Silico analysis of perturbed steroidogenesis and gonad growth in fathead minnows (P. promelas) exposed to 17α-eth…",
+"authors": [
+{
+            "name": "David Hala",
+"guid": "2092024701"
+        }, {
+            "name": "Lene H Petersen",
+"guid": "2124625721"
+        }, {
+            "name": "Dalma Martinovic",
+"guid": "2078747918"
+        }, {
+            "name": "Duane B Huggett",
+"guid": "1966533758"
+        }
+]
+,
+"year": "2015",
+"journal": "· Systems Biology in Reproductive Medicine",
+"cites": 2,
+"abstract": "AbstractThe multi-factorial nature of adverse reproductive effects mediated by endocrine disrupting compounds (or EDCs) makes understanding the mechanistic basis of reproductive dysfunction a highly …",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Internal Medicine",
+"guid": "126322002"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8810aec217201d6a5bd6ab1c09d0f3f5",
+"title": "The Problem of Futile Cycles in Metabolic Flux Modeling: Flux Space Characterization and Practical Approaches to Its Solution",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 2,
+"abstract": "In the past decade, metabolic flux modeling has been established as an important technique to elucidate detailed snapshot information on a complex cellular system. The basis of such modeling is flux balance…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Flux Analysis",
+"guid": "160941953"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "6400d82a755d5deb3a2c1cc7f53e57b9",
 "title": "Making life difficult for Clostridium difficile: augmenting the pathogen’s metabolic model with transcriptomic and codon u…",
@@ -31,4 +32,293 @@
         }
 ]
 
+        }, {
+            "guid": "5f242df94bd2819ebb1cc02142130a8a",
+"title": "An enormous potential for niche construction through bacterial cross-feeding in a homogeneous environment.",
+"authors": [
+{
+            "name": "Magdalena San Roman",
+"guid": "2883839204"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
         }
+]
+,
+"year": "2018",
+"journal": "· PLOS Computational Biology",
+"cites": 10,
+"abstract": "Microorganisms modify their environment by excreting by-products of metabolism, which can create new ecological niches that can help microbial populations diversify. A striking example comes from experime…",
+"keywords": [
+{
+            "word": "Niche Construction",
+"guid": "10437067"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "99dbd8e32be52a6abedfb226fff22342",
+"title": "Fast-SNP: a fast matrix pre-processing algorithm for efficient loopless flux optimization of metabolic models",
+"authors": [
+{
+            "name": "Pedro A Saa",
+"guid": "2211526144"
+        }, {
+            "name": "Lars K Nielsen",
+"guid": "2124263552"
+        }
+]
+,
+"year": "2016",
+"journal": "· Bioinformatics",
+"cites": 10,
+"abstract": "Motivation: Computation of steady-state flux solutions in large metabolic models is routinely performed using flux balanceanalysis based on a simple LP (Linear Programming) formulation. A minimal require…",
+"keywords": [
+{
+            "word": "Imagination",
+"guid": "2868805"
+        }, {
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1a391ceb1c481132a5122ec08f09ac09",
+"title": "Stoichiometric and Constraint-Based Analysis of Biochemical Reaction Networks",
+"authors": [
+{
+            "name": "Steffen Klamt",
+"guid": "2097038584"
+        }, {
+            "name": "O Haedicke",
+"guid": "2613353506"
+        }, {
+            "name": "A Von Kamp",
+"guid": "2559697335"
+        }
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 10,
+"abstract": "Metabolic network analysis based on stoichiometric and constraint-based methods has become one of the most popular and successful modeling approaches in network and systems biology. Although these met…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Combinatorial Optimization",
+"guid": "52692508"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7d4eb8535bad065af0cd2cfa69b91058",
+"title": "A Genome-Scale Modeling Approach to Study Inborn Errors of Liver Metabolism: Toward an In Silico Patient",
+"authors": [
+{
+            "name": "Roberto Pagliarini",
+"guid": "1989304825"
+        }, {
+            "name": "Diego Di Bernardo",
+"guid": "2118234991"
+        }
+]
+,
+"year": "2013",
+"journal": "· Journal of Computational Biology",
+"cites": 10,
+"abstract": "Inborn errors of metabolism (IEM) are genetic diseases caused by mutations in enzymes or transporters affecting specific metabolic reactions that cause a block in the physiological metabolic fluxes. Therapeuti…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "20980d28cae8ae7fca3a2df23deca7ba",
+"title": "Metabolome-Wide Analysis of Stable Isotope Labeling—Is It Worth the Effort?",
+"authors": [
+{
+            "name": "Daniel Weindl",
+"guid": "1477678902"
+        }, {
+            "name": "Andre Wegner",
+"guid": "2148731559"
+        }, {
+            "name": "Karsten Hiller",
+"guid": "2191857645"
+        }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Physiology",
+"cites": 10,
+"abstract": "Stable isotope assisted metabolomics techniques have emerged as a valuable tool in systems biology for metabolic flux analysis and pathway discovery (Duckwall et al., 2013; Chokkathukalam et al., 2014; Nied…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Stable Isotope Ratio",
+"guid": "22117777"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "70d692bd7b5ea15861df211e37408dd1",
+"title": "A Novel Methodology to Estimate Metabolic Flux Distributions in Constraint-Based Models",
+"authors": [
+{
+            "name": "Francesco Alessandro Massucci",
+"guid": "2060333205"
+        }, {
+            "name": "Francesc Fontclos",
+"guid": "53827056"
+        }, {
+            "name": "Andrea De Martino",
+"guid": "2342997241"
+        }, {
+            "name": "Isaac Perez Castillo",
+"guid": "2779119615"
+        }
+]
+,
+"year": "2013",
+"journal": "· Metabolites",
+"cites": 10,
+"abstract": "Quite generally, constraint-based metabolic flux analysis describes the space of viable flux configurations for a metabolic network as a high-dimensional polytope defined by the linear constraints that enforce th…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Monte Carlo Method",
+"guid": "19499675"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9b43be696493f77b6b6df50f4191733b",
+"title": "Exhaustive Analysis of a Genotype Space Comprising 10 15 Central Carbon Metabolisms Reveals an Organization Conduci…",
+"authors": [
+{
+            "name": "Sayedrzgar Hosseini",
+"guid": "2108169955"
+        }, {
+            "name": "Aditya Barve",
+"guid": "2034754286"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS Computational Biology",
+"cites": 10,
+"abstract": "All biological evolution takes place in a space of possible genotypes and their phenotypes. The structure of this space defines the evolutionary potential and limitations of an evolving system. Metabolism is one …",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1c0ad7ad362b178337897f931d201ed7",
+"title": "Measuring Cellular Biomass Composition for Computational Biology Applications",
+"authors": [
+{
+            "name": "Ashley E Beck",
+"guid": "2493548557"
+        }, {
+            "name": "Kristopher A Hunt",
+"guid": "2106167164"
+        }, {
+            "name": "Ross P Carlson",
+"guid": "2179594679"
+        }
+]
+,
+"year": "2018",
+"journal": "",
+"cites": 10,
+"abstract": "Computational representations of metabolism are increasingly common in medical, environmental, and bioprocess applications. Cellular growth is often an important output of computational biology analyses, …",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3f2bdc58bea180ca743de4a0ec3d09b2",
+"title": "Functional classification of genome-scale metabolic networks",
+"authors": [
+{
+            "name": "Oliver Ebenhoh",
+"guid": "2796560689"
+        }, {
+            "name": "Thomas Handorf",
+"guid": "2067324809"
+        }
+]
+,
+"year": "2009",
+"journal": "· Eurasip Journal on Bioinformatics and Systems Biology",
+"cites": 10,
+"abstract": "We propose two strategies to characterize organisms with respect to their metabolic capabilities. The first, investigative, strategy describes metabolic networks in terms of their capability to utilize different carbon …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

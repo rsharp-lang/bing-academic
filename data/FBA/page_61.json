@@ -1,3 +1,4 @@
+[
 {
             "guid": "6c4bbcb81cb8f5cd19d6c9d000cae76c",
 "title": "Intracellular metabolic fluxanalysis of CHO cells supplemented with wheat hydrolysates for improved mAb production and ce…",
@@ -22,4 +23,335 @@
         }
 ]
 
+        }, {
+            "guid": "c23baeec068fbc0a0bab6e40f6782964",
+"title": "DistributedFBA.jl: High-level, high-performance fluxbalanceanalysis in Julia.",
+"authors": [
+{
+            "name": "Laurent Heirendt",
+"guid": "2610135189"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Ronan M T Fleming",
+"guid": "2103396758"
         }
+]
+,
+"year": "2017",
+"journal": "· Bioinformatics",
+"cites": 11,
+"abstract": "Motivation: Fluxbalanceanalysis and its variants are widely used methods for predicting steady-state reaction rates in biochemical reaction networks. The exploration of high dimensional networks with suc…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Documentation",
+"guid": "56666940"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c624bcae9a4e5ed912f3befe49a6f25f",
+"title": "Evaluating evolutionary multiobjective algorithms for the in silico optimization of mutant strains",
+"authors": [
+{
+            "name": "Paulo Maia",
+"guid": "2154261331"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "E C Ferreira",
+"guid": "2140807371"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": "2008",
+"journal": "· bioinformatics and bioengineering",
+"cites": 11,
+"abstract": "In Metabolic Engineering, the identification of genetic manipulations that lead to mutant strains able to produce a given compound of interest is a promising, while still complex process. Evolutionary Algorithm…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b9d90ed367b00bb7abc7d4a256902005",
+"title": "Acidithiobacillus ferrooxidans's comprehensive model driven analysis of the electron transfer metabolism and synthetic stra…",
+"authors": [
+{
+            "name": "Miguel A Campodonico",
+"guid": "2207455665"
+        }, {
+            "name": "Daniela Vaisman",
+"guid": "2583585635"
+        }, {
+            "name": "Jean Franco Castro",
+"guid": "2108784574"
+        }, {
+            "name": "Valeria Razmilic",
+"guid": "2049223201"
+        }, {
+            "name": "Francesca Mercado",
+"guid": "2330429871"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering Communications",
+"cites": 11,
+"abstract": "Acidithiobacillus ferrooxidans is a gram-negative chemolithoautotrophic γ-proteobacterium. It typically grows at an external pH of 2 using the oxidation of ferrous ions by oxygen, producing ferric ions and wat…",
+"keywords": [
+{
+            "word": "Chemical Engineering",
+"guid": "42360764"
+        }, {
+            "word": "Biomining",
+"guid": "68080829"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f184e55b9186a4092915d886648a50ee",
+"title": "Fluxbalanceanalysis of different carbon source fermentation with hydrogen producing Clostridium butyricum using Cell N…",
+"authors": [
+{
+            "name": "Razieh Rafieenia",
+"guid": "2583504831"
+        }, {
+            "name": "Subba Rao Chaganti",
+"guid": "2021607794"
+        }
+]
+,
+"year": "2015",
+"journal": "· Bioresource Technology",
+"cites": 11,
+"abstract": "Abstract A metabolic network model for Clostridium butyricum was developed using six different carbon sources (sucrose, fructose, galactose, mannose, trehalose and ribose) to study the fermentative H2 pro…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Fermentation",
+"guid": "100544194"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "98a0896d1a7984ba1f13b7e776135da8",
+"title": "MitoCore: a curated constraint-based model for simulating human central metabolism",
+"authors": [
+{
+            "name": "Anthony C Smith",
+"guid": "2135130988"
+        }, {
+            "name": "Filmon Eyassu",
+"guid": "290159914"
+        }, {
+            "name": "Jeanpierre Mazat",
+"guid": "2235459224"
+        }, {
+            "name": "Alan J Robinson",
+"guid": "2169164939"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Systems Biology",
+"cites": 11,
+"abstract": "The complexity of metabolic networks can make the origin and impact of changes in central metabolism occurring during diseases difficult to understand. Computer simulations can help unravel this complexity…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d8d70ca96067a5cb3d8148e4c082baab",
+"title": "Constraint‐based modeling of heterologous pathways: Application and experimental demonstration for overproducti…",
+"authors": [
+{
+            "name": "Kuhn Ip",
+"guid": "2105311055"
+        }, {
+            "name": "Neil Donoghue",
+"guid": "1888399537"
+        }, {
+            "name": "Min Kyung Kim",
+"guid": "2619766159"
+        }, {
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 10,
+"abstract": "Constraint-based modeling has been shown, in many instances, to be useful for metabolic engineering by allowing the prediction of the metabolic phenotype resulting from genetic manipulations. But the basic pr…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Yield (chemistry)",
+"guid": "54468928"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "653a847e8a4c45f7af9017dc006eda22",
+"title": "Multi-Tissue Computational Modeling Analyzes Pathophysiology of Type 2 Diabetes in MKR Mice",
+"authors": [
+{
+            "name": "Amit Kumar",
+"guid": "2236148528"
+        }, {
+            "name": "Thomas F Harrelson",
+"guid": "2400281680"
+        }, {
+            "name": "Nathan E Lewis",
+"guid": "2157742992"
+        }, {
+            "name": "Emily J Gallagher",
+"guid": "2170419687"
+        }, {
+            "name": "Derek Leroith",
+"guid": "2304551157"
+        }, {
+            "name": "Joseph Shilo…",
+"guid": "133359784"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS ONE",
+"cites": 10,
+"abstract": "Computational models using metabolic reconstructions for in silico simulation of metabolic disorders such as type 2 diabetes mellitus (T2DM) can provide a better understanding of disease pathophysiology and …",
+"keywords": [
+{
+            "word": "Microarray Analysis Techniques",
+"guid": "8415881"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "44b02ccecbec62759671676f9ca1a89c",
+"title": "Exploring complex cellular phenotypes and model-guided strain design with a novel genome-scale metabolic model of …",
+"authors": [
+{
+            "name": "R Adam Thompson",
+"guid": "2154610240"
+        }, {
+            "name": "Sanjeev Dahal",
+"guid": "2514696461"
+        }, {
+            "name": "Sergio Garcia",
+"guid": "2583199898"
+        }, {
+            "name": "Intawat Nookaew",
+"guid": "231832933"
+        }, {
+            "name": "Cong T Trinh",
+"guid": "2310820630"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology for Biofuels",
+"cites": 10,
+"abstract": "Background#R##N#Clostridium thermocellum is a gram-positive thermophile that can directly convert lignocellulosic material into biofuels. The metabolism of C. thermocellum contains many branches and r…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "44d961b55e89d3449147930e6850da6b",
+"title": "Streptomyces clavuligerus shows a strong association between TCA cycle intermediate accumulation and clavulanic acid bios…",
+"authors": [
+{
+            "name": "Howard Ramirezmalule",
+"guid": "2769114742"
+        }, {
+            "name": "Stefan Junne",
+"guid": "2032083997"
+        }, {
+            "name": "Mariano Nicolas Cruzbournazou",
+"guid": "2774416216"
+        }, {
+            "name": "Peter Neubauer",
+"guid": "2229636867"
+        }, {
+            "name": "Rigoberto …",
+"guid": "61736754"
+        }
+]
+,
+"year": "2018",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 10,
+"abstract": "Clavulanic acid (CA) is produced by Streptomyces clavuligerus (S. clavuligerus) as a secondary metabolite. Knowledge about the carbon flux distribution along the various routes that supply CA precur…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "d8ab95d5c569b6d532a5bc64386f4dbe",
 "title": "A reliable simulator for dynamic flux balance analysis",
@@ -31,4 +32,305 @@
         }
 ]
 
+        }, {
+            "guid": "b6d32ad9811df4dd5f30ed74d7887e97",
+"title": "Metabolic capacity estimation of Escherichia coli as a platform for redox biocatalysis: constraint‐based modeling and experi…",
+"authors": [
+{
+            "name": "Lars M Blank",
+"guid": "2084069917"
+        }, {
+            "name": "Birgitta E Ebert",
+"guid": "2113820847"
+        }, {
+            "name": "Bruno Buhler",
+"guid": "2032657382"
+        }, {
+            "name": "Andreas Schmid",
+"guid": "2137380000"
         }
+]
+,
+"year": "2008",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 88,
+"abstract": "Whole-cell redox biocatalysis relies on redox cofactor regeneration by the microbial host. Here, we applied flux balance analysis based on the Escherichia coli metabolic network to estimate maximal NADH regen…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d4cf5616edb7ffae8668105a52f265f4",
+"title": "Use of genome-scale metabolic models for understanding microbial physiology.",
+"authors": [
+{
+            "name": "Liming Liu",
+"guid": "2119846317"
+        }, {
+            "name": "Rasmus Agren",
+"guid": "1912267410"
+        }, {
+            "name": "Sergio Bordel",
+"guid": "1719129262"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2010",
+"journal": "· FEBS Letters",
+"cites": 88,
+"abstract": "The exploitation of microorganisms in industrial, medical, food and environmental biotechnology requires a comprehensive understanding of their physiology. The availability of genome sequences and accumulati…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Microbial Ecology",
+"guid": "69562835"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7ba98f97f44fed6f07b867882a9f20c7",
+"title": "Towards Predictive Models of the Human Gut Microbiome",
+"authors": [
+{
+            "name": "Vanni Bucci",
+"guid": "2181954993"
+        }, {
+            "name": "Joao B Xavier",
+"guid": "2217297310"
+        }
+]
+,
+"year": "2014",
+"journal": "· Journal of Molecular Biology",
+"cites": 88,
+"abstract": "Abstract The intestinal microbiota is an ecosystem susceptible to external perturbations such as dietary changes and antibiotic therapies. Mathematical models of microbial communities could be of great valu…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e630e58ac0e56b4bc39e125475a0002d",
+"title": "Software applications for flux balance analysis",
+"authors": [
+{
+            "name": "Meiyappan Lakshmanan",
+"guid": "2303245260"
+        }, {
+            "name": "Geoffrey Koh",
+"guid": "2101883902"
+        }, {
+            "name": "Bevan Kaisheng Chung",
+"guid": "2117079900"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }
+]
+,
+"year": "2014",
+"journal": "· Briefings in Bioinformatics",
+"cites": 88,
+"abstract": "Flux balance analysis (FBA) is a widely used computational method for characterizing and engineering intrinsic cellular metabolism. The increasing number of its successful applications and growing popularit…",
+"keywords": [
+{
+            "word": "Software Architecture",
+"guid": "35869016"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c18eb531d7936f433984e17187ee3bb9",
+"title": "Dynamic metabolic fluxanalysis--tools for probing transient states of metabolic networks.",
+"authors": [
+{
+            "name": "Maciek R Antoniewicz",
+"guid": "25222508"
+        }
+]
+,
+"year": "2013",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 87,
+"abstract": "Computational approaches for analyzing dynamic states of metabolic networks provide a practical framework for design, control, and optimization of biotechnological processes. In recent years, two prom…",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "64c22957ca1448d6049652ac3d4914f2",
+"title": "A framework for evolutionary systems biology",
+"authors": [
+{
+            "name": "Laurence Loewe",
+"guid": "1975179882"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 87,
+"abstract": "Background#R##N#Many difficult problems in evolutionary genomics are related to mutations that have weak effects on fitness, as the consequences of mutations with large effects are often simple to predict. …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6265e0995d2c3af7b76896992a85c2dc",
+"title": "Metabolic reconstruction and modeling of nitrogen fixation in Rhizobium etli.",
+"authors": [
+{
+            "name": "Osbaldo Resendisantonio",
+"guid": "1768339730"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }, {
+            "name": "Sergio Encarnacion",
+"guid": "2171150240"
+        }, {
+            "name": "Julio Colladovides",
+"guid": "96415551"
+        }, {
+            "name": "Bernhard O Pal…",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2005",
+"journal": "· PLOS Computational Biology",
+"cites": 87,
+"abstract": "Rhizobiaceas are bacteria that fix nitrogen during symbiosis with plants. This symbiotic relationship is crucial for the nitrogen cycle, and understanding symbiotic mechanisms is a scientific challenge with dir…",
+"keywords": [
+{
+            "word": "Nitrogen Cycle",
+"guid": "49045045"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "582d969e788779782715dd6ebcf4137e",
+"title": "MetaNetX.org",
+"authors": [
+{
+            "name": "Mathias Ganter",
+"guid": "2247901400"
+        }, {
+            "name": "Thomas Bernard",
+"guid": "2306173933"
+        }, {
+            "name": "Sebastien Moretti",
+"guid": "2163004880"
+        }, {
+            "name": "Joerg Stelling",
+"guid": "2435452140"
+        }, {
+            "name": "Marco Pagni",
+"guid": "2045120540"
+        }
+]
+,
+"year": "2013",
+"journal": "· Bioinformatics",
+"cites": 87,
+"abstract": "Summary: MetaNetX.org is a website for accessing, analysing and manipulating genome-scale metabolic networks (GSMs) as well as biochemical pathways. It consistently integrates data from various public re…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8b860b8349c5b5879929bd2044e4ea22",
+"title": "Using the Topology of Metabolic Networks to Predict Viability of Mutant Strains",
+"authors": [
+{
+            "name": "Zeba Wunderlich",
+"guid": "2073689481"
+        }, {
+            "name": "Leonid A Mirny",
+"guid": "336027099"
+        }
+]
+,
+"year": "2006",
+"journal": "· Biophysical Journal",
+"cites": 87,
+"abstract": "Understanding the relationships between the structure (topology) and function of biological networks is a central question of systems biology. The idea that topology is a major determinant of systems function h…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

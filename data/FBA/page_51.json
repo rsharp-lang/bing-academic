@@ -1,3 +1,4 @@
+[
 {
             "guid": "a5ed9daf9cedc2ec120fb813713c54a8",
 "title": "Construction of robust dynamic genome-scale metabolic model structures of Saccharomyces cerevisiae through iterativ…",
@@ -31,4 +32,326 @@
         }
 ]
 
+        }, {
+            "guid": "29e722b64a931b11799db310cc73f335",
+"title": "In silico metabolic engineering of Clostridium ljungdahlii for synthesis gas fermentation",
+"authors": [
+{
+            "name": "Jin Chen",
+"guid": "2302702452"
+        }, {
+            "name": "Michael A Henson",
+"guid": "2283948593"
         }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering",
+"cites": 15,
+"abstract": "Abstract Synthesis gas fermentation is one of the most promising routes to convert synthesis gas (syngas; mainly comprised of H 2 and CO) to renewable liquid fuels and chemicals by specialized bacteria. The …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0a6a0530e2fb75075bd1f3c474c7ddff",
+"title": "Fluxbalanceanalysis of photoautotrophic metabolism: Uncovering new biological details of subsystems involved in c…",
+"authors": [
+{
+            "name": "Xiao Qian",
+"guid": "2111274198"
+        }, {
+            "name": "Min Kyung Kim",
+"guid": "2619766159"
+        }, {
+            "name": "G Kenchappa Kumaraswamy",
+"guid": "2115456249"
+        }, {
+            "name": "Ananya Agarwal",
+"guid": "2562592445"
+        }, {
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }, {
+            "name": "G Ch…",
+"guid": "775947589"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biochimica et Biophysica Acta",
+"cites": 15,
+"abstract": "Abstract We have constructed and experimentally tested a comprehensive genome-scale model of photoautotrophic growth, denoted iSyp821, for the cyanobacterium Synechococcus sp. PCC 7002. iSyp…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ec479f7d2f1c014b2946a07692720ce",
+"title": "Computational analysis of phenotypic space in heterologous polyketide biosynthesis--applications to Escherichia coli, Bacill…",
+"authors": [
+{
+            "name": "Brett A Boghigian",
+"guid": "1167511761"
+        }, {
+            "name": "Kyongbum Lee",
+"guid": "2120960230"
+        }, {
+            "name": "Blaine A Pfeifer",
+"guid": "2029878413"
+        }
+]
+,
+"year": "2010",
+"journal": "· Journal of Theoretical Biology",
+"cites": 15,
+"abstract": "Polyketides represent a class of natural product small molecules with an impressive range of medicinal activities. In order to improve access to therapeutic polyketide compounds, heterologous metabolic engi…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "36647be5d92e269f88b42d8add96f85b",
+"title": "Green pathways: Metabolic network analysis of plant systems",
+"authors": [
+{
+            "name": "Lisa Maria Dersch",
+"guid": "2215968631"
+        }, {
+            "name": "Veronique Beckers",
+"guid": "2213707594"
+        }, {
+            "name": "Christoph Wittmann",
+"guid": "1973377886"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering",
+"cites": 15,
+"abstract": "Metabolic engineering of plants with enhanced crop yield and value-added compositional traits is particularly challenging as they probably exhibit the highest metabolic network complexity of all living or…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ceffcc72f02047deac59ba7830befb31",
+"title": "A network perspective on metabolic inconsistency",
+"authors": [
+{
+            "name": "Nikolaus Sonnenschein",
+"guid": "2089775442"
+        }, {
+            "name": "Jose Felipe Golib Dzib",
+"guid": "2761707492"
+        }, {
+            "name": "Annick Lesne",
+"guid": "2288317135"
+        }, {
+            "name": "Sebastian Eilebrecht",
+"guid": "2893048026"
+        }, {
+            "name": "Sheerazed Bo…",
+"guid": "1369745518"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 14,
+"abstract": "Background#R##N#Integrating gene expression profiles and metabolic pathways under different experimental conditions is essential for understanding the coherence of these two layers of cellular orga…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bf1e3fb2e44182b927ffea2c37728831",
+"title": "A genome-scale dynamic fluxbalanceanalysis model of Streptomyces tsukubaensis NRRL18488 to predict the targets …",
+"authors": [
+{
+            "name": "Cheng Wang",
+"guid": "2677342490"
+        }, {
+            "name": "Jiao Liu",
+"guid": "2311257392"
+        }, {
+            "name": "Huanhuan Liu",
+"guid": "2485231445"
+        }, {
+            "name": "Junhua Wang",
+"guid": "2602247418"
+        }, {
+            "name": "Jianping Wen",
+"guid": "2166027150"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biochemical Engineering Journal",
+"cites": 14,
+"abstract": "Abstract FK506 is a 23-membered polyketide macrolide with a good immunosuppressant activity for the treatment of autoimmune diseases. However, the low fermentation yield is a bottleneck to limit its furthe…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ebd2ab7525dceb4fdb74fdd21935d66",
+"title": "Toward a next generation of predictive models: A systems biology primer",
+"authors": [
+{
+            "name": "J F Van Impe",
+"guid": "2023203536"
+        }, {
+            "name": "Dominique Vercammen",
+"guid": "2063690941"
+        }, {
+            "name": "E Van Derlinden",
+"guid": "2069399295"
+        }
+]
+,
+"year": "2013",
+"journal": "· Food Control",
+"cites": 14,
+"abstract": "Abstract In the area of predictive microbiology, most models focus on simplicity and general applicability, and can be classified as black box models with the main emphasis on the description of the macroscopi…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "183236d486c6ae921f9e344da1785188",
+"title": "A hybrid of bees algorithm and fluxbalanceanalysis with OptKnock as a platform for in silico optimization of microbial …",
+"authors": [
+{
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Md Illias",
+"guid": "2227999364"
+        }, {
+            "name": "Chuii Khim Chong",
+"guid": "2157616592"
+        }, {
+            "name": "Lian En …",
+"guid": "2161638723"
+        }
+]
+,
+"year": "2014",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 14,
+"abstract": "Microbial strain optimization focuses on improving technological properties of the strain of microorganisms. However, the complexities of the metabolic networks, which lead to data ambiguity, oft…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "59c555f6af48c0d77a873f3bd4589930",
+"title": "Dynamic activation model for a glutamatergic neurovascular unit.",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2011",
+"journal": "· Journal of Theoretical Biology",
+"cites": 14,
+"abstract": "Abstract This article considers a dynamic spatially lumped model for brain energy metabolism and proposes to use the results of a Markov chain Monte Carlo (MCMC) based fluxbalanceanalysis to esti…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

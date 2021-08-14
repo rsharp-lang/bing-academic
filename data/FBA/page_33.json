@@ -1,3 +1,4 @@
+[
 {
             "guid": "e385e6a2c2d1aee2ad0550daf006c188",
 "title": "Calibration and analysis of genome-based models for microbial ecology",
@@ -28,4 +29,296 @@
         }
 ]
 
+        }, {
+            "guid": "35a28c6b37dacd1a4c140638322499f6",
+"title": "Genome-scale metabolic fluxanalysis of Streptomyces lividans growing on a complex medium",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· Journal of Biotechnology",
+"cites": 33,
+"abstract": "Abstract Constraint-based metabolic modeling comprises various excellent tools to assess experimentally observed phenotypic behavior of micro-organisms in terms of intracellular metabolic fluxes. In combinati…",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Streptomyces Lividans",
+"guid": "2910035996"
         }
+]
+
+        }, {
+            "guid": "d381f6cd9b2eb55b0620af1259905cf6",
+"title": "Transcript abundance on its own cannot be used to infer fluxes in central metabolism",
+"authors": [
+{
+            "name": "Jorg Schwender",
+"guid": "2002373688"
+        }, {
+            "name": "Christina Konig",
+"guid": "2683137853"
+        }, {
+            "name": "Matthias Klapperstuck",
+"guid": "1587688880"
+        }, {
+            "name": "Nicolas Heinzel",
+"guid": "2029521678"
+        }, {
+            "name": "Eberhard Munz",
+"guid": "2006456503"
+        }, {
+            "name": "Inga He…",
+"guid": "1095490559"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Plant Science",
+"cites": 32,
+"abstract": "An attempt has been made to define the extent to which metabolic flux in central plant metabolism is reflected by changes in the transcriptome and metabolome, based on an analysis of in vitro cultured im…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bb7ac0f69749cc0d0ed211adbada2e42",
+"title": "Combining Metabolic Pathway Analysis with Evolutionary Game Theory. Explaining the occurrence of low-yield pathways by a…",
+"authors": [
+{
+            "name": "Stefan Schuster",
+"guid": "2569839502"
+        }, {
+            "name": "Luis F De Figueiredo",
+"guid": "2136552502"
+        }, {
+            "name": "Anja Schroeter",
+"guid": "2128687839"
+        }, {
+            "name": "Christoph Kaleta",
+"guid": "74203850"
+        }
+]
+,
+"year": "2011",
+"journal": "· BioSystems",
+"cites": 32,
+"abstract": "Abstract Elementary-mode analysis is a powerful method for detecting all potential pathways in a metabolic network and computing the associated molar yields. Metabolic pathways can be interpreted a…",
+"keywords": [
+{
+            "word": "Evolutionary Game Theory",
+"guid": "20249471"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a74fc796f5bd4cb178eb40e1fc363564",
+"title": "Computational metabolic engineering strategies for growth-coupled biofuel production by Synechocystis",
+"authors": [
+{
+            "name": "Kiyan Shabestary",
+"guid": "2322541788"
+        }, {
+            "name": "Elton P Hudson",
+"guid": "2126970553"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering Communications",
+"cites": 32,
+"abstract": "Chemical and fuel production by photosynthetic cyanobacteria is a promising technology but to date has not reached competitive rates and titers. Genome-scale metabolic modeling can reveal limitatio ...",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ddcfb58573db61f8114b25a551dae8f4",
+"title": "Green genes: bioinformatics and systems-biology innovations drive algal biotechnology",
+"authors": [
+{
+            "name": "Maarten J M F Reijnders",
+"guid": "2022714715"
+        }, {
+            "name": "Ruben G A Van Heck",
+"guid": "2170076422"
+        }, {
+            "name": "Carolyn M C Lam",
+"guid": "2156786514"
+        }, {
+            "name": "Mark A Scaife",
+"guid": "2082070572"
+        }, {
+            "name": "Vitor A P Martins …",
+"guid": "2109312389"
+        }
+]
+,
+"year": "2014",
+"journal": "· Trends in Biotechnology",
+"cites": 32,
+"abstract": "Many species of microalgae produce hydrocarbons, polysaccharides, and other valuable products in significant amounts. However, large-scale production of algal products is not yet competitive against no…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fb95ae4f3f6176f2071fe1e204ccc667",
+"title": "Multiplex methods provide effective integration of multi-omic data in genome-scale models",
+"authors": [
+{
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Maxwell Conway",
+"guid": "2559019715"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Bioinformatics",
+"cites": 32,
+"abstract": "Background#R##N#Genomic, transcriptomic, and metabolic variations shape the complex adaptation landscape of bacteria to varying environmental conditions. Elucidating the genotype-phenotype relation …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d7f0122c516cea3f7948456c3dac2cc1",
+"title": "Metabolic flux distributions in recombinant Saccharomyces cerevisiae during foreign protein production",
+"authors": [
+
+]
+,
+"year": "1997",
+"journal": "· Journal of Biotechnology",
+"cites": 31,
+"abstract": "A stoichiometric flux balancing analysis was applied to the recombinant yeast cultivation to examine the cellular physiology and relationship between the production of heterologous protein and metabolic fluxes…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Saccharomyces Cerevisiae",
+"guid": "2777576037"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f91a1c99b6a10d0a57307b55e67fc798",
+"title": "Inference and prediction of metabolic network fluxes",
+"authors": [
+{
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }, {
+            "name": "Richard Perezstorey",
+"guid": "2342789527"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }
+]
+,
+"year": "2015",
+"journal": "· Plant Physiology",
+"cites": 31,
+"abstract": "In this Update, we cover the basic principles of the estimation and prediction of the rates of the many interconnected biochemical reactions that constitute plant metabolic networks. This includes metabolic fl…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "01a03af391036b2cff64d432da1c61d6",
+"title": "A systems biology framework for modeling metabolic enzyme inhibition of Mycobacterium tuberculosis",
+"authors": [
+{
+            "name": "Xin Fang",
+"guid": "2124933470"
+        }, {
+            "name": "Anders Wallqvist",
+"guid": "2307244050"
+        }, {
+            "name": "Jaques Reifman",
+"guid": "1654915906"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 31,
+"abstract": "Background: Because metabolism is fundamental in sustaining microbial life, drugs that target pathogen-specific metabolic enzymes and pathways can be very effective. In particular, the metabolic challenges f…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Enzyme Kinetics",
+"guid": "56856141"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

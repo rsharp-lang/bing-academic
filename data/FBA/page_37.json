@@ -1,3 +1,4 @@
+[
 {
             "guid": "952bbb5c024edc40de3aaaf254955449",
 "title": "Logical transformation of genome-scale metabolic models for gene level applications and analysis",
@@ -37,4 +38,305 @@
         }
 ]
 
+        }, {
+            "guid": "f5447ecddfd07f92d0e078a09fa3a291",
+"title": "Optimizing eukaryotic cell hosts for protein production through systems biotechnology and genome‐scale modeling",
+"authors": [
+{
+            "name": "Jahir M Gutierrez",
+"guid": "2228583228"
+        }, {
+            "name": "Nathan E Lewis",
+"guid": "2157742992"
         }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology Journal",
+"cites": 27,
+"abstract": "Eukaryotic cell lines, including Chinese hamster ovary cells, yeast, and insect cells, are invaluable hosts for the production of many recombinant proteins. With the advent of genomic resources, one can now le…",
+"keywords": [
+{
+            "word": "Protein Biosynthesis",
+"guid": "3675279"
+        }, {
+            "word": "Cell Culture",
+"guid": "81885089"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fa083e99b9f402b869c8f87869b3d4ff",
+"title": "Investigation of metabolic objectives in cultured hepatocytes.",
+"authors": [
+{
+            "name": "Korkut Uygun",
+"guid": "1165165085"
+        }, {
+            "name": "Howard W T Matthew",
+"guid": "2026270150"
+        }, {
+            "name": "Yinlun Huang",
+"guid": "2140602580"
+        }
+]
+,
+"year": "2007",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 27,
+"abstract": "Using optimization based methods to predict fluxes in metabolic fluxbalance models has been a successful approach for some microorganisms, enabling construction of in silico models and even infere…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "58e04d0331aaede990092b982c15d7c6",
+"title": "Genotype networks, innovation, and robustness in sulfur metabolism",
+"authors": [
+{
+            "name": "Joao F Matias Rodrigues",
+"guid": "2111287709"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 27,
+"abstract": "Background#R##N#A metabolism is a complex network of chemical reactions. This network synthesizes multiple small precursor molecules of biomass from chemicals that occur in the environment. The metab…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2673e0fc66cf6c1e1b747a45559c7cd3",
+"title": "Flux Balance Analysis of a Genome‐Scale Yeast Model Constrained by Exometabolomic Data Allows Metabolic Syste…",
+"authors": [
+{
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }, {
+            "name": "Cagri Efe",
+"guid": "2717845613"
+        }, {
+            "name": "Duygu Dikicioglu",
+"guid": "1115533022"
+        }, {
+            "name": "Amable Hortacsu",
+"guid": "1698187435"
+        }, {
+            "name": "Betul Kirdar",
+"guid": "879979628"
+        }, {
+            "name": "Stephen G Oliver",
+"guid": "2141347178"
+        }
+]
+,
+"year": "2007",
+"journal": "· Biotechnology Progress",
+"cites": 27,
+"abstract": "A systems approach to biology requires a principled approach to pathway identification. In this study, the two nuclear petite yeast mutants K1Δpet191a and K1Δpet191ab and their parental industrial strain K1 we…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Strain (chemistry)",
+"guid": "61656845"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "de9365ab144056c97f7f8c8a07fa8a8d",
+"title": "Flux balance analysis reveals acetate metabolism modulates cyclic electron flow and alternative glycolytic pathways in Chla…",
+"authors": [
+{
+            "name": "Stephen Philip Chapman",
+"guid": "2522992550"
+        }, {
+            "name": "Caroline Mary Paget",
+"guid": "2058200337"
+        }, {
+            "name": "Giles N Johnson",
+"guid": "2162063708"
+        }, {
+            "name": "Jeanmarc Schwartz",
+"guid": "2293965298"
+        }
+]
+,
+"year": "2016",
+"journal": "· Frontiers in Plant Science",
+"cites": 27,
+"abstract": "Cells of the green alga Chlamydomonas reinhardtii cultured in the presence of acetate perform mixotrophic growth, involving both photosynthesis and organic carbon assimilation. Under such conditio…",
+"keywords": [
+{
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5ece3ee30c5b1f86bab16eb35bda545d",
+"title": "Microalgal bioengineering for sustainable energy development: Recent transgenesis and metabolic engineering strategies.",
+"authors": [
+{
+            "name": "Chiranjib Banerjee",
+"guid": "2112438779"
+        }, {
+            "name": "Puneet Kumar Singh",
+"guid": "2133577849"
+        }, {
+            "name": "Pratyoosh Shukla",
+"guid": "2143796057"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology Journal",
+"cites": 27,
+"abstract": "Exploring the efficiency of algae to produce remarkable products can be directly benefitted by studying its mechanism at systems level. Recent advents in biotechnology like flux balance analysis (FBA), genomic…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "917e3355925a2d510b1bc9bd51cd2c7d",
+"title": "Establishment, in silico analysis, and experimental verification of a large-scale metabolic network of the xanthan producing Xa…",
+"authors": [
+{
+            "name": "Sarah Schatschneider",
+"guid": "1978584574"
+        }, {
+            "name": "Marcus Persicke",
+"guid": "2191324396"
+        }, {
+            "name": "Steven Alexander Watt",
+"guid": "2159575626"
+        }, {
+            "name": "Gerd Hublik",
+"guid": "2038763909"
+        }, {
+            "name": "Alfred Puhler",
+"guid": "2064474348"
+        }, {
+            "name": "Karste…",
+"guid": "1761215373"
+        }
+]
+,
+"year": "2013",
+"journal": "· Journal of Biotechnology",
+"cites": 27,
+"abstract": "Abstract The γ-proteobacterium Xanthomonas campestris pv. campestris (Xcc) B100 synthesizes the polysaccharide xanthan, a commercially important viscosifier. Since the complete genome of Xcc B100 i…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6999c48b6e246c97dc29f1742af6f045",
+"title": "Monte Carlo sampling and principal component analysis of flux distributions yield topological and modular information on m…",
+"authors": [
+
+]
+,
+"year": "2006",
+"journal": "· Journal of Theoretical Biology",
+"cites": 26,
+"abstract": "The work presented here uses Monte Carlo random sampling combined with flux balance analysis and linear programming to analyse the steady-state flux distributions on the surface of the glucose–ammoni…",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Normal Distribution",
+"guid": "102094743"
+        }
+]
+
+        }, {
+            "guid": "3260ff07436a70c52378ba9de7970892",
+"title": "Dynamic flux balance analysis for synthetic microbial communities",
+"authors": [
+{
+            "name": "Michael A Henson",
+"guid": "2283948593"
+        }, {
+            "name": "Timothy J Hanly",
+"guid": "2012558715"
+        }
+]
+,
+"year": "2014",
+"journal": "· Iet Systems Biology",
+"cites": 26,
+"abstract": "Dynamic flux balance analysis (DFBA) is an extension of classical flux balance analysis that allows the dynamic effects of the extracellular environment on microbial metabolism to be predicted and optimised…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Control Theory",
+"guid": "65244806"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

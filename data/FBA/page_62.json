@@ -1,3 +1,4 @@
+[
 {
             "guid": "cf56b3fc93a0c0e64cf5c325d0ab3673",
 "title": "Horizontally transferred genes cluster spatially and metabolically",
@@ -28,4 +29,281 @@
         }
 ]
 
+        }, {
+            "guid": "23634652dd746daceadb4c269f7318a7",
+"title": "An enhanced genome-scale metabolic reconstruction of Streptomyces clavuligerus identifies novel strain improvemen…",
+"authors": [
+{
+            "name": "Leon F Toro",
+"guid": "2748230124"
+        }, {
+            "name": "Laura Pinilla",
+"guid": "2116476236"
+        }, {
+            "name": "Claudio Avignonerossa",
+"guid": "2025239620"
+        }, {
+            "name": "Rigoberto Riosestepa",
+"guid": "61736754"
         }
+]
+,
+"year": "2018",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 10,
+"abstract": "In this work, we expanded and updated a genome-scale metabolic model of Streptomyces clavuligerus. The model includes 1021 genes and 1494 biochemical reactions; genome-reaction information was cura…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b26e3cb30f54b9b766b0a492a5424df6",
+"title": "OM-FBA: Integrate Transcriptomics Data with FluxBalanceAnalysis to Decipher the Cell Metabolism.",
+"authors": [
+{
+            "name": "Weihua Guo",
+"guid": "2307663166"
+        }, {
+            "name": "Xueyang Feng",
+"guid": "2059886172"
+        }
+]
+,
+"year": "2016",
+"journal": "· PLOS ONE",
+"cites": 10,
+"abstract": "Constraint-based metabolic modeling such as fluxbalanceanalysis (FBA) has been widely used to simulate cell metabolism. Thanks to its simplicity and flexibility, numerous algorithms have been develop…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2186aa02cc85b3649ab25110fb3a1fad",
+"title": "A topological characterization of medium-dependent essential metabolic reactions.",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· Metabolites",
+"cites": 10,
+"abstract": "Metabolism has frequently been analyzed from a network perspective. A major question is how network properties correlate with biological features like growth rates, flux patterns and enzyme essentiality. Usin…",
+"keywords": [
+{
+            "word": "Text Mining",
+"guid": "71472368"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }
+]
+
+        }, {
+            "guid": "7bf26cdaeb7addf81e27be2d95e59a8e",
+"title": "The JBEI quantitative metabolic modeling library (jQMM): a python library for modeling microbial metabolism",
+"authors": [
+{
+            "name": "Garrett W Birkel",
+"guid": "2522942007"
+        }, {
+            "name": "Amit Ghosh",
+"guid": "2421404382"
+        }, {
+            "name": "Vinay Satish Kumar",
+"guid": "2558539380"
+        }, {
+            "name": "Daniel Weaver",
+"guid": "2245905693"
+        }, {
+            "name": "David Ando",
+"guid": "2005952855"
+        }, {
+            "name": "Tyler W H Backman",
+"guid": "2055827309"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Bioinformatics",
+"cites": 10,
+"abstract": "Modeling of microbial metabolism is a topic of growing importance in biotechnology. Mathematical modeling helps provide a mechanistic understanding for the studied process, separating the main driver…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "17282c47dc32c16aab08e59dbaa26d53",
+"title": "New concepts and tools in constraint-based analysis of metabolic networks",
+"authors": [
+{
+            "name": "Abdelhalim Larhlimi",
+"guid": "1393425648"
+        }
+]
+,
+"year": "2009",
+"journal": "",
+"cites": 10,
+"abstract": "Constraint-based approaches have proved successful in analyzing complex metabolic networks. They restrict the range of all possible behaviors that a metabolic system can display under governing constrai…",
+"keywords": [
+{
+            "word": "Generating Set of A Group",
+"guid": "18116961"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "52141a3b50219d6a030da675571ae5fd",
+"title": "Genome-scale metabolic model of Rhodococcus jostii RHA1 (iMT1174) to study the accumulation of storage compounds d…",
+"authors": [
+{
+            "name": "Mohammad Tajparast",
+"guid": "2461878426"
+        }, {
+            "name": "Dominic Frigon",
+"guid": "1794900849"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 10,
+"abstract": "Background#R##N#Rhodococcus jostii RHA1 growing on different substrates is capable of accumulating simultaneously three types of carbon storage compounds: glycogen, polyhydroxyalkanoates (PHA), an…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4cb2289fb6f2bda39ad5be3360952b88",
+"title": "Restricted cooperative games on metabolic networks reveal functionally important reactions",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· Journal of Theoretical Biology",
+"cites": 10,
+"abstract": "Abstract Understanding the emerging properties of complex biological systems is in the crux of systems biology studies. Computational methods for elucidating the role of each component in the synergetic inte…",
+"keywords": [
+{
+            "word": "Shapley Value",
+"guid": "199022921"
+        }, {
+            "word": "Cooperative Game Theory",
+"guid": "2781416736"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "06d7833d968fdbaea0d01285726758b3",
+"title": "Research Article: Computational method for inferring objective function of glycerol metabolism in Klebsiella pneumoniae",
+"authors": [
+{
+            "name": "Zhaohua Gong",
+"guid": "2138562807"
+        }, {
+            "name": "Chongyang Liu",
+"guid": "2126268999"
+        }, {
+            "name": "Enmin Feng",
+"guid": "2104640512"
+        }, {
+            "name": "Qingrui Zhang",
+"guid": "2658283133"
+        }
+]
+,
+"year": "2009",
+"journal": "· Computational Biology and Chemistry",
+"cites": 10,
+"abstract": "Fluxbalanceanalysis (FBA) is an effective tool in the analysis of metabolic network. It can predict the flux distribution of engineered cells, whereas the accurate prediction depends on the reasonable objective fu…",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b36ba248b0eb83022b00573605906d6a",
+"title": "Metabolic FluxAnalysis of Mammalian Cells",
+"authors": [
+{
+            "name": "D E Martens",
+"guid": "2687344534"
+        }
+]
+,
+"year": "2007",
+"journal": "",
+"cites": 10,
+"abstract": "Metabolic fluxanalysis has become a standard tool for analyzing metabolism and optimizing bioprocesses. Metabolic fluxanalysis makes use of a metabolic reaction network in combination with ext…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

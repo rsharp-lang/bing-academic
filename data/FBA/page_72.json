@@ -1,3 +1,4 @@
+[
 {
             "guid": "caaec2d74a35559b9725a7fc3229d302",
 "title": "Complementary elementary modes for fast and efficient analysis of metabolic networks",
@@ -31,4 +32,344 @@
         }
 ]
 
+        }, {
+            "guid": "13bb58e7102c286f83930051e751a00f",
+"title": "Model-based optimization of biopharmaceutical manufacturing in Pichia pastoris based on dynamic fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Victor Nnamdi Emenike",
+"guid": "2887492405"
+        }, {
+            "name": "Rene Schenkendorf",
+"guid": "2664022014"
+        }, {
+            "name": "Ulrike Krewer",
+"guid": "2914401858"
         }
+]
+,
+"year": "2018",
+"journal": "· Computers & Chemical Engineering",
+"cites": 7,
+"abstract": "Abstract Biologic drugs are promising therapeutics, and their efficient production is essential for a competitive pharma industry. Dynamic fluxbalanceanalysis (dFBA) enables the dynamic simulation of t…",
+"keywords": [
+{
+            "word": "Bilevel Optimization",
+"guid": "3309286"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ec25babee6beae696786a94fb643710b",
+"title": "iCN718, an Updated and Improved Genome-Scale Metabolic Network Reconstruction of Acinetobacter baumannii AYE",
+"authors": [
+{
+            "name": "Charles J Norsigian",
+"guid": "2794792605"
+        }, {
+            "name": "Erol Kavvas",
+"guid": "2439933484"
+        }, {
+            "name": "Yara Seif",
+"guid": "2794560259"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Jonathan M Monk",
+"guid": "2626578906"
+        }
+]
+,
+"year": "2018",
+"journal": "· Frontiers in Genetics",
+"cites": 7,
+"abstract": "Acinetobacter baumannii has become an urgent clinical threat due to the recent emergence of multi-drug resistant strains. There is thus a significant need to discover new therapeutic targets in this organism. O…",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "95c8c9fc98ff5eaeb43ecb41d66a7092",
+"title": "Effect of amino acid supplementation on titer and glycosylation distribution in hybridoma cell cultures—Systems biology-base…",
+"authors": [
+{
+            "name": "Thomas M Reimonn",
+"guid": "2793273683"
+        }, {
+            "name": "Seoyoung Park",
+"guid": "2523649769"
+        }, {
+            "name": "Cyrus Agarabi",
+"guid": "2558791415"
+        }, {
+            "name": "Kurt Brorson",
+"guid": "2024637672"
+        }, {
+            "name": "Seongkyu Yoon",
+"guid": "2148129068"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology Progress",
+"cites": 7,
+"abstract": "Genome-scale fluxbalanceanalysis (FBA) is a powerful systems biology tool to characterize intracellular reaction fluxes during cell cultures. FBA estimates intracellular reaction rates by optimizing an objective …",
+"keywords": [
+{
+            "word": "Excretion",
+"guid": "10146269"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "976f56891e79edd237aafcba89a1112c",
+"title": "Segregated fluxbalanceanalysis constrained by population structure\/function data: the case of PHA production by mixe…",
+"authors": [
+{
+            "name": "Filipa Pardelha",
+"guid": "2045446199"
+        }, {
+            "name": "Maria G E Albuquerque",
+"guid": "2131610477"
+        }, {
+            "name": "Gilda Carvalho",
+"guid": "2179596314"
+        }, {
+            "name": "Maria A M Reis",
+"guid": "2115641982"
+        }, {
+            "name": "Joao M L Dias",
+"guid": "2304340982"
+        }, {
+            "name": "Rui Oliveira",
+"guid": "2193071107"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 7,
+"abstract": "In this study we developed a segregated fluxbalanceanalysis (FBA) method to calculate metabolic flux distributions of the individual populations present in a mixed microbial culture (MMC). Population specifi…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5a1a5f615bd1f12fdcf4322f64ce4643",
+"title": "The intertwined metabolism during symbiotic nitrogen fixation elucidated by metabolic modelling",
+"authors": [
+{
+            "name": "Thomas Pfau",
+"guid": "2703939287"
+        }, {
+            "name": "Nils Christian",
+"guid": "2304028138"
+        }, {
+            "name": "Shyam K Masakapalli",
+"guid": "1992751031"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }, {
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }, {
+            "name": "Oliver Ebe…",
+"guid": "2796560689"
+        }
+]
+,
+"year": "2018",
+"journal": "· Scientific Reports",
+"cites": 7,
+"abstract": "Genome-scale metabolic network models can be used for various analyses including the prediction of metabolic responses to changes in the environment. Legumes are well known for their rhizobial symbios…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Symbiosis",
+"guid": "43144210"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "48a654fc716535898b665f08bc309b38",
+"title": "Fluxbalanceanalysis in the production of clavulanic acid by Streptomyces clavuligerus.",
+"authors": [
+{
+            "name": "Claudia Sanchez",
+"guid": "2160675330"
+        }, {
+            "name": "Juan C Quintero",
+"guid": "2109670540"
+        }, {
+            "name": "Silvia Ochoa",
+"guid": "2996745843"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology Progress",
+"cites": 7,
+"abstract": "In this work, in silico fluxbalanceanalysis is used for predicting the metabolic behavior of Streptomyces clavuligerus during clavulanic acid production. To choose the best objective function for use in the analy…",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "535cc4f094ffc3d8fd004ea69a02a81b",
+"title": "Application of adaptive laboratory evolution to overcome a flux limitation in an Escherichia coli production strain",
+"authors": [
+{
+            "name": "Kento Tokuyama",
+"guid": "2336219517"
+        }, {
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Takaaki Horinouchi",
+"guid": "2165985010"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Fumio Matsuda",
+"guid": "1993147996"
+        }, {
+            "name": "Hiroshi …",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2018",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 7,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Strain (chemistry)",
+"guid": "61656845"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "db4fdeefcca23dfd5776688ed62ed0f1",
+"title": "CONSTRICTOR: constraint modification provides insight into design of biochemical networks.",
+"authors": [
+{
+            "name": "Keesha E Erickson",
+"guid": "2100830089"
+        }, {
+            "name": "Ryan T Gill",
+"guid": "2098590853"
+        }, {
+            "name": "Anushree Chatterjee",
+"guid": "2598407452"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS ONE",
+"cites": 7,
+"abstract": "Advances in computational methods that allow for exploration of the combinatorial mutation space are needed to realize the potential of synthetic biology based strain engineering efforts. Here, we present C…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ff91dd803d03a1644dac8f64ad99f936",
+"title": "MetaNET - a web-accessible interactive platform for biological metabolic network analysis",
+"authors": [
+{
+            "name": "Pankaj Narang",
+"guid": "1984481679"
+        }, {
+            "name": "Shawez Khan",
+"guid": "2441900239"
+        }, {
+            "name": "Anmol J Hemrom",
+"guid": "2257813983"
+        }, {
+            "name": "Andrew M Lynn",
+"guid": "2104200485"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 7,
+"abstract": "Background#R##N#Metabolic reactions have been extensively studied and compiled over the last century. These have provided a theoretical base to implement models, simulations of which are used to …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

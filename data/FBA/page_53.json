@@ -1,3 +1,4 @@
+[
 {
             "guid": "162dcb6831138190b2a41c596691d2c2",
 "title": "Modelling osmotic stress by Flux BalanceAnalysis at the genomic scale",
@@ -31,4 +32,308 @@
         }
 ]
 
+        }, {
+            "guid": "0b12994f47e00e1f2c635a880d824590",
+"title": "Proteomics-based metabolic modeling and characterization of the cellulolytic bacterium Thermobifida fusca",
+"authors": [
+{
+            "name": "Niti Vanee",
+"guid": "80442829"
+        }, {
+            "name": "J Paul Brooks",
+"guid": "2148558718"
+        }, {
+            "name": "Victor Spicer",
+"guid": "2072127252"
+        }, {
+            "name": "Dmitriy Shamshurin",
+"guid": "2527787663"
+        }, {
+            "name": "Oleg V Krokhin",
+"guid": "1929680250"
+        }, {
+            "name": "John A Wilkins",
+"guid": "2112356697"
+        }, {
+            "name": "Yu …",
+"guid": "2415785389"
         }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 14,
+"abstract": "Background#R##N#Thermobifida fusca is a cellulolytic bacterium with potential to be used as a platform organism for sustainable industrial production of biofuels, pharmaceutical ingredients and other bioproce…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d60c25eaf850bc8195f62b30c291a71d",
+"title": "Metabolic flux analysis of heterotrophic growth in Chlamydomonas reinhardtii",
+"authors": [
+{
+            "name": "Nanette R Boyle",
+"guid": "2136719151"
+        }, {
+            "name": "Neelanjan Sengupta",
+"guid": "2102601532"
+        }, {
+            "name": "John A Morgan",
+"guid": "2180064207"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS ONE",
+"cites": 14,
+"abstract": "Despite the wealth of knowledge available for C. reinhardtii, the central metabolic fluxes of growth on acetate have not yet been determined. In this study, 13C-metabolic flux analysis (13C-MFA) was used t…",
+"keywords": [
+{
+            "word": "Isotopic Labeling",
+"guid": "36674120"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "63a7daddb120f7d978ecac24ea275c2a",
+"title": "Clostridioides difficile 630Δerm in silico and in vivo – quantitative growth and extensive polysaccharide secretion",
+"authors": [
+{
+            "name": "Henning Dannheim",
+"guid": "2587292208"
+        }, {
+            "name": "Sabine Eva Will",
+"guid": "2411232809"
+        }, {
+            "name": "Dietmar Schomburg",
+"guid": "2143548709"
+        }, {
+            "name": "Meina Neumannschaal",
+"guid": "2411570449"
+        }
+]
+,
+"year": "2017",
+"journal": "· FEBS Open Bio",
+"cites": 14,
+"abstract": "Antibiotic associated infections with Clostridioides difficile are a severe and often lethal risk for hospitalized patients, but can also affect populations without these classical risk factors. For a rational design of ther…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c24b5e7d114f62349784a339a77ab612",
+"title": "Quantitative intracellular flux modeling and applications in biotherapeutic development and production using CHO cell c…",
+"authors": [
+{
+            "name": "Zhuangrong Huang",
+"guid": "2535621157"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }, {
+            "name": "Seongkyu Yoon",
+"guid": "2148129068"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 14,
+"abstract": "Chinese hamster ovary (CHO) cells have been widely used for producing many recombinant therapeutic proteins. Constraint-based modeling, such as flux balanceanalysis (FBA) and metabolic flux analysis (…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioprocess Engineering",
+"guid": "61664519"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "862a33bfa79e6d0913d00506eccb9b0a",
+"title": "Comparing flux balanceanalysis to network expansion: producibility, sustainability and the scope of compounds",
+"authors": [
+{
+            "name": "K Kruse",
+"guid": "2652949896"
+        }, {
+            "name": "Oliver Ebenhoeh",
+"guid": "2665867080"
+        }
+]
+,
+"year": "2008",
+"journal": "· Genome Informatics",
+"cites": 14,
+"abstract": "The producibility of metabolites from available resources is investigated systematically using flux balanceanalysis (FBA) and network expansion. Calculations are performed for the genome-scale metabolic net…",
+"keywords": [
+{
+            "word": "Sustainability",
+"guid": "66204764"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7bb3a6d0d6b6a4670e0eac94d6cf1fc0",
+"title": "Application of metabolic flux analysis in metabolic engineering.",
+"authors": [
+{
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }, {
+            "name": "Jong Myoung Park",
+"guid": "2124866031"
+        }, {
+            "name": "Tae Yong Kim",
+"guid": "2116269765"
+        }
+]
+,
+"year": "2011",
+"journal": "· Methods in Enzymology",
+"cites": 14,
+"abstract": "Abstract Metabolic flux analysis (MFA) is an important analytical technique to quantify intracellular metabolic fluxes as a consequence of all catalytic and transcriptional interactions. In systems metabolic …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "68b0f3b54209370eda95d8355679c93f",
+"title": "OPTIMALITY CRITERIA FOR THE PREDICTION OF METABOLIC FLUXES IN YEAST MUTANTS",
+"authors": [
+
+]
+,
+"year": "2008",
+"journal": "· Genome Informatics",
+"cites": 13,
+"abstract": "Constraint-based models of cellular metabolism, such as flux balanceanalysis (FBA), use convex analysis and optimization to study metabolic networks at a genome scale. The availability of reaction lists for nu…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7418b953d9a3cfb9a32ed44c752cba9c",
+"title": "popFBA: tackling intratumour heterogeneity with Flux BalanceAnalysis",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Marzia Di Filippo",
+"guid": "2555707555"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Davide Maspero",
+"guid": "2734710697"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Giancarlo M…",
+"guid": "2102122772"
+        }
+]
+,
+"year": "2017",
+"journal": "· Bioinformatics",
+"cites": 13,
+"abstract": "Intratumour heterogeneity poses many challenges to the treatment of cancer. Unfortunately, the transcriptional and metabolic information retrieved by currently available computational and experimenta…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "61091ad6fd76caeff95d2366432957b7",
+"title": "Genome-scale reconstruction of a metabolic network for Gluconobacter oxydans 621H",
+"authors": [
+{
+            "name": "Xinsen Wu",
+"guid": "2669203041"
+        }, {
+            "name": "Xiaoyang Wang",
+"guid": "2703551888"
+        }, {
+            "name": "Wenyu Lu",
+"guid": "2628262522"
+        }
+]
+,
+"year": "2014",
+"journal": "· BioSystems",
+"cites": 13,
+"abstract": "Abstract Gluconobacter oxydans is a Gram-negative bacterium with a number of biotechnological applications. Although the genome of G. oxydans has been reported in 2005, the systematical cellular m…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

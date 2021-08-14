@@ -1,3 +1,4 @@
+[
 {
             "guid": "765e787a516c7dbb41f2daf5b272a15e",
 "title": "Modeling metabolic networks of individual bacterial agents in heterogeneous and dynamic soil habitats (IndiMeSH)",
@@ -34,4 +35,305 @@
         }
 ]
 
+        }, {
+            "guid": "9309b9cb2d8ae2df1b4d1be76214fb6a",
+"title": "Personalized Prediction of Proliferation Rates and Metabolic Liabilities in Cancer Biopsies.",
+"authors": [
+{
+            "name": "Christian Diener",
+"guid": "2137958068"
+        }, {
+            "name": "Osbaldo Resendisantonio",
+"guid": "1768339730"
         }
+]
+,
+"year": "2016",
+"journal": "· Frontiers in Physiology",
+"cites": 4,
+"abstract": "Cancer is a heterogeneous disease and its genetic and metabolic mechanism may manifest differently in each patient. This creates a demand for studies that can characterize phenotypic traits of cancer on a p…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Personalized Medicine",
+"guid": "32220436"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "523e6b90ee7b5e6405c482b415bfd042",
+"title": "dynamic Flux Balance Analysis of the Metabolism of Microalgae under a Diurnal Light Cycle",
+"authors": [
+{
+            "name": "Caroline Baroukh",
+"guid": "2731061188"
+        }, {
+            "name": "J P Steyer",
+"guid": "2777074435"
+        }, {
+            "name": "Olvier Bernard",
+"guid": "2949422559"
+        }, {
+            "name": "Benoit Chachuat",
+"guid": "1655347798"
+        }
+]
+,
+"year": "2016",
+"journal": "· IFAC-PapersOnLine",
+"cites": 4,
+"abstract": "Abstract Microalgae have received much attention in the context of renewable fuel production, due to their ability to produce in high quantities carbon storage molecules such as lipids and carbohydrates. Despit…",
+"keywords": [
+{
+            "word": "Renewable Fuels",
+"guid": "52208190"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "82be0688284d7cccce7ae2366aecc1f6",
+"title": "Design of Superior Cell Factories Based on Systems Wide Omics Analysis",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "",
+"cites": 4,
+"abstract": "The bioproduction industry is expanding towards sustainable production of energy, chemicals and materials requesting for superior, high-productivity cell factories. Recent advances in measurement tech…",
+"keywords": [
+{
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "Phenome",
+"guid": "7952369"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d29dc2cc45a517c013830a9a7194669e",
+"title": "Original Research: Comparative constraint-based model development for thermophilic hydrogen production",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "· Industrial Biotechnology",
+"cites": 4,
+"abstract": "Abstract A method for comparative constraint-based model development is presented; the constraint-based model for one organism is modified to create a model for a second organism based on synteny b…",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Biological Hydrogen Production",
+"guid": "90754154"
+        }, {
+            "word": "Hydrogenase",
+"guid": "79115784"
+        }
+]
+
+        }, {
+            "guid": "ff15d114268a654f071b4e1396aac2ee",
+"title": "Integrated human-virus metabolic stoichiometric modelling predicts host-based antiviral targets against Chikungunya, De…",
+"authors": [
+{
+            "name": "Sean Aller",
+"guid": "2737215178"
+        }, {
+            "name": "Andrew E Scott",
+"guid": "2250565077"
+        }, {
+            "name": "Mitali Sarkartyson",
+"guid": "1612793906"
+        }, {
+            "name": "Orkun S Soyer",
+"guid": "2019038022"
+        }
+]
+,
+"year": "2018",
+"journal": "· Journal of the Royal Society Interface",
+"cites": 4,
+"abstract": "Current and reoccurring viral epidemic outbreaks such as those caused by the Zika virus illustrate the need for rapid development of antivirals. Such development would be facilitated by computational appro…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5ee3ff1b5bfb7d80a181b2dc62612367",
+"title": "Modular systems metabolic engineering enables balancing of relevant pathways for l-histidine production with Corynebacte…",
+"authors": [
+{
+            "name": "Andreas Schwentner",
+"guid": "2750717107"
+        }, {
+            "name": "Andre Feith",
+"guid": "2753914633"
+        }, {
+            "name": "Eugenia Munch",
+"guid": "2793911434"
+        }, {
+            "name": "Judith Stiefelmaier",
+"guid": "2772241361"
+        }, {
+            "name": "Ira Lauer",
+"guid": "2922598350"
+        }, {
+            "name": "Lorenzo Favilli",
+"guid": "2923812259"
+        }
+]
+,
+"year": "2019",
+"journal": "· Biotechnology for Biofuels",
+"cites": 4,
+"abstract": "l-Histidine biosynthesis is embedded in an intertwined metabolic network which renders microbial overproduction of this amino acid challenging. This is reflected in the few available examples of histidin…",
+"keywords": [
+{
+            "word": "Energy Charge",
+"guid": "3075310"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "da29b09cc69074ae5b6d7ab6a5afc7b6",
+"title": "Dynamic Flux Balance Analysis of a Genetic Engineered Cyanobacterium for Ethanol Production: Parameter Estimation",
+"authors": [
+{
+            "name": "Juan Ignacio Laiglecia",
+"guid": "2558232461"
+        }, {
+            "name": "Vanina Estrada",
+"guid": "2157654739"
+        }, {
+            "name": "Rebeca Vidal",
+"guid": "2482428921"
+        }, {
+            "name": "Francisco J Florencio",
+"guid": "1971775418"
+        }, {
+            "name": "Miguel G Guerrero",
+"guid": "2121401174"
+        }, {
+            "name": "M…",
+"guid": "2505675139"
+        }
+]
+,
+"year": "2013",
+"journal": "· Chemical engineering transactions",
+"cites": 3,
+"abstract": "Fil: Laiglecia, Juan Ignacio. Consejo Nacional de Investigaciones Cientificas y Tecnicas. Centro Cientifico Tecnologico Bahia Blanca. Planta Piloto de Ingenieria Quimica (i); Argentina. Universidad Nacional del …",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Simulation",
+"guid": "44154836"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cdf69b01ff55522374e0ee79f20e739b",
+"title": "In Silico Analysis for Biomass Synthesis under Different CO2 Levels for Chlamydomonas reinhardtii Utilizing a Flux Balance …",
+"authors": [
+{
+            "name": "David Orlando Paez Melo",
+"guid": "2495759543"
+        }, {
+            "name": "Rossmary Jaypang Moncada",
+"guid": "2486060080"
+        }, {
+            "name": "Flavia Vischi Winck",
+"guid": "1986286022"
+        }, {
+            "name": "Andres Fernando Gon…",
+"guid": "2440688292"
+        }
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 3,
+"abstract": "Flux Balance Analysis (FBA) is an approach used to study biochemical networks and predict the flow of metabolites through a metabolic network model. Since the microalgae Chlamydomonas reinhardtii has b…",
+"keywords": [
+{
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "660dcfe6f83da12414b5007cda63ace1",
+"title": "Construction of a Genome-Scale Kinetic Model of Mycobacterium Tuberculosis Using Generic Rate Equations",
+"authors": [
+{
+            "name": "Delali A Adiamah",
+"guid": "79279750"
+        }, {
+            "name": "Jeanmarc Schwartz",
+"guid": "2293965298"
+        }
+]
+,
+"year": "2012",
+"journal": "· Metabolites",
+"cites": 3,
+"abstract": "The study of biological systems at the genome scale helps us understand fundamental biological processes that govern the activity of living organisms and regulate their interactions with the environmen…",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

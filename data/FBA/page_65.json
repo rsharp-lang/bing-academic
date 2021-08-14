@@ -1,3 +1,4 @@
+[
 {
             "guid": "c97887c82c1af5dfc31c889195047f85",
 "title": "Photorespiratory Bypasses Lead to Increased Growth in Arabidopsis thaliana: Are Predictions Consistent with Experim…",
@@ -34,4 +35,299 @@
         }
 ]
 
+        }, {
+            "guid": "c445d2fedee700517093e9069ff430ae",
+"title": "Reconstruction of a charge balanced genome-scale metabolic model to study the energy-uncoupled growth of Zymomona…",
+"authors": [
+{
+            "name": "Ehsan Motamedian",
+"guid": "1747667545"
+        }, {
+            "name": "M Saeidi",
+"guid": "2590667848"
+        }, {
+            "name": "Seyed Abbas Shojaosadati",
+"guid": "2042034384"
         }
+]
+,
+"year": "2016",
+"journal": "· Molecular BioSystems",
+"cites": 9,
+"abstract": "Zymomonas mobilis is an ethanologenic bacterium and is known to be an example microorganism with energy-uncoupled growth. A genome-scale metabolic model could be applicable for understanding the c…",
+"keywords": [
+{
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4875cd13cd266aec5a0fa8432b937bbc",
+"title": "To Supplement or Not to Supplement: A Metabolic Network Framework for Human Nutritional Supplements",
+"authors": [
+{
+            "name": "Christopher Nogiec",
+"guid": "2074043556"
+        }, {
+            "name": "Simon Kasif",
+"guid": "101464240"
+        }
+]
+,
+"year": "2013",
+"journal": "· PLOS ONE",
+"cites": 9,
+"abstract": "Fluxbalanceanalysis and constraint based modeling have been successfully used in the past to elucidate the metabolism of single cellular organisms. However, limited work has been done with multicellular org…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c5728c54fd1740e6e7e281b530b172c0",
+"title": "Solving Multiscale Linear Programs Using the Simplex Method in Quadruple Precision",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "",
+"cites": 9,
+"abstract": "Systems biologists are developing increasingly large models of metabolism and integrated models of metabolism and macromolecular expression. These Metabolic Expression (ME) models lead to sequenc…",
+"keywords": [
+{
+            "word": "Quadruple-precision Floating-point Format",
+"guid": "94863063"
+        }, {
+            "word": "MINOS",
+"guid": "2780314645"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "575b102532fa50a24b76fa9bce7efddf",
+"title": "Visualization of Metabolic Interaction Networks in Microbial Communities Using VisANT 5.0.",
+"authors": [
+{
+            "name": "Brian R Granger",
+"guid": "2080030094"
+        }, {
+            "name": "Yi Chien Chang",
+"guid": "2816443088"
+        }, {
+            "name": "Yan Wang",
+"guid": "2429296370"
+        }, {
+            "name": "Charles Delisi",
+"guid": "79138794"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
+        }, {
+            "name": "Zhenjun Hu",
+"guid": "2162436920"
+        }
+]
+,
+"year": "2016",
+"journal": "· PLOS Computational Biology",
+"cites": 9,
+"abstract": "The complexity of metabolic networks in microbial communities poses an unresolved visualization and interpretation challenge. We address this challenge in the newly expanded version of a software tool for …",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c17646529342eec8657ac04131073b77",
+"title": "Dynamic estimations of metabolic fluxes with constraint-based models and possibility theory",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· Journal of Process Control",
+"cites": 9,
+"abstract": "Abstract Living cells can be modelled by successively imposing known constraints that limit their behaviour, such as mass balances, thermodynamic laws or enzyme capacities. The resulting constraint …",
+"keywords": [
+{
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "Constraint Satisfaction Problem",
+"guid": "199622910"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c556b24b4bd099e1a58f718ff09f673d",
+"title": "Optimization of lipid production in Chlorella vulgaris for biodiesel production using fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Roya Parichehreh",
+"guid": "2303686332"
+        }, {
+            "name": "Reza Gheshlaghi",
+"guid": "1238205345"
+        }, {
+            "name": "Mahmood Akhavan Mahdavi",
+"guid": "2260562532"
+        }, {
+            "name": "Ali Elkamel",
+"guid": "2089037911"
+        }
+]
+,
+"year": "2019",
+"journal": "· Biochemical Engineering Journal",
+"cites": 9,
+"abstract": "Abstract Microalgae, the world’s largest group of photosynthetic organisms, convert atmospheric CO2 to polar and neutral lipids using sunlight, which after esterification can be utilized for biodiesel production. I…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "96090554019ec3a505b4e8fa2b4bd48b",
+"title": "Modelling microbial metabolic rewiring during growth in a complex medium",
+"authors": [
+{
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }, {
+            "name": "Emanuele Bosi",
+"guid": "2129416476"
+        }, {
+            "name": "Luana Presta",
+"guid": "2102239415"
+        }, {
+            "name": "Diletta Natoli",
+"guid": "2506928062"
+        }, {
+            "name": "Renato Fani",
+"guid": "1883219596"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Genomics",
+"cites": 9,
+"abstract": "In their natural environment, bacteria face a wide range of environmental conditions that change over time and that impose continuous rearrangements at all the cellular levels (e.g. gene expression, metabolism)…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a7a47513b4c626f3cd18fa03a235b01f",
+"title": "Predictive sulfur metabolism - a field in flux.",
+"authors": [
+{
+            "name": "Alexander Calderwood",
+"guid": "2030368911"
+        }, {
+            "name": "Richard J Morris",
+"guid": "2124270280"
+        }, {
+            "name": "Stanislav Kopriva",
+"guid": "2165774771"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Plant Science",
+"cites": 9,
+"abstract": "The key role of sulfur metabolites in response to biotic and abiotic stress in plants, as well as their importance in diet and health has led to a significant interest and effort in trying to understand and mani…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0491ba620e76876b6705a8fb230ad81a",
+"title": "A Multi-Scale Model of the Whole Human Body based on Dynamic Parsimonious FluxBalanceAnalysis",
+"authors": [
+{
+            "name": "Masood Khaksar Toroghi",
+"guid": "2197497800"
+        }, {
+            "name": "William R Cluett",
+"guid": "2285443751"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2016",
+"journal": "· IFAC-PapersOnLine",
+"cites": 9,
+"abstract": "Abstract The multi-scale modelling approach is a powerful mathematical technique for simulating and analyzing complex biological systems such as the human body. This tool can help study the interaction…",
+"keywords": [
+{
+            "word": "Personalized Medicine",
+"guid": "32220436"
+        }, {
+            "word": "Convergence (routing)",
+"guid": "71923881"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

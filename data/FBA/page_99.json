@@ -1,3 +1,4 @@
+[
 {
             "guid": "179f32dc1b2b064eb98a3f15227a78f5",
 "title": "Structural and functional analyses of microbial metabolic networks reveal novel insights into genome-scale metabolic fl…",
@@ -31,4 +32,287 @@
         }
 ]
 
+        }, {
+            "guid": "5ea3e7fbe95d180c7019ac66c6500f53",
+"title": "Hierarchical decomposition of metabolic networks using k-modules",
+"authors": [
+{
+            "name": "Arne C Reimers",
+"guid": "2940654069"
         }
+]
+,
+"year": "2015",
+"journal": "· Biochemical Society Transactions",
+"cites": 2,
+"abstract": "The optimal solutions obtained by fluxbalanceanalysis (FBA) are typically not unique. Flux modules have recently been shown to be a very useful tool to simplify and decompose the space of FBA-optimal soluti…",
+"keywords": [
+{
+            "word": "Branch-decomposition",
+"guid": "16657217"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ec5b611cec0dfc632baf422b73b7016",
+"title": "Functional centrality as a predictor of shifts in metabolic flux states",
+"authors": [
+{
+            "name": "Max Sajitzhermstein",
+"guid": "1814551467"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Research Notes",
+"cites": 2,
+"abstract": "Background#R##N#The flux phenotype describes the entirety of biochemical conversions in a cell, which renders it a key characteristic of metabolic function. To quantify the functional relevance of individual bio…",
+"keywords": [
+{
+            "word": "Centrality",
+"guid": "53811970"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a094d814964313c8a7af98da977544b5",
+"title": "Mapping high-growth phenotypes in the flux space of microbial metabolism.",
+"authors": [
+{
+            "name": "Oriol Guell",
+"guid": "2030959327"
+        }, {
+            "name": "Francesco Alessandro Massucci",
+"guid": "2060333205"
+        }, {
+            "name": "Francesc Fontclos",
+"guid": "53827056"
+        }, {
+            "name": "Francesc Sagues",
+"guid": "2150916295"
+        }, {
+            "name": "M Angeles Serr…",
+"guid": "2117892140"
+        }
+]
+,
+"year": "2015",
+"journal": "· Journal of the Royal Society Interface",
+"cites": 2,
+"abstract": "Experimental and empirical observations on cell metabolism cannot be understood as a whole without their integration into a consistent systematic framework. However, the characterization of metabolic flux …",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Exponential Growth",
+"guid": "75235859"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1fa9a7a4096f64676263528224aac9ab",
+"title": "Organization Principles in Genetic Interaction Networks",
+"authors": [
+{
+            "name": "Christopher Jacobs",
+"guid": "2999535878"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
+        }
+]
+,
+"year": "2012",
+"journal": "· Advances in Experimental Medicine and Biology",
+"cites": 2,
+"abstract": "Understanding how genetic modifications, individual or in combinations, affect phenotypes is a challenge common to several areas of biology, including human genetics, metabolic engineering, and evolutionar…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Human Genetics",
+"guid": "47042493"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "66888ac946be78e246954cb3023f2cb2",
+"title": "Fluxbalanceanalysis of genome-scale metabolic model of rice (Oryza sativa): Aiming to increase biomass",
+"authors": [
+{
+            "name": "Rahul Shaw",
+"guid": "2249007605"
+        }, {
+            "name": "Sudip Kundu",
+"guid": "2157969787"
+        }
+]
+,
+"year": "2015",
+"journal": "· Journal of Biosciences",
+"cites": 2,
+"abstract": "Due to socio-economic reasons, it is essential to design efficient stress-tolerant, more nutritious, high yielding rice varieties. A systematic understanding of the rice cellular metabolism is essential for this pur…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Biotechnology",
+"guid": "150903083"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a7712f00a32517061cf5491eef66dc21",
+"title": "Integrating food webs with metabolic networks: modeling contaminant degradation in marine ecosystems",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Genetics",
+"cites": 2,
+"abstract": "The seas are continuously pervaded by a broad range of contaminants entering the marine environment from polluted soils, the atmosphere, sewage, water transport or river streams (Shahidul Islam and Tana…",
+"keywords": [
+{
+            "word": "Text Mining",
+"guid": "71472368"
+        }, {
+            "word": "Biodegradation",
+"guid": "157021035"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e5f86f8f51db6503ff3cd5c75130241b",
+"title": "Regulatory mechanisms underlying coordination of amino acid and glucose catabolism in Escherichia coli.",
+"authors": [
+{
+            "name": "Mattia Zampieri",
+"guid": "1986313651"
+        }, {
+            "name": "Manuel Horl",
+"guid": "2169641669"
+        }, {
+            "name": "Florian Hotz",
+"guid": "2964299242"
+        }, {
+            "name": "Nicola F Muller",
+"guid": "2730556397"
+        }, {
+            "name": "Uwe Sauer",
+"guid": "693886280"
+        }
+]
+,
+"year": "2019",
+"journal": "· Nature Communications",
+"cites": 1,
+"abstract": "How microbes dynamically coordinate uptake and simultaneous utilization of nutrients in complex nutritional ecosystems is still an open question. Here, we develop a constraint-based modeling approac…",
+"keywords": [
+{
+            "word": "PEP Group Translocation",
+"guid": "45656491"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cfc7e1588bb207edd5fc2177f1bace0f",
+"title": "A new algorithm to find all alternate optimal flux distributions of a metabolic network",
+"authors": [
+{
+            "name": "Ehsan Motamedian",
+"guid": "1747667545"
+        }
+]
+,
+"year": "2015",
+"journal": "· Computers & Chemical Engineering",
+"cites": 1,
+"abstract": "Abstract Finding all optimal solutions for a metabolic model is the challenge of metabolic modeling, but there is no practical algorithm for large scale models. A two-phase algorithm is proposed here to system…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c3e5b9ac41572541a9f5261ec37a8fcb",
+"title": "Type and capacity of glucose transport influences succinate yield in two-stage cultivations",
+"authors": [
+{
+            "name": "Lyubov Kyselova",
+"guid": "2889318627"
+        }, {
+            "name": "Diana Kreitmayer",
+"guid": "2977355388"
+        }, {
+            "name": "Andreas Kremling",
+"guid": "331743320"
+        }, {
+            "name": "Katja Bettenbrock",
+"guid": "75905645"
+        }
+]
+,
+"year": "2018",
+"journal": "· Microbial Cell Factories",
+"cites": 1,
+"abstract": "Background#R##N#Glucose is the main carbon source of E. coli and a typical substrate in production processes. The main glucose uptake system is the glucose specific phosphotransferase system (Glc-PT…",
+"keywords": [
+{
+            "word": "Phosphorylation",
+"guid": "11960822"
+        }, {
+            "word": "PEP Group Translocation",
+"guid": "45656491"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

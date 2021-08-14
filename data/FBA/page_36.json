@@ -1,3 +1,4 @@
+[
 {
             "guid": "2946650c550558c54c555ecf4881f86a",
 "title": "Metabolic reconstruction identifies strain-specific regulation of virulence in Toxoplasma gondii.",
@@ -40,4 +41,323 @@
         }
 ]
 
+        }, {
+            "guid": "395aca525219549a1283b1fb892e1b7d",
+"title": "Transcriptomics‐based strain optimization tool for designing secondary metabolite overproducing strains of Streptomyces …",
+"authors": [
+{
+            "name": "Minsuk Kim",
+"guid": "2288438967"
+        }, {
+            "name": "Jeong Sang Yi",
+"guid": "2102484979"
+        }, {
+            "name": "Meiyappan Lakshmanan",
+"guid": "2303245260"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }, {
+            "name": "Byunggee Kim",
+"guid": "2131735611"
         }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 28,
+"abstract": "In silico model-driven analysis using genome-scale model of metabolism (GEM) has been recognized as a promising method for microbial strain improvement. However, most of the current GEM-based strain des…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "789dea8b37dc0f27f2c77d3f703ee9eb",
+"title": "Two-stage flux balance analysis of metabolic networks for drug target identification.",
+"authors": [
+{
+            "name": "Zhenping Li",
+"guid": "2126062433"
+        }, {
+            "name": "Ruisheng Wang",
+"guid": "2105038625"
+        }, {
+            "name": "Xiangsun Zhang",
+"guid": "2312222211"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 28,
+"abstract": "Background#R##N#Efficient identification of drug targets is one of major challenges for drug discovery and drug development. Traditional approaches to drug target identification include literature search-bas…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a5c954c015a69d2364f8e466e921ffa2",
+"title": "Systems biology of bacterial nitrogen fixation: High-throughput technology and its integrative description with constraint-bas…",
+"authors": [
+{
+            "name": "Osbaldo Resendisantonio",
+"guid": "1768339730"
+        }, {
+            "name": "Magdalena Hernandez",
+"guid": "2185201842"
+        }, {
+            "name": "Emmanuel Salazar",
+"guid": "2268158588"
+        }, {
+            "name": "Sandra Contreras",
+"guid": "2308798307"
+        }, {
+            "name": "Gabriel M…",
+"guid": "2527785472"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 28,
+"abstract": "Background#R##N#Bacterial nitrogen fixation is the biological process by which atmospheric nitrogen is uptaken by bacteroids located in plant root nodules and converted into ammonium through the enzymati…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "da3bb88f22e12514c36cc0e3bbf24582",
+"title": "From genomes to systems: the path with yeast",
+"authors": [
+{
+            "name": "Stephen G Oliver",
+"guid": "2141347178"
+        }
+]
+,
+"year": "2006",
+"journal": "· Philosophical Transactions of the Royal Society B",
+"cites": 28,
+"abstract": "Metabolic Control Analysis (MCA) is a conceptual and mathematical formalism that models the relative contributions of individual effectors in a pathway to both the flux through the pathway and the concentrat…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c6b518da89c8ddb36ab7cf685648080e",
+"title": "Metabolic modelling in a dynamic evolutionary framework predicts adaptive diversification of bacteria in a long-term ev…",
+"authors": [
+{
+            "name": "Tobias Groskopf",
+"guid": "2308030913"
+        }, {
+            "name": "Jessika Consuegra",
+"guid": "2508223642"
+        }, {
+            "name": "Joel Gaffe",
+"guid": "2798300321"
+        }, {
+            "name": "John C Willison",
+"guid": "2100677161"
+        }, {
+            "name": "Richard E Lenski",
+"guid": "2282796156"
+        }, {
+            "name": "Orkun S Soyer",
+"guid": "2019038022"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Evolutionary Biology",
+"cites": 28,
+"abstract": "Predicting adaptive trajectories is a major goal of evolutionary biology and useful for practical applications. Systems biology has enabled the development of genome-scale metabolic models. However, analysing …",
+"keywords": [
+{
+            "word": "Niche Construction",
+"guid": "10437067"
+        }, {
+            "word": "Evolutionary Biology",
+"guid": "78458016"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e780f7d753304f5e1ab5e581ca9e78e3",
+"title": "Predictions for Oxygen Supply Control to Enhance Population Stability of Engineered Production Strains",
+"authors": [
+{
+            "name": "Amit H Varma",
+"guid": "2260932798"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "1994",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 28,
+"abstract": "The simultaneous growth and product formation in a microbial culture is an important feature of several laboratory, industrial, and environmental bioprocesses. Metabolic burden associated with product format…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2a5a41b184558eb5ea6aa55d80f0085c",
+"title": "Reconstruction and analysis of the genome-scale metabolic network of Candida glabrata",
+"authors": [
+{
+            "name": "Nan Xu",
+"guid": "2309593329"
+        }, {
+            "name": "Liming Liu",
+"guid": "2119846317"
+        }, {
+            "name": "Wei Zou",
+"guid": "2431052229"
+        }, {
+            "name": "Jie Liu",
+"guid": "2432825282"
+        }, {
+            "name": "Qiang Hua",
+"guid": "2943487677"
+        }, {
+            "name": "Jian Chen",
+"guid": "2429854539"
+        }
+]
+,
+"year": "2013",
+"journal": "· Molecular BioSystems",
+"cites": 27,
+"abstract": "Candida glabrata has been recognized as an efficient industrial microorganism for the production of pyruvate, the most widely used α-oxocarboxylic acid in the areas of agrochemicals, drugs, and chemical…",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "68c59ce7d4f17147b89daf0e91411bf8",
+"title": "In silico assessment of the metabolic capabilities of an engineered functional reversal of the β-oxidation cycle for th…",
+"authors": [
+{
+            "name": "Angela Cintolesi",
+"guid": "2014841370"
+        }, {
+            "name": "James M Clomburg",
+"guid": "1892649910"
+        }, {
+            "name": "Ramon Gonzalez",
+"guid": "2466702000"
+        }
+]
+,
+"year": "2014",
+"journal": "· Metabolic Engineering",
+"cites": 27,
+"abstract": "Abstract The modularity and versatility of an engineered functional reversal of the β-oxidation cycle make it a promising platform for the synthesis of longer-chain (C≥4) products. While the pathway has recently …",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b0aa158d6d354a53a9f01450b4d7a3d2",
+"title": "Improving the flux distributions simulated with genome-scale metabolic models of Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Rui Pereira",
+"guid": "2790861801"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering Communications",
+"cites": 27,
+"abstract": "Genome-scale metabolic models (GEMs) can be used to evaluate genotype-phenotype relationships and their application to microbial strain engineering is increasing in popularity. Some of the algorithms used t…",
+"keywords": [
+{
+            "word": "Anabolism",
+"guid": "1008401"
+        }, {
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "7b2636c5e7cb6bc2875af911f7772ebf",
 "title": "Flux Balance Analysis of Ammonia Assimilation Network in E. coli Predicts Preferred Regulation Point",
@@ -34,4 +35,332 @@
         }
 ]
 
+        }, {
+            "guid": "b2b9829603b582a51734ad36f9892868",
+"title": "Linear analysis near a steady-state of biochemical networks: Control analysis, correlation metrics and circuit theory",
+"authors": [
+{
+            "name": "William J Heuett",
+"guid": "2519828988"
+        }, {
+            "name": "Daniel A Beard",
+"guid": "2135719953"
+        }, {
+            "name": "Hong Qian",
+"guid": "2139598642"
         }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 8,
+"abstract": "Background:#R##N#Several approaches, including metabolic control analysis (MCA), flux balance analysis (FBA), correlation metric construction (CMC), and biochemical circuit theory (BCT), have been …",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3ac1ac6aa115b03f83f81fd9f5ab8af6",
+"title": "A scalable metabolite supplementation strategy against antibiotic resistant pathogen Chromobacterium violaceum ind…",
+"authors": [
+{
+            "name": "Deepanwita Banerjee",
+"guid": "2608118339"
+        }, {
+            "name": "Dharmeshkumar Parmar",
+"guid": "2589372067"
+        }, {
+            "name": "Nivedita Bhattacharya",
+"guid": "2343356951"
+        }, {
+            "name": "Avinash Ghanate",
+"guid": "2342615441"
+        }, {
+            "name": "Venkates…",
+"guid": "2479144692"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Systems Biology",
+"cites": 8,
+"abstract": "Background#R##N#The leading edge of the global problem of antibiotic resistance necessitates novel therapeutic strategies. This study develops a novel systems biology driven approach for killing antibiotic …",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7e041e133b8fbf50fdb874f081dd3aec",
+"title": "Metabolic engineering of enhanced glycerol-3-phosphate synthesis to increase lipid production in Synechocystis sp. PC…",
+"authors": [
+{
+            "name": "Xi Wang",
+"guid": "2429289276"
+        }, {
+            "name": "Xiaochao Xiong",
+"guid": "2117015906"
+        }, {
+            "name": "Na Sa",
+"guid": "2035394517"
+        }, {
+            "name": "Sanja Roje",
+"guid": "103657475"
+        }, {
+            "name": "Shulin Chen",
+"guid": "2113803204"
+        }
+]
+,
+"year": "2016",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 8,
+"abstract": "With the growing attention to global warming and energy sustainability, biosynthesis of lipids by photosynthetic microorganisms has attracted more interest for the production of renewable transportatio…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5494c15956696a28fbbc787040fdbb2c",
+"title": "Assessment of FBA Based Gene Essentiality Analysis in Cancer with a Fast Context-Specific Network Reconstruction Method.",
+"authors": [
+{
+            "name": "Luis Tobalina",
+"guid": "2008829886"
+        }, {
+            "name": "Jon Pey",
+"guid": "2154123277"
+        }, {
+            "name": "Alberto Rezola",
+"guid": "2112694418"
+        }, {
+            "name": "Francisco J Planes",
+"guid": "2100851353"
+        }
+]
+,
+"year": "2016",
+"journal": "· PLOS ONE",
+"cites": 8,
+"abstract": "MOTIVATION:Gene Essentiality Analysis based on Flux Balance Analysis (FBA-based GEA) is a promising tool for the identification of novel metabolic therapeutic targets in cancer. The reconstruction o…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8e48288ab1f7f30fadc58c5b0fe26ade",
+"title": "Toward efficient microaerobic processes using engineered Escherichia coli W3110 strains",
+"authors": [
+{
+            "name": "Tania E Pablos",
+"guid": "1977599773"
+        }, {
+            "name": "Roberto Olivares",
+"guid": "2615205057"
+        }, {
+            "name": "Juan Carlos Sigala",
+"guid": "1965391905"
+        }, {
+            "name": "Octavio T Ramirez",
+"guid": "2157127987"
+        }, {
+            "name": "Alvaro R Lara",
+"guid": "2116222595"
+        }
+]
+,
+"year": "2016",
+"journal": "· Engineering in Life Sciences",
+"cites": 8,
+"abstract": "Operational and economic constraints in large-scale bioreactors often result in local or global microaerobic conditions, which lead to less efficient bioprocesses. Escherichia coli adapts to microaerobicity by activa…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Genetically Modified Organism",
+"guid": "51456166"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "88024d27cee0466970060c5bf3edde00",
+"title": "Integration of single-cell RNA-seq data into population models to characterize cancer metabolism",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Davide Maspero",
+"guid": "2734710697"
+        }, {
+            "name": "Marzia Di Filippo",
+"guid": "2555707555"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Alex Graude…",
+"guid": "45777830"
+        }
+]
+,
+"year": "2019",
+"journal": "· PLOS Computational Biology",
+"cites": 8,
+"abstract": "Metabolic reprogramming is a general feature of cancer cells. Regrettably, the comprehensive quantification of metabolites in biological specimens does not promptly translate into knowledge on the …",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Model",
+"guid": "66024118"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bcdec6661f9f78f57803d1282ba15d9c",
+"title": "Integrating Extracellular Flux Measurements and Genome-Scale Modeling Reveals Differences between Brown and White Adip…",
+"authors": [
+{
+            "name": "Alfred K Ramirez",
+"guid": "2671599575"
+        }, {
+            "name": "Matthew D Lynes",
+"guid": "1975545311"
+        }, {
+            "name": "Farnaz Shamsi",
+"guid": "2215344167"
+        }, {
+            "name": "Ruidan Xue",
+"guid": "2343869908"
+        }, {
+            "name": "Yuhua Tseng",
+"guid": "2015777673"
+        }, {
+            "name": "C Ronald Kahn",
+"guid": "2157300571"
+        }
+]
+,
+"year": "2017",
+"journal": "· Cell Reports",
+"cites": 8,
+"abstract": "Summary White adipocytes are specialized for energy storage, whereas brown adipocytes are specialized for energy expenditure. Explicating this difference can help identify therapeutic targets for obesity. A co…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Metabolic Waste",
+"guid": "34556778"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "630346d64a3bf5dbb0bd5736622df894",
+"title": "Expanded flux variability analysis on metabolic network of Escherichia coli",
+"authors": [
+{
+            "name": "Tong Chen",
+"guid": "2639443961"
+        }, {
+            "name": "Zhengwei Xie",
+"guid": "2234311850"
+        }, {
+            "name": "Qi Ouyang",
+"guid": "2482914667"
+        }
+]
+,
+"year": "2009",
+"journal": "· Science Bulletin",
+"cites": 8,
+"abstract": "Flux balance analysis, based on the mass conservation law in a cellular organism, has been extensively employed to study the interplay between structures and functions of cellular metabolic networks. Conse…",
+"keywords": [
+{
+            "word": "Anabolism",
+"guid": "1008401"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "017adad7e3e9518e9eca7a2eb10974e4",
+"title": "Mathematical models of plant metabolism",
+"authors": [
+
+]
+,
+"year": "2016",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 8,
+"abstract": "Among various modeling approaches in plant metabolic research, applications of Constraint-Based modeling are fast increasing in recent years, apparently driven by current advances in genomics and ge…",
+"keywords": [
+{
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Photosynthesis",
+"guid": "183688256"
+        }
+]
+
+        }
+]

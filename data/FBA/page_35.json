@@ -1,3 +1,4 @@
+[
 {
             "guid": "8c1d8c571c40381ffb2d7b5c4404a277",
 "title": "A review of computational tools for design and reconstruction of metabolic pathways",
@@ -34,4 +35,335 @@
         }
 ]
 
+        }, {
+            "guid": "4267424a493bcc9cce2acb7816cd4b2b",
+"title": "Metabolic fluxanalysis of Cyanothece sp. ATCC 51142 under mixotrophic conditions",
+"authors": [
+{
+            "name": "Swathi Alagesan",
+"guid": "2073588355"
+        }, {
+            "name": "Sandeep B Gaudana",
+"guid": "2079513468"
+        }, {
+            "name": "Avinash Sinha",
+"guid": "2420960642"
+        }, {
+            "name": "Pramod P Wangikar",
+"guid": "67474287"
         }
+]
+,
+"year": "2013",
+"journal": "· Photosynthesis Research",
+"cites": 29,
+"abstract": "Cyanobacteria are a group of photosynthetic prokaryotes capable of utilizing solar energy to fix atmospheric carbon dioxide to biomass. Despite several “proof of principle” studies, low product yield is …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7f2fca02ae6502f9943626f43c7b17ac",
+"title": "Use of constraint-based modeling for the prediction and validation of antimicrobial targets",
+"authors": [
+{
+            "name": "John D Trawick",
+"guid": "2078665275"
+        }, {
+            "name": "Christophe H Schilling",
+"guid": "2159110332"
+        }
+]
+,
+"year": "2006",
+"journal": "· Biochemical Pharmacology",
+"cites": 29,
+"abstract": "The overall process of antimicrobial drug discovery and development seems simple, to cure infectious disease by identifying suitable antibiotic drugs. However, this goal has been difficult to fulfill in recent ye…",
+"keywords": [
+{
+            "word": "Antimicrobial",
+"guid": "4937899"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "96565881abfe0fcbd0d83fa2e3d686e4",
+"title": "In silico characterization of microbial electrosynthesis for metabolic engineering of biochemicals",
+"authors": [
+{
+            "name": "Aditya Vikram Pandit",
+"guid": "2039694453"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2011",
+"journal": "· Microbial Cell Factories",
+"cites": 29,
+"abstract": "A critical concern in metabolic engineering is the need to balance the demand and supply of redox intermediates such as NADH. Bioelectrochemical techniques offer a novel and promising method to alle…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cd1e9126e7a4c63d7f26a4f5904dfea3",
+"title": "Basic concepts and principles of stoichiometric modeling of metabolic networks",
+"authors": [
+{
+            "name": "Timo R Maarleveld",
+"guid": "2147088436"
+        }, {
+            "name": "Ruchir A Khandelwal",
+"guid": "2096598821"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology Journal",
+"cites": 29,
+"abstract": "Metabolic networks supply the energy and building blocks for cell growth and maintenance. Cells continuously rewire their metabolic networks in response to changes in environmental conditions to sust…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ae695bcab675024da431892b14cb75cc",
+"title": "Soft constraints-based multiobjective framework for flux balance analysis",
+"authors": [
+{
+            "name": "Deepak Nagrath",
+"guid": "2273128398"
+        }, {
+            "name": "Marco Avilaelchiver",
+"guid": "246469827"
+        }, {
+            "name": "Francois Berthiaume",
+"guid": "1781402356"
+        }, {
+            "name": "Arno W Tilles",
+"guid": "2468843951"
+        }, {
+            "name": "Achille Messac",
+"guid": "2900868925"
+        }, {
+            "name": "Martin …",
+"guid": "18008844"
+        }
+]
+,
+"year": "2010",
+"journal": "· Metabolic Engineering",
+"cites": 29,
+"abstract": "The current state of the art for linear optimization in Flux Balance Analysis has been limited to single objective functions. Since mammalian systems perform various functions, a multiobjective approach is n…",
+"keywords": [
+{
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "02235257ca31b3d6b2df53c3b411f615",
+"title": "Metabolic systems analysis to advance algal biotechnology",
+"authors": [
+{
+            "name": "Brian J Schmidt",
+"guid": "2608956272"
+        }, {
+            "name": "Xiefan Linschmidt",
+"guid": "235947612"
+        }, {
+            "name": "Austin Chamberlin",
+"guid": "2084986309"
+        }, {
+            "name": "Kourosh Salehiashtiani",
+"guid": "4751864"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology Journal",
+"cites": 29,
+"abstract": "Algal fuel sources promise unsurpassed yields in a carbon neutral manner that minimizes resource competition between agriculture and fuel crops. Many challenges must be addressed before algal biofue…",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9b567327a861f75992999e779e0aec7b",
+"title": "Biotechnological potential of respiring Zymomonas mobilis: A stoichiometric analysis of its central metabolism",
+"authors": [
+{
+            "name": "Agris Pentjuss",
+"guid": "2083108222"
+        }, {
+            "name": "Ilona Odzina",
+"guid": "2040856844"
+        }, {
+            "name": "Andrejs Kostromins",
+"guid": "2017566642"
+        }, {
+            "name": "David A Fell",
+"guid": "2173109630"
+        }, {
+            "name": "Egils Stalidzans",
+"guid": "1541406705"
+        }, {
+            "name": "Uldis Kalnenieks",
+"guid": "390096285"
+        }
+]
+,
+"year": "2013",
+"journal": "· Journal of Biotechnology",
+"cites": 29,
+"abstract": "Abstract The active, yet energetically inefficient electron transport chain of the ethanologenic bacterium Zymomonas mobilis could be used in metabolic engineering for redox-balancing purposes during synthe…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Electron Transport Chain",
+"guid": "24840226"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f9cb41ea0e298d5cca8fe8882a56712e",
+"title": "Development and analysis of an in vivo -compatible metabolic network of Mycobacterium tuberculosis",
+"authors": [
+{
+            "name": "Xin Fang",
+"guid": "2124933470"
+        }, {
+            "name": "Anders Wallqvist",
+"guid": "2307244050"
+        }, {
+            "name": "Jaques Reifman",
+"guid": "1654915906"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 29,
+"abstract": "Background#R##N#During infection, Mycobacterium tuberculosis confronts a generally hostile and nutrient-poor in vivo host environment. Existing models and analyses of M. tuberculosis metabolic netwo…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5481ebce7e0be9936f0b9f148bf40528",
+"title": "Fast growth phenotype of E. coli K-12 from adaptive laboratory evolution does not require intracellular flux rewiring",
+"authors": [
+{
+            "name": "Christopher P Long",
+"guid": "2152352868"
+        }, {
+            "name": "Jacqueline E Gonzalez",
+"guid": "2294503556"
+        }, {
+            "name": "Adam M Feist",
+"guid": "2061080551"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Maciek R Antonie…",
+"guid": "25222508"
+        }
+]
+,
+"year": "2017",
+"journal": "· Metabolic Engineering",
+"cites": 29,
+"abstract": "Abstract Adaptive laboratory evolution (ALE) is a widely-used method for improving the fitness of microorganisms in selected environmental conditions. It has been applied previously to Escherichia coli …",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

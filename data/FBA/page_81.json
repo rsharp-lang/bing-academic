@@ -1,3 +1,4 @@
+[
 {
             "guid": "901d8f069b15f9c2aa64f0b223c35203",
 "title": "Constrain-based analysis of gene deletion on the metabolic flux redistribution of Saccharomyces Cerevisiae",
@@ -28,4 +29,281 @@
         }
 ]
 
+        }, {
+            "guid": "4e52b852e7a3c8060175f7163b261241",
+"title": "Effects of linoleic acid and its degradation by-products on mesophilic hydrogen production using flocculated and granul…",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· International Journal of Hydrogen Energy",
+"cites": 4,
+"abstract": "Abstract The effects of linoleic acid (LA (C18:2)) and its degradation by-products on hydrogen (H2) production were examined at 37 °C and an initial pH value of 5.0 using granular and flocculated mixed a…",
+"keywords": [
+{
+            "word": "Chemical Engineering",
+"guid": "42360764"
+        }, {
+            "word": "Eubacterium Limosum",
+"guid": "2909783560"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
         }
+]
+
+        }, {
+            "guid": "b0d79bdc2db6502f3553680c3310d98e",
+"title": "Identifying minimal genomes and essential genes in metabolic model using flux balanceanalysis",
+"authors": [
+{
+            "name": "Abdul Hakim Mohamed Salleh",
+"guid": "2124208187"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Md Illias",
+"guid": "2227999364"
+        }
+]
+,
+"year": "2013",
+"journal": "· asian conference on intelligent information and database systems",
+"cites": 4,
+"abstract": "With the advancement in metabolic engineering technologies, reconstruction the genome of a host organism to achieve desired phenotypes for example, to optimize the production of metabolites can be …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "50f264336092c009cb3611920889ce3a",
+"title": "Simulating cyanobacterial phenotypes by integrating flux balanceanalysis, kinetics, and a light distribution function",
+"authors": [
+{
+            "name": "Lian He",
+"guid": "2166059467"
+        }, {
+            "name": "Stephen G Wu",
+"guid": "2158553408"
+        }, {
+            "name": "Ni Wan",
+"guid": "2223163517"
+        }, {
+            "name": "Adrienne C Reding",
+"guid": "2313685963"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }
+]
+,
+"year": "2015",
+"journal": "· Microbial Cell Factories",
+"cites": 4,
+"abstract": "Background#R##N#Genome-scale models (GSMs) are widely used to predict cyanobacterial phenotypes in photobioreactors (PBRs). However, stoichiometric GSMs mainly focus on fluxome that result in maxi…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b3ecb65c8916c98d06229b9da8bc47f8",
+"title": "TEX-FBA: A constraint-based method for integrating gene expression, thermodynamics, and metabolomics data into ge…",
+"authors": [
+{
+            "name": "Vikash Pandey",
+"guid": "2595817056"
+        }, {
+            "name": "Daniel Federico Hernandez Gardiol",
+"guid": "2646271162"
+        }, {
+            "name": "Anush Chiappinopepe",
+"guid": "2594305185"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": "2019",
+"journal": "· bioRxiv",
+"cites": 4,
+"abstract": "A large number of genome-scale models of cellular metabolism are available for various organisms. These models include all known metabolic reactions based on the genome annotation. However, the reactions …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "60bc75b440b9e2b921b23864c9f0fc42",
+"title": "Calculation of empirical and true maintenance coefficients by flux balanceanalysis",
+"authors": [
+
+]
+,
+"year": "2002",
+"journal": "· Chinese Journal of Chemical Engineering",
+"cites": 4,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biomass Yield",
+"guid": "2993143054"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "632caadd668c12ea06f77d26e8fa25de",
+"title": "Dynamic metabolic flux analysis using a convex analysis approach: Application to hybridoma cell cultures in perfusion",
+"authors": [
+{
+            "name": "Sofia Fernandes De Sousa",
+"guid": "2631029346"
+        }, {
+            "name": "Georges Bastin",
+"guid": "2143245734"
+        }, {
+            "name": "Mario Jolicoeur",
+"guid": "2051383265"
+        }, {
+            "name": "Alain Vande Wouwer",
+"guid": "2004468975"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 4,
+"abstract": "In recent years, dynamic metabolic flux analysis (DMFA) has been developed in order to evaluate the dynamic evolution of the metabolic fluxes. Most of the proposed approaches are dedicated to exactly de…",
+"keywords": [
+{
+            "word": "Convex Analysis",
+"guid": "12108790"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f91526d393cc457aab7a673f1a5bbfea",
+"title": "Identifying the shared metabolic objectives of glycerol bioconversion in Klebsiella pneumoniae under different cultur…",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· Journal of Biotechnology",
+"cites": 4,
+"abstract": "This paper addresses the problem of identifying the shared metabolic objectives of glycerol bioconversion in Klebsiella pneumoniae for production of 1,3-propanediol (1,3-PD) under different culture conditions. T…",
+"keywords": [
+{
+            "word": "Glycerol",
+"guid": "2780881558"
+        }, {
+            "word": "Klebsiella Pneumoniae",
+"guid": "2777058267"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "24b3be18e9a1d0b2818bff86465d4827",
+"title": "A Method to Calibrate Metabolic Network Models with Experimental Datasets",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 4,
+"abstract": "A method to calibrate stoichiometric coefficients values related to uncharacterized or lumped reactions of metabolic network models is presented. The method finds coefficients values that produce a model versi…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cc57393215ec2a2b89411a1b541406b5",
+"title": "Validation of an FBA model for Pichia pastoris in chemostat cultures",
+"authors": [
+{
+            "name": "Yeimy Morales",
+"guid": "2123467677"
+        }, {
+            "name": "Marta Tortajada",
+"guid": "2096502370"
+        }, {
+            "name": "Jesus Pico",
+"guid": "2296036715"
+        }, {
+            "name": "Josep Vehi",
+"guid": "2139252307"
+        }, {
+            "name": "Francisco Llaneras",
+"guid": "232298328"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 4,
+"abstract": "Background#R##N#Constraint-based metabolic models and flux balanceanalysis (FBA) have been extensively used in the last years to investigate the behavior of cells and also as basis for different indus…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

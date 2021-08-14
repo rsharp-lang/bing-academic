@@ -1,3 +1,4 @@
+[
 {
             "guid": "faea558533844be42750be6056b13857",
 "title": "Using a logical model to predict the growth of yeast",
@@ -28,4 +29,326 @@
         }
 ]
 
+        }, {
+            "guid": "6250cbc1ea27d58743fb88c632b4fc7a",
+"title": "Modeling with a view to target identification in metabolic engineering: A critical evaluation of the available tools",
+"authors": [
+{
+            "name": "Jo Maertens",
+"guid": "2067741314"
+        }, {
+            "name": "Peter A Vanrolleghem",
+"guid": "2054283600"
         }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology Progress",
+"cites": 18,
+"abstract": "The state of the art tools for modeling metabolism, typically used in the domain of metabolic engineering, were reviewed. The tools considered are stoichiometric network analysis (elementary modes and extre…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a4ed2d251d60ae7de4993b6487f9dcb4",
+"title": "A novel approach for determining environment-specific protein costs",
+"authors": [
+{
+            "name": "Max Sajitzhermstein",
+"guid": "1814551467"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": "2010",
+"journal": "· Bioinformatics",
+"cites": 17,
+"abstract": "Motivation: Comprehensive understanding of cellular processes requires development of approaches which consider the energetic balances in the cell. The existing approaches that address this problem ar…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a79e9fc2407723ee861d0e0d03adc8f0",
+"title": "A possibilistic framework for constraint-based metabolic flux analysis",
+"authors": [
+{
+            "name": "Francisco Llaneras",
+"guid": "232298328"
+        }, {
+            "name": "Antonio Sala",
+"guid": "2188743792"
+        }, {
+            "name": "Jesus Pico",
+"guid": "2296036715"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 17,
+"abstract": "Background#R##N#Constraint-based models allow the calculation of the metabolic flux states that can be exhibited by cells, standing out as a powerful analytical tool, but they do not determine which of these ar…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c8964ac0cc68f2a606ab804b0dba5b0f",
+"title": "Separating the drivers from the driven: Integrative network and pathway approaches aid identification of disease biomarkers f…",
+"authors": [
+{
+            "name": "Jason E Mcdermott",
+"guid": "2241660353"
+        }, {
+            "name": "Michelle N Costa",
+"guid": "2665428438"
+        }, {
+            "name": "Derek B Janszen",
+"guid": "2307964200"
+        }, {
+            "name": "Mudita Singhal",
+"guid": "1969402151"
+        }, {
+            "name": "Susan C Tilton",
+"guid": "2041881934"
+        }
+]
+,
+"year": "2010",
+"journal": "· Disease Markers",
+"cites": 17,
+"abstract": "The recent advances in high-throughput data acquisition have driven a revolution in the study of human disease and determination of molecular biomarkers of disease states. It has become increasingly clear t…",
+"keywords": [
+{
+            "word": "Biomarker (medicine)",
+"guid": "7466232"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "be1328dc1ea059a4eeb1ad5ab72fada6",
+"title": "FlexFlux: combining metabolic flux and regulatory network analyses.",
+"authors": [
+{
+            "name": "Lucas Marmiesse",
+"guid": "2809017865"
+        }, {
+            "name": "Remi Peyraud",
+"guid": "2409204502"
+        }, {
+            "name": "Ludovic Cottret",
+"guid": "2042242437"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 17,
+"abstract": "Background#R##N#Expression of cell phenotypes highly depends on metabolism that supplies matter and energy. To achieve proper utilisation of the different metabolic pathways, metabolism is tightly regulate…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6e7310a56ca9140fe5e7f481cc99c0c8",
+"title": "Metabolic modeling of muscle metabolism identifies key reactions linked to insulin resistance phenotypes",
+"authors": [
+{
+            "name": "Christopher Nogiec",
+"guid": "2074043556"
+        }, {
+            "name": "Alison M Burkart",
+"guid": "2609319425"
+        }, {
+            "name": "Jonathan M Dreyfuss",
+"guid": "2235099585"
+        }, {
+            "name": "Carles Lerin",
+"guid": "2952112317"
+        }, {
+            "name": "Simon Kasif",
+"guid": "101464240"
+        }, {
+            "name": "Maryelizabe…",
+"guid": "2227125599"
+        }
+]
+,
+"year": "2015",
+"journal": "· Molecular metabolism",
+"cites": 17,
+"abstract": "Abstract Objective Dysregulated muscle metabolism is a cardinal feature of human insulin resistance (IR) and associated diseases, including type 2 diabetes (T2D). However, specific reactions contributing to ab…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5800248e7896ec26dc5cc01e1e34c071",
+"title": "Flux BalanceAnalysis Inspired Bioprocess Upgrading for Lycopene Production by a Metabolically Engineered Strain of …",
+"authors": [
+{
+            "name": "Komi Nambou",
+"guid": "1831059790"
+        }, {
+            "name": "Xingxing Jian",
+"guid": "2218200503"
+        }, {
+            "name": "Xinkai Zhang",
+"guid": "2637862166"
+        }, {
+            "name": "Liujing Wei",
+"guid": "2653047443"
+        }, {
+            "name": "Jiajia Lou",
+"guid": "2527392985"
+        }, {
+            "name": "Catherine Madzak",
+"guid": "2715438036"
+        }, {
+            "name": "Qiang Hua",
+"guid": "2694256915"
+        }
+]
+,
+"year": "2015",
+"journal": "· Metabolites",
+"cites": 17,
+"abstract": "Genome-scale metabolic models embody a significant advantage of systems biology since their applications as metabolic flux simulation models enable predictions for the production of industrially-inte…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0c3fc1b33fa8258a2747f54eea1ce30e",
+"title": "Zooming-in on cancer metabolic rewiring with tissue specific constraint-based models",
+"authors": [
+{
+            "name": "Marzia Di Filippo",
+"guid": "2555707555"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Daniela Gaglio",
+"guid": "2303886116"
+        }, {
+            "name": "Marco Vanoni",
+"guid": "2142769582"
+        }
+]
+,
+"year": "2016",
+"journal": "· Computational Biology and Chemistry",
+"cites": 17,
+"abstract": "Graphical abstractDisplay Omitted HighlightsGenome-scale metabolic models are comprehensives but difficult to control and to analyze.We manually reconstructed core models that zoom-in on cancer metab…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2a7c80a3417f1afda03d98e6a931c48f",
+"title": "Experimental flux measurements on a network scale",
+"authors": [
+{
+            "name": "Jorg Schwender",
+"guid": "2002373688"
+        }
+]
+,
+"year": "2011",
+"journal": "· Frontiers in Plant Science",
+"cites": 17,
+"abstract": "Metabolic flux is a fundamental property of living organisms. In recent years, methods for measuring metabolic flux in plants on a network scale have evolved further. One major challenge in studying flux in …",
+"keywords": [
+{
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Operations Research",
+"guid": "42475967"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

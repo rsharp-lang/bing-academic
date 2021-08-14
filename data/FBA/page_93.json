@@ -1,3 +1,4 @@
+[
 {
             "guid": "f2298c27f47689a47fb6fb6b6b6bace8",
 "title": "Systems Engineering and Metabolic Engineering: A Side-by-Side Comparison",
@@ -22,4 +23,341 @@
         }
 ]
 
+        }, {
+            "guid": "77439b3e647dbdd6dbfc917b56065300",
+"title": "Metabolic Modeling of Pectobacterium parmentieri SCC3193 Provides Insights into Metabolic Pathways of Plant Pathogeni…",
+"authors": [
+{
+            "name": "Sabina Zoledowska",
+"guid": "388552710"
+        }, {
+            "name": "Luana Presta",
+"guid": "2102239415"
+        }, {
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }, {
+            "name": "Francesca Decorosi",
+"guid": "1419308475"
+        }, {
+            "name": "Luciana Giovannetti",
+"guid": "2051614521"
+        }, {
+            "name": "Alessi…",
+"guid": "2285508305"
         }
+]
+,
+"year": "2019",
+"journal": "",
+"cites": 2,
+"abstract": "Understanding plant–microbe interactions is crucial for improving plants’ productivity and protection. Constraint-based metabolic modeling is one of the possible ways to investigate the bacterial adaptation …",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Rhizosphere",
+"guid": "86626682"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ff902c845377b6759f37cbefdb759877",
+"title": "A generic stoichiometric model to analyse the metabolic flexibility of the mammary gland in lactating dairy cows",
+"authors": [
+{
+            "name": "S Lemosquet",
+"guid": "2799822026"
+        }, {
+            "name": "O Abdou Arbi",
+"guid": "2498842938"
+        }, {
+            "name": "Anne Siegel",
+"guid": "2305700178"
+        }, {
+            "name": "Jocelyne Guinardflament",
+"guid": "2223676924"
+        }, {
+            "name": "J Van Milgen",
+"guid": "432041303"
+        }, {
+            "name": "Jeremie Bourdon",
+"guid": "2193310788"
+        }
+]
+,
+"year": "2011",
+"journal": "",
+"cites": 2,
+"abstract": "The stoichiometry model tool of Van Milgen (2002) was adapted to study the metabolism of the ruminant mammary gland. It was used to study the uptake of nutrients in several metabolic reactions using two st…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Nutrient",
+"guid": "142796444"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "06d7e332c1f7f11706c56db156f1997b",
+"title": "Genome-scale metabolic reconstruction and analysis for Clostridium kluyveri",
+"authors": [
+{
+            "name": "Wei Zou",
+"guid": "2884445750"
+        }, {
+            "name": "Guangbin Ye",
+"guid": "2799753418"
+        }, {
+            "name": "Jing Zhang",
+"guid": "2423283281"
+        }, {
+            "name": "Changqing Zhao",
+"guid": "2472072534"
+        }, {
+            "name": "Xingxiu Zhao",
+"guid": "2884186059"
+        }, {
+            "name": "Kaizheng Zhang",
+"guid": "2899693896"
+        }
+]
+,
+"year": "2018",
+"journal": "· Genome",
+"cites": 2,
+"abstract": "Clostridium kluyveri is an anaerobic microorganism that is well-known for producing butyrate and hexanoate using ethanol and acetate. It is also an important bacterium in the production of Chinese stro…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e89be41df315d2b313592397ae36fd5f",
+"title": "Computational Tools for Strain Optimization by Tuning the Optimal Level of Gene Expression",
+"authors": [
+{
+            "name": "Emanuel Goncalves",
+"guid": "2147831468"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": "2012",
+"journal": "· soft computing",
+"cites": 2,
+"abstract": "In this work, a plug-in for the OptFlux Metabolic Engineering platform is presented, implementing methods that allow the identification of sets of genes to over\/under express, relatively to their wild type levels. Th…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cd7c28e0d53946ad8a38a423f47d4efd",
+"title": "The inverse problem of brain energetics: ketone bodies as alternative substrates",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Rossana Occhipinti",
+"guid": "2496452288"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2008",
+"journal": "",
+"cites": 2,
+"abstract": "Little is known about brain energy metabolism under ketosis, although there is evidence that ketone bodies have a neuroprotective role in several neurological disorders. We investigate the inverse proble…",
+"keywords": [
+{
+            "word": "Neuroprotection",
+"guid": "25498285"
+        }, {
+            "word": "Ketone Bodies",
+"guid": "31532488"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d1151d35b8ca4828aac022b1a79d1a10",
+"title": "SSER: Species specific essential reactions database.",
+"authors": [
+{
+            "name": "Abraham Alemayehu Labena",
+"guid": "2485457380"
+        }, {
+            "name": "Yuannong Ye",
+"guid": "2316195953"
+        }, {
+            "name": "Chuan Dong",
+"guid": "2506865270"
+        }, {
+            "name": "Fazhan Zhang",
+"guid": "2100374515"
+        }, {
+            "name": "Fengbiao Guo",
+"guid": "2097196580"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Systems Biology",
+"cites": 2,
+"abstract": "Essential reactions are vital components of cellular networks. They are the foundations of synthetic biology and are potential candidate targets for antimetabolic drug design. Especially if a single reaction i…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8005b768582fa2cfeca13432761189ba",
+"title": "In silico engineering of Pseudomonas metabolism reveals new biomarkers for increased biosurfactant production",
+"authors": [
+{
+            "name": "Annalisa Occhipinti",
+"guid": "2142236651"
+        }, {
+            "name": "Filmon Eyassu",
+"guid": "2765550222"
+        }, {
+            "name": "Thahira Rahman",
+"guid": "2097916114"
+        }, {
+            "name": "Pattanathu K S M Rahman",
+"guid": "2157049181"
+        }, {
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }
+]
+,
+"year": "2018",
+"journal": "· PeerJ",
+"cites": 2,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biomarker (medicine)",
+"guid": "7466232"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d6ac7b2509af2282972f6b268604a35d",
+"title": "Compartmentalized metabolic network reconstruction of microbial communities to determine the effect of agricultural …",
+"authors": [
+{
+            "name": "Maria Camila Alvarezsilva",
+"guid": "2740689844"
+        }, {
+            "name": "Astrid Catalina Alvarezyela",
+"guid": "2594863849"
+        }, {
+            "name": "Fabio Gomezcano",
+"guid": "2481212502"
+        }, {
+            "name": "Maria Mercedes Zambrano",
+"guid": "2171936831"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS ONE",
+"cites": 2,
+"abstract": "Soil microbial communities are responsible for a wide range of ecological processes and have an important economic impact in agriculture. Determining the metabolic processes performed by microbial …",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d63370a52910d0005f5ad7147d7b87e2",
+"title": "Genome-Scale 13 C Fluxomics Modeling for Metabolic Engineering of Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "David Ando",
+"guid": "2005952855"
+        }, {
+            "name": "Hector Garcia Martin",
+"guid": "2165986291"
+        }
+]
+,
+"year": "2019",
+"journal": "· Methods of Molecular Biology",
+"cites": 2,
+"abstract": "Author(s): Ando, David; Garcia Martin, Hector | Abstract: Synthetic biology is a rapidly developing field that pursues the application of engineering principles and development approaches to biological engineering…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

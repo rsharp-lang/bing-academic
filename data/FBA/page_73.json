@@ -1,3 +1,4 @@
+[
 {
             "guid": "b90155efe0fec3773895a31d46d46680",
 "title": "Simulation and System Understanding",
@@ -25,4 +26,329 @@
         }
 ]
 
+        }, {
+            "guid": "7c4314c5adbb0ba39bb02bf0bc8dd975",
+"title": "Metabolic changes in Klebsiella oxytoca in response to low oxidoreduction potential, as revealed by comparative proteo…",
+"authors": [
+{
+            "name": "Yan Zhu",
+"guid": "2427929851"
+        }, {
+            "name": "Dan Li",
+"guid": "2483374445"
+        }, {
+            "name": "Guanhui Bao",
+"guid": "2170083721"
+        }, {
+            "name": "Shaohua Wang",
+"guid": "2478314919"
+        }, {
+            "name": "Shaoming Mao",
+"guid": "2128294679"
+        }, {
+            "name": "Jiangning Song",
+"guid": "2151785084"
+        }, {
+            "name": "Yin Li",
+"guid": "2250419888"
+        }, {
+            "name": "Yanping …",
+"guid": "2589739048"
         }
+]
+,
+"year": "2014",
+"journal": "· Applied and Environmental Microbiology",
+"cites": 6,
+"abstract": "Oxidoreduction potential (ORP) is an important physiological parameter for biochemical production in anaerobic or microaerobic processes. However, the effect of ORP on cellular physiology remains largel…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c7d7c84ac6677c5f76e078e4e64e6fc3",
+"title": "PathwayAnalyser: A Systems Biology Tool for FluxAnalysis of Metabolic Pathways",
+"authors": [
+{
+            "name": "Karthik Raman",
+"guid": "2127877947"
+        }, {
+            "name": "Nagasuma Chandra",
+"guid": "2257022061"
+        }
+]
+,
+"year": "2008",
+"journal": "· Nature Precedings",
+"cites": 6,
+"abstract": "Stoichiometric and constraint-based analyses of metabolic pathways have been gaining ground in the recent past with the increase in the quality and number of pathway databases available and the curatio…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Markup Language",
+"guid": "45874996"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "90c5a87b68587f35878a4ca934cec170",
+"title": "Computing smallest intervention strategies for multiple metabolic networks in a boolean model.",
+"authors": [
+{
+            "name": "Wei Lu",
+"guid": "2304482583"
+        }, {
+            "name": "Takeyuki Tamura",
+"guid": "2171727546"
+        }, {
+            "name": "Jiangning Song",
+"guid": "2151785084"
+        }, {
+            "name": "Tatsuya Akutsu",
+"guid": "699492180"
+        }
+]
+,
+"year": "2015",
+"journal": "· Journal of Computational Biology",
+"cites": 6,
+"abstract": "Abstract This article considers the problem whereby, given two metabolic networks N1 and N2, a set of source compounds, and a set of target compounds, we must find the minimum set of reactions whose re…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Integer Programming",
+"guid": "56086750"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2547645c66eba8247b8f6be55590440f",
+"title": "Fast flux module detection using matroid theory",
+"authors": [
+{
+            "name": "Arne C Reimers",
+"guid": "2585006778"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Leen Stougie",
+"guid": "2026401822"
+        }
+]
+,
+"year": "2015",
+"journal": "· Journal of Computational Biology",
+"cites": 6,
+"abstract": "Abstract Fluxbalanceanalysis (FBA) is one of the most often applied methods on genome-scale metabolic networks. Although FBA uniquely determines the optimal yield, the pathway that achieves thi…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "443b24228457365c6b393372b67a3fe2",
+"title": "Escher-FBA: a web application for interactive fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Elliot Rowe",
+"guid": "2790065581"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Zachary A King",
+"guid": "2045414922"
+        }
+]
+,
+"year": "2018",
+"journal": "· BMC Systems Biology",
+"cites": 6,
+"abstract": "Fluxbalanceanalysis (FBA) is a widely-used method for analyzing metabolic networks. However, most existing tools that implement FBA require downloading software and writing code. Furthermore, FBA ge…",
+"keywords": [
+{
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cdc1277371d1c693b0662505496a026a",
+"title": "A simple metabolic fluxbalanceanalysis of biomass and bioethanol production in Saccharomyces cerevisiae fed-batc…",
+"authors": [
+{
+            "name": "Iliana Barreramartinez",
+"guid": "2174521596"
+        }, {
+            "name": "R Axayacatl Gonzalezgarcia",
+"guid": "2058251057"
+        }, {
+            "name": "Edgar Salgadomanjarrez",
+"guid": "201186624"
+        }, {
+            "name": "Juan S Arandabarradas",
+"guid": "2053028419"
+        }
+]
+,
+"year": "2011",
+"journal": "· Biotechnology and Bioprocess Engineering",
+"cites": 6,
+"abstract": "Production of Saccharomyces cerevisiae yeast for applications in the food industry or in bioethanol production still presents important techno-economic challenges as an industrial bioprocess. Mathematic…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "631ee327da72b34492619e808242aa23",
+"title": "Metabolic engineering of Pichia pastoris GS115 for enhanced pentose phosphate pathway (PPP) flux toward recombinant h…",
+"authors": [
+{
+            "name": "Ashish A Prabhu",
+"guid": "2468196492"
+        }, {
+            "name": "Venkata Dasu Veeranki",
+"guid": "582266379"
+        }
+]
+,
+"year": "2018",
+"journal": "· Molecular Biology Reports",
+"cites": 6,
+"abstract": "In the present study, the effects of individual as well as multiple genes of pentose phosphate pathway (PPP) on human interferon gamma (hIFN-γ) production were analyzed. With overexpression of 6-phosp…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ec551ad3dfc3e5c5f23199d622d3be80",
+"title": "A design automation framework for computational bioenergetics in biological networks",
+"authors": [
+{
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Jole Costanza",
+"guid": "2123949151"
+        }, {
+            "name": "Giovanni Carapezza",
+"guid": "1851350200"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }, {
+            "name": "Giuseppe Nicosia",
+"guid": "2151495100"
+        }
+]
+,
+"year": "2013",
+"journal": "· Molecular BioSystems",
+"cites": 6,
+"abstract": "The bioenergetic activity of mitochondria can be thoroughly investigated by using computational methods. In particular, in our work we focus on ATP and NADH, namely the metabolites representing the producti…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7ba0e3ca036cee4b80876f302d36a8dc",
+"title": "Metaheuristics for strain optimization using transcriptional information enriched metabolic models",
+"authors": [
+{
+            "name": "Paulo Vilaca",
+"guid": "2008265950"
+        }, {
+            "name": "Paulo Maia",
+"guid": "2154261331"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": "2010",
+"journal": "· evolutionary computation, machine learning and data mining in bioinformatics",
+"cites": 6,
+"abstract": "The identification of a set of genetic manipulations that result in a microbial strain with improved production capabilities of a metabolite with industrial interest is a big challenge in Metabolic Engineering…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

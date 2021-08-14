@@ -1,3 +1,4 @@
+[
 {
             "guid": "b4526159951776e2387de9999c93f332",
 "title": "Comparative Genome-Scale Metabolic Reconstruction and Flux Balance Analysis of Multiple Staphylococcus aureus Genomes …",
@@ -43,4 +44,314 @@
         }
 ]
 
+        }, {
+            "guid": "8977b7b801a89d783fb3b374cfdbe9b0",
+"title": "Flux Balance Analysis of Barley Seeds: A Computational Approach to Study Systemic Properties of Central Metabolism",
+"authors": [
+{
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Falk Schreiber",
+"guid": "2166292476"
+        }, {
+            "name": "Dirk Koschutzki",
+"guid": "112950809"
+        }, {
+            "name": "Bjorn H Junker",
+"guid": "2013242263"
         }
+]
+,
+"year": "2009",
+"journal": "· Plant Physiology",
+"cites": 160,
+"abstract": "The accumulation of storage compounds is an important aspect of cereal seed metabolism. Due to the agronomical importance of the storage reserves of starch, protein, and oil, the understanding of storage …",
+"keywords": [
+{
+            "word": "Agronomy",
+"guid": "6557445"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a1a1379fef0beca0e9557c6e0fe84b4b",
+"title": "Probing the Performance Limits of the Escherichia coli Metabolic Network Subject to Gene Additions or Deletions",
+"authors": [
+{
+            "name": "Anthony P Burgard",
+"guid": "2763851512"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2001",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 160,
+"abstract": "An optimization-based procedure for studying the response of metabolic networks after gene knockouts or additions is introduced and applied to a linear flux balance analysis (FBA) Escherichia coli model. Both t…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9e8484021b1143ecb09f34b908c095fa",
+"title": "The dynamic architecture of the metabolic switch in Streptomyces coelicolor",
+"authors": [
+{
+            "name": "Kay Nieselt",
+"guid": "96854432"
+        }, {
+            "name": "Florian Battke",
+"guid": "1120675264"
+        }, {
+            "name": "Alexander Herbig",
+"guid": "2001580041"
+        }, {
+            "name": "Per Bruheim",
+"guid": "1223913871"
+        }, {
+            "name": "Alexander Wentzel",
+"guid": "1977852113"
+        }, {
+            "name": "Oyvind M Jakobsen",
+"guid": "2421583614"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Genomics",
+"cites": 157,
+"abstract": "During the lifetime of a fermenter culture, the soil bacterium S. coelicolor undergoes a major metabolic switch from exponential growth to antibiotic production. We have studied gene expression patterns durin…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Gene Cluster",
+"guid": "36857842"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "58521bcde65d0fa5b8a3f2a361441a82",
+"title": "Systems analysis of metabolism in the pathogenic trypanosomatid Leishmania major.",
+"authors": [
+{
+            "name": "Arvind K Chavali",
+"guid": "2013334876"
+        }, {
+            "name": "Jeffrey D Whittemore",
+"guid": "2167640999"
+        }, {
+            "name": "James A Eddy",
+"guid": "2161965749"
+        }, {
+            "name": "Kyle T Williams",
+"guid": "2143876013"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2008",
+"journal": "· Molecular Systems Biology",
+"cites": 156,
+"abstract": "Systems analyses have facilitated the characterization of metabolic networks of several organisms. We have reconstructed the metabolic network of Leishmania major, a poorly characterized organism that ca…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1782819635b70ea2396a1aaed9257454",
+"title": "Mathematical modeling of intracellular signaling pathways",
+"authors": [
+{
+            "name": "Edda Klipp",
+"guid": "677349517"
+        }, {
+            "name": "Wolfram Liebermeister",
+"guid": "204281954"
+        }
+]
+,
+"year": "2006",
+"journal": "· BMC Neuroscience",
+"cites": 155,
+"abstract": "Dynamic modeling and simulation of signal transduction pathways is an important topic in systems biology and is obtaining growing attention from researchers with experimental or theoretical background. Here w…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2f19486307560a24bc88e2bc07a3ddc1",
+"title": "Carbon flux rerouting during Mycobacterium tuberculosis growth arrest",
+"authors": [
+{
+            "name": "Lanbo Shi",
+"guid": "1994009669"
+        }, {
+            "name": "Charles D Sohaskey",
+"guid": "226469821"
+        }, {
+            "name": "Carmen Pfeiffer",
+"guid": "2107088950"
+        }, {
+            "name": "Pratik Datta",
+"guid": "2239911462"
+        }, {
+            "name": "Michael Parks",
+"guid": "2161858298"
+        }, {
+            "name": "Johnjoe Mcfadden",
+"guid": "2251044004"
+        }
+]
+,
+"year": "2010",
+"journal": "· Molecular Microbiology",
+"cites": 153,
+"abstract": "Summary A hallmark of the Mycobacterium tuberculosis life cycle is the pathogen's ability to switch between rep- licative and non-replicative states in response to host immunity. Transcriptional profiling b…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2ccc4b16885aefed4e88f2d8d5c42fbc",
+"title": "Evolutionary Plasticity and Innovations in Complex Metabolic Reaction Networks",
+"authors": [
+{
+            "name": "Joao F Matias Rodrigues",
+"guid": "2111287709"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }
+]
+,
+"year": "2009",
+"journal": "· PLOS Computational Biology",
+"cites": 150,
+"abstract": "Genome-scale metabolic networks are highly robust to the elimination of enzyme-coding genes. Their structure can evolve rapidly through mutations that eliminate such genes and through horizontal gene tr…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3f2e03cad939a968adb7dc09ed6115cc",
+"title": "Discovery and analysis of novel metabolic pathways for the biosynthesis of industrial chemicals: 3‐hydroxypropanoate",
+"authors": [
+{
+            "name": "Christopher S Henry",
+"guid": "2129467050"
+        }, {
+            "name": "Linda J Broadbelt",
+"guid": "375567618"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 149,
+"abstract": "Sustainable microbial production of high-value organic compounds such as 3-hydroxypropanoate (3HP) is becoming an increasingly attractive alternative to organic syntheses that utilize petrochemical feedstock…",
+"keywords": [
+{
+            "word": "Chemical Industry",
+"guid": "12404463"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c0b8e229212ed4f3741582051b93e266",
+"title": "Methods for identifying drug targets based on genomic sequence data",
+"authors": [
+{
+            "name": "Bernhard O Palsson",
+"guid": "2949532280"
+        }
+]
+,
+"year": "2001",
+"journal": "",
+"cites": 148,
+"abstract": "This invention provides a computational approach to identifying potential antibacterial drug targets based on a genome sequence and its annotation. Starting from a fully sequenced genome, open reading fram…",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "Open Reading Frame",
+"guid": "47289529"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

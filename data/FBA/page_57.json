@@ -1,3 +1,4 @@
+[
 {
             "guid": "a2f70b495e40577f6e791801629311e3",
 "title": "Thermodynamics-based Metabolite Sensitivity Analysis in metabolic networks",
@@ -28,4 +29,311 @@
         }
 ]
 
+        }, {
+            "guid": "355f3163280bbaf2b258d76367d02c7e",
+"title": "An objective function exploiting suboptimal solutions in metabolic networks",
+"authors": [
+{
+            "name": "Edwin H Wintermute",
+"guid": "1974634180"
+        }, {
+            "name": "Tami D Lieberman",
+"guid": "2155777087"
+        }, {
+            "name": "Pamela A Silver",
+"guid": "2147902741"
         }
+]
+,
+"year": "2013",
+"journal": "· BMC Systems Biology",
+"cites": 12,
+"abstract": "Background#R##N#FluxBalanceAnalysis is a theoretically elegant, computationally efficient, genome-scale approach to predicting biochemical reaction fluxes. Yet FBA models exhibit persistent mathematic…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f125f8b6a54e304d0b6511af6a1b4309",
+"title": "A metabolite-centric view on flux distributions in genome-scale metabolic models",
+"authors": [
+{
+            "name": "S Alexander Riemer",
+"guid": "2514774913"
+        }, {
+            "name": "Rene Rex",
+"guid": "2117283472"
+        }, {
+            "name": "Dietmar Schomburg",
+"guid": "2143548709"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Systems Biology",
+"cites": 12,
+"abstract": "Genome-scale metabolic models are important tools in systems biology. They permit the in-silico prediction of cellular phenotypes via mathematical optimisation procedures, most importantly fluxbalanc…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "12f5696df0a4b359b9c6261ed6e1fac7",
+"title": "Integration of bioinformatics to biodegradation",
+"authors": [
+{
+            "name": "Pankaj Kumar Arora",
+"guid": "2113507066"
+        }, {
+            "name": "Hanhong Bae",
+"guid": "2129389538"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biological Procedures Online",
+"cites": 12,
+"abstract": "Bioinformatics and biodegradation are two primary scientific fields in applied microbiology and biotechnology. The present review describes development of various bioinformatics tools that may be a…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "412feb0909c9590aa7ef205efd1e4bbd",
+"title": "Finding elementary flux modes in metabolic networks based on fluxbalanceanalysis and flux coupling analysis: application t…",
+"authors": [
+{
+            "name": "Shayan Tabebordbar",
+"guid": "2481103396"
+        }, {
+            "name": "Sayedamir Marashi",
+"guid": "2108582515"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology Letters",
+"cites": 12,
+"abstract": "Elementary modes (EMs) are steady-state metabolic flux vectors with minimal set of active reactions. Each EM corresponds to a metabolic pathway. Therefore, studying EMs is helpful for analyzing the prod…",
+"keywords": [
+{
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "533877a3f59aa3bef01a1270220f29f6",
+"title": "FOCAL: an experimental design tool for systematizing metabolic discoveries and model development.",
+"authors": [
+{
+            "name": "Christopher J Tervo",
+"guid": "2009931019"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2012",
+"journal": "· Genome Biology",
+"cites": 12,
+"abstract": "Current computational tools can generate and improve genome-scale models based on existing data; however, for many organisms, the data needed to test and refine such models are not available. To facil…",
+"keywords": [
+{
+            "word": "Computational And Statistical Genetics",
+"guid": "31287385"
+        }, {
+            "word": "Computational Genomics",
+"guid": "39238701"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2ff7ca41bb2df5ff7f9d1bc0279cab6e",
+"title": "Expression of phosphofructokinase in Neisseria meningitidis",
+"authors": [
+{
+            "name": "Gino J E Baart",
+"guid": "2096950767"
+        }, {
+            "name": "Marc Langenhof",
+"guid": "2713897636"
+        }, {
+            "name": "Bas Van De Waterbeemd",
+"guid": "155961792"
+        }, {
+            "name": "Hendrikjan Hamstra",
+"guid": "2668822768"
+        }, {
+            "name": "Bert Zomer",
+"guid": "2035105625"
+        }, {
+            "name": "Leo …",
+"guid": "2153939371"
+        }
+]
+,
+"year": "2010",
+"journal": "· Microbiology",
+"cites": 12,
+"abstract": "Neisseria meningitidis serogroup B is a pathogen that can infect diverse sites within the human host. According to the N. meningitidis genomic information and experimental observations, glucose can be co…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3989879f86887da5c9d8c07958fb4696",
+"title": "Statistical mechanics for metabolic networks during steady-state growth",
+"authors": [
+{
+            "name": "Daniele De Martino",
+"guid": "2098897715"
+        }, {
+            "name": "Anna Mc Andersson",
+"guid": "2592369088"
+        }, {
+            "name": "Tobias Bergmiller",
+"guid": "2610135432"
+        }, {
+            "name": "Călin C Guet",
+"guid": "2172708359"
+        }, {
+            "name": "Gasper Tkacik",
+"guid": "961021959"
+        }
+]
+,
+"year": "2018",
+"journal": "· Nature Communications",
+"cites": 12,
+"abstract": "Which properties of metabolic networks can be derived solely from stoichiometry? Predictive results have been obtained by fluxbalanceanalysis (FBA), by postulating that cells set metabolic fluxes to maximize …",
+"keywords": [
+{
+            "word": "Principle of Maximum Entropy",
+"guid": "9679016"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d20a204d5e9b90502dfcbf347476e6f5",
+"title": "Stoichiometric model and fluxbalanceanalysis for a mixed culture of Leptospirillum ferriphilum and Ferroplasma acidiphi…",
+"authors": [
+{
+            "name": "M P Merino",
+"guid": "2314067460"
+        }, {
+            "name": "Barbara A Andrews",
+"guid": "2166640307"
+        }, {
+            "name": "Juan A Asenjo",
+"guid": "2143611852"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology Progress",
+"cites": 12,
+"abstract": "The oxidation process of sulfide minerals in natural environments is achieved by microbial communities from the Archaea and Bacteria domains. A metabolic reconstruction of two dominant species, Leptospiril…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0fc5f3e26f3ec639a7ba7a63ab5c6fe1",
+"title": "Fluxbalanceanalysis for ethylene formation in genetically engineered saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Christer Larsson",
+"guid": "2489884144"
+        }, {
+            "name": "Jacky L Snoep",
+"guid": "2114115792"
+        }, {
+            "name": "Joakim Norbeck",
+"guid": "2055518863"
+        }, {
+            "name": "Eva Albers",
+"guid": "2147539248"
+        }
+]
+,
+"year": "2011",
+"journal": "· Iet Systems Biology",
+"cites": 12,
+"abstract": "Biosynthesis of ethylene (ethene) is mainly performed by plants and some bacteria and fungi, via two distinct metabolic routes. Plants use two steps, starting with S-adenosylmethionine, while the ethylene-f…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

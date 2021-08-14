@@ -1,3 +1,4 @@
+[
 {
             "guid": "3896c7eb0a03c0b070401ac26a16297b",
 "title": "Metabolic model of Synechococcus sp. PCC 7002: Prediction of flux distribution and network modification for enhanced biofu…",
@@ -37,4 +38,335 @@
         }
 ]
 
+        }, {
+            "guid": "c5f6af77d4e4254460954fd7f03a1e3d",
+"title": "Are we ready for genome-scale modeling in plants?",
+"authors": [
+{
+            "name": "Eva Collakova",
+"guid": "2218728423"
+        }, {
+            "name": "Jiun Y Yen",
+"guid": "2163480782"
+        }, {
+            "name": "Ryan S Senger",
+"guid": "1974991969"
         }
+]
+,
+"year": "2012",
+"journal": "· Plant Science",
+"cites": 40,
+"abstract": "Abstract As it is becoming easier and faster to generate various types of high-throughput data, one would expect that by now we should have a comprehensive systems-level understanding of biology, biochemis…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9ff9faf6e33432e9dea721d202b30063",
+"title": "Flux balance analysis of Chlorella sp. FC2 IITG under photoautotrophic and heterotrophic growth conditions",
+"authors": [
+{
+            "name": "Muthusivaramapandian Muthuraj",
+"guid": "2582526640"
+        }, {
+            "name": "Basavaraj Palabhanvi",
+"guid": "2581387300"
+        }, {
+            "name": "Shamik Misra",
+"guid": "2497276698"
+        }, {
+            "name": "Vikram Kumar",
+"guid": "2502298458"
+        }, {
+            "name": "Kumaran Siv…",
+"guid": "2503050053"
+        }
+]
+,
+"year": "2013",
+"journal": "· Photosynthesis Research",
+"cites": 40,
+"abstract": "Quantification of carbon flux distribution in the metabolic network of microalgae remains important to understand the complex interplay between energy metabolism, carbon fixation, and assimilation pathwa…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Photophosphorylation",
+"guid": "26793543"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f5ac2ee218a7d588c54a130810c7bad0",
+"title": "Genetic Redundancies and Their Evolutionary Maintenance",
+"authors": [
+{
+            "name": "Jianzhi Zhang",
+"guid": "2138618021"
+        }
+]
+,
+"year": "2012",
+"journal": "· Advances in Experimental Medicine and Biology",
+"cites": 40,
+"abstract": "Genetic redundancy refers to the common phenomenon that deleting or mutating a gene from a genome has minimal or no impact on the phenotype or fitness of the organism because of functional compensati…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e80e0d0930d40448aa14cda818bf6471",
+"title": "Effect of carbon source perturbations on transcriptional regulation of metabolic fluxes in Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }, {
+            "name": "Betul Kirdar",
+"guid": "879979628"
+        }, {
+            "name": "Z Ilsen Onsan",
+"guid": "1564014128"
+        }, {
+            "name": "Kutlu O Ulgen",
+"guid": "2146392340"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2007",
+"journal": "· BMC Systems Biology",
+"cites": 40,
+"abstract": "Background#R##N#Control effective flux (CEF) of a reaction is the weighted sum of all fluxes through that reaction, derived from elementary flux modes (EFM) of a metabolic network. Change in CEFs under diff…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7fc6e8828544aa3f5dbd5f4c5e2cbbfe",
+"title": "An analytic and systematic framework for estimating metabolic flux ratios from 13C tracer experiments",
+"authors": [
+{
+            "name": "Ari Rantanen",
+"guid": "2132487240"
+        }, {
+            "name": "Juho Rousu",
+"guid": "2764080610"
+        }, {
+            "name": "Paula Jouhten",
+"guid": "117753723"
+        }, {
+            "name": "Nicola Zamboni",
+"guid": "1794252089"
+        }, {
+            "name": "Hannu Maaheimo",
+"guid": "2272715721"
+        }, {
+            "name": "Esko Ukkonen",
+"guid": "582562560"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Bioinformatics",
+"cites": 39,
+"abstract": "Background#R##N#Metabolic fluxes provide invaluable insight on the integrated response of a cell to environmental stimuli or genetic modifications. Current computational methods for estimating the metab…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "502c2ae5ecd23c1f21153bae539bd65c",
+"title": "Identification of metabolic engineering targets for the enhancement of 1,4-butanediol production in recombinant E. …",
+"authors": [
+{
+            "name": "Stefano Andreozzi",
+"guid": "1988490401"
+        }, {
+            "name": "Anirikh Chakrabarti",
+"guid": "2015733350"
+        }, {
+            "name": "Keng Cher Soh",
+"guid": "2121964572"
+        }, {
+            "name": "Anthony P Burgard",
+"guid": "2763851512"
+        }, {
+            "name": "Tae Hoon Yang",
+"guid": "2672519613"
+        }, {
+            "name": "Step…",
+"guid": "1134117268"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering",
+"cites": 39,
+"abstract": "Rational metabolic engineering methods are increasingly employed in designing the commercially viable processes for the production of chemicals relevant to pharmaceutical, biotechnology, and food and beve…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Recombinant DNA",
+"guid": "40767141"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c31adb97497eeed447872fdf7568692d",
+"title": "Flux balance analysis of photoheterotrophic growth of purple nonsulfur bacteria relevant to biohydrogen production",
+"authors": [
+{
+            "name": "Anastasia Golomysova",
+"guid": "2983657421"
+        }, {
+            "name": "Mark Gomelsky",
+"guid": "345227912"
+        }, {
+            "name": "Pavel S Ivanov",
+"guid": "2137295809"
+        }
+]
+,
+"year": "2010",
+"journal": "· International Journal of Hydrogen Energy",
+"cites": 39,
+"abstract": "Purple nonsulfur bacteria can produce hydrogen during photoheterotrophic growth on a variety of organic substrates. To facilitate metabolic engineering of this group of bacteria with the purpose of maximizing h…",
+"keywords": [
+{
+            "word": "Biohydrogen",
+"guid": "1124016"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "30a11f26b36d5c0e125bf494b688b423",
+"title": "Genome-scale reconstruction and in silico analysis of the Ralstonia eutropha H16 for polyhydroxyalkanoate synthesis, li…",
+"authors": [
+{
+            "name": "Jong Myoung Park",
+"guid": "2124866031"
+        }, {
+            "name": "Tae Yong Kim",
+"guid": "2116269765"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 39,
+"abstract": "Background#R##N#Ralstonia eutropha H16, found in both soil and water, is a Gram-negative lithoautotrophic bacterium that can utillize CO2 and H2 as its sources of carbon and energy in the absen…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Heterotroph",
+"guid": "35195898"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4e566dc8400ad69600a4f60d93f1160f",
+"title": "Reconstruction and Validation of a Genome-Scale Metabolic Model for the Filamentous Fungus Neurospora crassa Using F…",
+"authors": [
+{
+            "name": "Jonathan M Dreyfuss",
+"guid": "2235099585"
+        }, {
+            "name": "Jeremy Zucker",
+"guid": "2016435121"
+        }, {
+            "name": "Heather M Hood",
+"guid": "2467396372"
+        }, {
+            "name": "Linda R Ocasio",
+"guid": "2562704149"
+        }, {
+            "name": "Matthew S Sachs",
+"guid": "2922613560"
+        }, {
+            "name": "James …",
+"guid": "1987260672"
+        }
+]
+,
+"year": "2013",
+"journal": "· PLOS Computational Biology",
+"cites": 38,
+"abstract": "The filamentous fungus Neurospora crassa played a central role in the development of twentieth-century genetics, biochemistry and molecular biology, and continues to serve as a model organism for eukaryoti…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "188dbe8d102b02a9f2cc53cdc6a2c7da",
 "title": "Metabolic Erosion Primarily Through Mutation Accumulation, and Not Tradeoffs, Drives Limited Evolution of Substrate Spec…",
@@ -28,4 +29,326 @@
         }
 ]
 
+        }, {
+            "guid": "4c66ae17cb437aa0575fc4c15dee853d",
+"title": "A hybrid model of anaerobic E. coli GJT001: Combination of elementary flux modes and cybernetic variables",
+"authors": [
+{
+            "name": "Jin Il Kim",
+"guid": "2491708036"
+        }, {
+            "name": "Jeffery D Varner",
+"guid": "2318680393"
+        }, {
+            "name": "Doraiswami Ramkrishna",
+"guid": "2009889351"
         }
+]
+,
+"year": "2008",
+"journal": "· Biotechnology Progress",
+"cites": 86,
+"abstract": "Flux balance analysis (FBA) in combination with the decomposition of metabolic networks into elementary modes has provided a route to modeling cellular metabolism. It is dependent, however, on the availabilit…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c9358baec0b5abd3624676a976f88c4d",
+"title": "Development of chemically defined medium for Mannheimia succiniciproducens based on its genome sequence.",
+"authors": [
+{
+            "name": "Hyohak Song",
+"guid": "2144877063"
+        }, {
+            "name": "Tae Yong Kim",
+"guid": "2116269765"
+        }, {
+            "name": "Bokyeong Choi",
+"guid": "2512999681"
+        }, {
+            "name": "Seong Jun Choi",
+"guid": "2598999166"
+        }, {
+            "name": "Lars K Nielsen",
+"guid": "2124263552"
+        }, {
+            "name": "Ho Nam Chang",
+"guid": "2132956743"
+        }, {
+            "name": "S…",
+"guid": "2420484326"
+        }
+]
+,
+"year": "2008",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 86,
+"abstract": "This study presents a novel methodology for the development of a chemically defined medium (CDM) using genome-scale metabolic network and flux balance analysis. The genome-based in silico analysis i…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "81eb883eb9946b38960b7220e42dcf6f",
+"title": "Kinetic modelling of plant metabolic pathways",
+"authors": [
+{
+            "name": "Johann M Rohwer",
+"guid": "2069603505"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Experimental Botany",
+"cites": 85,
+"abstract": "This paper provides a review of kinetic modelling of plant metabolic pathways as a tool for analysing their control and regulation. An overview of different modelling strategies is presented, starting with those app…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "79b847c5aba84038c676098a404f41cd",
+"title": "Improving the phenotype predictions of a yeast genome-scale metabolic model by incorporating enzymatic constraints.",
+"authors": [
+{
+            "name": "Benjamin J Sanchez",
+"guid": "2195132659"
+        }, {
+            "name": "Cheng Zhang",
+"guid": "2493466893"
+        }, {
+            "name": "Avlant Nilsson",
+"guid": "2236472588"
+        }, {
+            "name": "Petrijaan Lahtvee",
+"guid": "2419794307"
+        }, {
+            "name": "Eduard J Kerkhoven",
+"guid": "1805635560"
+        }, {
+            "name": "Jens …",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2017",
+"journal": "· Molecular Systems Biology",
+"cites": 85,
+"abstract": "Genome-scale metabolic models (GEMs) are widely used to calculate metabolic phenotypes. They rely on defining a set of constraints, the most common of which is that the production of metabolites and\/or gro…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "938ed2a9ab88b335fb86a7d254f97eee",
+"title": "Responses to Light Intensity in a Genome-Scale Model of Rice Metabolism",
+"authors": [
+{
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }, {
+            "name": "Sudip Kundu",
+"guid": "2157969787"
+        }, {
+            "name": "Rahul Shaw",
+"guid": "2249007605"
+        }, {
+            "name": "David A Fell",
+"guid": "2173109630"
+        }
+]
+,
+"year": "2013",
+"journal": "· Plant Physiology",
+"cites": 84,
+"abstract": "We describe the construction and analysis of a genome-scale metabolic model representing a developing leaf cell of rice (Oryza sativa) primarily derived from the annotations in the RiceCyc database. We used f…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "19d6644e21cf0254cf7ba8503a00a2f8",
+"title": "Fluxanalysis and metabolomics for systematic metabolic engineering of microorganisms.",
+"authors": [
+{
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology Advances",
+"cites": 84,
+"abstract": "Abstract Rational engineering of metabolism is important for bio-production using microorganisms. Metabolic design based on in silico simulations and experimental validation of the metabolic state in the …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "69e28ccfde69a552bc512254ded6c627",
+"title": "Genome-scale modeling using flux ratio constraints to enable metabolic engineering of clostridial metabolism in silico",
+"authors": [
+{
+            "name": "Michael J Mcanulty",
+"guid": "2439096770"
+        }, {
+            "name": "Jiun Y Yen",
+"guid": "2163480782"
+        }, {
+            "name": "Benjamin G Freedman",
+"guid": "1972875038"
+        }, {
+            "name": "Ryan S Senger",
+"guid": "1974991969"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 84,
+"abstract": "Background#R##N#Genome-scale metabolic networks and flux models are an effective platform for linking an organism genotype to its phenotype. However, few modeling approaches offer predictive capa…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e1e653be47c63d42ad2392b38fed2422",
+"title": "Metabolic pathway engineering towards enhancing microalgal lipid biosynthesis for biofuel application—A review",
+"authors": [
+{
+            "name": "Goldy De Bhowmick",
+"guid": "1657225664"
+        }, {
+            "name": "Lokanand Koduru",
+"guid": "2650540925"
+        }, {
+            "name": "Ramkrishna Sen",
+"guid": "2158364248"
+        }
+]
+,
+"year": "2015",
+"journal": "· Renewable & Sustainable Energy Reviews",
+"cites": 83,
+"abstract": "Microalgae have recently emerged as the most favorite feedstock for triacylglycerol (TAG), the storage neutral lipid, for renewable and sustainable production of biodiesel, mainly due to their comparable lipid …",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d5c116edb4b9077703dae766d882be2b",
+"title": "Modeling and simulation of the main metabolism in Escherichia coli and its several single-gene knockout mutants with experi…",
+"authors": [
+{
+            "name": "Tuty Asmawaty Abdul Kadir",
+"guid": "2069053750"
+        }, {
+            "name": "Ahmad A Mannan",
+"guid": "2921420701"
+        }, {
+            "name": "Andrzej M Kierzek",
+"guid": "248477088"
+        }, {
+            "name": "Johnjoe Mcfadden",
+"guid": "2251044004"
+        }, {
+            "name": "Kazuyuki Shi…",
+"guid": "2533213921"
+        }
+]
+,
+"year": "2010",
+"journal": "· Microbial Cell Factories",
+"cites": 83,
+"abstract": "Background#R##N#It is quite important to simulate the metabolic changes of a cell in response to the change in culture environment and\/or specific gene knockouts particularly for the purpose of application …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Gene Knockout",
+"guid": "77957584"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

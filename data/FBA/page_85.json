@@ -1,3 +1,4 @@
+[
 {
             "guid": "a12d5b011aad477aa97f8628e136fece",
 "title": "Parametric analysis of metabolic fluxes of α-amylase and protease-producing Bacillus subtilis",
@@ -34,4 +35,311 @@
         }
 ]
 
+        }, {
+            "guid": "83ca38f6b759d013c71c23baf7ec996e",
+"title": "Phenotypic innovation through recombination in genome-scale metabolic networks.",
+"authors": [
+{
+            "name": "Sayedrzgar Hosseini",
+"guid": "2108169955"
+        }, {
+            "name": "Olivier C Martin",
+"guid": "2718540925"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
         }
+]
+,
+"year": "2016",
+"journal": "· Proceedings of The Royal Society B: Biological Sciences",
+"cites": 3,
+"abstract": "Recombination is an important source of metabolic innovation, especially in prokaryotes, which have evolved the ability to survive on many different sources of chemical elements and energy. Metabolic sys…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ca158a07baf48317daa155191492e88",
+"title": "Prospective Applications of Synthetic Biology for Algal Bioproduct Optimization",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "",
+"cites": 3,
+"abstract": "Synthetic Biology is an interdisciplinary approach combining biotechnology, evolutionary biology, molecular biology, systems biology and biophysics. While the exact definition of Synthetic Biology might …",
+"keywords": [
+{
+            "word": "Synthetic Biology",
+"guid": "191908910"
+        }, {
+            "word": "Algae Fuel",
+"guid": "159403789"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e40fd936297b85a2649f8dfe09c78df9",
+"title": "Chemical Transformation Motifs—Modelling Pathways as Integer Hyperflows",
+"authors": [
+{
+            "name": "Jakob L Andersen",
+"guid": "2110168456"
+        }, {
+            "name": "Christoph Flamm",
+"guid": "1965187182"
+        }, {
+            "name": "Daniel Merkle",
+"guid": "1981192622"
+        }, {
+            "name": "Peter F Stadler",
+"guid": "2168957985"
+        }
+]
+,
+"year": "2019",
+"journal": "· IEEE\/ACM Transactions on Computational Biology and Bioinformatics",
+"cites": 3,
+"abstract": "We present an elaborate framework for formally modelling pathways in chemical reaction networks on a mechanistic level. Networks are modelled mathematically as directed multi-hypergraphs, with vertices c…",
+"keywords": [
+{
+            "word": "Integer",
+"guid": "4071166"
+        }, {
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f88d425323ac87395784d8d32d2a3a56",
+"title": "A comparison between functional frequency and metabolic flows framed by biogeochemical cycles in metagenomes: The …",
+"authors": [
+{
+            "name": "Maria A Zamora",
+"guid": "2136124876"
+        }, {
+            "name": "Andres Pinzon",
+"guid": "2151950941"
+        }, {
+            "name": "Maria Mercedes Zambrano",
+"guid": "2171936831"
+        }, {
+            "name": "Silvia Restrepo",
+"guid": "2145565664"
+        }, {
+            "name": "Linda J Broadbelt",
+"guid": "375567618"
+        }, {
+            "name": "M…",
+"guid": "2128720627"
+        }
+]
+,
+"year": "2015",
+"journal": "· Ecological Modelling",
+"cites": 3,
+"abstract": "The study of metagenomic samples is crucial for understanding microbial communities in ecosystems. In this study, genomic samples of the “El Coquito” acidic hot spring, located at the Nevados Natural Nation…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "03ef415465bb4073689948498ac6efdf",
+"title": "Formation of a dynamic membrane altered the microbial community and metabolic flux in fermentative hydrogen prod…",
+"authors": [
+{
+            "name": "Jong Hun Park",
+"guid": "2145578895"
+        }, {
+            "name": "Jeong Hoon Park",
+"guid": "2582579117"
+        }, {
+            "name": "Young Bo Sim",
+"guid": "2800506375"
+        }, {
+            "name": "Sanghyoun Kim",
+"guid": "2161222952"
+        }, {
+            "name": "Heedeung Park",
+"guid": "2294601952"
+        }
+]
+,
+"year": "2019",
+"journal": "· Bioresource Technology",
+"cites": 3,
+"abstract": "Abstract This study aimed to investigate the relationship among dynamic membrane (DM) formation, metabolic flux, and microbial community population in dark fermentative hydrogen production. A continu…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a6af89baa0a40e08a9115609a5ab330a",
+"title": "MODELING THE OPTIMAL CENTRAL CARBON METABOLIC PATHWAYS UNDER FEEDBACK INHIBITION USING FLUXBALA…",
+"authors": [
+{
+            "name": "Rajat K De",
+"guid": "2119655096"
+        }, {
+            "name": "Namrata Tomar",
+"guid": "2127502230"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Bioinformatics and Computational Biology",
+"cites": 3,
+"abstract": "Metabolism is a complex process for energy production for cellular activity. It consists of a cascade of reactions that form a highly branched network in which the product of one reaction is the reactant of the …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4efd50631093cb4c90084f9962fe6662",
+"title": "The intertwined metabolism of Medicago truncatula and its nitrogen fixing symbiont Sinorhizobium meliloti elucidated b…",
+"authors": [
+{
+            "name": "Thomas Pfau",
+"guid": "2703939287"
+        }, {
+            "name": "Nils Christian",
+"guid": "2304028138"
+        }, {
+            "name": "Shyam K Masakapalli",
+"guid": "1992751031"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }, {
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }, {
+            "name": "Oliver Ebe…",
+"guid": "2555017115"
+        }
+]
+,
+"year": "2016",
+"journal": "· bioRxiv",
+"cites": 3,
+"abstract": "Genome-scale metabolic network models can be used for various analyses including the prediction of metabolic responses to changes in the environment. Legumes are well known for their rhizobial symbios…",
+"keywords": [
+{
+            "word": "Symbiosis",
+"guid": "43144210"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5a352b31fdc6134c52d75a755835346a",
+"title": "Prediction of reaction knockouts to maximize succinate production by Actinobacillus succinogenes",
+"authors": [
+{
+            "name": "Ambarish Nag",
+"guid": "2305217812"
+        }, {
+            "name": "Peter C St John",
+"guid": "2552683554"
+        }, {
+            "name": "Michael F Crowley",
+"guid": "2140003271"
+        }, {
+            "name": "Yannick J Bomble",
+"guid": "295390273"
+        }
+]
+,
+"year": "2018",
+"journal": "· PLOS ONE",
+"cites": 3,
+"abstract": "Succinate is a precursor of multiple commodity chemicals and bio-based succinate production is an active area of industrial bioengineering research. One of the most important microbial strains for bio-based pro…",
+"keywords": [
+{
+            "word": "Mixed Acid Fermentation",
+"guid": "53850387"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "faa4a75525e48841150dc0535394f118",
+"title": "Computational Studies on Cellular Bioenergetics",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 3,
+"abstract": "Keywords: metabolism ; flux-balanceanalysis ; novel pathways ; metabolic control analysis ; systems biology ; bioenergetics ; thermodynamics ; constraint-based analysis ; metabolic reconstructions ; gapfilli…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Metabolic Control Analysis",
+"guid": "70818257"
+        }
+]
+
+        }
+]

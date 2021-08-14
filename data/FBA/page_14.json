@@ -1,3 +1,4 @@
+[
 {
             "guid": "4e3f399342e9c5dd91a3a44684d26ce3",
 "title": "A fragile metabolic network adapted for cooperation in the symbiotic bacterium Buchnera aphidicola",
@@ -40,4 +41,317 @@
         }
 ]
 
+        }, {
+            "guid": "44ef6d3088348b0b6b0a763aff199aa5",
+"title": "Community Flux Balance Analysis for Microbial Consortia at Balanced Growth",
+"authors": [
+{
+            "name": "Ruchir A Khandelwal",
+"guid": "2096598821"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Wilfred F M Roling",
+"guid": "2196128557"
+        }, {
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
         }
+]
+,
+"year": "2013",
+"journal": "· PLOS ONE",
+"cites": 113,
+"abstract": "A central focus in studies of microbial communities is the elucidation of the relationships between genotype, phenotype, and dynamic community structure. Here, we present a new computational metho…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5567e9264d54cbcd192c7398c82c04d2",
+"title": "d-OptCom: Dynamic Multi-level and Multi-objective Metabolic Modeling of Microbial Communities",
+"authors": [
+{
+            "name": "Ali R Zomorrodi",
+"guid": "1998219508"
+        }, {
+            "name": "Mohammad Mazharul Islam",
+"guid": "2600441395"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2014",
+"journal": "· ACS Synthetic Biology",
+"cites": 113,
+"abstract": "Most microbial communities change with time in response to changes and\/or perturbations in environmental conditions. Temporal variations in interspecies metabolic interactions within these comm…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7f6cb54091aed47051f079477a3bd665",
+"title": "Something from nothing − bridging the gap between constraint‐based and kinetic modelling",
+"authors": [
+{
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }, {
+            "name": "D S Broomhead",
+"guid": "2012420312"
+        }, {
+            "name": "Douglas B Kell",
+"guid": "2087190859"
+        }
+]
+,
+"year": "2007",
+"journal": "· FEBS Journal",
+"cites": 113,
+"abstract": "Two divergent modelling methodologies have been adopted to increase our understanding of metabolism and its regulation. Constraint-based modelling highlights the optimal path through a stoichiometric netw…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "27cceda6d0bf8dc5d4ecf47593698ec0",
+"title": "Reconciliation of genome-scale metabolic reconstructions for comparative systems analysis.",
+"authors": [
+{
+            "name": "Matthew A Oberhardt",
+"guid": "2312160716"
+        }, {
+            "name": "Jacek Puchalka",
+"guid": "1972853797"
+        }, {
+            "name": "Vitor A P Martins Dos Santos",
+"guid": "2965812574"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2011",
+"journal": "· PLOS Computational Biology",
+"cites": 113,
+"abstract": "In the past decade, over 50 genome-scale metabolic reconstructions have been built for a variety of single- and multi- cellular organisms. These reconstructions have enabled a host of computational meth…",
+"keywords": [
+{
+            "word": "Systems Analysis",
+"guid": "24119478"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b59ae30964c2d2da1845c6a6bed41f83",
+"title": "The regulatory network of E. coli metabolism as a Boolean dynamical system exhibits both homeostasis and flexibility of …",
+"authors": [
+{
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }, {
+            "name": "Sanjay Jain",
+"guid": "3008944630"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 112,
+"abstract": "Background#R##N#Elucidating the architecture and dynamics of large scale genetic regulatory networks of cells is an important goal in systems biology. We study the system level dynamical properties of the g…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Homeostasis",
+"guid": "63645605"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7028957fb2006df8bbd28560142ffc25",
+"title": "Development and experimental verification of a genome-scale metabolic model for Corynebacterium glutamicum",
+"authors": [
+{
+            "name": "Yohei Shinfuku",
+"guid": "308698449"
+        }, {
+            "name": "Natee Sorpitiporn",
+"guid": "250198158"
+        }, {
+            "name": "Masahiro Sono",
+"guid": "2146775094"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Takashi Hirasawa",
+"guid": "2146155068"
+        }, {
+            "name": "Hiroshi S…",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2009",
+"journal": "· Microbial Cell Factories",
+"cites": 111,
+"abstract": "In silico genome-scale metabolic models enable the analysis of the characteristics of metabolic systems of organisms. In this study, we reconstructed a genome-scale metabolic model of Corynebacterium glutam…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2bdf89f0bbede9a2aeec42062377bd2f",
+"title": "k-OptForce: Integrating Kinetics with Flux Balance Analysis for Strain Design",
+"authors": [
+{
+            "name": "Anupam Chowdhury",
+"guid": "2166236091"
+        }, {
+            "name": "Ali R Zomorrodi",
+"guid": "1998219508"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS Computational Biology",
+"cites": 111,
+"abstract": "Computational strain design protocols aim at the system-wide identification of intervention strategies for the enhanced production of biochemicals in microorganisms. Existing approaches relying solely on stoic…",
+"keywords": [
+{
+            "word": "Enzyme Kinetics",
+"guid": "56856141"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2ad25eaed7064532f651b18e14a08a47",
+"title": "Bayesian-based selection of metabolic objective functions",
+"authors": [
+{
+            "name": "Andrea L Knorr",
+"guid": "2070729258"
+        }, {
+            "name": "Rishi Jain",
+"guid": "2304829789"
+        }, {
+            "name": "Ranjan Srivastava",
+"guid": "2274633379"
+        }
+]
+,
+"year": "2007",
+"journal": "· Bioinformatics",
+"cites": 111,
+"abstract": "Motivation: A critical component of in silico analysis of underdetermined metabolic systems is the identification of the appropriate objective function. A common assumption is that the objective of the cell …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "42701d6714ad60d239b2acac8b13af14",
+"title": "Metabolic FluxAnalysis in Plants: From Intelligent Design to Rational Engineering",
+"authors": [
+{
+            "name": "Igor G L Libourel",
+"guid": "2269827796"
+        }, {
+            "name": "Yair Shacharhill",
+"guid": "2041323312"
+        }
+]
+,
+"year": "2008",
+"journal": "· Annual Review of Plant Biology",
+"cites": 109,
+"abstract": "Metabolic fluxanalysis (MFA) is a rapidly developing field concerned with the quantification and understanding of metabolism at the systems level. The application of MFA has produced detailed maps …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

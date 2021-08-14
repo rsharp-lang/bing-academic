@@ -1,3 +1,4 @@
+[
 {
             "guid": "c0ed640427d2221ae11998909d134b28",
 "title": "Multi-objective MINLP Optimization Used to Identify Theoretical Gene Knockout Strategies for E. coli Cell",
@@ -31,4 +32,341 @@
         }
 ]
 
+        }, {
+            "guid": "e64b0417b92cc18f70730b0c1cdfab42",
+"title": "A Hybrid of Artificial Bee Colony and Flux Balance Analysis for Identifying Optimum Knockout Strategies for Producing High …",
+"authors": [
+{
+            "name": "Seet Sun Lee",
+"guid": "2506118729"
+        }, {
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Lian En Chai",
+"guid": "2161638723"
+        }, {
+            "name": "Chuii Khing Chong",
+"guid": "2489397712"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Md Illias",
+"guid": "2227999364"
+        }, {
+            "name": "Mo…",
+"guid": "2131251652"
         }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 5,
+"abstract": "The advent of genome-scale models of metabolism has laid the foundation for the development of computational procedures for suggesting genetic manipulations that lead to overproduction. Previously, …",
+"keywords": [
+{
+            "word": "Gene Knockout",
+"guid": "77957584"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ad223e7238cf6c3d8771dd91cc0659c",
+"title": "Flux balance analysis predicts Warburg-like effects of mouse hepatocyte deficient in miR-122a",
+"authors": [
+{
+            "name": "Huaqing Wu",
+"guid": "2730857760"
+        }, {
+            "name": "Meiling Cheng",
+"guid": "2797599605"
+        }, {
+            "name": "Jinmei Lai",
+"guid": "2102378598"
+        }, {
+            "name": "Hsuanhui Wu",
+"guid": "2728199693"
+        }, {
+            "name": "Mengchun Chen",
+"guid": "2730938063"
+        }, {
+            "name": "Wenhuan Liu",
+"guid": "2733067783"
+        }, {
+            "name": "Wuhsiung …",
+"guid": "2684960072"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS Computational Biology",
+"cites": 5,
+"abstract": "The liver is a vital organ involving in various major metabolic functions in human body. MicroRNA-122 (miR-122) plays an important role in the regulation of liver metabolism, but its intrinsic physiological func…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "19de168e926a712ac02f55b783ee39e9",
+"title": "Clostridium butyricum maximizes growth while minimizing enzyme usage and ATP production: metabolic flux distributio…",
+"authors": [
+{
+            "name": "Luis Miguel Serranobermudez",
+"guid": "2620708954"
+        }, {
+            "name": "Andres Fernando Gonzalez Barrios",
+"guid": "2440688292"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }, {
+            "name": "Dolly Montoya",
+"guid": "2124923704"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Systems Biology",
+"cites": 5,
+"abstract": "The increase in glycerol obtained as a byproduct of biodiesel has encouraged the production of new industrial products, such as 1,3-propanediol (PDO), using biotechnological transformation via bacteria lik…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Strain (chemistry)",
+"guid": "61656845"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "92ee16071f8b5b074ac73ca96ff6e97a",
+"title": "Population FBA predicts metabolic phenotypes in yeast",
+"authors": [
+{
+            "name": "Piyush Labhsetwar",
+"guid": "2302743033"
+        }, {
+            "name": "Marcelo C R Melo",
+"guid": "2101968083"
+        }, {
+            "name": "John A Cole",
+"guid": "2146265515"
+        }, {
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS Computational Biology",
+"cites": 5,
+"abstract": "Using protein counts sampled from single cell proteomics distributions to constrain fluxes through a genome-scale model of metabolism, Population flux balance analysis (Population FBA) successfully des…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bc7902899b3f948ce9146b66dc761964",
+"title": "Genome-scale methods converge on key mitochondrial genes for the survival of human cardiomyocytes in hypoxia.",
+"authors": [
+{
+            "name": "Lindsay M Edwards",
+"guid": "2161408417"
+        }, {
+            "name": "Martin I Sigurdsson",
+"guid": "2148132610"
+        }, {
+            "name": "Peter A Robbins",
+"guid": "2004878344"
+        }, {
+            "name": "Michael E Weale",
+"guid": "2305302530"
+        }, {
+            "name": "Gianpiero L Cavalleri",
+"guid": "2620303110"
+        }
+]
+,
+"year": "2014",
+"journal": "· Circulation-cardiovascular Genetics",
+"cites": 5,
+"abstract": "Background— Any reduction in myocardial oxygen delivery relative to its demands can impair cardiac contractile performance. Understanding the mitochondrial metabolic response to hypoxia is key to under…",
+"keywords": [
+{
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "049178a70e18ac2680e5662b6bb5b787",
+"title": "Efficient estimation of the maximum metabolic productivity of batch systems",
+"authors": [
+{
+            "name": "Peter C St John",
+"guid": "2552683554"
+        }, {
+            "name": "Michael F Crowley",
+"guid": "2140003271"
+        }, {
+            "name": "Yannick J Bomble",
+"guid": "295390273"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology for Biofuels",
+"cites": 5,
+"abstract": "Production of chemicals from engineered organisms in a batch culture involves an inherent trade-off between productivity, yield, and titer. Existing strategies for strain design typically focus on designing mu…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bounded Function",
+"guid": "34388435"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "54614bbbbf3948778277dbea858971cf",
+"title": "A hybrid of bees algorithm and flux balance analysis (BAFBA) for the optimisation of microbial strains",
+"authors": [
+{
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Md Illias",
+"guid": "2227999364"
+        }
+]
+,
+"year": "2014",
+"journal": "· data mining in bioinformatics",
+"cites": 5,
+"abstract": "The development of microbial production system has become popular in recent years as microbial hosts offer a number of unique advantages for both native and heterologous small-molecules. However, the m…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9f4487d82c8fa9a2595b7e90810b7592",
+"title": "Metabolic flux analyses of Pseudomonas aeruginosa cystic fibrosis isolates",
+"authors": [
+{
+            "name": "Michael J Opperman",
+"guid": "2478698910"
+        }, {
+            "name": "Yair Shacharhill",
+"guid": "2041323312"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering",
+"cites": 5,
+"abstract": "Abstract Pseudomonas aeruginosa is a metabolically versatile wide-ranging opportunistic pathogen. In humans P. aeruginosa causes infections of the skin, urinary tract, blood, and the lungs of Cystic Fibrosi…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d52966213f0dcb25ffb590dab1c542d6",
+"title": "Dynamic flux balance analysis with nonlinear objective function",
+"authors": [
+{
+            "name": "Xiao Zhao",
+"guid": "2606503715"
+        }, {
+            "name": "Stephan Noack",
+"guid": "2616868885"
+        }, {
+            "name": "Wolfgang Wiechert",
+"guid": "260604835"
+        }, {
+            "name": "Eric Von Lieres",
+"guid": "161550420"
+        }
+]
+,
+"year": "2017",
+"journal": "· Journal of Mathematical Biology",
+"cites": 5,
+"abstract": "Dynamic flux balance analysis (DFBA) extends flux balance analysis and enables the combined simulation of both intracellular and extracellular environments of microbial cultivation processes. A DFBA model co…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Karush–Kuhn–Tucker Conditions",
+"guid": "50454189"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

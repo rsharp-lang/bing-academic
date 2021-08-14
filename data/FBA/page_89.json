@@ -1,3 +1,4 @@
+[
 {
             "guid": "7ea3fbab3552f122c4a7382983f28c4b",
 "title": "Metabolic Flux Analysis for Escherichia coli by Flux BalanceAnalysis",
@@ -28,4 +29,278 @@
         }
 ]
 
+        }, {
+            "guid": "2b97078b363ac2c291214c511c453203",
+"title": "Metabolic capabilities of Actinobacillus succinogenes for succinic acid production",
+"authors": [
+{
+            "name": "Razieh Rafieenia",
+"guid": "2583504831"
         }
+]
+,
+"year": "2014",
+"journal": "· Brazilian Journal of Chemical Engineering",
+"cites": 3,
+"abstract": "Abstract - Attention has been focused on microbial succinic acid production as an alternative for conventional chemical synthesis that is associated with environmental pollution. A metabolic model for A…",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Chemical Synthesis",
+"guid": "114373084"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "419d785459c211e914197fb26995e193",
+"title": "Mutations in MurE, the essential UDP- N -acetylmuramoylalanyl- d -glutamate 2,6-diaminopimelate lig…",
+"authors": [
+{
+            "name": "Jennifer Hochheim",
+"guid": "2559002366"
+        }, {
+            "name": "Angela Kranz",
+"guid": "2620574555"
+        }, {
+            "name": "Karin Krumbach",
+"guid": "2105587304"
+        }, {
+            "name": "Sascha Sokolowsky",
+"guid": "2416597869"
+        }, {
+            "name": "Lothar Eggeling",
+"guid": "3000445473"
+        }, {
+            "name": "Stephan …",
+"guid": "2616868885"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology Letters",
+"cites": 3,
+"abstract": "To explore systemic effects of mutations in the UDP-N-acetylmuramoylalanyl-d-glutamate 2,6-diaminopimelate ligase (MurE) of Corynebacterium glutamicum, that leads to extracellular l-lysine accu…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2fa0ff849341796a239979a0cbb70ebf",
+"title": "A systematic modeling approach to elucidate the triggering of the stringent response in recombinant E. coli systems",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "· soft computing",
+"cites": 3,
+"abstract": "A hybrid modeling approach, combining a stoichiometric model of the E. coli metabolic network and kinetic-based descriptions for the production of recombinant protein, cell growth and ppGpp synthesis, …",
+"keywords": [
+{
+            "word": "Recombinant Protein Production",
+"guid": "2993634446"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Stringent Response",
+"guid": "26628138"
+        }
+]
+
+        }, {
+            "guid": "02dc8828b513b46fb35c832288a094b2",
+"title": "Model Predictive Control Coupled with Economic and Environmental Constraints for Optimum Algal Production",
+"authors": [
+{
+            "name": "Ankita Juneja",
+"guid": "2118800321"
+        }, {
+            "name": "Ganti S Murthy",
+"guid": "2107198103"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioresource Technology",
+"cites": 3,
+"abstract": "Abstract Algae production process is a key cost center in production of biofuels\/bioproducts from microalgae. Decline in the growth of algae in outdoor ponds during non-optimal conditions is one of the …",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Control Theory",
+"guid": "79699506"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6efb5a89de3ca8cc6bc83782c14949d6",
+"title": "Flux balanceanalysis for maximizing polyhydroxyalkanoate production in Pseudomonas putida",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "",
+"cites": 3,
+"abstract": "The aim of this work is to develop process strategies to understand the behaviour of Psendomonas putida for cost-effective synthesis of mcl-PHA with the help of metabolic flux model developed using linear prog…",
+"keywords": [
+{
+            "word": "Pseudomonas Putida",
+"guid": "2780543182"
+        }, {
+            "word": "Chemostat",
+"guid": "125111812"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "00133239fe6a8adbb7cc05d7568d7883",
+"title": "A Nash Equilibrium Approach to Metabolic Network Analysis",
+"authors": [
+
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 3,
+"abstract": "A novel approach to metabolic network analysis using a Nash Equilibrium formulation is proposed. Enzymes are considered to be players in a multi-player game in which each player attempts to minimiz…",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Nash Equilibrium",
+"guid": "46814582"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6a8f8f57d7d9e901445c369ebb3f380f",
+"title": "Simulation of Dynamic Behavior of Glucose- and Tryptophan-Grown Escherichia coli Using Constraint-Based Metabolic Mo…",
+"authors": [
+
+]
+,
+"year": "2006",
+"journal": "· Journal of Microbiology and Biotechnology",
+"cites": 3,
+"abstract": "We earlier suggested a hierarchical regulatory network using defined modeling symbols and weights in order to improve the flux balanceanalysis (FBA) with regulatory events that were represented by if-then …",
+"keywords": [
+{
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Enterobacteriaceae",
+"guid": "2778910516"
+        }
+]
+
+        }, {
+            "guid": "2c0dcb1582c5ccebe15e83eb5d04832f",
+"title": "A simplified metabolic network reconstruction to promote understanding and development of flux balanceanalysis tools",
+"authors": [
+{
+            "name": "Kristopher D Rawls",
+"guid": "2586488902"
+        }, {
+            "name": "Bonnie V Dougherty",
+"guid": "2019916345"
+        }, {
+            "name": "Edik M Blais",
+"guid": "2021332332"
+        }, {
+            "name": "Ethan Stancliffe",
+"guid": "2905311753"
+        }, {
+            "name": "Glynis L Kolling",
+"guid": "1984012553"
+        }, {
+            "name": "Kalyan C …",
+"guid": "2887712901"
+        }
+]
+,
+"year": "2019",
+"journal": "· Computers in Biology and Medicine",
+"cites": 3,
+"abstract": "Abstract GEnome-scale Network REconstructions (GENREs) mathematically describe metabolic reactions of an organism or a specific cell type. GENREs can be used with a number of constraint-based reconstr…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "60094e72df7390f0312677854bc2c232",
+"title": "Exploring Flux Distribution Profiles for Switching Pathways Using Multiobjective Flux BalanceAnalysis",
+"authors": [
+{
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }, {
+            "name": "Younggyun Oh",
+"guid": "2112877335"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }, {
+            "name": "Sunwon Park",
+"guid": "2159876294"
+        }
+]
+,
+"year": "2002",
+"journal": "· Genome Informatics",
+"cites": 3,
+"abstract": "Recent completion of the entire genome sequences of numerous microorganisms and other organisms is setting up a new paradigm of biological research. To fully exploit the genome information, predicting a p…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

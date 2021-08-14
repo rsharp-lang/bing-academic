@@ -1,3 +1,4 @@
+[
 {
             "guid": "71c61d67f7a99b0b91b8198c859757df",
 "title": "Systems biology towards life in silico: mathematics of the control of living cells",
@@ -40,4 +41,347 @@
         }
 ]
 
+        }, {
+            "guid": "d7864f01aa122f47cd6cf214249b4325",
+"title": "Estimating optimal profiles of genetic alterations using constraint-based models",
+"authors": [
+{
+            "name": "Kapil G Gadkar",
+"guid": "2797695557"
+        }, {
+            "name": "Francis J Doyle",
+"guid": "2167853686"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
         }
+]
+,
+"year": "2005",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 97,
+"abstract": "Metabolic engineering involves application of recombinant DNA methods to manipulate metabolic networks to improve cellular properties. It is critical that the genetic alterations be performed in an optim…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7ab9d18c97df81cf08c3b1c79037ce20",
+"title": "Metabolic reconstruction, constraint-based analysis and game theory to probe genome-scale metabolic networks.",
+"authors": [
+{
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }, {
+            "name": "Luis F De Figueiredo",
+"guid": "2136552502"
+        }, {
+            "name": "Stefan Schuster",
+"guid": "2569839502"
+        }
+]
+,
+"year": "2010",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 95,
+"abstract": "With the advent of modern omics technologies, it has become feasible to reconstruct (quasi-) whole-cell metabolic networks and characterize them in more and more detail. Computer simulations of the dynami…",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a9e6de240b58c5e38b95137d3aa7c563",
+"title": "Seed Architecture Shapes Embryo Metabolism in Oilseed Rape",
+"authors": [
+{
+            "name": "Ljudmilla Borisjuk",
+"guid": "2038368093"
+        }, {
+            "name": "Thomas Neuberger",
+"guid": "2102062388"
+        }, {
+            "name": "Jorg Schwender",
+"guid": "2002373688"
+        }, {
+            "name": "Nicolas Heinzel",
+"guid": "2029521678"
+        }, {
+            "name": "Stephanie Sunderhaus",
+"guid": "212942081"
+        }, {
+            "name": "J…",
+"guid": "2115313929"
+        }
+]
+,
+"year": "2013",
+"journal": "· The Plant Cell",
+"cites": 94,
+"abstract": "Constrained to develop within the seed, the plant embryo must adapt its shape and size to fit the space available. Here, we demonstrate how this adjustment shapes metabolism of photosynthetic embryo. No…",
+"keywords": [
+{
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4e0a6d19a85a4305d2d6438803220526",
+"title": "RELATCH: relative optimality in metabolic networks explains robust metabolic and regulatory responses to perturbations",
+"authors": [
+{
+            "name": "Joonhoon Kim",
+"guid": "2142276389"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2012",
+"journal": "· Genome Biology",
+"cites": 93,
+"abstract": "Predicting cellular responses to perturbations is an important task in systems biology. We report a new approach, RELATCH, which uses flux and gene expression data from a reference state to predict metab…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bd351a99f3e1515ea93960522bfb1a41",
+"title": "From Annotated Genomes to Metabolic Flux Models and Kinetic Parameter Fitting",
+"authors": [
+{
+            "name": "Daniel Segre",
+"guid": "2034634026"
+        }, {
+            "name": "Jeremy Zucker",
+"guid": "2016435121"
+        }, {
+            "name": "Jeremy Katz",
+"guid": "2675411469"
+        }, {
+            "name": "Xiaoxia Lin",
+"guid": "2161665121"
+        }, {
+            "name": "Patrik Dhaeseleer",
+"guid": "2052295977"
+        }, {
+            "name": "Wayne Rindone",
+"guid": "2037845456"
+        }, {
+            "name": "Pete…",
+"guid": "2093652866"
+        }
+]
+,
+"year": "2003",
+"journal": "· Omics A Journal of Integrative Biology",
+"cites": 92,
+"abstract": "Significant advances in system-level modeling of cellular behavior can be achieved based on constraints derived from genomic information and on optimality hypotheses. For steady-state models of metabolic n…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c999e411de6b13ad8a11c4cbf711223e",
+"title": "MetaNetX\/MNXref – reconciliation of metabolites and biochemical reactions to bring together genome-scale metab…",
+"authors": [
+{
+            "name": "Sebastien Moretti",
+"guid": "2163004880"
+        }, {
+            "name": "Olivier Martin",
+"guid": "2476013690"
+        }, {
+            "name": "T Van Du Tran",
+"guid": "2318084172"
+        }, {
+            "name": "Alan Bridge",
+"guid": "1974812904"
+        }, {
+            "name": "Anne Morgat",
+"guid": "319094435"
+        }, {
+            "name": "Marco Pagni",
+"guid": "2045120540"
+        }
+]
+,
+"year": "2016",
+"journal": "· Nucleic Acids Research",
+"cites": 92,
+"abstract": "MetaNetX is a repository of genome-scale metabolic networks (GSMNs) and biochemical pathways from a number of major resources imported into a common namespace of chemical compounds, reactions, cell…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a888c7ab5fc9657e3cf0ddd94d8b2e0c",
+"title": "Version 6 of the consensus yeast metabolic network refines biochemical coverage and improves model performance",
+"authors": [
+{
+            "name": "Benjamin D Heavner",
+"guid": "1645904605"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }, {
+            "name": "Larry P Walker",
+"guid": "2131154625"
+        }
+]
+,
+"year": "2013",
+"journal": "· Database",
+"cites": 90,
+"abstract": "Updates to maintain a state-of-the art reconstruction of the yeast metabolic network are essential to reflect our understanding of yeast metabolism and functional organization, to eliminate any inaccuracies identifi…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cc4248972683d65f8fb78b3fb51e1492",
+"title": "iAB-RBC-283: A proteomically derived knowledge-base of erythrocyte metabolism that can be used to simulate its physi…",
+"authors": [
+{
+            "name": "Aarash Bordbar",
+"guid": "2030499186"
+        }, {
+            "name": "Neema Jamshidi",
+"guid": "2022775796"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 90,
+"abstract": "Background#R##N#The development of high-throughput technologies capable of whole cell measurements of genes, proteins, and metabolites has led to the emergence of systems biology. Integr…",
+"keywords": [
+{
+            "word": "Knowledge Base",
+"guid": "4554734"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6dff17e92cbda01822470de4c32622c7",
+"title": "Low degree metabolites explain essential reactions and enhance modularity in biological networks.",
+"authors": [
+{
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }, {
+            "name": "Shalini Singh",
+"guid": "3010534091"
+        }, {
+            "name": "Varun Giri",
+"guid": "2444596654"
+        }, {
+            "name": "Sandeep Krishna",
+"guid": "2163263377"
+        }, {
+            "name": "Nandula Raghuram",
+"guid": "1979290151"
+        }, {
+            "name": "Sanjay Jain",
+"guid": "3008944630"
+        }
+]
+,
+"year": "2006",
+"journal": "· BMC Bioinformatics",
+"cites": 90,
+"abstract": "Background#R##N#Recently there has been a lot of interest in identifying modules at the level of genetic and metabolic networks of organisms, as well as in identifying single genes and reactions that are essen…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

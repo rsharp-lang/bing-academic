@@ -1,3 +1,4 @@
+[
 {
             "guid": "b26ed9361613c2a9012176217eddac09",
 "title": "Selection Finder (SelFi): A computational metabolic engineering tool to enable directed evolution of enzymes",
@@ -22,4 +23,317 @@
         }
 ]
 
+        }, {
+            "guid": "96542a2ec29efeef8af941ef5774915d",
+"title": "Elementary flux modes – state-of-the-art implementation and scope of application",
+"authors": [
+{
+            "name": "Marco Terzer",
+"guid": "2027707334"
+        }, {
+            "name": "Jorg Stelling",
+"guid": "1947938797"
         }
+]
+,
+"year": "2007",
+"journal": "· BMC Systems Biology",
+"cites": 6,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computational Science",
+"guid": "459310"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "05ac17cf474e37e7475f0ef40c96d0ec",
+"title": "Prospecting hydrogen production of Escherichia coli by metabolic network modeling",
+"authors": [
+{
+            "name": "Jenni J Seppala",
+"guid": "2537054482"
+        }, {
+            "name": "Antti Larjo",
+"guid": "2949936855"
+        }, {
+            "name": "Tommi Aho",
+"guid": "2032674615"
+        }, {
+            "name": "Olli Yliharja",
+"guid": "50604458"
+        }, {
+            "name": "Matti Karp",
+"guid": "2894313177"
+        }, {
+            "name": "Ville Santala",
+"guid": "1533627698"
+        }
+]
+,
+"year": "2013",
+"journal": "· International Journal of Hydrogen Energy",
+"cites": 6,
+"abstract": "Abstract Genome-scale model was applied to analyze the anaerobic metabolism of Escherichia coli. Three different methods were used to find deletions affecting fermentative hydrogen production: flux balancea…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "60003107d2d2cd3a668c81f7b08f249e",
+"title": "Linking Genome-Scale Metabolic Modeling and Genome Annotation",
+"authors": [
+{
+            "name": "Edik M Blais",
+"guid": "2021332332"
+        }, {
+            "name": "Arvind K Chavali",
+"guid": "2013334876"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2013",
+"journal": "· Methods of Molecular Biology",
+"cites": 6,
+"abstract": "Genome-scale metabolic network reconstructions, assembled from annotated genomes, serve as a platform for integrating data from heterogeneous sources and generating hypotheses for further experim…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6ce3037b184d0150651d3b8f944e0825",
+"title": "Engineering Escherichia coli for poly-(3-hydroxybutyrate) production guided by genome-scale metabolic network analy…",
+"authors": [
+{
+            "name": "Yangyang Zheng",
+"guid": "2621612096"
+        }, {
+            "name": "Qianqian Yuan",
+"guid": "2642414282"
+        }, {
+            "name": "Xiaoyan Yang",
+"guid": "2599054988"
+        }, {
+            "name": "Hongwu Ma",
+"guid": "2252552372"
+        }
+]
+,
+"year": "2017",
+"journal": "· Enzyme and Microbial Technology",
+"cites": 6,
+"abstract": "Poly-(3-hydroxybutyrate) (P3HB) is a promising biodegradable plastic synthesized from acetyl-CoA. One important factor affecting the P3HB production cost is the P3HB yield. Through flux balanceanalysis of …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d0f3edf3765d7e4a0a63cd754fb94406",
+"title": "A Systems Biology View on Bacterial Response to Temperature Shift",
+"authors": [
+{
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }, {
+            "name": "Emanuele Bosi",
+"guid": "2129416476"
+        }, {
+            "name": "Angelina Lo Giudice",
+"guid": "2086216448"
+        }, {
+            "name": "Renato Fani",
+"guid": "1883219596"
+        }
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 6,
+"abstract": "Extremophilic microbes have adapted to thrive in ecological niches characterized by harsh chemical\/physical conditions such as, for example, very low\/high temperature. Studying the mechanism…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Cell Biology",
+"guid": "95444343"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e550aced685e862276bf5661f69763d3",
+"title": "Experimental validation of in silico estimated biomass yields of Pseudomonas putida KT2440",
+"authors": [
+{
+            "name": "Sarah Hintermayer",
+"guid": "2556510814"
+        }, {
+            "name": "Dirk Weusterbotz",
+"guid": "2010488429"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology Journal",
+"cites": 6,
+"abstract": "Pseudomonas putida is rapidly becoming a microbial cell platform for biotechnological applications. In order to understand genotype-phenotype relationships genome scale models represent helpful tools. Ho…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7b9dddcf5a64f7a407df8bc4115394dd",
+"title": "WormJam: A consensus C. elegans Metabolic Reconstruction and Metabolomics Community and Workshop Series",
+"authors": [
+{
+            "name": "Janna Hastings",
+"guid": "2251524424"
+        }, {
+            "name": "Abraham Mains",
+"guid": "2752892983"
+        }, {
+            "name": "Marta Artalsanz",
+"guid": "2681995608"
+        }, {
+            "name": "Sven Bergmann",
+"guid": "2189031755"
+        }, {
+            "name": "Bart P Braeckman",
+"guid": "161119484"
+        }, {
+            "name": "Jake G Bun…",
+"guid": "2121075260"
+        }
+]
+,
+"year": "2017",
+"journal": "",
+"cites": 6,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cd778f4a9f5e75b3e759097fed17067a",
+"title": "Enhanced flux prediction by integrating relative expression and relative metabolite abundance into thermodynamically consis…",
+"authors": [
+{
+            "name": "Vikash Pandey",
+"guid": "2595817056"
+        }, {
+            "name": "Noushin Hadadi",
+"guid": "133330261"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": "2019",
+"journal": "· PLOS Computational Biology",
+"cites": 6,
+"abstract": "The ever-increasing availability of transcriptomic and metabolomic data can be used to deeply analyze and make ever-expanding predictions about biological processes, as changes in the reaction fluxes thro…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "afcbb3ad8aee7003e9abb2652d7fa3bb",
+"title": "The potential for non-adaptive origins of evolutionary innovations in central carbon metabolism",
+"authors": [
+{
+            "name": "Sayedrzgar Hosseini",
+"guid": "2108169955"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Systems Biology",
+"cites": 6,
+"abstract": "Biological systems are rife with examples of pre-adaptations or exaptations. They range from the molecular scale – lens crystallins, which originated from metabolic enzymes – to the macroscopic scale…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

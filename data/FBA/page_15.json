@@ -1,3 +1,4 @@
+[
 {
             "guid": "d91e5df1618ab6c95c25bbf1b947bd3d",
 "title": "Manipulating redox and ATP balancing for improved production of succinate in E. coli",
@@ -34,4 +35,335 @@
         }
 ]
 
+        }, {
+            "guid": "4c00cf71700f422175d33b651dbfbaa2",
+"title": "Construction and completion of fluxbalance models from pathway databases",
+"authors": [
+{
+            "name": "Mario Latendresse",
+"guid": "2298522305"
+        }, {
+            "name": "Markus Krummenacker",
+"guid": "2950304941"
+        }, {
+            "name": "Miles Trupp",
+"guid": "1826600037"
+        }, {
+            "name": "Peter D Karp",
+"guid": "2124303263"
         }
+]
+,
+"year": "2012",
+"journal": "· Bioinformatics",
+"cites": 108,
+"abstract": "Motivation: Flux balance analysis (FBA) is a well-known technique for genome-scale modeling of metabolic flux. Typically, an FBA formulation requires the accurate specification of four sets: biochemica…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Integer Programming",
+"guid": "56086750"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e5d907cde974d01d50f3db182b7324cb",
+"title": "Engineering Escherichia coli for methanol conversion",
+"authors": [
+{
+            "name": "Jonas E N Muller",
+"guid": "2117667754"
+        }, {
+            "name": "Fabian Meyer",
+"guid": "2115219134"
+        }, {
+            "name": "Boris Litsanov",
+"guid": "1980422129"
+        }, {
+            "name": "Patrick Kiefer",
+"guid": "2170165835"
+        }, {
+            "name": "Eva Potthoff",
+"guid": "1929178782"
+        }, {
+            "name": "Stephanie Heux",
+"guid": "2019100227"
+        }, {
+            "name": "Wi…",
+"guid": "211501029"
+        }
+]
+,
+"year": "2015",
+"journal": "· Metabolic Engineering",
+"cites": 108,
+"abstract": "Methylotrophic bacteria utilize methanol and other reduced one-carbon compounds as their sole source of carbon and energy. For this purpose, these bacteria evolved a number of specialized enzymes and path…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8be9d831c439e0f69407c1b778801f75",
+"title": "Fluxomics – connecting ‘omics analysis and phenotypes",
+"authors": [
+{
+            "name": "Gal Winter",
+"guid": "2208810906"
+        }, {
+            "name": "Jens O Kromer",
+"guid": "2278471398"
+        }
+]
+,
+"year": "2013",
+"journal": "· Environmental Microbiology",
+"cites": 107,
+"abstract": "In our modern 'omics era, metabolic fluxanalysis (fluxomics) represents the physiological counterpart of its siblings transcriptomics, proteomics and metabolomics. Fluxomics integrates in vivo measurements of …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d43c38249f7a9a9863538fa71b97f71",
+"title": "Parametric sensitivity of stoichiometric fluxbalance models applied to wild‐type Escherichia coli metabolism",
+"authors": [
+{
+            "name": "Amit H Varma",
+"guid": "2260932798"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "1995",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 107,
+"abstract": "Stoichiometrically based fluxbalance models provide a method to quantify the metabolic pathway fluxes within a living cell. Predictions of fluxbalance models are expected to have applications in pathway engi…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dcb177ea5d18de080d731e80c9b8d372",
+"title": "Further developments towards a genome-scale metabolic model of yeast",
+"authors": [
+{
+            "name": "Paul D Dobson",
+"guid": "2112914634"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Daniel Jameson",
+"guid": "2120848098"
+        }, {
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }, {
+            "name": "Karin Lanthaler",
+"guid": "156037502"
+        }, {
+            "name": "Pinar Pir",
+"guid": "1554389331"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 106,
+"abstract": "Background: To date, several genome-scale network reconstructions have been used to describe the metabolism of the yeast Saccharomyces cerevisiae, each differing in scope and content. The recent co…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4762b5a983974ccac076f4139c60b71e",
+"title": "Integrating cellular metabolism into a multiscale whole-body model.",
+"authors": [
+{
+            "name": "Markus Krauss",
+"guid": "2009753218"
+        }, {
+            "name": "Stephan Schaller",
+"guid": "2293632636"
+        }, {
+            "name": "Steffen Borchers",
+"guid": "2065135938"
+        }, {
+            "name": "Rolf Findeisen",
+"guid": "2027256048"
+        }, {
+            "name": "Jorg Lippert",
+"guid": "2129617283"
+        }, {
+            "name": "Lars Kuepfer",
+"guid": "129383052"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS Computational Biology",
+"cites": 106,
+"abstract": "Cellular metabolism continuously processes an enormous range of external compounds into endogenous metabolites and is as such a key element in human physiology. The multifaceted physiological role of th…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8ce500c410df07fa6016b70ba738b0e7",
+"title": "Antimalarial drug targets in Plasmodium falciparum predicted by stage-specific metabolic network analysis",
+"authors": [
+{
+            "name": "Carola Huthmacher",
+"guid": "2777113182"
+        }, {
+            "name": "Andreas Hoppe",
+"guid": "2029721110"
+        }, {
+            "name": "Sascha Bulik",
+"guid": "2054296574"
+        }, {
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 106,
+"abstract": "Background: Despite enormous efforts to combat malaria the disease still afflicts up to half a billion people each year of which more than one million die. Currently no approved vaccine is available and resistance…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Drug Development",
+"guid": "64903051"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5f5812700451dbee11b02388f678be78",
+"title": "Genome‐scale analysis of Saccharomyces cerevisiae metabolism and ethanol production in fed‐batch culture",
+"authors": [
+{
+            "name": "Jared L Hjersted",
+"guid": "1976019771"
+        }, {
+            "name": "Michael A Henson",
+"guid": "2283948593"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2007",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 106,
+"abstract": "A dynamic fluxbalance model based on a genome-scale metabolic network reconstruction is developed for in silico analysis of Saccharomyces cerevisiae metabolism and ethanol production in fed-batch cultur…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "55929b1625adcb1e20d94f76f08d7543",
+"title": "Sybil--efficient constraint-based modelling in R.",
+"authors": [
+{
+            "name": "Gabriel Geliusdietrich",
+"guid": "894561262"
+        }, {
+            "name": "Abdelmoneim Amer Desouki",
+"guid": "2346856092"
+        }, {
+            "name": "Claus Jonathan Fritzemeier",
+"guid": "2509285096"
+        }, {
+            "name": "Martin J Lercher",
+"guid": "277508283"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Systems Biology",
+"cites": 105,
+"abstract": "Background#R##N#Constraint-based analyses of metabolic networks are widely used to simulate the properties of genome-scale metabolic networks. Publicly available implementations tend to be slow, imp…",
+"keywords": [
+{
+            "word": "Implementation",
+"guid": "26713055"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

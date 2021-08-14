@@ -1,3 +1,4 @@
+[
 {
             "guid": "e9f41f9074102cb1202a033d3c675fce",
 "title": "Understanding the Adaptive Growth Strategy of Lactobacillus plantarum by In Silico Optimisation",
@@ -37,4 +38,329 @@
         }
 ]
 
+        }, {
+            "guid": "07e2132f9626c81f909757a067b5f5f3",
+"title": "Elimination of Thermodynamically Infeasible Loops in Steady-State Metabolic Models",
+"authors": [
+{
+            "name": "Jan Schellenberger",
+"guid": "2149846568"
+        }, {
+            "name": "Nathan E Lewis",
+"guid": "2157742992"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
         }
+]
+,
+"year": "2011",
+"journal": "· Biophysical Journal",
+"cites": 175,
+"abstract": "The constraint-based reconstruction and analysis (COBRA) framework has been widely used to study steady-state flux solutions in genome-scale metabolic networks. One shortcoming of current COBRA m…",
+"keywords": [
+{
+            "word": "Crystallography",
+"guid": "8010536"
+        }, {
+            "word": "Monte Carlo Method",
+"guid": "19499675"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c522a4ab891d8ee2ea8aa9eb4d817865",
+"title": "Including metabolite concentrations into flux balance analysis: thermodynamic realizability as a constraint on flux distributio…",
+"authors": [
+{
+            "name": "Andreas Hoppe",
+"guid": "2029721110"
+        }, {
+            "name": "Sabrina Hoffmann",
+"guid": "2156684554"
+        }, {
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
+        }
+]
+,
+"year": "2007",
+"journal": "· BMC Systems Biology",
+"cites": 175,
+"abstract": "Background#R##N#In recent years, constrained optimization – usually referred to as flux balance analysis (FBA) – has become a widely applied method for the computation of stationary fluxes in large-scale met…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d01bc8c9193d693770692315611025a9",
+"title": "The genome-scale metabolic model iIN800 of Saccharomyces cerevisiae and its validation: A scaffold to query lipid metaboli…",
+"authors": [
+{
+            "name": "Intawat Nookaew",
+"guid": "231832933"
+        }, {
+            "name": "Michael C Jewett",
+"guid": "2108973401"
+        }, {
+            "name": "Asawin Meechai",
+"guid": "2015782039"
+        }, {
+            "name": "Chinae Thammarongtham",
+"guid": "2041893153"
+        }, {
+            "name": "Kobkul Laoteng",
+"guid": "2310095191"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 173,
+"abstract": "Background: Up to now, there have been three published versions of a yeast genome-scale metabolic model: iFF708, iND750 and iLL672. All three models, however, lack a detailed description of lipid metab…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c0b67551c538dc07a2bfb12ef6cf2a39",
+"title": "Integration of clinical data with a genome‐scale metabolic model of the human adipocyte",
+"authors": [
+{
+            "name": "Adil Mardinoglu",
+"guid": "1964522928"
+        }, {
+            "name": "Rasmus Agren",
+"guid": "1912267410"
+        }, {
+            "name": "Caroline Kampf",
+"guid": "2168405180"
+        }, {
+            "name": "Anna Asplund",
+"guid": "2950563509"
+        }, {
+            "name": "Intawat Nookaew",
+"guid": "231832933"
+        }, {
+            "name": "Peter Jacobson",
+"guid": "2777507594"
+        }
+]
+,
+"year": "2013",
+"journal": "· Molecular Systems Biology",
+"cites": 170,
+"abstract": "We evaluated the presence\/absence of proteins encoded by 14 077 genes in adipocytes obtained from different tissue samples using immunohistochemistry. By combining this with previously published adipo…",
+"keywords": [
+{
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c70065474fcbb7d0e9b89c3c19681aca",
+"title": "Distributions of epistasis in microbes fit predictions from a fitness landscape model",
+"authors": [
+{
+            "name": "Guillaume Martin",
+"guid": "2290316317"
+        }, {
+            "name": "Santiago F Elena",
+"guid": "2121950706"
+        }, {
+            "name": "Thomas Lenormand",
+"guid": "290198714"
+        }
+]
+,
+"year": "2007",
+"journal": "· Nature Genetics",
+"cites": 169,
+"abstract": "How do the fitness effects of several mutations combine? Despite its simplicity, this question is central to the understanding of multilocus evolution. Epistasis (the interaction between alleles at different loci), esp…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Epistasis",
+"guid": "61727976"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8912c1fbdf41ec2e6128bf1af4ce5031",
+"title": "Large-scale identification of genetic design strategies using local search",
+"authors": [
+{
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }, {
+            "name": "Graham Rockwell",
+"guid": "2696643064"
+        }, {
+            "name": "Nicholas J Guido",
+"guid": "2594754677"
+        }, {
+            "name": "Michael H Baym",
+"guid": "2142784274"
+        }, {
+            "name": "Jonathan A Kelner",
+"guid": "1205259972"
+        }, {
+            "name": "Bonni…",
+"guid": "2315546843"
+        }
+]
+,
+"year": "2009",
+"journal": "· Molecular Systems Biology",
+"cites": 168,
+"abstract": "In the past decade, computational methods have been shown to be well suited to unraveling the complex web of metabolic reactions in biological systems. Methods based on flux–balance analysis (FBA) and bi …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Scalability",
+"guid": "48044578"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3897b297e27e80d1b427cc410aa8ddea",
+"title": "A multi-tissue type genome-scale metabolic network for analysis of whole-body systems physiology",
+"authors": [
+{
+            "name": "Aarash Bordbar",
+"guid": "2030499186"
+        }, {
+            "name": "Adam M Feist",
+"guid": "2061080551"
+        }, {
+            "name": "Renata Usaiteblack",
+"guid": "2185164703"
+        }, {
+            "name": "Joseph Woodcock",
+"guid": "2181851121"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Ima…",
+"guid": "2408740253"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 166,
+"abstract": "Genome-scale metabolic reconstructions provide a biologically meaningful mechanistic basis for the genotype-phenotype relationship. The global human metabolic network, termed Recon 1, has recently b…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Systems Medicine",
+"guid": "36415437"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cecf1b2d8f288dba85e920a443b03921",
+"title": "Advances in metabolic engineering of yeast Saccharomyces cerevisiae for production of chemicals",
+"authors": [
+{
+            "name": "Irina Borodina",
+"guid": "2059323156"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biotechnology Journal",
+"cites": 164,
+"abstract": "Yeast Saccharomyces cerevisiae is an important industrial host for production of enzymes, pharmaceutical and nutraceutical ingredients and recently also commodity chemicals and biofuels. Here…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Nutraceutical",
+"guid": "17857428"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c5a029ef990c23b5375538f742a4f38b",
+"title": "Stoichiometric model for evaluating the metabolic capabilities of the facultative methylotroph Methylobacterium extorquen…",
+"authors": [
+{
+            "name": "Stephen J Van Dien",
+"guid": "2303497964"
+        }, {
+            "name": "Mary E Lidstrom",
+"guid": "2183633200"
+        }
+]
+,
+"year": "2002",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 162,
+"abstract": "A stoichiometric model of central metabolism was developed based on new information regarding metabolism in this bacterium to evaluate the steady-state growth capabilities of the serine cycle facultati…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Phosphoenolpyruvate Carboxykinase",
+"guid": "143937172"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "3830b3e9acdf04c51f7024d9384c00ab",
 "title": "Iterative reconstruction of a global metabolic model of Acinetobacter baylyi ADP1 using high-throughput growth ph…",
@@ -40,4 +41,326 @@
         }
 ]
 
+        }, {
+            "guid": "b2b034befbcd6260bc0e44423d17f2f4",
+"title": "Metabolic Adaptation after Whole Genome Duplication",
+"authors": [
+{
+            "name": "Milan J A Van Hoek",
+"guid": "2336076700"
+        }, {
+            "name": "Paulien Hogeweg",
+"guid": "244447721"
         }
+]
+,
+"year": "2009",
+"journal": "· Molecular Biology and Evolution",
+"cites": 73,
+"abstract": "htmlabstractWhole genome duplications (WGDs) have been hypothesized to be responsible for major transitions in evolution. However,#R##N#the effects of WGD and subsequent gene loss on cellular beha…",
+"keywords": [
+{
+            "word": "Gene Duplication",
+"guid": "7602840"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "262e75b6f00701b154369dbc9657b8a3",
+"title": "Genome-scale modeling for metabolic engineering",
+"authors": [
+{
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }
+]
+,
+"year": "2015",
+"journal": "· Journal of Industrial Microbiology & Biotechnology",
+"cites": 72,
+"abstract": "We focus on the application of constraint-based methodologies and, more specifically, flux balance analysis in the field of metabolic engineering, and enumerate recent developments and successes of th…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "17a6de9ef4fd66913dd4546b751e07b6",
+"title": "The evolution of metabolic networks of E. coli",
+"authors": [
+{
+            "name": "David J Baumler",
+"guid": "2028729096"
+        }, {
+            "name": "Roman G Peplinski",
+"guid": "2268024194"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }, {
+            "name": "Jeremy D Glasner",
+"guid": "2022325681"
+        }, {
+            "name": "Nicole T Perna",
+"guid": "188375083"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 72,
+"abstract": "Background#R##N#Despite the availability of numerous complete genome sequences from E. coli strains, published genome-scale metabolic models exist only for two commensal E. coli strains. These models h…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b4e828a754cfef03b7f947c99d069fdd",
+"title": "Identification of distributed metabolic objectives in the hypermetabolic liver by flux and energy balance analysis.",
+"authors": [
+{
+            "name": "Ryan P Nolan",
+"guid": "2143177331"
+        }, {
+            "name": "Andrew P Fenley",
+"guid": "2274341720"
+        }, {
+            "name": "Kyongbum Lee",
+"guid": "2120960230"
+        }
+]
+,
+"year": "2006",
+"journal": "· Metabolic Engineering",
+"cites": 72,
+"abstract": "Abstract A methodology for inferring distributed metabolic objectives from time series flux data is developed by combining metabolic fluxanalysis, pathway identification, free energy balances, and neste…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Nonlinear Programming",
+"guid": "115527620"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "58c50866afef92ae16ea2eab93f4a889",
+"title": "Systematic development of hybrid cybernetic models: Application to recombinant yeast co‐consuming glucose and …",
+"authors": [
+{
+            "name": "Hyunseob Song",
+"guid": "2139895672"
+        }, {
+            "name": "John A Morgan",
+"guid": "2180064207"
+        }, {
+            "name": "Doraiswami Ramkrishna",
+"guid": "2009889351"
+        }
+]
+,
+"year": "2009",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 67,
+"abstract": "The hybrid cybernetic modeling approach of Kim et al. (Kim et al. [2008] Biotechnol. Prog. 24(5):993― 1006) views the substrate uptake flux in microorganisms as being distributed in a regulated way among …",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f903f4111d0544fe034bf362766f5a98",
+"title": "Computational identification of obligatorily autocatalytic replicators embedded in metabolic networks",
+"authors": [
+{
+            "name": "Adam Kun",
+"guid": "2117019648"
+        }, {
+            "name": "Balazs Papp",
+"guid": "2126101777"
+        }, {
+            "name": "Eors Szathmary",
+"guid": "1993716617"
+        }
+]
+,
+"year": "2008",
+"journal": "· Genome Biology",
+"cites": 66,
+"abstract": "Background: If chemical A is necessary for the synthesis of more chemical A, then A has the power of replication (such systems are known as autocatalytic systems). We provide the first systems-level analy…",
+"keywords": [
+{
+            "word": "Autocatalysis",
+"guid": "37263863"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b89c60418ba04ce4d96eb3e708adf366",
+"title": "Optimization of lipid production with a genome-scale model of Yarrowia lipolytica.",
+"authors": [
+{
+            "name": "Martin Kavscek",
+"guid": "778580101"
+        }, {
+            "name": "Govindprasad Bhutada",
+"guid": "2263855546"
+        }, {
+            "name": "Tobias Madl",
+"guid": "210693198"
+        }, {
+            "name": "Klaus Natter",
+"guid": "1990349659"
+        }
+]
+,
+"year": "2015",
+"journal": "· BMC Systems Biology",
+"cites": 66,
+"abstract": "Background#R##N#Yarrowia lipolytica is a non-conventional yeast that is extensively investigated for its ability to excrete citrate or to accumulate large amounts of storage lipids, which is of great significance f…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "38419c216b52afcc729f218744006284",
+"title": "Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production",
+"authors": [
+{
+            "name": "John Blazeck",
+"guid": "2023253744"
+        }, {
+            "name": "Jarrett Miller",
+"guid": "2471250716"
+        }, {
+            "name": "Anny Pan",
+"guid": "2147416466"
+        }, {
+            "name": "Jon Gengler",
+"guid": "2515496632"
+        }, {
+            "name": "Clinton Holden",
+"guid": "2404243472"
+        }, {
+            "name": "Mariam Jamoussi",
+"guid": "2027724135"
+        }, {
+            "name": "Hal S Alper",
+"guid": "2086221681"
+        }
+]
+,
+"year": "2014",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 65,
+"abstract": "Renewable alternatives for petroleum-derived chemicals are achievable through biosynthetic production. Here, we utilize Saccharomyces cerevisiae to enable the synthesis of itaconic acid, a molecule with dive…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c82044bf390300b61f4d283eedf196c4",
+"title": "Combined Noninvasive Imaging and Modeling Approaches Reveal Metabolic Compartmentation in the Barley Endosperm",
+"authors": [
+{
+            "name": "Hardy Rolletschek",
+"guid": "2147605892"
+        }, {
+            "name": "Gerd Melkus",
+"guid": "1966453904"
+        }, {
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Johannes Fuchs",
+"guid": "2115313929"
+        }, {
+            "name": "Nicolas Heinzel",
+"guid": "2029521678"
+        }, {
+            "name": "Falk Sch…",
+"guid": "2166292476"
+        }
+]
+,
+"year": "2011",
+"journal": "· The Plant Cell",
+"cites": 65,
+"abstract": "The starchy endosperm of cereals is a priori taken as a metabolically uniform tissue. By applying a noninvasive assay based on 13 C\/ 1 H-magnetic resonance imaging (MRI) to barley ( Hordeum vulgare …",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

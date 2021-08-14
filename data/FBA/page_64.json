@@ -1,3 +1,4 @@
+[
 {
             "guid": "46e0f569e99865e64c3b120a4ab7f142",
 "title": "Metabolic network modeling approaches for investigating the \"hungry cancer\".",
@@ -28,4 +29,350 @@
         }
 ]
 
+        }, {
+            "guid": "14dcb4944a59e1d1ae742100ef124241",
+"title": "Structural Analysis of Metabolic Networks based on Flux Centrality",
+"authors": [
+{
+            "name": "Dirk Koschutzki",
+"guid": "2979218954"
+        }, {
+            "name": "Bjorn H Junker",
+"guid": "2013242263"
+        }, {
+            "name": "Jorg Schwender",
+"guid": "2002373688"
+        }, {
+            "name": "Falk Schreiber",
+"guid": "2166292476"
         }
+]
+,
+"year": "2010",
+"journal": "· Journal of Theoretical Biology",
+"cites": 10,
+"abstract": "Abstract Metabolic reactions are fundamental to living organisms, and a large number of reactions simultaneously occur at a given time in living cells transforming diverse metabolites into each other. The…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Centrality",
+"guid": "53811970"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c1e443eb43f52c250e7508b5056bb1d6",
+"title": "Generalized derivatives of dynamic systems with a linear program embedded",
+"authors": [
+{
+            "name": "Kai Hoffner",
+"guid": "2023742012"
+        }, {
+            "name": "Kamil A Khan",
+"guid": "2117094288"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
+        }
+]
+,
+"year": "2016",
+"journal": "· Automatica",
+"cites": 10,
+"abstract": "Dynamic systems with a linear program (LP) embedded can be found in control and optimization of bioreactor models based on dynamic fluxbalanceanalysis (DFBA). Derivatives of the dynamic states wi…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "127fbe12bb3a469f55ccfb8d8478e7c4",
+"title": "Bioremediation in marine ecosystems: a computational study combining ecological modeling and fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Marianna Taffi",
+"guid": "1208991483"
+        }, {
+            "name": "Nicola Paoletti",
+"guid": "2037304730"
+        }, {
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Sandra Pucciarelli",
+"guid": "2138743664"
+        }, {
+            "name": "Mauro Marini",
+"guid": "2138753656"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Genetics",
+"cites": 10,
+"abstract": "The pressure to search effective bioremediation methodologies for contaminated ecosystems has led to the large-scale identification of microbial species and metabolic degradation pathways. However, minor …",
+"keywords": [
+{
+            "word": "Bioremediation",
+"guid": "2124996"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "21031793ed52121ac6438bab8364ca96",
+"title": "Integer Programming-Based Method for Designing Synthetic Metabolic Networks by Minimum Reaction Insertion in a Bool…",
+"authors": [
+{
+            "name": "Wei Lu",
+"guid": "2304482583"
+        }, {
+            "name": "Takeyuki Tamura",
+"guid": "2171727546"
+        }, {
+            "name": "Jiangning Song",
+"guid": "2151785084"
+        }, {
+            "name": "Tatsuya Akutsu",
+"guid": "699492180"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS ONE",
+"cites": 9,
+"abstract": "In this paper, we consider the Minimum Reaction Insertion (MRI) problem for finding the minimum number of additional reactions from a reference metabolic network to a host metabolic network so that a target c…",
+"keywords": [
+{
+            "word": "Integer",
+"guid": "4071166"
+        }, {
+            "word": "Feedback Vertex Set",
+"guid": "28723256"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1a3c9fa873d0ccfc8263cba8e96f2527",
+"title": "FluxExplorer： A general platform for modeling and analyses of metabolic networks based on stoichiometry",
+"authors": [
+{
+            "name": "Luo Ruoyu",
+"guid": "2598805172"
+        }, {
+            "name": "Liao Sha",
+"guid": "2509796742"
+        }, {
+            "name": "Zeng Shaoqun",
+"guid": "867197265"
+        }, {
+            "name": "L I Yixue",
+"guid": "2602156906"
+        }, {
+            "name": "Luo Qingming",
+"guid": "1977802990"
+        }
+]
+,
+"year": "2006",
+"journal": "· Science Bulletin",
+"cites": 9,
+"abstract": "Stoichiometry-based analyses of metabolic networks have aroused significant interest of systems biology researchers in recent years. It is necessary to develop a more convenient modeling platform on which u…",
+"keywords": [
+{
+            "word": "Markup Language",
+"guid": "45874996"
+        }, {
+            "word": "Climatology",
+"guid": "49204034"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "74b306ec9bd57f356bcbcd13eaf7545b",
+"title": "Generation and Validation of the iKp1289 Metabolic Model for Klebsiella pneumoniae KPPR1",
+"authors": [
+{
+            "name": "Christopher S Henry",
+"guid": "2129467050"
+        }, {
+            "name": "Ella Rotman",
+"guid": "2231360590"
+        }, {
+            "name": "Wyndham W Lathem",
+"guid": "2244421399"
+        }, {
+            "name": "Keith E J Tyo",
+"guid": "2013918135"
+        }, {
+            "name": "Alan R Hauser",
+"guid": "2102403402"
+        }, {
+            "name": "Mark J Ma…",
+"guid": "2120010342"
+        }
+]
+,
+"year": "2017",
+"journal": "· The Journal of Infectious Diseases",
+"cites": 9,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Microbiology",
+"guid": "89423630"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2eeebf6bb20c3b9e1b216bf29a518e29",
+"title": "An analytic approximation of the feasible space of metabolic networks",
+"authors": [
+{
+            "name": "Alfredo Braunstein",
+"guid": "2161967749"
+        }, {
+            "name": "Anna Paola Muntoni",
+"guid": "2557912986"
+        }, {
+            "name": "Andrea Pagnani",
+"guid": "2105032883"
+        }
+]
+,
+"year": "2017",
+"journal": "· Nature Communications",
+"cites": 9,
+"abstract": "Assuming a steady-state condition within a cell, metabolic fluxes satisfy an underdetermined linear system of stoichiometric equations. Characterizing the space of fluxes that satisfy such equations along with giv…",
+"keywords": [
+{
+            "word": "Linear System",
+"guid": "6802819"
+        }, {
+            "word": "Monte Carlo Method",
+"guid": "19499675"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f4cd8666a6f0da4899537c802fb8daff",
+"title": "Modeling and Simulation of Optimal Resource Management during the Diurnal Cycle in Emiliania huxleyi by Genome-Scal…",
+"authors": [
+{
+            "name": "David Knies",
+"guid": "2614997817"
+        }, {
+            "name": "Philipp Wittmus",
+"guid": "2714994279"
+        }, {
+            "name": "Sebastian Appel",
+"guid": "2687406576"
+        }, {
+            "name": "Oliver Sawodny",
+"guid": "2199952412"
+        }, {
+            "name": "Michael Ederer",
+"guid": "2058357670"
+        }, {
+            "name": "Ronny Feuer",
+"guid": "2018496597"
+        }
+]
+,
+"year": "2015",
+"journal": "· Metabolites",
+"cites": 9,
+"abstract": "The coccolithophorid unicellular alga Emiliania huxleyi is known to form large blooms, which have a strong effect on the marine carbon cycle. As a photosynthetic organism, it is subjected to a circadian rhythm du…",
+"keywords": [
+{
+            "word": "Carbon Cycle",
+"guid": "6939412"
+        }, {
+            "word": "Resource Management",
+"guid": "9765861"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "366fb95c6edb712333a23ffdf41b6bcc",
+"title": "Integrating Kinetic Model of E. coli with Genome Scale Metabolic Fluxes Overcomes Its Open System Problem and R…",
+"authors": [
+{
+            "name": "Ahmad A Mannan",
+"guid": "2921420701"
+        }, {
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Kazuyuki Shimizu",
+"guid": "2533213921"
+        }, {
+            "name": "Johnjoe Mcfadden",
+"guid": "2251044004"
+        }, {
+            "name": "Andrzej M Kierzek",
+"guid": "248477088"
+        }, {
+            "name": "Andr…",
+"guid": "2166476799"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 9,
+"abstract": "An understanding of the dynamics of the metabolic profile of a bacterial cell is sought from a dynamical systems analysis of kinetic models. This modelling formalism relies on a deterministic mathematical des…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "c9ebf07ea7b4fc7f09ce35a8a4a00644",
 "title": "Fast-SL: an efficient algorithm to identify synthetic lethal sets in metabolic networks",
@@ -31,4 +32,347 @@
         }
 ]
 
+        }, {
+            "guid": "9ec5a3fb386b9025079270c07b08ce43",
+"title": "Improved evidence-based genome-scale metabolic models for maize leaf, embryo, and endosperm.",
+"authors": [
+{
+            "name": "Samuel M D Seaver",
+"guid": "2034033404"
+        }, {
+            "name": "Louis M T Bradbury",
+"guid": "2106185229"
+        }, {
+            "name": "Oceane Frelin",
+"guid": "1584275015"
+        }, {
+            "name": "Raphy Zarecki",
+"guid": "323059626"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }, {
+            "name": "Andrew D …",
+"guid": "2126668887"
         }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Plant Science",
+"cites": 24,
+"abstract": "There is a growing demand for genome-scale metabolic reconstructions for plants, fueled by the need to understand the metabolic basis of crop yield and by progress in genome and transcriptome sequencing…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2dbd30fd8ad933659e56a16e6736f00f",
+"title": "Bayesian fluxbalanceanalysis applied to a skeletal muscle metabolic model",
+"authors": [
+{
+            "name": "Jenni Heino",
+"guid": "2303859154"
+        }, {
+            "name": "Knarik Tunyan",
+"guid": "2323777466"
+        }, {
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2007",
+"journal": "· Journal of Theoretical Biology",
+"cites": 23,
+"abstract": "In this article, the steady state condition for the multi-compartment models for cellular metabolism is considered. The problem is to estimate the reaction and transport fluxes, as well as the concentrations i…",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "31d5375cb3b3471e04b8a9b6ca65dad3",
+"title": "Metabolic FluxAnalysis and Visualization",
+"authors": [
+{
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Nobuaki Kono",
+"guid": "2001722450"
+        }, {
+            "name": "Kazuharu Arakawa",
+"guid": "2053280457"
+        }, {
+            "name": "Masaru Tomita",
+"guid": "1967615850"
+        }
+]
+,
+"year": "2011",
+"journal": "· Journal of Proteome Research",
+"cites": 23,
+"abstract": "One of the ultimate goals of systems biology research is to obtain a comprehensive understanding of the control mechanisms of complex cellular metabolisms. Metabolic FluxAnalysis (MFA) is a important met…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d890217cada2f6eab5fca2118021b6a9",
+"title": "Rerouting of carbon flux in a glycogen mutant of cyanobacteria assessed via isotopically non-stationary 13C metabolic fluxan…",
+"authors": [
+{
+            "name": "John I Hendry",
+"guid": "2580813152"
+        }, {
+            "name": "Charulata B Prasannan",
+"guid": "2582486081"
+        }, {
+            "name": "Fangfang Ma",
+"guid": "2183801992"
+        }, {
+            "name": "K Benedikt Mollers",
+"guid": "2787870621"
+        }, {
+            "name": "Damini Jaiswal",
+"guid": "2624642607"
+        }, {
+            "name": "Madhuri …",
+"guid": "2517370618"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 23,
+"abstract": "Cyanobacteria, which constitute a quantitatively dominant phylum, are well known for their ability to carry out oxygenic photosynthesis. This prokaryotic group has attracted attention in biofuel applications due t…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "78f52b512f613b9ef54b055fb8d63edc",
+"title": "iAK692: A genome-scale metabolic model of Spirulina platensis C1",
+"authors": [
+{
+            "name": "Amornpan Klanchui",
+"guid": "2603333752"
+        }, {
+            "name": "Chiraphan Khannapho",
+"guid": "2580636783"
+        }, {
+            "name": "Atchara Phodee",
+"guid": "2274688358"
+        }, {
+            "name": "Supapon Cheevadhanarak",
+"guid": "1784758818"
+        }, {
+            "name": "Asawin M…",
+"guid": "2015782039"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 23,
+"abstract": "Background#R##N#Spirulina (Arthrospira) platensis is a well-known filamentous cyanobacterium used in the production of many industrial products, including high value compounds, healthy food supplements, …",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1bcb753483f06ec0e8a54a111b2a5c23",
+"title": "Comparative genome‐scale metabolic modeling of actinomycetes: The topology of essential core metabolism",
+"authors": [
+{
+            "name": "Mohammad Tauqeer Alam",
+"guid": "2810412632"
+        }, {
+            "name": "Marnix H Medema",
+"guid": "2630647180"
+        }, {
+            "name": "Eriko Takano",
+"guid": "2026558465"
+        }, {
+            "name": "Rainer Breitling",
+"guid": "1984847219"
+        }
+]
+,
+"year": "2011",
+"journal": "· FEBS Letters",
+"cites": 23,
+"abstract": "Actinomycetes are highly important bacteria. On one hand, some of them cause severe human and plant diseases, on the other hand, many species are known for their ability to produce antibiotics. Here we re…",
+"keywords": [
+{
+            "word": "Gene Knockout",
+"guid": "77957584"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "be0e5bb36a26167759c1a8859e0b4310",
+"title": "A method of accounting for enzyme costs in fluxbalanceanalysis reveals alternative pathways and metabolite stores in …",
+"authors": [
+{
+            "name": "C Y Maurice Cheung",
+"guid": "2508862988"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }
+]
+,
+"year": "2015",
+"journal": "· Plant Physiology",
+"cites": 23,
+"abstract": "Fluxbalanceanalysis of plant metabolism is an established method for predicting metabolic flux phenotypes and for exploring the way in which the plant metabolic network delivers specific outcomes i…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c39adadc18e2a318f0593bf9ef192bbb",
+"title": "Inferring Carbon Sources from Gene Expression Profiles Using Metabolic Flux Models",
+"authors": [
+{
+            "name": "Aaron Brandes",
+"guid": "2009085939"
+        }, {
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }, {
+            "name": "Kuhn Ip",
+"guid": "2105311055"
+        }, {
+            "name": "Jeremy Zucker",
+"guid": "2016435121"
+        }, {
+            "name": "Caroline Colijn",
+"guid": "1975765587"
+        }, {
+            "name": "Brian Weiner",
+"guid": "2155951408"
+        }, {
+            "name": "James E …",
+"guid": "1987260672"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS ONE",
+"cites": 23,
+"abstract": "Background#R##N#Bacteria have evolved the ability to efficiently and resourcefully adapt to changing environments. A key means by which they optimize their use of available nutrients is through adjustment…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0762d19c0821df9981bb32e5be5836e7",
+"title": "Dynamic fluxbalanceanalysis of the metabolism of Saccharomyces cerevisiae during the shift from fully respirativ…",
+"authors": [
+{
+            "name": "Paula Jouhten",
+"guid": "117753723"
+        }, {
+            "name": "Marilyn G Wiebe",
+"guid": "2599689274"
+        }, {
+            "name": "Merja Penttila",
+"guid": "1974556113"
+        }
+]
+,
+"year": "2012",
+"journal": "· FEBS Journal",
+"cites": 23,
+"abstract": "Dynamic fluxbalanceanalysis was utilized to simulate the metabolic behaviour of initially fully respirative and respirofermentative steady-state cultures of Saccharomyces cerevisiae during sudden oxygen depl…",
+"keywords": [
+{
+            "word": "Anabolism",
+"guid": "1008401"
+        }, {
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

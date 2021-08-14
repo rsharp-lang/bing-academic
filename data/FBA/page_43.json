@@ -1,3 +1,4 @@
+[
 {
             "guid": "64558b0276ab4c70a26cae1575b3de39",
 "title": "Generation and Evaluation of a Genome-Scale Metabolic Network Model of Synechococcus elongatus PCC7942",
@@ -37,4 +38,323 @@
         }
 ]
 
+        }, {
+            "guid": "cf816d4f5d84439236810583974310bd",
+"title": "Modeling Neisseria meningitidis B metabolism at different specific growth rates",
+"authors": [
+{
+            "name": "Gino J E Baart",
+"guid": "2096950767"
+        }, {
+            "name": "Marieke Willemsen",
+"guid": "2582449731"
+        }, {
+            "name": "Elnaz Khatami",
+"guid": "2235687171"
+        }, {
+            "name": "Alex De Haan",
+"guid": "2980591554"
+        }, {
+            "name": "Bert Zomer",
+"guid": "2035105625"
+        }, {
+            "name": "E Coen Beuvery",
+"guid": "2496283347"
         }
+]
+,
+"year": "2008",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 22,
+"abstract": "Neisseria meningitidis is a human pathogen that can infect diverse sites within the human host. The major diseases caused by N. meningitidis are responsible for death and disability, especially in young infants. …",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "96ad5bbb750209085fcd7fca2dbd3542",
+"title": "Steady-state global optimization of metabolic non-linear dynamic models through recasting into power-law canonical …",
+"authors": [
+{
+            "name": "Carlos Pozo",
+"guid": "2571626932"
+        }, {
+            "name": "Alberto Marinsanguino",
+"guid": "1438369916"
+        }, {
+            "name": "Rui Alves",
+"guid": "2186426929"
+        }, {
+            "name": "Gonzalo Guillengosalbez",
+"guid": "341125757"
+        }, {
+            "name": "Laureano Jimenez",
+"guid": "2139201549"
+        }, {
+            "name": "Alber…",
+"guid": "2211096103"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 22,
+"abstract": "Background#R##N#Design of newly engineered microbial strains for biotechnological purposes would greatly benefit from the development of realistic mathematical models for the processes to be optimized…",
+"keywords": [
+{
+            "word": "Formalism (philosophy)",
+"guid": "38706069"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "028192add7e3af69113732627c22feab",
+"title": "Integrated analysis of gene expression and metabolic fluxes in PHA-producing Pseudomonas putida grown on glycerol.",
+"authors": [
+{
+            "name": "Veronique Beckers",
+"guid": "2213707594"
+        }, {
+            "name": "Ignacio Pobletecastro",
+"guid": "1457705453"
+        }, {
+            "name": "Jurgen Tomasch",
+"guid": "2036778198"
+        }, {
+            "name": "Christoph Wittmann",
+"guid": "1973377886"
+        }
+]
+,
+"year": "2016",
+"journal": "· Microbial Cell Factories",
+"cites": 22,
+"abstract": "Given its high surplus and low cost, glycerol has emerged as interesting carbon substrate for the synthesis of value-added chemicals. The soil bacterium Pseudomonas putida KT2440 can use glycerol to synthesi…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f08f95c95398a958f80662ee47552c41",
+"title": "Using Flux BalanceAnalysis to Guide Microbial Metabolic Engineering",
+"authors": [
+{
+            "name": "Kathleen A Curran",
+"guid": "2170752459"
+        }, {
+            "name": "Nathan Crook",
+"guid": "2099919250"
+        }, {
+            "name": "Hal S Alper",
+"guid": "2086221681"
+        }
+]
+,
+"year": "2012",
+"journal": "· Methods of Molecular Biology",
+"cites": 21,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dd73283690ad3d73f1608c33a033a577",
+"title": "Flux analysis in plant metabolic networks: increasing throughput and coverage.",
+"authors": [
+{
+            "name": "Bjorn H Junker",
+"guid": "2013242263"
+        }
+]
+,
+"year": "2014",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 21,
+"abstract": "Quantitative information about metabolic networks has been mainly obtained at the level of metabolite contents, transcript abundance, and enzyme activities. However, the active process of metabolism is re…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "776001a465b2773d15740f3b6a4f6bb6",
+"title": "Statistical analysis of metabolic pathways of brain metabolism at steady state.",
+"authors": [
+{
+            "name": "Rossana Occhipinti",
+"guid": "2496452288"
+        }, {
+            "name": "Michelle Puchowicz",
+"guid": "2059622566"
+        }, {
+            "name": "Joseph C Lamanna",
+"guid": "2114933988"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }, {
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }
+]
+,
+"year": "2007",
+"journal": "· Annals of Biomedical Engineering",
+"cites": 21,
+"abstract": "The estimation of metabolic fluxes for brain metabolism is important, among other things, to test the validity of different hypotheses which have been proposed in the literature. The metabolic model that w…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f15f51f8457f4bead40fa3a2f88f2700",
+"title": "An in silico platform for the design of heterologous pathways in nonnative metabolite production.",
+"authors": [
+{
+            "name": "Sunisa Chatsurachai",
+"guid": "2096382813"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Bioinformatics",
+"cites": 21,
+"abstract": "Background#R##N#Microorganisms are used as cell factories to produce valuable compounds in pharmaceuticals, biofuels, and other industrial processes. Incorporating heterologous metabolic pathwa…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ee73cbcc2faba724814ca2f82318353b",
+"title": "Genome scale metabolic modeling of cancer",
+"authors": [
+{
+            "name": "Avlant Nilsson",
+"guid": "2236472588"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2017",
+"journal": "· Metabolic Engineering",
+"cites": 21,
+"abstract": "Cancer cells reprogram metabolism to support rapid proliferation and survival. Energy metabolism is particularly important for growth and genes encoding enzymes involved in energy metabolism are frequ…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bdcd3aed991eff808e766e9ebd04af7d",
+"title": "A systems-level approach for investigating Pseudomonas aeruginosa biofilm formation.",
+"authors": [
+{
+            "name": "Zhaobin Xu",
+"guid": "2172197438"
+        }, {
+            "name": "Xin Fang",
+"guid": "2312083529"
+        }, {
+            "name": "Thomas K Wood",
+"guid": "2132439325"
+        }, {
+            "name": "Zuyi Jacky Huang",
+"guid": "2341552624"
+        }
+]
+,
+"year": "2013",
+"journal": "· PLOS ONE",
+"cites": 21,
+"abstract": "Prevention of the initiation of biofilm formation is the most important step for combating biofilm-associated pathogens, as the ability of pathogens to resist antibiotics is enhanced 10 to 1000 times once biofilms ar…",
+"keywords": [
+{
+            "word": "Biofilm",
+"guid": "58123911"
+        }, {
+            "word": "Virulence",
+"guid": "60987743"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

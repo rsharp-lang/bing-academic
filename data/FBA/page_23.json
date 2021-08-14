@@ -1,3 +1,4 @@
+[
 {
             "guid": "167bf9dc58d3eef0314746a3cdfc6e5e",
 "title": "Genome-scale metabolic model for Lactococcus lactis MG1363 and its application to the analysis of flavor formation",
@@ -40,4 +41,335 @@
         }
 ]
 
+        }, {
+            "guid": "4dbb7c93073baff6a93fa1206b2401d7",
+"title": "Metabolic Trade-offs in Yeast are Caused by F1F0-ATP synthase.",
+"authors": [
+{
+            "name": "Avlant Nilsson",
+"guid": "2236472588"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
         }
+]
+,
+"year": "2016",
+"journal": "· Scientific Reports",
+"cites": 64,
+"abstract": "Intermediary metabolism provides living cells with free energy and precursor metabolites required for synthesizing proteins, lipids, RNA and other cellular constituents, and it is highly conserved among livin…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "478ea44cdf289552e0e8525d25768d16",
+"title": "Constrained Allocation Flux Balance Analysis.",
+"authors": [
+{
+            "name": "Matteo Mori",
+"guid": "2138186571"
+        }, {
+            "name": "Terence Hwa",
+"guid": "2274545621"
+        }, {
+            "name": "Olivier C Martin",
+"guid": "2718540925"
+        }, {
+            "name": "Andrea De Martino",
+"guid": "2342997241"
+        }, {
+            "name": "Enzo Marinari",
+"guid": "2686679001"
+        }
+]
+,
+"year": "2016",
+"journal": "· PLOS Computational Biology",
+"cites": 62,
+"abstract": "New experimental results on bacterial growth inspire a novel top-down approach to study cell metabolism, combining mass balance and proteomic constraints to extend and complement Flux Balance Analysis. …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "693bad282c90704ab0cf5739f426edb2",
+"title": "Dynamic 13C\/1H NMR imaging uncovers sugar allocation in the living seed",
+"authors": [
+{
+            "name": "Gerd Melkus",
+"guid": "1966453904"
+        }, {
+            "name": "Hardy Rolletschek",
+"guid": "2147605892"
+        }, {
+            "name": "Johannes Fuchs",
+"guid": "2115313929"
+        }, {
+            "name": "Volodymyr Radchuk",
+"guid": "1602428192"
+        }, {
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Nes…",
+"guid": "1965861723"
+        }
+]
+,
+"year": "2011",
+"journal": "· Plant Biotechnology Journal",
+"cites": 62,
+"abstract": "Summary Seed growth and accumulation of storage products relies on the delivery of sucrose from the maternal to the filial tissues. The transport route is hidden inside the seed and has never been visualize…",
+"keywords": [
+{
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "73998cbd34ec77291dcf119ae3127d8d",
+"title": "Genome-based Metabolic Mapping and 13C FluxAnalysis Reveal Systematic Properties of an Oleaginous Microalga Chl…",
+"authors": [
+{
+            "name": "Chao Wu",
+"guid": "2633597369"
+        }, {
+            "name": "Wei Xiong",
+"guid": "2599686775"
+        }, {
+            "name": "Junbiao Dai",
+"guid": "2161426835"
+        }, {
+            "name": "Qingyu Wu",
+"guid": "2154313903"
+        }
+]
+,
+"year": "2015",
+"journal": "· Plant Physiology",
+"cites": 61,
+"abstract": "Integrated and genome-based flux balance analysis, metabolomics, and 13C-label profiling of phototrophic and heterotrophic metabolism in Chlorella protothecoides, an oleaginous green alga for biofuel. The gre…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "806fa68af3ebef2540cddefe020183d4",
+"title": "A procedure for the estimation over time of metabolic fluxes in scenarios where measurements are uncertain and\/or insufficie…",
+"authors": [
+{
+            "name": "Francisco Llaneras",
+"guid": "232298328"
+        }, {
+            "name": "Jesus Pico",
+"guid": "2296036715"
+        }
+]
+,
+"year": "2007",
+"journal": "· BMC Bioinformatics",
+"cites": 60,
+"abstract": "Background#R##N#An indirect approach is usually used to estimate the metabolic fluxes of an organism: couple the available measurements with known biological constraints (e.g. stoichiometry). Typically this …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "179aabe6094f922e0fd40574a13d19be",
+"title": "Elucidating dynamic metabolic physiology through network integration of quantitative time-course metabolomics",
+"authors": [
+{
+            "name": "Aarash Bordbar",
+"guid": "2030499186"
+        }, {
+            "name": "James T Yurkovich",
+"guid": "2206551669"
+        }, {
+            "name": "Giuseppe Paglia",
+"guid": "2248584067"
+        }, {
+            "name": "Ottar Rolfsson",
+"guid": "322423335"
+        }, {
+            "name": "Olafur E Sigurjonsson",
+"guid": "2264120485"
+        }, {
+            "name": "Bern…",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2017",
+"journal": "· Scientific Reports",
+"cites": 59,
+"abstract": "The increasing availability of metabolomics data necessitates novel methods for deeper data analysis and interpretation. We present a flux balance analysis method that allows for the computation of dynamic intr…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Isotopic Labeling",
+"guid": "36674120"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9f0e45821b54294409ee6183ac882664",
+"title": "Absolute Quantification of Protein and mRNA Abundances Demonstrate Variability in Gene-Specific Translation Efficienc…",
+"authors": [
+{
+            "name": "Petrijaan Lahtvee",
+"guid": "2419794307"
+        }, {
+            "name": "Benjamin J Sanchez",
+"guid": "2195132659"
+        }, {
+            "name": "Agata Smialowska",
+"guid": "2606777327"
+        }, {
+            "name": "Sergo Kasvandik",
+"guid": "198558749"
+        }, {
+            "name": "Ibrahim E Elsemman",
+"guid": "2571526500"
+        }
+]
+,
+"year": "2017",
+"journal": "· Cell systems",
+"cites": 57,
+"abstract": "Protein synthesis is the most energy-consuming process in a proliferating cell, and understanding what controls protein abundances represents a key question in biology and biotechnology. We quantified abs…",
+"keywords": [
+{
+            "word": "Protein Biosynthesis",
+"guid": "3675279"
+        }, {
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8e89c12bc7305748003f2f1bbb3f1051",
+"title": "BacArena: Individual-based metabolic modeling of heterogeneous microbes in complex communities.",
+"authors": [
+{
+            "name": "Eugen Bauer",
+"guid": "2159441300"
+        }, {
+            "name": "Johannes Zimmermann",
+"guid": "2705612904"
+        }, {
+            "name": "Federico Baldini",
+"guid": "2620059712"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Christoph Kaleta",
+"guid": "74203850"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS Computational Biology",
+"cites": 49,
+"abstract": "Recent advances focusing on the metabolic interactions within and between cellular populations have emphasized the importance of microbial communities for human health. Constraint-based modeling, wit…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4ae79d75c89a2d50d408805d26a7c343",
+"title": "Genome-scale reconstruction of metabolic network for a halophilic extremophile, Chromohalobacter salexigens DSM 3…",
+"authors": [
+{
+            "name": "Ozlem Ates",
+"guid": "2311249783"
+        }, {
+            "name": "Ebru Toksoy Oner",
+"guid": "731664939"
+        }, {
+            "name": "Kazim Yalcin Arga",
+"guid": "240759061"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 49,
+"abstract": "Chromohalobacter salexigens (formerly Halomonas elongata DSM 3043) is a halophilic extremophile with a very broad salinity range and is used as a model organism to elucidate prokaryotic osmoadaptation du…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "eed452f6f05a9c4a59ff6605bfcd8914",
 "title": "The Biomass Objective Function",
@@ -28,4 +29,323 @@
         }
 ]
 
+        }, {
+            "guid": "38ef5fe51c06a3b3b8665f4dac8e860a",
+"title": "Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli",
+"authors": [
+{
+            "name": "Hal S Alper",
+"guid": "2086221681"
+        }, {
+            "name": "Yongsu Jin",
+"guid": "2147923674"
+        }, {
+            "name": "Joel F Moxley",
+"guid": "2630990137"
+        }, {
+            "name": "Gregory Stephanopoulos",
+"guid": "682994428"
         }
+]
+,
+"year": "2005",
+"journal": "· Metabolic Engineering",
+"cites": 486,
+"abstract": "Abstract The identification of genetic targets that are effective in bringing about a desired phenotype change is still an open problem. While random gene knockouts have yielded improved strains in certain …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "26dc69846a6a27b6c36d1648fb9cde06",
+"title": "Regulatory on\/off minimization of metabolic flux changes after genetic perturbations",
+"authors": [
+{
+            "name": "Tomer Shlomi",
+"guid": "172881847"
+        }, {
+            "name": "Omer Berkman",
+"guid": "2488723072"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }
+]
+,
+"year": "2005",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 484,
+"abstract": "Predicting the metabolic state of an organism after a gene knockout is a challenging task, because the regulatory system governs a series of transient metabolic changes that converge to a steady-state condi…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "32772872eaa95176d928a7d68cb37b12",
+"title": "Adaptive evolution of bacterial metabolic networks by horizontal gene transfer",
+"authors": [
+{
+            "name": "Csaba Pal",
+"guid": "2130121867"
+        }, {
+            "name": "Balazs Papp",
+"guid": "2126101777"
+        }, {
+            "name": "Martin J Lercher",
+"guid": "277508283"
+        }
+]
+,
+"year": "2005",
+"journal": "· Nature Genetics",
+"cites": 483,
+"abstract": "Numerous studies have considered the emergence of metabolic pathways1, but the modes of recent evolution of metabolic networks are poorly understood. Here, we integrate comparative genomics with fl…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d23168bd701bdd198a4fad010679924f",
+"title": "Energy balance for analysis of complex metabolic networks",
+"authors": [
+{
+            "name": "Daniel A Beard",
+"guid": "2135719953"
+        }, {
+            "name": "Shoudan Liang",
+"guid": "2122884690"
+        }, {
+            "name": "Hong Qian",
+"guid": "2139598642"
+        }
+]
+,
+"year": "2002",
+"journal": "· Biophysical Journal",
+"cites": 455,
+"abstract": "Predicting behavior of large-scale biochemical networks represents one of the greatest challenges of bioinformatics and computational biology. Computational tools for predicting fluxes in biochemical netwo…",
+"keywords": [
+{
+            "word": "Laws of Thermodynamics",
+"guid": "18815010"
+        }, {
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "789b4d49ecb7e0475b1a18096a125e41",
+"title": "Flux Coupling Analysis of Genome-Scale Metabolic Network Reconstructions",
+"authors": [
+{
+            "name": "Anthony P Burgard",
+"guid": "2763851512"
+        }, {
+            "name": "Evgeni V Nikolaev",
+"guid": "2480100620"
+        }, {
+            "name": "Christophe H Schilling",
+"guid": "2159110332"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2004",
+"journal": "· Genome Research",
+"cites": 443,
+"abstract": "An overarching attribute of metabolic networks is their inherent robustness and ability to cope with ever-changing environmental conditions. Despite this flexibility, network stoichiometry and connectivity do est…",
+"keywords": [
+{
+            "word": "Linear Combination",
+"guid": "9260844"
+        }, {
+            "word": "Convex Analysis",
+"guid": "12108790"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e67120a9ac876c3474c2a487cf7aec24",
+"title": "Genome-Scale Metabolic Model of Helicobacter pylori 26695",
+"authors": [
+{
+            "name": "Christophe H Schilling",
+"guid": "2159110332"
+        }, {
+            "name": "Markus W Covert",
+"guid": "1748710400"
+        }, {
+            "name": "Iman Famili",
+"guid": "2408740253"
+        }, {
+            "name": "George M Church",
+"guid": "2111535815"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Bern…",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2002",
+"journal": "· Journal of Bacteriology",
+"cites": 433,
+"abstract": "A genome-scale metabolic model of Helicobacter pylori 26695 was constructed from genome sequence annotation, biochemical, and physiological data. This represents an in silico model largely derived from …",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "Open Reading Frame",
+"guid": "47289529"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6235fd46a34f13dc22345cdd8eaf6dab",
+"title": "Connecting extracellular metabolomic measurements to intracellular flux states in yeast",
+"authors": [
+{
+            "name": "Monica L Mo",
+"guid": "2142724337"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Markus J Herrgard",
+"guid": "1772558778"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 416,
+"abstract": "Background#R##N#Metabolomics has emerged as a powerful tool in the quantitative identification of physiological and disease-induced biological states. Extracellular metabolome or metabolic profiling dat…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4dda1ee66e9f9c8199146178a0a7b4fd",
+"title": "Omic data from evolved E. coli are consistent with computed optimal growth from genome‐scale models",
+"authors": [
+{
+            "name": "Nathan E Lewis",
+"guid": "2157742992"
+        }, {
+            "name": "Kim K Hixson",
+"guid": "2047209688"
+        }, {
+            "name": "Tom M Conrad",
+"guid": "2127070151"
+        }, {
+            "name": "Joshua A Lerman",
+"guid": "2072803459"
+        }, {
+            "name": "Pep Charusanti",
+"guid": "868280607"
+        }, {
+            "name": "Ashoka D Polpi…",
+"guid": "2468091450"
+        }
+]
+,
+"year": "2010",
+"journal": "· Molecular Systems Biology",
+"cites": 415,
+"abstract": "After hundreds of generations of adaptive evolution at exponential growth, Escherichia coli grows as predicted using flux balance analysis (FBA) on genome-scale metabolic models (GEMs). However, it is …",
+"keywords": [
+{
+            "word": "Stringent Response",
+"guid": "26628138"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "462fd54120615c089465cb27ddcf0f3f",
+"title": "Flux balance analysis of primary metabolism in Chlamydomonas reinhardtii",
+"authors": [
+{
+            "name": "Nanette R Boyle",
+"guid": "2136719151"
+        }, {
+            "name": "John A Morgan",
+"guid": "2180064207"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 373,
+"abstract": "Background#R##N#Photosynthetic organisms convert atmospheric carbon dioxide into numerous metabolites along the pathways to make new biomass. Aquatic photosynthetic organisms, which fix alm…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

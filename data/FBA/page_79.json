@@ -1,3 +1,4 @@
+[
 {
             "guid": "cc4d2a394d4d9276b20fa9db16fc7318",
 "title": "Epistatic interactions among metabolic genes depend upon environmental conditions",
@@ -28,4 +29,302 @@
         }
 ]
 
+        }, {
+            "guid": "0ac263ca768de2b2239b1fc02e0016bc",
+"title": "Effect of Alternate Energy Substrates on Mammalian Brain Metabolism During Ischemic Events",
+"authors": [
+{
+            "name": "S S Koppaka",
+"guid": "2837229701"
+        }, {
+            "name": "Michelle Puchowicz",
+"guid": "2059622566"
+        }, {
+            "name": "Joseph C Lamanna",
+"guid": "2114933988"
+        }, {
+            "name": "J E Gatica",
+"guid": "2660917260"
         }
+]
+,
+"year": "2008",
+"journal": "· Advances in Experimental Medicine and Biology",
+"cites": 5,
+"abstract": "Regulation of brain metabolism and cerebral blood flow involves complex control systems with several interacting variables at both cellular and organ levels. Quantitative understanding of the spatially and te…",
+"keywords": [
+{
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Ketone Bodies",
+"guid": "31532488"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9cd547f814957e9307b5cf18f216ed20",
+"title": "Parametric studies of metabolic cooperativity in Escherichia coli colonies: Strain and geometric confinement effects",
+"authors": [
+{
+            "name": "Joseph R Peterson",
+"guid": "2118986213"
+        }, {
+            "name": "John A Cole",
+"guid": "2146265515"
+        }, {
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS ONE",
+"cites": 5,
+"abstract": "Characterizing the complex spatial and temporal interactions among cells in a biological system (i.e. bacterial colony, microbiome, tissue, etc.) remains a challenge. Metabolic cooperativity in these system…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3e88b5f8b6b01393eb236fb047948c6e",
+"title": "Constraint-based modeling and simulation of cell populations",
+"authors": [
+{
+            "name": "Marzia Di Filippo",
+"guid": "2555707555"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Giancarlo Mauri",
+"guid": "2102122772"
+        }
+]
+,
+"year": "2016",
+"journal": "· workshop artificial life and evolutionary computation",
+"cites": 5,
+"abstract": "The intratumor heterogeneity has been recognized to characterize cancer cells impairing the efficacy of cancer treatments. We here propose an extension of constraint-based modeling approach in order to si…",
+"keywords": [
+{
+            "word": "Population Model",
+"guid": "52079815"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "24ecbee23b0ada79e60f889868c8ca5f",
+"title": "Photosensitivity in Smith-Lemli-Opitz syndrome: a fluxbalanceanalysis of altered metabolism.",
+"authors": [
+{
+            "name": "Bell Raj Eapen",
+"guid": "2780905550"
+        }
+]
+,
+"year": "2007",
+"journal": "· Bioinformation",
+"cites": 5,
+"abstract": "Ultraviolet A photosensitivity is a debilitating symptom associated with the metabolic disorder Smith-Lemli-Opitz syndrome (SLOS). SLOS is a manifestation of the deficiency of 7-dehydrocholesterol reductase, a…",
+"keywords": [
+{
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Medicine",
+"guid": "71924100"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b4a807766f931fb986a25d159b74ee41",
+"title": "Robust fluxbalanceanalysis of metabolic networks",
+"authors": [
+{
+            "name": "Michael M Zavlanos",
+"guid": "155747020"
+        }, {
+            "name": "A Agung Julius",
+"guid": "2154208889"
+        }
+]
+,
+"year": "2011",
+"journal": "· american control conference",
+"cites": 5,
+"abstract": "Metabolic networks describe the set of biochemical reactions and regulatory interactions of metabolism that govern the phenotypical properties of a cell. Analysis of such networks is critical not only to promot…",
+"keywords": [
+{
+            "word": "Regularization (mathematics)",
+"guid": "8398441"
+        }, {
+            "word": "Robust Control",
+"guid": "31531917"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a1a0dd5b2e909e8224745e211114c93e",
+"title": "Progress in the applications of fluxanalysis of metabolic networks",
+"authors": [
+{
+            "name": "Qi Chen",
+"guid": "2653378635"
+        }, {
+            "name": "Zhuo Wang",
+"guid": "2608289827"
+        }, {
+            "name": "Dongqing Wei",
+"guid": "2130189244"
+        }
+]
+,
+"year": "2010",
+"journal": "· Science Bulletin",
+"cites": 5,
+"abstract": "The metabolic network has become a hot topic in the area of system biology and flux-based analysis plays a very important role in understanding the characteristics of organism metabolic networks. We review m…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "49085680dc0009ab63632bca4a47c755",
+"title": "Cellular Metabolic Network Analysis: Discovering Important Reactions in Treponema pallidum",
+"authors": [
+{
+            "name": "Xueying Chen",
+"guid": "2491491496"
+        }, {
+            "name": "Min Zhao",
+"guid": "2694980417"
+        }, {
+            "name": "Hong Qu",
+"guid": "2680573851"
+        }
+]
+,
+"year": "2015",
+"journal": "· BioMed Research International",
+"cites": 5,
+"abstract": "T. pallidum, the syphilis-causing pathogen, performs very differently in metabolism compared with other bacterial pathogens. The desire for safe and effective vaccine of syphilis requests identification of import…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a07724a08de848dddeecb29579fa2309",
+"title": "Understanding the role of interactions between host and Mycobacterium tuberculosis under hypoxic condition: an in sil…",
+"authors": [
+{
+            "name": "Tungadri Bose",
+"guid": "2161934943"
+        }, {
+            "name": "Chandrani Das",
+"guid": "2607115126"
+        }, {
+            "name": "Anirban Dutta",
+"guid": "2072460056"
+        }, {
+            "name": "Vishnuvardhan Mahamkali",
+"guid": "2883206575"
+        }, {
+            "name": "Sudipta Sadhu",
+"guid": "2883615747"
+        }, {
+            "name": "Sharmil…",
+"guid": "2305873974"
+        }
+]
+,
+"year": "2018",
+"journal": "· BMC Genomics",
+"cites": 5,
+"abstract": "Background#R##N#Mycobacterium tuberculosis infection in humans is often associated with extended period of latency. To adapt to the hostile hypoxic environment inside a macrophage, M. tuberculosis cell…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dafdad64aee56217ec953307523a5b10",
+"title": "Elementary Flux Modes, FluxBalanceAnalysis, and Their Application to Plant Metabolism",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· Methods of Molecular Biology",
+"cites": 5,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Modeling",
+"guid": "2992260217"
+        }, {
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

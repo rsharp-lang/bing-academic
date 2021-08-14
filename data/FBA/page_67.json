@@ -1,3 +1,4 @@
+[
 {
             "guid": "291eeb8af2a8f8b00f076219fbbe6ed2",
 "title": "Analysis of sensitive CO2 pathways and genes related to carbon uptake and accumulation in Chlamydomonas reinhardtii thro…",
@@ -37,4 +38,275 @@
         }
 ]
 
+        }, {
+            "guid": "008fc24ed70e50ec8daaccd07ca6aedb",
+"title": "Molecular characterization of breast cancer cell response to metabolic drugs",
+"authors": [
+
+]
+,
+"year": "2018",
+"journal": "· Oncotarget",
+"cites": 8,
+"abstract": "\/\/ Lucia Trilla-Fuertes 1, 2 , Angelo Gamez-Pozo 1, 2 , Jorge M. Arevalillo 3 , Mariana Diaz-Almiron 4 , Guillermo Prado-Vazquez 1 , Andrea Zapater-Moros 1 , Hilario Navarro 3 , Rosa Aras-Lopez 5 , Irene D…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Breast Cancer",
+"guid": "530470458"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
         }
+]
+
+        }, {
+            "guid": "337d103ef14b7a436043b61526c03e74",
+"title": "Computational comparison of mediated current generation capacity of Chlamydomonas reinhardtii in photosynthetic an…",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· Journal of Bioscience and Bioengineering",
+"cites": 8,
+"abstract": "Chlamydomonas reinhardtii possesses many potential advantages to be exploited as a biocatalyst in microbial fuel cells (MFCs) for electricity generation. In the present study, we performed computational s…",
+"keywords": [
+{
+            "word": "Acetic Acid",
+"guid": "2776673659"
+        }, {
+            "word": "Photosynthesis",
+"guid": "183688256"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b130845f082aa7a394de908bfdef499e",
+"title": "Modeling the Differences in Biochemical Capabilities of Pseudomonas Species by FluxBalanceAnalysis: How Good Ar…",
+"authors": [
+{
+            "name": "Parizad Babaei",
+"guid": "2885621488"
+        }, {
+            "name": "Tahereh Ghasemikahrizsangi",
+"guid": "2405798051"
+        }, {
+            "name": "Sayedamir Marashi",
+"guid": "2108582515"
+        }
+]
+,
+"year": "2014",
+"journal": "· The Scientific World Journal",
+"cites": 8,
+"abstract": "To date, several genome-scale metabolic networks have been reconstructed. These models cover a wide range of organisms, from bacteria to human. Such models have provided us with a framework for syste…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "82ba9609a5bf46ad0db9228d8a22e3fc",
+"title": "Regulatory effects on central carbon metabolism from poly-3-hydroxybutryate synthesis.",
+"authors": [
+{
+            "name": "Karthik Sekar",
+"guid": "2576658887"
+        }, {
+            "name": "Keith E J Tyo",
+"guid": "2013918135"
+        }
+]
+,
+"year": "2015",
+"journal": "· Metabolic Engineering",
+"cites": 8,
+"abstract": "Abstract Poly-3-hydroxybutyrate (PHB) synthesis in Escherichia coli elicits regulatory responses that affect product yield and productivity. We used controlled, steady-state cultures (chemostats) of a genetically st…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "45e87dd4e92c3eee6a32dc9389324bc7",
+"title": "From MFA to FBA: Defining linear constraints accounting for overflow metabolism in a macroscopic FBA-based dynamical …",
+"authors": [
+{
+            "name": "Philippe Bogaerts",
+"guid": "1925178193"
+        }, {
+            "name": "K Mhallem Gziri",
+"guid": "2557002270"
+        }, {
+            "name": "Anne Richelle",
+"guid": "1977895936"
+        }
+]
+,
+"year": "2017",
+"journal": "· Journal of Process Control",
+"cites": 8,
+"abstract": "Abstract Macroscopic dynamical models of cell cultures in bioreactor are made of sets of ODEs representing the mass balances of the main macroscopic species (biomass, main substrates and metab…",
+"keywords": [
+{
+            "word": "Cross-validation",
+"guid": "27181475"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "46203e51af6e531f30846a3cecc29ab7",
+"title": "Optimal design of growth-coupled production strains using nested hybrid differential evolution",
+"authors": [
+{
+            "name": "Fengsheng Wang",
+"guid": "2688515913"
+        }, {
+            "name": "Wuhsiung Wu",
+"guid": "2684960072"
+        }
+]
+,
+"year": "2015",
+"journal": "· Journal of The Taiwan Institute of Chemical Engineers",
+"cites": 8,
+"abstract": "Abstract Various traditional optimization approaches have been applied to identify optimal manipulation strategies for metabolic networks of microorganism leading to maximization of desired products. Howev…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6b5b1a4f609e1b3a611c84daff868b5e",
+"title": "A methodology for building a macroscopic FBA-based dynamical simulator of cell cultures through flux variability an…",
+"authors": [
+{
+            "name": "Anne Richelle",
+"guid": "1977895936"
+        }, {
+            "name": "Khadija Mhallem K M Gziri",
+"guid": "2549513032"
+        }, {
+            "name": "Philippe Bogaerts",
+"guid": "1925178193"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biochemical Engineering Journal",
+"cites": 8,
+"abstract": "Abstract A dynamical FBA-based simulator of hybridoma cell fed-batch cultures predicting the dynamics of biomass growth, substrate consumption (glucose and glutamine), metabolites production (lactate, amm…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Simulation",
+"guid": "44154836"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8c5999e293bc44f9291e15e8fcb17fd6",
+"title": "Adaptive Evolution of Phosphorus Metabolism in Prochlorococcus.",
+"authors": [
+{
+            "name": "John R Casey",
+"guid": "2522101187"
+        }, {
+            "name": "Adil Mardinoglu",
+"guid": "1964522928"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }, {
+            "name": "David M Karl",
+"guid": "1959739465"
+        }
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 8,
+"abstract": "Inorganic phosphorus is scarce in the eastern Mediterranean Sea, where the high-light-adapted ecotype HLI of the marine picocyanobacterium Prochlorococcus marinus thrives. Physiological and regulatory co…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "34cc01980d7ab111f2198e9acdb0c864",
+"title": "Conservation of high-flux backbone in alternate optimal and near-optimal flux distributions of metabolic networks",
+"authors": [
+{
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }
+]
+,
+"year": "2008",
+"journal": "· Systems and Synthetic Biology",
+"cites": 8,
+"abstract": "Constraint-based fluxbalanceanalysis (FBA) has proven successful in predicting the flux distribution of metabolic networks in diverse environmental conditions. FBA finds one of the alternate optimal solution…",
+"keywords": [
+{
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

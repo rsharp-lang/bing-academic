@@ -1,3 +1,4 @@
+[
 {
             "guid": "a0d867be9e3896b8e5e2407566fdbdc5",
 "title": "Systems biology study of mucopolysaccharidosis using a human metabolic reconstruction network.",
@@ -40,4 +41,341 @@
         }
 ]
 
+        }, {
+            "guid": "0a40165a1a1959e0484a8efc825b3927",
+"title": "Predictive potential of flux balance analysis of Saccharomyces cerevisiae using as optimization function combinations of cell …",
+"authors": [
+{
+            "name": "Carlos Eduardo Garcia Sanchez",
+"guid": "2115086646"
+        }, {
+            "name": "Cesar Augusto Vargas Garcia",
+"guid": "2167518814"
+        }, {
+            "name": "Rodrigo Gonzalo Torres Saez",
+"guid": "2149455541"
         }
+]
+,
+"year": "2012",
+"journal": "· PLOS ONE",
+"cites": 13,
+"abstract": "Background #R##N#The main objective of flux balance analysis (FBA) is to obtain quantitative predictions of metabolic fluxes of an organism, and it is necessary to use an appropriate objective function to guara…",
+"keywords": [
+{
+            "word": "Linear Combination",
+"guid": "9260844"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d90410c236ba69c0adf9eb77f396650",
+"title": "Metabolic engineering of Synechococcus elongatus PCC 7942 for improvement of 1,3-propanediol and glycerol production …",
+"authors": [
+{
+            "name": "Yasutaka Hirokawa",
+"guid": "1976313688"
+        }, {
+            "name": "Shingo Matsuo",
+"guid": "2777381868"
+        }, {
+            "name": "Hiroyuki Hamada",
+"guid": "2178340115"
+        }, {
+            "name": "Fumio Matsuda",
+"guid": "1993147996"
+        }, {
+            "name": "Taizo Hanai",
+"guid": "2081493613"
+        }
+]
+,
+"year": "2017",
+"journal": "· Microbial Cell Factories",
+"cites": 12,
+"abstract": "Production directly from carbon dioxide by engineered cyanobacteria is one of the promising technologies for sustainable future. Previously, we have successfully achieved 1,3-propanediol (1,3-PDO) production …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a09bc09272d0a428e08526c7e0f70218",
+"title": "Integrating proteomic or transcriptomic data into metabolic models using linear bound flux balance analysis.",
+"authors": [
+{
+            "name": "Mingyuan Tian",
+"guid": "2538349651"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioinformatics",
+"cites": 12,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "caa85ebd6a10264a100d7c1b5a488b4e",
+"title": "3DScapeCS: application of three dimensional, parallel, dynamic network visualization in Cytoscape",
+"authors": [
+{
+            "name": "Qi Wang",
+"guid": "2575052446"
+        }, {
+            "name": "Biao Tang",
+"guid": "2487878073"
+        }, {
+            "name": "Lifu Song",
+"guid": "2655642457"
+        }, {
+            "name": "Biao Ren",
+"guid": "2157683730"
+        }, {
+            "name": "Qun Liang",
+"guid": "2639170239"
+        }, {
+            "name": "Feng Xie",
+"guid": "2643754606"
+        }, {
+            "name": "Ying Zhuo",
+"guid": "2310084369"
+        }, {
+            "name": "Xueting Liu",
+"guid": "2112480543"
+        }, {
+            "name": "Lixin Zh…",
+"guid": "2151648700"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Bioinformatics",
+"cites": 12,
+"abstract": "Background#R##N#The exponential growth of gigantic biological data from various sources, such as protein-protein interaction (PPI), genome sequences scaffolding, Mass spectrometry (MS) molecular net…",
+"keywords": [
+{
+            "word": "Computational Science",
+"guid": "459310"
+        }, {
+            "word": "Dynamic Network Analysis",
+"guid": "13540734"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2c2c91fc75fc39497e8b060bea8a6d23",
+"title": "Flux Balance Analysis of Plant Metabolism: The Effect of Biomass Composition and Model Structure on Model Predicti…",
+"authors": [
+{
+            "name": "H Huili Yuan",
+"guid": "2248292174"
+        }, {
+            "name": "C Y Maurice Cheung",
+"guid": "2508862988"
+        }, {
+            "name": "Paj Peter Hilbers",
+"guid": "2478718110"
+        }, {
+            "name": "Naw Natal Van Riel",
+"guid": "2784846244"
+        }
+]
+,
+"year": "2016",
+"journal": "· Frontiers in Plant Science",
+"cites": 12,
+"abstract": "The biomass composition represented in constraint-based metabolic models is a key component for predicting cellular metabolism using flux balance analysis (FBA). Despite major advances in analytical t…",
+"keywords": [
+{
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1d9bcef066089546e9d5c3a61d16d578",
+"title": "Metabolic engineering of Synechocystis sp. PCC 6803 for enhanced ethanol production based on flux balance analysis",
+"authors": [
+{
+            "name": "Katsunori Yoshikawa",
+"guid": "2241571910"
+        }, {
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2017",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 12,
+"abstract": "Synechocystis sp. PCC 6803 is an attractive host for bio-ethanol production due to its ability to directly convert atmospheric carbon dioxide into ethanol using photosystems. To enhance ethanol production in …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "47b599b1025ef22c924f0167ff8f142a",
+"title": "Microalgal Metabolic Network Model Refinement through High-Throughput Functional Metabolic Profiling.",
+"authors": [
+{
+            "name": "Amphun Chaiboonchoe",
+"guid": "2078040434"
+        }, {
+            "name": "Bushra Saeed Dohai",
+"guid": "1237630996"
+        }, {
+            "name": "Honghong Cai",
+"guid": "2605267037"
+        }, {
+            "name": "David R Nelson",
+"guid": "2618885776"
+        }, {
+            "name": "Kenan Jijakli",
+"guid": "1488797411"
+        }, {
+            "name": "Kouro…",
+"guid": "4751864"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Bioengineering and Biotechnology",
+"cites": 12,
+"abstract": "Metabolic modeling provides the means to define metabolic processes at a systems level; however, genome-scale metabolic models often remain incomplete in their description of metabolic networks and …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Cellular Respiration",
+"guid": "66517615"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2eeb97ef11a73dd34d60e1d65d5aedc0",
+"title": "An ensemble evolutionary constraint-based approach to understand the emergence of metabolic phenotypes",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Sara Molinari",
+"guid": "2168986812"
+        }, {
+            "name": "Lilia Alberghina",
+"guid": "2022404515"
+        }, {
+            "name": "Marco Vanoni",
+"guid": "2142769582"
+        }
+]
+,
+"year": "2014",
+"journal": "· Natural Computing",
+"cites": 12,
+"abstract": "Constraint-based modeling is largely used in computational studies of metabolism. We propose here a novel approach that aims to identify ensembles of flux distributions that comply with one or more target …",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Theory of Computation",
+"guid": "24858836"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9088e0287d3b427c95556248d69f7e2e",
+"title": "Quantitative in silico Analysis of Neurotransmitter Pathways Under Steady State Conditions.",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2893692570"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2013",
+"journal": "· Frontiers in Endocrinology",
+"cites": 12,
+"abstract": "The modeling of glutamate\/GABA-glutamine cycling in the brain tissue involving astrocytes, glutamatergic, and GABAergic neurons leads to a complex compartmentalized metabolic network that comprises neur…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

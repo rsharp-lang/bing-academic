@@ -1,3 +1,4 @@
+[
 {
             "guid": "a46db61ff1a90031a52f5f1826e41391",
 "title": "Modeling Rice Metabolism: From Elucidating Environmental Effects on Cellular Phenotype to Guiding Crop Improvement.",
@@ -34,4 +35,290 @@
         }
 ]
 
+        }, {
+            "guid": "7fd49248de1fc079e8c4c2ef4fad651a",
+"title": "Integrated In Silico Analysis of Pathway Designs for Synthetic Photo-Electro-Autotrophy",
+"authors": [
+{
+            "name": "Michael Volpers",
+"guid": "2907571984"
+        }, {
+            "name": "Nico J Claassens",
+"guid": "2094595137"
+        }, {
+            "name": "Elad Noor",
+"guid": "2169537530"
+        }, {
+            "name": "John Van Der Oost",
+"guid": "2271749256"
+        }, {
+            "name": "Willem M De Vos",
+"guid": "2585739441"
+        }, {
+            "name": "Serve W M K…",
+"guid": "692384144"
         }
+]
+,
+"year": "2016",
+"journal": "· PLOS ONE",
+"cites": 7,
+"abstract": "The strong advances in synthetic biology enable the engineering of novel functions and complex biological features in unprecedented ways, such as implementing synthetic autotrophic metabolism into heterotrop…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Biotechnology",
+"guid": "150903083"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c5fff3d89275d4bd0eef6d5bfceaac47",
+"title": "Genome-scale stoichiometry analysis to elucidate the innate capability of the cyanobacterium Synechocystis for electricity …",
+"authors": [
+{
+            "name": "Longfei Mao",
+"guid": "2149052789"
+        }, {
+            "name": "W S Verwoerd",
+"guid": "2477011415"
+        }
+]
+,
+"year": "2013",
+"journal": "· Journal of Industrial Microbiology & Biotechnology",
+"cites": 7,
+"abstract": "Synechocystis sp. PCC 6803 has been considered as a promising biocatalyst for electricity generation in recent microbial fuel cell research. However, the innate maximum current production potential and unde…",
+"keywords": [
+{
+            "word": "Electricity Generation",
+"guid": "423512"
+        }, {
+            "word": "Mixotroph",
+"guid": "76479393"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "016bcb2a7a9fde07a622448dd48fcf92",
+"title": "Modeling metabolic adjustment in Mycobacterium tuberculosis upon treatment with isoniazid",
+"authors": [
+{
+            "name": "Ashwini G Bhat",
+"guid": "2122358748"
+        }, {
+            "name": "Rohit Vashisht",
+"guid": "2065536119"
+        }, {
+            "name": "Nagasuma Chandra",
+"guid": "2257022061"
+        }
+]
+,
+"year": "2010",
+"journal": "· Systems and Synthetic Biology",
+"cites": 7,
+"abstract": "Complex biological systems exhibit a property of robustness at all levels of organization. Through different mechanisms, the system tries to sustain stress such as due to starvation or drug exposure. To explore …",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d60278d590e050b59deabbc8c6a36ab8",
+"title": "Computational methods for the prediction of microbial essential genes",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· Current Bioinformatics",
+"cites": 7,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Feature Selection",
+"guid": "148483581"
+        }, {
+            "word": "Machine Learning",
+"guid": "119857082"
+        }
+]
+
+        }, {
+            "guid": "b0cee6d739c7850b8fdb552020b7e914",
+"title": "Bayesian stationary state flux balanceanalysis for a skeletal muscle metabolic model",
+"authors": [
+
+]
+,
+"year": "2007",
+"journal": "· Inverse Problems and Imaging",
+"cites": 7,
+"abstract": "Cellular metabolism can be modelled as a multi-compartment#R##N#dynamical system, the compartments representing the circulatory#R##N#system consisting of blood and interstitial fluid, and di…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Stationary State",
+"guid": "47458137"
+        }, {
+            "word": "Markov Chain Monte Carlo",
+"guid": "111350023"
+        }
+]
+
+        }, {
+            "guid": "ddfdef37be24d3449eee9aa8ced484d5",
+"title": "Constraint-based genome-scale metabolic modeling of Clostridium acetobutylicum behavior in an immobilized column",
+"authors": [
+{
+            "name": "Janne Wallenius",
+"guid": "2004533336"
+        }, {
+            "name": "Matti Viikila",
+"guid": "2335277168"
+        }, {
+            "name": "Shrikant A Survase",
+"guid": "125950402"
+        }, {
+            "name": "Heikki Ojamo",
+"guid": "259081841"
+        }, {
+            "name": "Tero Eerikainen",
+"guid": "1828726020"
+        }
+]
+,
+"year": "2013",
+"journal": "· Bioresource Technology",
+"cites": 7,
+"abstract": "Abstract In this study a step-wise optimization procedure was developed to predict solvent production using continuous ABE fermentation with immobilized cells. The modeling approach presented here utiliz…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Dilution",
+"guid": "96618451"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "45001684639e2f6642d17eb27bcb7f1d",
+"title": "Predicting functional associations from metabolism using bi-partite network algorithms",
+"authors": [
+{
+            "name": "Balaji Veeramani",
+"guid": "2206281326"
+        }, {
+            "name": "Joel S Bader",
+"guid": "1994680047"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 7,
+"abstract": "Background#R##N#Metabolic reconstructions contain detailed information about metabolic enzymes and their reactants and products. These networks can be used to infer functional associations between meta…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8e06b2adba5380271a4d33a42218adb3",
+"title": "Flux-based classification of reactions reveals a functional bow-tie organization of complex metabolic networks",
+"authors": [
+{
+            "name": "Shalini Singh",
+"guid": "3010534091"
+        }, {
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }, {
+            "name": "Varun Giri",
+"guid": "2444596654"
+        }, {
+            "name": "Sandeep Krishna",
+"guid": "2163263377"
+        }, {
+            "name": "Nandula Raghuram",
+"guid": "1979290151"
+        }, {
+            "name": "Sanjay Jain",
+"guid": "3008944630"
+        }
+]
+,
+"year": "2013",
+"journal": "· Physical Review E",
+"cites": 7,
+"abstract": "Unraveling the structure of complex biological networks and relating it to their functional role is an important task in systems biology. Here we attempt to characterize the functional organization of the lar…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Classical Mechanics",
+"guid": "74650414"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f18b6481ab188267db7a5bc439671744",
+"title": "Analyses of extracellular protein production in Bacillus subtilis – I: Genome-scale metabolic model reconstruction based on up…",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· Biochemical Engineering Journal",
+"cites": 7,
+"abstract": "Abstract Bacillus subtilis genome-scale model (GEM) reconstruction was stimulated by the recent sequencing and consequent re-annotations. The updated gene-enzyme-reaction data were collected fro…",
+"keywords": [
+{
+            "word": "Bacillus Subtilis",
+"guid": "2777272437"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

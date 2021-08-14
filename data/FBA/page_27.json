@@ -1,3 +1,4 @@
+[
 {
             "guid": "e102f4829ba9f7b06b3b4d9246284f24",
 "title": "Modelling cyanobacteria: from metabolism to integrative models of phototrophic growth",
@@ -31,4 +32,323 @@
         }
 ]
 
+        }, {
+            "guid": "1d9d68dd70fe82a7fccf8c3db498747d",
+"title": "Flux Imbalance Analysis and the Sensitivity of Cellular Growth to Changes in Metabolite Pools",
+"authors": [
+{
+            "name": "Ed Reznik",
+"guid": "2963292765"
+        }, {
+            "name": "Pankaj Mehta",
+"guid": "2293726241"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
         }
+]
+,
+"year": "2013",
+"journal": "· PLOS Computational Biology",
+"cites": 43,
+"abstract": "Stoichiometric models of metabolism, such as flux balance analysis (FBA), are classically applied to predicting steady state rates - or fluxes - of metabolic reactions in genome-scale metabolic networks. He…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5ab1722fd9a4357d2b335bc87fc6bd70",
+"title": "Expanding a dynamic fluxbalance model of yeast fermentation to genome-scale",
+"authors": [
+{
+            "name": "Felipe Vargas",
+"guid": "2136779493"
+        }, {
+            "name": "Francisco A Pizarro",
+"guid": "2805735758"
+        }, {
+            "name": "J Ricardo Perezcorrea",
+"guid": "395541463"
+        }, {
+            "name": "Eduardo Agosin",
+"guid": "280152681"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 43,
+"abstract": "Background#R##N#Yeast is considered to be a workhorse of the biotechnology industry for the production of many value-added chemicals, alcoholic beverages and biofuels. Optimization of the fermentation is a …",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2594e71541824150b58d33b317615f6a",
+"title": "Linkage of Organic Anion Transporter-1 to Metabolic Pathways through Integrated “Omics”-driven Network and Functional A…",
+"authors": [
+{
+            "name": "Sunyoung Ahn",
+"guid": "2578715015"
+        }, {
+            "name": "Neema Jamshidi",
+"guid": "2022775796"
+        }, {
+            "name": "Monica L Mo",
+"guid": "2142724337"
+        }, {
+            "name": "Wei Wu",
+"guid": "2645015824"
+        }, {
+            "name": "Satish A Eraly",
+"guid": "16337855"
+        }, {
+            "name": "Ankur V Dnyanmote",
+"guid": "719037241"
+        }, {
+            "name": "Kevi…",
+"guid": "2114690066"
+        }
+]
+,
+"year": "2011",
+"journal": "· Journal of Biological Chemistry",
+"cites": 43,
+"abstract": "The main kidney transporter of many commonly prescribed drugs (e.g. penicillins, diuretics, antivirals, methotrexate, and non-steroidal anti-inflammatory drugs) is organic anion transporter-1 (OAT1), originall…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ea9443ca21395001932a60ecde5bc2fb",
+"title": "Flux balance analysis of mixed anaerobic microbial communities: Effects of linoleic acid (LA) and pH on biohydro…",
+"authors": [
+{
+            "name": "Subba Rao Chaganti",
+"guid": "2021607794"
+        }, {
+            "name": "Donghoon Kim",
+"guid": "2150873014"
+        }, {
+            "name": "Jerald A Lalman",
+"guid": "2105027020"
+        }
+]
+,
+"year": "2011",
+"journal": "· International Journal of Hydrogen Energy",
+"cites": 43,
+"abstract": "Abstract The internal fluxes of mixed anaerobic cultures fed 2000 mg l−1 linoleic acid (LA) plus glucose at 6 initial pH conditions and maintained at 37 °C were estimated using a flux balanced analysis (FBA). In …",
+"keywords": [
+{
+            "word": "Biohydrogen",
+"guid": "1124016"
+        }, {
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2d0e8187609e902add97831cb5ea1b1a",
+"title": "MicrobesFlux: a web platform for drafting metabolic models from the KEGG database",
+"authors": [
+{
+            "name": "Xueyang Feng",
+"guid": "2059886172"
+        }, {
+            "name": "You Xu",
+"guid": "2123053962"
+        }, {
+            "name": "Yixin Chen",
+"guid": "2295009377"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 42,
+"abstract": "Concurrent with the efforts currently underway in mapping microbial genomes using high-throughput sequencing methods, systems biologists are building metabolic models to characterize and predict cell …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4c0259ac19ebdabd8d868555da4acfb4",
+"title": "Dynamic strain scanning optimization: an efficient strain design strategy for balanced yield, titer, and productivity. DySScO str…",
+"authors": [
+{
+            "name": "Kai Zhuang",
+"guid": "2137039988"
+        }, {
+            "name": "Laurence Yang",
+"guid": "2349532682"
+        }, {
+            "name": "William R Cluett",
+"guid": "2285443751"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Biotechnology",
+"cites": 42,
+"abstract": "Background#R##N#In recent years, constraint-based metabolic models have emerged as an important tool for metabolic engineering; a number of computational algorithms have been developed for identifyin…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c528f2cf0e44a90ccb2978dd34e4fe49",
+"title": "Genome-Scale Consequences of Cofactor Balancing in Engineered Pentose Utilization Pathways in Saccharomyces ce…",
+"authors": [
+{
+            "name": "Amit Ghosh",
+"guid": "2421404382"
+        }, {
+            "name": "Huimin Zhao",
+"guid": "2140813166"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }
+]
+,
+"year": "2011",
+"journal": "· PLOS ONE",
+"cites": 42,
+"abstract": "Biofuels derived from lignocellulosic biomass offer promising alternative renewable energy sources for transportation fuels. Significant effort has been made to engineer Saccharomyces cerevisiae to efficientl…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "NAD+ Kinase",
+"guid": "75520062"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ae43fed7379475d91c31bd8d49ac7482",
+"title": "Evaluation of central metabolism based on a genomic database ofSynechocystis PCC6803",
+"authors": [
+{
+            "name": "Seongjoo Hong",
+"guid": "2118796912"
+        }, {
+            "name": "Choulgyun Lee",
+"guid": "2114048802"
+        }
+]
+,
+"year": "2007",
+"journal": "· Biotechnology and Bioprocess Engineering",
+"cites": 42,
+"abstract": "Cyanobacteria produce industrially important secondary metabolites such as lipopeptide, oligosaccharide, fatty acid (esp. sulfolipid),etc. Among them,Synechocystis PCC6803 is the first strain with a publicly avai…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "72d7742a6967e2cb4d5b12b7b23324d8",
+"title": "Metabolomic and flux-balance analysis of age-related decline of hypoxia tolerance in Drosophila muscle tissue",
+"authors": [
+{
+            "name": "Laurence Coquin",
+"guid": "2002407875"
+        }, {
+            "name": "Jacob D Feala",
+"guid": "1257737874"
+        }, {
+            "name": "Andrew D Mcculloch",
+"guid": "2138470661"
+        }, {
+            "name": "Giovanni Paternostro",
+"guid": "2473331931"
+        }
+]
+,
+"year": "2008",
+"journal": "· Molecular Systems Biology",
+"cites": 41,
+"abstract": "The fruitfly Drosophila melanogaster is increasingly used as a model organism for studying acute hypoxia tolerance and for studying aging, but the interactions between these two factors are not well known. Her…",
+"keywords": [
+{
+            "word": "Microarray Analysis Techniques",
+"guid": "8415881"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

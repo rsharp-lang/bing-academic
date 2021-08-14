@@ -1,3 +1,4 @@
+[
 {
             "guid": "ce1a9990aefc3c7e0762e033a3edd7dd",
 "title": "Metabolic network reconstruction and genome-scale model of butanol-producing strain Clostridium beijerinckii NCIMB 8052",
@@ -43,4 +44,341 @@
         }
 ]
 
+        }, {
+            "guid": "5116af4bd0e397ef01ee74e425cb908f",
+"title": "Multiscale Metabolic Modeling: Dynamic Flux Balance Analysis on a Whole-Plant Scale",
+"authors": [
+{
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Astrid Junker",
+"guid": "2123036431"
+        }, {
+            "name": "Andre Eschenroder",
+"guid": "2071369712"
+        }, {
+            "name": "Johannes Muller",
+"guid": "2432123741"
+        }, {
+            "name": "Falk Schreiber",
+"guid": "2166292476"
+        }, {
+            "name": "Bjorn H …",
+"guid": "2013242263"
         }
+]
+,
+"year": "2013",
+"journal": "· Plant Physiology",
+"cites": 104,
+"abstract": "Plant metabolism is characterized by a unique complexity on the cellular, tissue, and organ levels. On a whole-plant scale, changing source and sink relations accompanying plant development add another lev…",
+"keywords": [
+{
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Sink (computing)",
+"guid": "66461080"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "be0a48c1124ccb9002bf543b4af2faf6",
+"title": "Computational analysis of storage synthesis in developing Brassica napus L. (oilseed rape) embryos: flux variability analys…",
+"authors": [
+{
+            "name": "Jordan O Hay",
+"guid": "2097360908"
+        }, {
+            "name": "Jorg Schwender",
+"guid": "2002373688"
+        }
+]
+,
+"year": "2011",
+"journal": "· Plant Journal",
+"cites": 103,
+"abstract": "Plant oils are an important renewable resource, and seed oil content is a key agronomical trait that is in part controlled by the metabolic processes within developing seeds. A large-scale model of cellular meta…",
+"keywords": [
+{
+            "word": "Nitrogen Assimilation",
+"guid": "3119751"
+        }, {
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f3c66cc409a00b5970fc11516b13ca8c",
+"title": "Impact of the solvent capacity constraint on E. coli metabolism",
+"authors": [
+{
+            "name": "Alexei Vazquez",
+"guid": "2142498905"
+        }, {
+            "name": "Qasim Khalil Beg",
+"guid": "2440129580"
+        }, {
+            "name": "Marcio A Demenezes",
+"guid": "1543148067"
+        }, {
+            "name": "J Ernst",
+"guid": "2596694824"
+        }, {
+            "name": "Ziv Barjoseph",
+"guid": "96358963"
+        }, {
+            "name": "Albertlaszlo Bara…",
+"guid": "2195478976"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 103,
+"abstract": "Background#R##N#Obtaining quantitative predictions for cellular metabolic activities requires the identification and modeling of the physicochemical constraints that are relevant at physiological growth c…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cf1299e098704049da75fc4a3a85b391",
+"title": "The role of photorespiration during the evolution of C4 photosynthesis in the genus Flaveria",
+"authors": [
+{
+            "name": "Julia Mallmann",
+"guid": "2083520560"
+        }, {
+            "name": "David Heckmann",
+"guid": "2297808810"
+        }, {
+            "name": "Andrea Brautigam",
+"guid": "1995686282"
+        }, {
+            "name": "Martin J Lercher",
+"guid": "277508283"
+        }, {
+            "name": "Andreas P M Weber",
+"guid": "2323537296"
+        }, {
+            "name": "Peter …",
+"guid": "2003562649"
+        }
+]
+,
+"year": "2014",
+"journal": "· eLife",
+"cites": 103,
+"abstract": "C4 photosynthesis represents a most remarkable case of convergent evolution of a complex trait, which includes the reprogramming of the expression patterns of thousands of genes. Anatomical, physiological…",
+"keywords": [
+{
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Convergent Evolution",
+"guid": "62142553"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "95df6d7b4b57c2d3ef42fec44bb0182b",
+"title": "Genome-scale metabolic modeling of a clostridial co-culture for consolidated bioprocessing.",
+"authors": [
+{
+            "name": "Fahimeh Salimi",
+"guid": "2136771675"
+        }, {
+            "name": "Kai Zhuang",
+"guid": "2137039988"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology Journal",
+"cites": 102,
+"abstract": "An alternative consolidated bioprocessing approach is the use of a co-culture containing cellulolytic and solventogenic clostridia. It has been demonstrated that the rate of cellulose utilization in the co-culture o…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c0c96ec2cf9a44807f22c4fe73432ffb",
+"title": "Flux balance analysis of CHO cells before and after a metabolic switch from lactate production to consumption",
+"authors": [
+{
+            "name": "Veronica Martinez",
+"guid": "2159542702"
+        }, {
+            "name": "Stefanie Dietmair",
+"guid": "1959219100"
+        }, {
+            "name": "Lakeee Quek",
+"guid": "2134002722"
+        }, {
+            "name": "Mark P Hodson",
+"guid": "2207557411"
+        }, {
+            "name": "Peter P Gray",
+"guid": "2467026069"
+        }, {
+            "name": "Lars K Nielsen",
+"guid": "2124263552"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 102,
+"abstract": "Mammalian cell cultures typically exhibit an energy inefficient phenotype characterized by the consumption of large quantities of glucose and the concomitant production of large quantities of lactate. …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Substrate (chemistry)",
+"guid": "119924469"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "baf687baa6220ee5723839bd5426d2d3",
+"title": "A method for accounting for maintenance costs in flux balance analysis improves the prediction of plant cell metabolic phen…",
+"authors": [
+{
+            "name": "C Y Maurice Cheung",
+"guid": "2508862988"
+        }, {
+            "name": "Thomas C R Williams",
+"guid": "2304170129"
+        }, {
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }, {
+            "name": "David A Fell",
+"guid": "2173109630"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }, {
+            "name": "Le…",
+"guid": "205797508"
+        }
+]
+,
+"year": "2013",
+"journal": "· Plant Journal",
+"cites": 102,
+"abstract": "Summary#R##N##R##N#Fluxbalance models of metabolism generally utilize synthesis of biomass as the main determinant of intracellular fluxes. However, the biomass constraint alone is not sufficient to predic…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1217ff2e986ecec7921075d2ddd48ed5",
+"title": "Stoichiometric network constraints on xylose metabolism by recombinant Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Yongsu Jin",
+"guid": "2147923674"
+        }, {
+            "name": "Thomas W Jeffries",
+"guid": "2463362953"
+        }
+]
+,
+"year": "2004",
+"journal": "· Metabolic Engineering",
+"cites": 101,
+"abstract": "Abstract Metabolic pathway engineering is constrained by the thermodynamic and stoichiometric feasibility of enzymatic activities of introduced genes. Engineering of xylose metabolism in Saccharomyces cerevi…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "33a67be8bc79579062267fe2024636db",
+"title": "TIGER: Toolbox for integrating genome-scale metabolic models, expression data, and transcriptional regulatory netwo…",
+"authors": [
+{
+            "name": "Paul A Jensen",
+"guid": "2613309014"
+        }, {
+            "name": "Kyla A Lutz",
+"guid": "2569101861"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 100,
+"abstract": "Background#R##N#Several methods have been developed for analyzing genome-scale models of metabolism and transcriptional regulation. Many of these methods, such as Flux Balance Analysis, use …",
+"keywords": [
+{
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }, {
+            "word": "Constrained Optimization",
+"guid": "55660270"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "daa7a250818ba6190b02f212a9227302",
 "title": "Nitrosomonas europaea adaptation to anoxic-oxic cycling: Insights from transcription analysis, proteomics and metaboli…",
@@ -34,4 +35,329 @@
         }
 ]
 
+        }, {
+            "guid": "138a72b58aeac13a12d53428f6754c6a",
+"title": "Differential RNA-seq, Multi-Network Analysis and Metabolic Regulation Analysis of Kluyveromyces marxianus Reveals a Co…",
+"authors": [
+{
+            "name": "Du Toit W P Schabort",
+"guid": "2437867588"
+        }, {
+            "name": "Precious K Letebele",
+"guid": "2434533752"
+        }, {
+            "name": "Laurinda Steyn",
+"guid": "2465307247"
+        }, {
+            "name": "S G Kilian",
+"guid": "2013489540"
+        }, {
+            "name": "James C Du Preez",
+"guid": "2149521365"
         }
+]
+,
+"year": "2016",
+"journal": "· PLOS ONE",
+"cites": 16,
+"abstract": "We investigated the transcriptomic response of a new strain of the yeast Kluyveromyces marxianus, in glucose and xylose media using RNA-seq. The data were explored in a number of innovative ways usin…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f124f1e6507df0786f2630fd9a7abb02",
+"title": "Integrated gene co-expression network analysis in the growth phase of Mycobacterium tuberculosis reveals new potential dr…",
+"authors": [
+{
+            "name": "Bhanwar Lal Puniya",
+"guid": "1588389605"
+        }, {
+            "name": "Deepika Kulshreshtha",
+"guid": "2624514275"
+        }, {
+            "name": "Srikant Verma",
+"guid": "2757784000"
+        }, {
+            "name": "Sanjiv Kumar",
+"guid": "2426773736"
+        }, {
+            "name": "Srinivasan Ramachandran",
+"guid": "2954618619"
+        }
+]
+,
+"year": "2013",
+"journal": "· Molecular BioSystems",
+"cites": 16,
+"abstract": "We have carried out weighted gene co-expression network analysis of Mycobacterium tuberculosis to gain insights into gene expression architecture during log phase growth. The differentially expressed genes b…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "004cb5b070153efc5d34efe3e1b8d437",
+"title": "Phenotype prediction in regulated metabolic networks",
+"authors": [
+{
+            "name": "Christoph Kaleta",
+"guid": "74203850"
+        }, {
+            "name": "Florian Centler",
+"guid": "2036231370"
+        }, {
+            "name": "Pietro Speroni Di Fenizio",
+"guid": "2518562063"
+        }, {
+            "name": "Peter Dittrich",
+"guid": "2261774788"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 16,
+"abstract": "Due to the growing amount of biological knowledge that is incorporated into metabolic network models, their analysis has become more and more challenging. Here, we examine the capabilities of the recentl…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Explicit Knowledge",
+"guid": "56814567"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ac241ba473359991998b3cb9bc50011a",
+"title": "Flux modules in metabolic networks",
+"authors": [
+{
+            "name": "Arne C Muller",
+"guid": "2121662098"
+        }, {
+            "name": "Alexander Bockmayr",
+"guid": "56252975"
+        }
+]
+,
+"year": "2014",
+"journal": "· Journal of Mathematical Biology",
+"cites": 16,
+"abstract": "The huge number of elementary flux modes in genome-scale metabolic networks makes analysis based on elementary flux modes intrinsically difficult. However, it has been shown that the elementary flux mod…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c515a21f256022d536450a31bdfce71b",
+"title": "Composition of Metabolic Flux Distributions by Functionally Interpretable Minimal Flux Modes (MinModes)",
+"authors": [
+{
+            "name": "Sabrina Hoffmann",
+"guid": "2156684554"
+        }, {
+            "name": "Andreas Hoppe",
+"guid": "2029721110"
+        }, {
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
+        }
+]
+,
+"year": "2006",
+"journal": "· Genome Informatics",
+"cites": 16,
+"abstract": "All cellular functions are ultimately linked to the metabolism which constitutes a highly branched network of thousands of enzyme-catalyzed chemical reactions and carrier-mediated transport processes. Dependin…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e622185aef176dc2e1648dce097f00c7",
+"title": "Fathead minnow steroidogenesis: in silico analyses reveals tradeoffs between nominal target efficacy and robustness to c…",
+"authors": [
+{
+            "name": "Jason E Shoemaker",
+"guid": "2102683431"
+        }, {
+            "name": "Kalyan Gayen",
+"guid": "2347022750"
+        }, {
+            "name": "Natalia Garciareyero",
+"guid": "2805988333"
+        }, {
+            "name": "Edward J Perkins",
+"guid": "2165278591"
+        }, {
+            "name": "Daniel L Villeneuve",
+"guid": "2187927840"
+        }, {
+            "name": "L…",
+"guid": "2620085354"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 16,
+"abstract": "Background#R##N#Interpreting proteomic and genomic data is a major challenge in predictive ecotoxicology that can be addressed by a systems biology approach. Mathematical modeling provides a…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Gene Regulatory Network",
+"guid": "67339327"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d5e74c7a7ef83e1caab0a5b4fa0afd2",
+"title": "Designing intracellular metabolism for production of target compounds by introducing a heterologous metabolic reactio…",
+"authors": [
+{
+            "name": "Tomokazu Shirai",
+"guid": "2168364624"
+        }, {
+            "name": "Takashi Osanai",
+"guid": "2270125261"
+        }, {
+            "name": "Akihiko Kondo",
+"guid": "2128658185"
+        }
+]
+,
+"year": "2016",
+"journal": "· Microbial Cell Factories",
+"cites": 16,
+"abstract": "Background#R##N#Designing optimal intracellular metabolism is essential for using microorganisms to produce useful compounds. Computerized calculations for fluxbalanceanalysis utilizing a genome-scal…",
+"keywords": [
+{
+            "word": "Yield (chemistry)",
+"guid": "54468928"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d58dcb34e7faf10c0ed0c44233d09efe",
+"title": "Gap Detection for Genome-Scale Constraint-Based Models",
+"authors": [
+{
+            "name": "J Paul Brooks",
+"guid": "2148558718"
+        }, {
+            "name": "William P Burns",
+"guid": "2685484695"
+        }, {
+            "name": "Stephen S Fong",
+"guid": "2230560253"
+        }, {
+            "name": "Chris M Gowen",
+"guid": "2675092945"
+        }, {
+            "name": "Seth B Roberts",
+"guid": "2311059651"
+        }
+]
+,
+"year": "2012",
+"journal": "· Advances in Bioinformatics",
+"cites": 16,
+"abstract": "Constraint-based metabolic models are currently the most comprehensive system-wide models of cellular metabolism. Several challenges arise when building an in silico constraint-based model of an organism t…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "51e7e9d7660bc9cee84a50f35712d999",
+"title": "Genome scale metabolic reconstruction of Chlorella variabilis for exploring its metabolic potential for biofuels.",
+"authors": [
+{
+            "name": "Ankita Juneja",
+"guid": "2118800321"
+        }, {
+            "name": "Frank W R Chaplen",
+"guid": "2057427766"
+        }, {
+            "name": "Ganti S Murthy",
+"guid": "2107198103"
+        }
+]
+,
+"year": "2016",
+"journal": "· Bioresource Technology",
+"cites": 16,
+"abstract": "Abstract A compartmentalized genome scale metabolic network was reconstructed for Chlorella variabilis to offer insight into various metabolic potentials from this alga. The model, i AJ526, was reconstructed w…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

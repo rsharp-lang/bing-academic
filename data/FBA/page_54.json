@@ -1,3 +1,4 @@
+[
 {
             "guid": "d0c5ef05612c0847fd2967ae5e00300c",
 "title": "Metabolic network model guided engineering ethylmalonyl-CoA pathway to improve ascomycin production in Streptomy…",
@@ -34,4 +35,311 @@
         }
 ]
 
+        }, {
+            "guid": "00a1449abe7c595bc090170999ba8a27",
+"title": "Towards improved genome-scale metabolic network reconstructions: unification, transcript specificity and beyond",
+"authors": [
+{
+            "name": "Thomas Pfau",
+"guid": "2703939287"
+        }, {
+            "name": "Maria Pires Pacheco",
+"guid": "2145440565"
+        }, {
+            "name": "Thomas Sauter",
+"guid": "2570104878"
         }
+]
+,
+"year": "2015",
+"journal": "· Briefings in Bioinformatics",
+"cites": 13,
+"abstract": "Genome-scale metabolic network reconstructions provide a basis for the investigation of the metabolic properties of an organism. There are reconstructions available for multiple organisms, from prokaryotes …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4dcba2fcdfdf8cc3b9b2f6a22294f925",
+"title": "A Hybrid of Metabolic Flux Analysis and Bayesian Factor Modeling for Multiomic Temporal Pathway Activation",
+"authors": [
+{
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Naruemon Pratanwanich",
+"guid": "2920674833"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }
+]
+,
+"year": "2015",
+"journal": "· ACS Synthetic Biology",
+"cites": 13,
+"abstract": "The growing availability of multiomic data provides a highly comprehensive view of cellular processes at the levels of mRNA, proteins, metabolites, and reaction fluxes. However, due to probabilistic interaction…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4090205b047fde11607ddd0e79b048a7",
+"title": "SBML Level 3 Package : Flux Balance Constraints version 2",
+"authors": [
+{
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Frank Bergmann",
+"guid": "2006598898"
+        }
+]
+,
+"year": "2018",
+"journal": "· Journal of Integrative Bioinformatics",
+"cites": 13,
+"abstract": "Constraint-based modeling is a well established modeling methodology used to analyze and study biological networks on both a medium and genome scale. Due to their large size and complexity such st…",
+"keywords": [
+{
+            "word": "Interoperability",
+"guid": "20136886"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "65ddb9235f557f84b8c14c36607461cd",
+"title": "Perspectives and Challenges in Microbial Communities Metabolic Modeling.",
+"authors": [
+{
+            "name": "Emanuele Bosi",
+"guid": "2129416476"
+        }, {
+            "name": "Giovanni Bacci",
+"guid": "1996219052"
+        }, {
+            "name": "Alessio Mengoni",
+"guid": "2285508305"
+        }, {
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }
+]
+,
+"year": "2017",
+"journal": "· Frontiers in Genetics",
+"cites": 13,
+"abstract": "Bacteria have evolved to efficiently interact each other, forming complex entities known as microbial communities. These “super-organisms” play a central role in maintaining the health of their eukaryotic h…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dad33e24da2bf565b2cdea1be101835c",
+"title": "Dynamic estimation of specific fluxes in metabolic networks using non-linear dynamic optimization",
+"authors": [
+{
+            "name": "Dominique Vercammen",
+"guid": "2063690941"
+        }, {
+            "name": "Filip Logist",
+"guid": "2037117457"
+        }, {
+            "name": "Jan Van Impe",
+"guid": "2550126532"
+        }
+]
+,
+"year": "2014",
+"journal": "· BMC Systems Biology",
+"cites": 13,
+"abstract": "Background#R##N#Metabolic network models describing the biochemical reaction network and material fluxes inside microorganisms open interesting routes for the model-based optimization of bioprocesses. …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4f25bc2d2809125839d972a10c4b5565",
+"title": "Metabolomics and the challenges ahead",
+"authors": [
+{
+            "name": "Pedro Mendes",
+"guid": "2138913119"
+        }
+]
+,
+"year": "2006",
+"journal": "· Briefings in Bioinformatics",
+"cites": 13,
+"abstract": "Eight years have passed since the proposal that the characterization of mutations with silent phenotypes should be carried out by a global view of metabolism [1]. Since then, the field of metabolomics has flouri…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8b1b50b2c07702562c7d287de040acf9",
+"title": "Enhancing fatty acid production in Escherichia coli by Vitreoscilla hemoglobin overexpression",
+"authors": [
+{
+            "name": "Di Liu",
+"guid": "2303461183"
+        }, {
+            "name": "Ni Wan",
+"guid": "2223163517"
+        }, {
+            "name": "Fuzhong Zhang",
+"guid": "2309633030"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }, {
+            "name": "Stephen G Wu",
+"guid": "2158553408"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 13,
+"abstract": "Our recent 13C-metabolic flux analysis (13C-MFA) study indicates that energy metabolism becomes a rate-limiting factor for fatty acid overproduction in E. coli strains (after “Push-Pull-Block” based genetic …",
+"keywords": [
+{
+            "word": "Titer",
+"guid": "32611913"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e867ad39431a6a9e9c86ceaa6c58303d",
+"title": "Modelling metabolism of the diatom Phaeodactylum tricornutum",
+"authors": [
+{
+            "name": "Dipali Singh",
+"guid": "2338692320"
+        }, {
+            "name": "Ross P Carlson",
+"guid": "2279784650"
+        }, {
+            "name": "David A Fell",
+"guid": "2173109630"
+        }, {
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biochemical Society Transactions",
+"cites": 13,
+"abstract": "Marine diatoms have potential as a biotechnological production platform, especially for lipid-derived products, including biofuels. Here we introduce some features of diatom metabolism, particularly with re…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f582e2a4dd068b29c85c5623495e045b",
+"title": "Advantages and disadvantages of aggregating fluxes into synthetic and degradative fluxes when modelling metabolic p…",
+"authors": [
+{
+            "name": "Pedro De Atauri",
+"guid": "2075461777"
+        }, {
+            "name": "Raul Curto",
+"guid": "2315525423"
+        }, {
+            "name": "Joaquim Puigjaner",
+"guid": "2145525021"
+        }, {
+            "name": "Athel Cornishbowden",
+"guid": "2087180690"
+        }, {
+            "name": "Marta Cascante",
+"guid": "2172148279"
+        }
+]
+,
+"year": "1999",
+"journal": "· FEBS Journal",
+"cites": 13,
+"abstract": "It is now widely accepted that mathematical models are needed to predict the behaviour of complex metabolic networks in the cell, in order to have a rational basis for planning metabolic engineering with b…",
+"keywords": [
+{
+            "word": "Complex System",
+"guid": "47822265"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

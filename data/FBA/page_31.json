@@ -1,3 +1,4 @@
+[
 {
             "guid": "ee417e6140076254b94502978dfb6a6e",
 "title": "Metabolic stasis in an ancient symbiosis: genome-scale metabolic networks from two Blattabacterium cuenoti strains…",
@@ -40,4 +41,332 @@
         }
 ]
 
+        }, {
+            "guid": "0ed5d0637966dd18a20c8d97a5e24255",
+"title": "A Markov chain model for N-linked protein glycosylation – towards a low-parameter tool for model-driven glycoenginee…",
+"authors": [
+{
+            "name": "Philipp N Spahn",
+"guid": "2030807094"
+        }, {
+            "name": "Anders Holmgaard Hansen",
+"guid": "2153214735"
+        }, {
+            "name": "Henning Gram Hansen",
+"guid": "2237030864"
+        }, {
+            "name": "Johnny Arnsdorf",
+"guid": "2181980362"
+        }, {
+            "name": "Helene Fau…",
+"guid": "2306167824"
         }
+]
+,
+"year": "2016",
+"journal": "· Metabolic Engineering",
+"cites": 35,
+"abstract": "Glycosylation is a critical quality attribute of most recombinant biotherapeutics. Consequently, drug development requires careful control of glycoforms to meet bioactivity and biosafety requirements. Howe…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Critical To Quality",
+"guid": "47569489"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f52020fde92cde428a753201bfc2669f",
+"title": "Integration of Metabolomics and Transcriptomics Reveals a Complex Diet of Mycobacterium tuberculosis during Early Ma…",
+"authors": [
+{
+            "name": "Michael Zimmermann",
+"guid": "2944281578"
+        }, {
+            "name": "Maria Kogadeeva",
+"guid": "253174126"
+        }, {
+            "name": "Martin Gengenbacher",
+"guid": "2016045578"
+        }, {
+            "name": "Gayle Mcewen",
+"guid": "2239212093"
+        }, {
+            "name": "Hansjoachim Molle…",
+"guid": "1896541002"
+        }
+]
+,
+"year": "2017",
+"journal": "",
+"cites": 35,
+"abstract": "ABSTRACT Nutrient acquisition from the host environment is crucial for the survival of intracellular pathogens, but conceptual and technical challenges limit our knowledge of pathogen diets. To overcom…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Microbiology",
+"guid": "89423630"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5ffdd1cbc710049174a8968282a33277",
+"title": "Clarifying the regulation of NO\/N2O production in Nitrosomonas europaea during anoxic–oxic transition via flux …",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· Water Research",
+"cites": 35,
+"abstract": "Abstract The metabolic mechanism regulating the production of nitric and nitrous oxide (NO, N 2 O) in ammonia oxidizing bacteria (AOB) was characterized by flux balance analysis (FBA) of a stoichiometric …",
+"keywords": [
+{
+            "word": "Nitrous Oxide",
+"guid": "2777573673"
+        }, {
+            "word": "Metabolic Network Modelling",
+"guid": "121094220"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9f3ff02802e06b5e943870c4109464d7",
+"title": "An exact arithmetic toolbox for a consistent and reproducible structural analysis of metabolic network models",
+"authors": [
+{
+            "name": "Leonid Chindelevitch",
+"guid": "1248768447"
+        }, {
+            "name": "Jason Trigg",
+"guid": "2105686715"
+        }, {
+            "name": "Aviv Regev",
+"guid": "1893730172"
+        }, {
+            "name": "Bonnie Berger",
+"guid": "2315546843"
+        }
+]
+,
+"year": "2014",
+"journal": "· Nature Communications",
+"cites": 34,
+"abstract": "Constraint-based models are currently the only methodology that allows the study of metabolism at the whole-genome scale. Flux balance analysis is commonly used to analyse constraint-based models. Curi…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Arithmetic",
+"guid": "94375191"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9914ea02d7fbb8c7c0abd4078bd64d9e",
+"title": "Differential Bees Flux Balance Analysis with OptKnock for In Silico Microbial Strains Optimization",
+"authors": [
+{
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Mdd Illias",
+"guid": "2901530211"
+        }, {
+            "name": "Chuii Khim Chong",
+"guid": "2157616592"
+        }, {
+            "name": "Lian E…",
+"guid": "2161638723"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS ONE",
+"cites": 34,
+"abstract": "Microbial strains optimization for the overproduction of desired phenotype has been a popular topic in recent years. The strains can be optimized through several techniques in the field of genetic engineering…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3ca4bf554208f51da28cbed54860510a",
+"title": "In vivo and in silico determination of essential genes of Campylobacter jejuni",
+"authors": [
+{
+            "name": "Aline Metris",
+"guid": "1876737993"
+        }, {
+            "name": "Mark Reuter",
+"guid": "2121689965"
+        }, {
+            "name": "Duncan J H Gaskin",
+"guid": "1510464615"
+        }, {
+            "name": "Jozsef Baranyi",
+"guid": "1836725922"
+        }, {
+            "name": "Arnoud H M Van Vliet",
+"guid": "1915679119"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Genomics",
+"cites": 34,
+"abstract": "In the United Kingdom, the thermophilic Campylobacter species C. jejuni and C. coli are the most frequent causes of food-borne gastroenteritis in humans. While campylobacteriosis is usually a relatively mild inf…",
+"keywords": [
+{
+            "word": "Transposon Mutagenesis",
+"guid": "28693550"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2680cd20492fd67282d50b864970e05d",
+"title": "SNA – a toolbox for the stoichiometric analysis of metabolic networks",
+"authors": [
+{
+            "name": "Robert Urbanczik",
+"guid": "1248389462"
+        }
+]
+,
+"year": "2006",
+"journal": "· BMC Bioinformatics",
+"cites": 34,
+"abstract": "Background#R##N#Despite recent algorithmic and conceptual progress, the stoichiometric network analysis of large metabolic models remains a computationally challenging problem.",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "922e696446a86c0316b1050f88fcdad3",
+"title": "Current advances in molecular, biochemical, and computational modeling analysis of microalgal triacylglycerol biosynthesis.",
+"authors": [
+{
+            "name": "Sangram K Lenka",
+"guid": "2429978648"
+        }, {
+            "name": "Nicole J Carbonaro",
+"guid": "2041668924"
+        }, {
+            "name": "Rudolph V Park",
+"guid": "2552894963"
+        }, {
+            "name": "Stephen M Miller",
+"guid": "2137068751"
+        }, {
+            "name": "Ian F Thorpe",
+"guid": "1911814567"
+        }, {
+            "name": "Yantao Li",
+"guid": "2111442954"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology Advances",
+"cites": 34,
+"abstract": "Abstract Triacylglycerols (TAGs) are highly reduced energy storage molecules ideal for biodiesel production. Microalgal TAG biosynthesis has been studied extensively in recent years, both at the mole…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f82ecb81bb01b1524d0e90ab075cf901",
+"title": "Flux balance analysis of mixed microbial cultures: Application to the production of polyhydroxyalkanoates from complex mixtu…",
+"authors": [
+{
+            "name": "Filipa Pardelha",
+"guid": "2045446199"
+        }, {
+            "name": "Maria G E Albuquerque",
+"guid": "2131610477"
+        }, {
+            "name": "Maria A M Reis",
+"guid": "2115641982"
+        }, {
+            "name": "Joao M L Dias",
+"guid": "2304340982"
+        }, {
+            "name": "Rui Oliveira",
+"guid": "2193071107"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Biotechnology",
+"cites": 34,
+"abstract": "Fermented agro-industrial wastes are potential low cost substrates for polyhydroxyalkanoates (PHA) production by mixed microbial cultures (MMC). The use of complex substrates has however profound im…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Polyhydroxyalkanoates",
+"guid": "73447357"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

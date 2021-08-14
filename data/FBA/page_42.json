@@ -1,3 +1,4 @@
+[
 {
             "guid": "c769a3154ea3b4018de8f35fb514088b",
 "title": "Computational analysis of the productivity potential of CAM.",
@@ -37,4 +38,302 @@
         }
 ]
 
+        }, {
+            "guid": "452beea339ec134607da5ea95ac8451f",
+"title": "Metabolic network modelling : Including stochastic effects",
+"authors": [
+{
+            "name": "Ping Ao",
+"guid": "2248139960"
         }
+]
+,
+"year": "2005",
+"journal": "· Computers & Chemical Engineering",
+"cites": 23,
+"abstract": "We propose to model the dynamics of metabolic networks from a systems biology point of view by four dynamical structure elements: potential function, translocation matrix, degradation matrix, and stochasti…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Stochastic Differential Equation",
+"guid": "51955184"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f1b20355d122f1c2233520e39981a9d7",
+"title": "Comparison and Analysis of Objective Functions in Flux BalanceAnalysis",
+"authors": [
+{
+            "name": "Carlos Eduardo Garcia Sanchez",
+"guid": "2115086646"
+        }, {
+            "name": "Rodrigo Gonzalo Torres Saez",
+"guid": "2149455541"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biotechnology Progress",
+"cites": 23,
+"abstract": "Flux balanceanalysis (FBA) is currently one of the most important and used techniques for estimation of metabolic reaction rates (fluxes). This mathematical approach utilizes an optimization criterion in order t…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "493adcfc62281a074dd9410d4079497e",
+"title": "Mathematical modeling of monolignol biosynthesis in Populus xylem",
+"authors": [
+{
+            "name": "Yun Lee",
+"guid": "2430395201"
+        }, {
+            "name": "Eberhard O Voit",
+"guid": "2009454533"
+        }
+]
+,
+"year": "2010",
+"journal": "",
+"cites": 22,
+"abstract": "Abstract Recalcitrance of lignocellulosic biomass to sugar release is a central issue in the production of biofuel as an economically viable energy source. Among all contributing factors, variations in lignin cont…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "26847f1efcee90e4f3f3d60c87f0e611",
+"title": "MultiMetEval: Comparative and Multi-Objective Analysis of Genome-Scale Metabolic Models",
+"authors": [
+{
+            "name": "Piotr Zakrzewski",
+"guid": "2561999444"
+        }, {
+            "name": "Marnix H Medema",
+"guid": "2630647180"
+        }, {
+            "name": "Albert Gevorgyan",
+"guid": "2537762860"
+        }, {
+            "name": "Andrzej M Kierzek",
+"guid": "248477088"
+        }, {
+            "name": "Rainer Breitling",
+"guid": "1984847219"
+        }, {
+            "name": "Eriko T…",
+"guid": "2026558465"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS ONE",
+"cites": 22,
+"abstract": "Comparative metabolic modelling is emerging as a novel field, supported by the development of reliable and standardized approaches for constructing genome-scale metabolic models in high throughput. New …",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Multi-objective Optimization",
+"guid": "68781425"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c1739db62aac379b02d452cfd4387db2",
+"title": "Flux analysis of recombinant Saccharomyces cerevisiae YPB-G utilizing starch for optimal ethanol production",
+"authors": [
+{
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }, {
+            "name": "K Yalcin Arga",
+"guid": "413300366"
+        }, {
+            "name": "Mehmet M Altintas",
+"guid": "2138599156"
+        }, {
+            "name": "Kutlu O Ulgen",
+"guid": "2146392340"
+        }
+]
+,
+"year": "2004",
+"journal": "· Process Biochemistry",
+"cites": 22,
+"abstract": "Genetically modified Saccharomyces cerevisiae strain (YPB-G) which secretes a bifunctional fusion protein that contains both Bacillus subtilis α-amylase and Aspergillus awamori glucoamylase activities w…",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "beac5fcfeee1d2e27873d79f79f08b8f",
+"title": "Utilization of Saccharomyces cerevisiae recombinant strain incapable of both ethanol and glycerol biosynthesis for anaer…",
+"authors": [
+{
+            "name": "Yoshihiro Ida",
+"guid": "1942791067"
+        }, {
+            "name": "Takashi Hirasawa",
+"guid": "2146155068"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2013",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 22,
+"abstract": "The yeast Saccharomyces cerevisiae produces ethanol and glycerol as major unwanted byproducts, unless ethanol and glycerol are the target compounds. Minimizing the levels of these byproducts is impo…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0477a28a469659db07123087450073c7",
+"title": "Genetic modification of flux for flux prediction of mutants",
+"authors": [
+{
+            "name": "Quanyu Zhao",
+"guid": "2124574827"
+        }, {
+            "name": "Hiroyuki Kurata",
+"guid": "2189772778"
+        }
+]
+,
+"year": "2009",
+"journal": "· Bioinformatics",
+"cites": 22,
+"abstract": "Motivation: Gene deletion and overexpression are critical technologies for designing or improving the metabolic flux distribution of microbes. Some algorithms including flux balanceanalysis (FBA) and mini…",
+"keywords": [
+{
+            "word": "Genetically Modified Organism",
+"guid": "51456166"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1e415d48427ed3b57b023991169cfc3e",
+"title": "Advances in the integration of transcriptional regulatory information into genome-scale metabolic models",
+"authors": [
+{
+            "name": "R P Vivekananth",
+"guid": "2866287044"
+        }, {
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }
+]
+,
+"year": "2016",
+"journal": "· BioSystems",
+"cites": 22,
+"abstract": "A major goal of systems biology is to build predictive computational models of cellular metabolism. Availability of complete genome sequences and wealth of legacy biochemical information has led to the …",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fed5471206d4361a84ea5a7ea4ae3b2a",
+"title": "Why does yeast ferment? A flux balanceanalysis study.",
+"authors": [
+{
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }, {
+            "name": "Ettore Murabito",
+"guid": "30318258"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Hans V Westerhoff",
+"guid": "89570192"
+        }
+]
+,
+"year": "2010",
+"journal": "· Biochemical Society Transactions",
+"cites": 22,
+"abstract": "Advances in biological techniques have led to the availability of genome-scale metabolic reconstructions for yeast. The size and complexity of such networks impose limits on what types of analyses one can pe…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

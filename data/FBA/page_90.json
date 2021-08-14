@@ -1,3 +1,4 @@
+[
 {
             "guid": "fb901e6368b795538eaa16c9b2edd94f",
 "title": "Computational modeling of quiescent platelet energy metabolism in the context of whole-body glucose turnover",
@@ -31,4 +32,329 @@
         }
 ]
 
+        }, {
+            "guid": "69046ffd1b0573d9b612daef2c21e206",
+"title": "Metabolic flux balance analysis during lactate and glucose concomitant consumption in HEK293 cell cultures",
+"authors": [
+{
+            "name": "I Martinezmonge",
+"guid": "2899658890"
+        }, {
+            "name": "Joan Albiol",
+"guid": "2164433623"
+        }, {
+            "name": "Marti Lecina",
+"guid": "1828162318"
+        }, {
+            "name": "Leticia Listecalleja",
+"guid": "1446556022"
+        }, {
+            "name": "Joan Miret",
+"guid": "2467691268"
+        }, {
+            "name": "C Sola",
+"guid": "2323005228"
+        }, {
+            "name": "J J Cairo",
+"guid": "2111478099"
         }
+]
+,
+"year": "2019",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 3,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolic Flux Analysis",
+"guid": "160941953"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "98dbe14d9b6b110aeedfe3093e231c7c",
+"title": "Modelling the metabolism of protein secretion through the Tat route in Streptomyces lividans",
+"authors": [
+{
+            "name": "Jose R Valverde",
+"guid": "2097584025"
+        }, {
+            "name": "Sonia Gullon",
+"guid": "1479851682"
+        }, {
+            "name": "Rafael P Mellado",
+"guid": "2233789239"
+        }
+]
+,
+"year": "2018",
+"journal": "· BMC Microbiology",
+"cites": 3,
+"abstract": "Streptomyces lividans has demonstrated its value as an efficient host for protein production due to its ability to secrete functional proteins directly to the media. Secretory proteins that use the major Sec rout…",
+"keywords": [
+{
+            "word": "Protein Biosynthesis",
+"guid": "3675279"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "23bad9a43295c31be71d1f2660de5521",
+"title": "Dissecting Germ Cell Metabolism through Network Modeling.",
+"authors": [
+{
+            "name": "Leanne S Whitmore",
+"guid": "2113630999"
+        }, {
+            "name": "Ping Ye",
+"guid": "2118722636"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 3,
+"abstract": "Metabolic pathways are increasingly postulated to be vital in programming cell fate, including stemness, differentiation, proliferation, and apoptosis. The commitment to meiosis is a critical fate decision for mam…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ba49c98938b85875cbc2456497838deb",
+"title": "Computational Systems Biology of Metabolism in Infection",
+"authors": [
+{
+            "name": "Muberra Fatma Cesur",
+"guid": "2776402392"
+        }, {
+            "name": "Ecehan Abdik",
+"guid": "2796351036"
+        }, {
+            "name": "Unzile Guvengulhan",
+"guid": "2795373645"
+        }, {
+            "name": "Saliha Durmus",
+"guid": "2129856503"
+        }, {
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }
+]
+,
+"year": "2018",
+"journal": "· Experientia. Supplementum",
+"cites": 3,
+"abstract": "A systems approach to elucidate the effect of infection on cell metabolism provides several opportunities from a better understanding of molecular mechanisms to the identification of potential biomarkers and dr…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0af1c49899717e9098d5db1be7cb0e9e",
+"title": "Resolving Cell Composition Through Simple Measurements, Genome-Scale Modeling, and a Genetic Algorithm",
+"authors": [
+{
+            "name": "Ryan S Senger",
+"guid": "1974991969"
+        }, {
+            "name": "Hadi Nazembokaee",
+"guid": "2051939937"
+        }
+]
+,
+"year": "2013",
+"journal": "· Methods of Molecular Biology",
+"cites": 3,
+"abstract": "The biochemical composition of a cell is very complex and dynamic. It varies greatly among different organisms and environmental conditions. Inclusion of proper cell composition data is critical for accurat…",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b0d82c5156285ef91463b2f5cf4d770d",
+"title": "Genome-scale metabolic network reconstruction of the chloroform-respiring Dehalobacter restrictus strain CF",
+"authors": [
+{
+            "name": "Kevin Correia",
+"guid": "2714729416"
+        }, {
+            "name": "Hanchen Ho",
+"guid": "2883686118"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "2966875943"
+        }
+]
+,
+"year": "2018",
+"journal": "· bioRxiv",
+"cites": 3,
+"abstract": "Background: Organohalide-respiring bacteria (OHRB) play an important role in the global halogen cycle and bioremediation of industrial sites contaminated with chlorinated organics. One notable OHRB is Deh…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b2ddee181ebf87ff949ab189e53b2c7a",
+"title": "Rational design of organelle compartments in cells",
+"authors": [
+{
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Giovanni Carapezza",
+"guid": "1851350200"
+        }, {
+            "name": "Jole Costanza",
+"guid": "2123949151"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }, {
+            "name": "Giuseppe Nicosia",
+"guid": "2151495100"
+        }
+]
+,
+"year": "2012",
+"journal": "· EMBnet.journal",
+"cites": 3,
+"abstract": "Motivation and Objectives In recent years there is a growing interest in researching on mitochondria, chloroplasts and other mitochondrion-like organelles (e.g. hydrogenosomes, mitosomes and apicoplasts…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Mitosome",
+"guid": "69417951"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "51788e593a497298523432660ac56cfe",
+"title": "Feedbacks and oscillations in the virtual cell VICE",
+"authors": [
+{
+            "name": "Davide Chiarugi",
+"guid": "2277929506"
+        }, {
+            "name": "M Chinellato",
+"guid": "2500702364"
+        }, {
+            "name": "Pierpaolo Degano",
+"guid": "2352208385"
+        }, {
+            "name": "G Lo Brutto",
+"guid": "2692066936"
+        }, {
+            "name": "Roberto Marangoni",
+"guid": "1991032787"
+        }
+]
+,
+"year": "2006",
+"journal": "· computational methods in systems biology",
+"cites": 3,
+"abstract": "We analyse an enhanced specification of VICE, a hypothetical prokaryote with a genome as basic as possible. Besides the most common metabolic pathways of prokaryotes in interphase, VICE also posse…",
+"keywords": [
+{
+            "word": "Oscillation",
+"guid": "26733877"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a7a8262a892523b5e555d078552a84e5",
+"title": "Effects of metabolic engineering on downstream processing operational cost and energy consumption: the case of Escheri…",
+"authors": [
+{
+            "name": "Albert Enrique Tafur Rangel",
+"guid": "2750671856"
+        }, {
+            "name": "Laura Carolina Camelo Valera",
+"guid": "2751715381"
+        }, {
+            "name": "Jorge Mario Gomez Ramirez",
+"guid": "2251350969"
+        }, {
+            "name": "Andres Fe…",
+"guid": "2440688292"
+        }
+]
+,
+"year": "2018",
+"journal": "· Journal of Chemical Technology & Biotechnology",
+"cites": 3,
+"abstract": "BACKGROUND#R##N#Succinic acid production has been studied from a metabolic engineering or a downstream processing perspective, separately. The concentration of succinic acid and other by-produc…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "6dba7cad1b27d537c52fbcbb5e2ee83a",
 "title": "Metabolic Fluxes in Cancer Metabolism",
@@ -22,4 +23,281 @@
         }
 ]
 
+        }, {
+            "guid": "fab19c1e3ad244270ff031fbff7049b8",
+"title": "Modelling overflow metabolism in Escherichia coli with flux balanceanalysis incorporating differential proteomic efficienci…",
+"authors": [
+{
+            "name": "Hong Zeng",
+"guid": "2913319042"
+        }, {
+            "name": "Aidong Yang",
+"guid": "2109172067"
         }
+]
+,
+"year": "2019",
+"journal": "· BMC Systems Biology",
+"cites": 5,
+"abstract": "The formation of acetate by fast-growing Escherichia coli (E. coli) is a commonly observed phenomenon, often referred to as overflow metabolism. Among various studies that have been carried over decades, …",
+"keywords": [
+{
+            "word": "Strain (chemistry)",
+"guid": "61656845"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "548fc9c0e50a01a72942428a28108dc9",
+"title": "The future of genome-scale modeling of yeast through integration of a transcriptional regulatory network",
+"authors": [
+{
+            "name": "Guodong Liu",
+"guid": "2610013177"
+        }, {
+            "name": "Antonio Marras",
+"guid": "2544713392"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 5,
+"abstract": "Metabolism is regulated at multiple levels in response to the changes of internal or external conditions. Transcriptional regulation plays an important role in regulating many metabolic reactions by altering the …",
+"keywords": [
+{
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1fb6f317121f268218ce1d3dc71d3e62",
+"title": "Dark fermentation metabolic models to study strategies for hydrogen consumers inhibition",
+"authors": [
+{
+            "name": "Razieh Rafieenia",
+"guid": "2583504831"
+        }, {
+            "name": "Alberto Pivato",
+"guid": "1829262695"
+        }, {
+            "name": "Andrea Schievano",
+"guid": "1955409988"
+        }, {
+            "name": "Maria Cristina Lavagnolo",
+"guid": "1644243792"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioresource Technology",
+"cites": 5,
+"abstract": "Abstract A Flux BalanceAnalysis (FBA) metabolic model of dark fermentation was developed for anaerobic mixed cultures. In particular, the model was applied to evaluate the effect of a specific inoculu…",
+"keywords": [
+{
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "753bfb21044a85d4d0cae702bfe281b4",
+"title": "Isotopic Steady-State Flux Analysis",
+"authors": [
+
+]
+,
+"year": "2009",
+"journal": "",
+"cites": 5,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Fatty Acid Synthesis",
+"guid": "2776941171"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }
+]
+
+        }, {
+            "guid": "00953bc096bcf369ffce610eb277fe23",
+"title": "Stoichiometric network reconstruction and analysis of yeast sphingolipid metabolism incorporating different states of hyd…",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "· BioSystems",
+"cites": 5,
+"abstract": "Abstract The first elaborate metabolic model of Saccharomyces cerevisiae sphingolipid metabolism was reconstructed in silico . The model considers five different states of sphingolipid hydroxylation, renderin…",
+"keywords": [
+{
+            "word": "Cancer",
+"guid": "121608353"
+        }, {
+            "word": "Targeted Drug Delivery",
+"guid": "126511603"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "34cf0655df52b0eb70c8b56c3da2bc6a",
+"title": "Development and application of efficient pathway enumeration algorithms for metabolic engineering applications",
+"authors": [
+{
+            "name": "Filipe Alexandre Wang Liu",
+"guid": "2255640063"
+        }, {
+            "name": "Paulo Vilaca",
+"guid": "2008265950"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": "2015",
+"journal": "· Computer Methods and Programs in Biomedicine",
+"cites": 5,
+"abstract": "HighlightsPaper reviews the main (hyper)graph based algorithms for metabolic pathway enumeration.The FindPath and SSG revealed limitations in metabolic engineering case studies.These algorithms were im…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6508b0d45071406a4b3db52244d86c11",
+"title": "SLIMEr: Probing flexibility of lipid metabolism in yeast with an improved constraint-based modeling framework",
+"authors": [
+{
+            "name": "Benjamin J Sanchez",
+"guid": "2195132659"
+        }, {
+            "name": "Feiran Li",
+"guid": "2804932176"
+        }, {
+            "name": "Eduard J Kerkhoven",
+"guid": "1805635560"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2511224996"
+        }
+]
+,
+"year": "2019",
+"journal": "· BMC Systems Biology",
+"cites": 5,
+"abstract": "Background#R##N#A recurrent problem in genome-scale metabolic models (GEMs) is to correctly represent lipids as biomass requirements, due to the numerous of possible combinations of individual lip…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Lipidomics",
+"guid": "58017582"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8a28865e847caba09a4d1de54e2fb744",
+"title": "Prediction of metabolic fluxes from gene expression data with Huber penalty convex optimization function.",
+"authors": [
+{
+            "name": "Shaowu Zhang",
+"guid": "2294032378"
+        }, {
+            "name": "Wanglong Gou",
+"guid": "2698990579"
+        }, {
+            "name": "Yan Li",
+"guid": "2701915107"
+        }
+]
+,
+"year": "2017",
+"journal": "· Molecular BioSystems",
+"cites": 5,
+"abstract": "As one of the critical parameters of a metabolic pathway, the metabolic flux in a metabolic network serves as an essential role in physiology and pathology. Constraint-based metabolic models are the widely use…",
+"keywords": [
+{
+            "word": "Pearson Product-moment Correlation Coefficient",
+"guid": "55078378"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0a7d5f351d9f956e70f1984c31e8eaf3",
+"title": "OptGene: a framework for in silico metabolic engineering",
+"authors": [
+
+]
+,
+"year": "2008",
+"journal": "",
+"cites": 5,
+"abstract": "Introduction In metabolic engineering problems, due to the complexity of metabolic networks, it is often difficult to identify a priori which genetic manipulations will originate a given desired phenotype. Genom…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Evolutionary Algorithm",
+"guid": "159149176"
+        }
+]
+
+        }
+]

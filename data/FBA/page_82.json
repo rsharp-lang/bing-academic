@@ -1,3 +1,4 @@
+[
 {
             "guid": "b2249ef02d8f512d7325dd9df7791a08",
 "title": "Discovery of metabolite biomarkers: flux analysis and reaction-reaction network approach",
@@ -37,4 +38,296 @@
         }
 ]
 
+        }, {
+            "guid": "7283dabba82eaab0ac2279b0fe6a7030",
+"title": "Exploration of Quantitative Scoring Metrics to Compare Systems Biology Modeling Approaches",
+"authors": [
+{
+            "name": "Chanchala D Kaddi",
+"guid": "2077572360"
+        }, {
+            "name": "E D Oden",
+"guid": "2546698245"
+        }, {
+            "name": "C F Quo",
+"guid": "2304275661"
+        }, {
+            "name": "May D Wang",
+"guid": "2140911930"
         }
+]
+,
+"year": "2007",
+"journal": "· international conference of the ieee engineering in medicine and biology soci…",
+"cites": 4,
+"abstract": "In this paper, we report a focused case study to assess whether quantitative metrics are useful to evaluate molecular-level system biology models on cellular metabolism. Ideally, the bio-modeling community shal…",
+"keywords": [
+{
+            "word": "Electronic Engineering",
+"guid": "24326235"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ef9995d0d93e6c0b197ea29138091f13",
+"title": "Construction and analysis of a genome-scale metabolic network for Bacillus licheniformis WX-02",
+"authors": [
+{
+            "name": "Jing Guo",
+"guid": "2421790954"
+        }, {
+            "name": "Hong Zhang",
+"guid": "2584795476"
+        }, {
+            "name": "Cheng Wang",
+"guid": "2584560980"
+        }, {
+            "name": "Jiwei Chang",
+"guid": "2098755794"
+        }, {
+            "name": "Lingling Chen",
+"guid": "2583564917"
+        }
+]
+,
+"year": "2016",
+"journal": "· Research in Microbiology",
+"cites": 4,
+"abstract": "We constructed the genome-scale metabolic network of Bacillus licheniformis (B. licheniformis) WX-02 by combining genomic annotation, high-throughput phenotype microarray (PM) experiments and literature-…",
+"keywords": [
+{
+            "word": "Microarray Analysis Techniques",
+"guid": "8415881"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "47e15f8b6cb51a48b50ea6ebd1a2a18b",
+"title": "From physiology, genomes, systems, and self-organization to systems biology: the historical roots of a twenty-first century …",
+"authors": [
+{
+            "name": "Miguel A Aon",
+"guid": "2017185638"
+        }, {
+            "name": "David Lloyd",
+"guid": "2302693625"
+        }, {
+            "name": "V Saks",
+"guid": "2661884782"
+        }
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 4,
+"abstract": "Systems Biology represents a new paradigm aiming at a whole organism-level understanding of biological phenomena, emphasizing interconnections and functional interrelationships rather than component part…",
+"keywords": [
+{
+            "word": "Physiology",
+"guid": "42407357"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fb3cd5386db07ba410744450cf9c2932",
+"title": "Improving flux predictions by integrating data from multiple strains",
+"authors": [
+{
+            "name": "Matthew R Long",
+"guid": "2157756670"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2016",
+"journal": "· Bioinformatics",
+"cites": 4,
+"abstract": "Incorporating experimental data into constraint-based models can improve the quality and accuracy of their metabolic flux predictions. Unfortunately, routinely and easily measured experimental data such as …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2c411a07efce0d6a1d9e6573cc76b83d",
+"title": "In silico analysis of Clostridium acetobutylicum ATCC 824 metabolic response to an external electron supply",
+"authors": [
+{
+            "name": "Roberto Angel Gallardo",
+"guid": "2625933171"
+        }, {
+            "name": "Alejandro Acevedo",
+"guid": "2146892496"
+        }, {
+            "name": "Julian A Quintero",
+"guid": "2289462990"
+        }, {
+            "name": "Ivan Paredes",
+"guid": "2292291893"
+        }, {
+            "name": "Raul Conejeros",
+"guid": "2303789462"
+        }, {
+            "name": "Ger…",
+"guid": "2155943374"
+        }
+]
+,
+"year": "2016",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 4,
+"abstract": "The biological production of butanol has become an important research field and thanks to genome sequencing and annotation; genome-scale metabolic reconstructions have been developed for several …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1c814ab0976a75eb1dd8925759120e56",
+"title": "Using Topology of the Metabolic Network to Predict Viability of Mutant Strains",
+"authors": [
+{
+            "name": "Zeba Wunderlich",
+"guid": "2073689481"
+        }, {
+            "name": "Leonid A Mirny",
+"guid": "336027099"
+        }
+]
+,
+"year": "2005",
+"journal": "· Genome Biology",
+"cites": 4,
+"abstract": "Understanding the relationships between the structure (topology) andfunction of biological networks is a central question of systems biology. The idea thattopology is a major determinant of systems function h…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "429594d6ceee79bfda97fc6a267a7977",
+"title": "Removing both Internal and Unrealistic Energy-Generating Cycles in Flux BalanceAnalysis",
+"authors": [
+{
+            "name": "Elad Noor",
+"guid": "2169537530"
+        }
+]
+,
+"year": "2018",
+"journal": "· arXiv: Molecular Networks",
+"cites": 4,
+"abstract": "Constraint-based stoichiometric models are ubiquitous in metabolic research, with Flux BalanceAnalysis (FBA) being the most widely used method to describe metabolic phenotypes of cells growing in steady-s…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Machine Learning",
+"guid": "119857082"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4e73d78e0a633938ffa002cadcfaf948",
+"title": "COSYS: A computational infrastructure for systems biology",
+"authors": [
+
+]
+,
+"year": "2016",
+"journal": "· computational intelligence methods for bioinformatics and biostatistics",
+"cites": 4,
+"abstract": "Computational models are essential in order to integrate and extract knowledge from the large amount of -omics data that are increasingly being collected thanks to high-throughput technologies. Unfortunately, t…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Modeling And Simulation",
+"guid": "167343916"
+        }, {
+            "word": "Supercomputer",
+"guid": "83283714"
+        }
+]
+
+        }, {
+            "guid": "8fc6ac8d955754b4c9e138ef5ffcbd2d",
+"title": "Modelling pyruvate dehydrogenase under hypoxia and its role in cancer metabolism",
+"authors": [
+{
+            "name": "Filmon Eyassu",
+"guid": "2765550222"
+        }, {
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }
+]
+,
+"year": "2017",
+"journal": "· Royal Society Open Science",
+"cites": 4,
+"abstract": "Metabolism is the only biological system that can be fully modelled at genome scale. As a result, metabolic models have been increasingly used to study the molecular mechanisms of various diseases. …",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

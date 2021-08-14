@@ -1,3 +1,4 @@
+[
 {
             "guid": "5bf9ddc1f6f9ef4d916e5c4ee9eb6862",
 "title": "Comparative multi-omics systems analysis of Escherichia coli strains B and K-12.",
@@ -43,4 +44,344 @@
         }
 ]
 
+        }, {
+            "guid": "a876032933288d96928959c30059c751",
+"title": "13C‐metabolic fluxanalysis for batch culture of Escherichia coli and its pyk and pgi gene knockout mutants based on mass is…",
+"authors": [
+{
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Nobuyoshi Ishii",
+"guid": "2196889236"
+        }, {
+            "name": "Kenji Nakahigashi",
+"guid": "2007920734"
+        }, {
+            "name": "Takashi Hirasawa",
+"guid": "2146155068"
+        }, {
+            "name": "Tomoyoshi Soga",
+"guid": "2144630547"
+        }, {
+            "name": "Masaru T…",
+"guid": "1967615850"
         }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology Progress",
+"cites": 119,
+"abstract": "Since most bio-production processes are conducted in a batch or fed-batch manner, the evaluation of metabolism with respect to time is highly desirable. Toward this aim, we applied 13C-metabolic fluxanal…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9a2bf48783609faa6541f0c95c0aa4b1",
+"title": "In silico approaches to study mass and energy flows in microbial consortia: a syntrophic case study",
+"authors": [
+{
+            "name": "Reed L Taffs",
+"guid": "2585668496"
+        }, {
+            "name": "John E Aston",
+"guid": "2711559818"
+        }, {
+            "name": "Kristen A Brileya",
+"guid": "2068301985"
+        }, {
+            "name": "Zackary J Jay",
+"guid": "2066981528"
+        }, {
+            "name": "Christian G Klatt",
+"guid": "1643179330"
+        }, {
+            "name": "Shawn E Mcglynn",
+"guid": "2059698516"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 118,
+"abstract": "Background#R##N#Three methods were developed for the application of stoichiometry-based network analysis approaches including elementary mode analysis to the study of mass and energy flows in micro…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Thermophile",
+"guid": "27911776"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "01c6b642b9d93f9b537763fcc14c4c2d",
+"title": "Can the whole be less than the sum of its parts? Pathway analysis in genome-scale metabolic networks using elementar…",
+"authors": [
+{
+            "name": "Christoph Kaleta",
+"guid": "74203850"
+        }, {
+            "name": "Luis F De Figueiredo",
+"guid": "2136552502"
+        }, {
+            "name": "Stefan Schuster",
+"guid": "2569839502"
+        }
+]
+,
+"year": "2009",
+"journal": "· Genome Research",
+"cites": 118,
+"abstract": "Elementary modes represent a valuable concept in the analysis of metabolic reaction networks. However, they can only be computed in medium-size systems, preventing application to genome-scale metabolic …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0d25d7a386f8aaa47690ef3fd482c72c",
+"title": "AlgaGEM - a genome-scale metabolic reconstruction of algae based on the Chlamydomonas reinhardtii genome",
+"authors": [
+{
+            "name": "Cristiana Gomes De Oliveira Dalmolin",
+"guid": "2012929314"
+        }, {
+            "name": "Lakeee Quek",
+"guid": "2134002722"
+        }, {
+            "name": "Robin W Palfreyman",
+"guid": "1819901280"
+        }, {
+            "name": "Lars K Nielsen",
+"guid": "2124263552"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Genomics",
+"cites": 117,
+"abstract": "Background#R##N#Microalgae have the potential to deliver biofuels without the associated competition for land resources. In order to realise the rates and titres necessary for commercial production, however…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "28031597b26fad9da8958b85bfffc42c",
+"title": "Genome-scale metabolic reconstructions of Pichia stipitis and Pichia pastoris and in silico evaluation of their potentials",
+"authors": [
+{
+            "name": "Luis Caspeta",
+"guid": "71710573"
+        }, {
+            "name": "Saeed Shoaie",
+"guid": "2151234782"
+        }, {
+            "name": "Rasmus Agren",
+"guid": "1912267410"
+        }, {
+            "name": "Intawat Nookaew",
+"guid": "231832933"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 116,
+"abstract": "Background#R##N#Pichia stipitis and Pichia pastoris have long been investigated due to their native abilities to metabolize every sugar from lignocellulose and to modulate methanol consumption, respectiv…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2f19b8324a5d05c3ede0e1c195b7690c",
+"title": "Application of dynamic flux balance analysis to an industrial Escherichia coli fermentation",
+"authors": [
+{
+            "name": "Adam L Meadows",
+"guid": "2745733348"
+        }, {
+            "name": "Rahi Karnik",
+"guid": "2555708389"
+        }, {
+            "name": "Harry Lam",
+"guid": "2702412146"
+        }, {
+            "name": "Sean Forestell",
+"guid": "2666489512"
+        }, {
+            "name": "Brad Snedecor",
+"guid": "2070447778"
+        }
+]
+,
+"year": "2010",
+"journal": "· Metabolic Engineering",
+"cites": 116,
+"abstract": "Abstract We have developed a reactor-scale model of Escherichia coli metabolism and growth in a 1000L process for the production of a recombinant therapeutic protein. The model consists of two distinct parts…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1c92642e60d088894a933a7009ee4144",
+"title": "Dynamic fluxbalance modeling to increase the production of high-value compounds in green microalgae",
+"authors": [
+{
+            "name": "Robert J Flassig",
+"guid": "2055612470"
+        }, {
+            "name": "Melanie Fachet",
+"guid": "245129318"
+        }, {
+            "name": "Kai Hoffner",
+"guid": "2023742012"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
+        }, {
+            "name": "Kai Sundmacher",
+"guid": "713527922"
+        }
+]
+,
+"year": "2016",
+"journal": "· Biotechnology for Biofuels",
+"cites": 116,
+"abstract": "Photosynthetic organisms can be used for renewable and sustainable production of fuels and high-value compounds from natural resources. Costs for design and operation of large-scale algae cultivation syste…",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Mathematical Model",
+"guid": "76969082"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5d011dd6cdef144518e021ba6a4f7b34",
+"title": "MetRxn: a knowledgebase of metabolites and reactions spanning metabolic models and databases.",
+"authors": [
+{
+            "name": "Akhil Kumar",
+"guid": "2101253922"
+        }, {
+            "name": "Patrick F Suthers",
+"guid": "217024006"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Bioinformatics",
+"cites": 115,
+"abstract": "Increasingly, metabolite and reaction information is organized in the form of genome-scale metabolic reconstructions that describe the reaction stoichiometry, directionality, and gene to protein to reaction as…",
+"keywords": [
+{
+            "word": "Biological Database",
+"guid": "20901353"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "69c4407b8ddc7ee75cb299e5cc4f1f99",
+"title": "Flux Design: In silico design of cell factories based on correlation of pathway fluxes to desired properties",
+"authors": [
+{
+            "name": "Guido Melzer",
+"guid": "2573816863"
+        }, {
+            "name": "Manely Eslahpazir Esfandabadi",
+"guid": "2512658902"
+        }, {
+            "name": "Ezequiel Francolara",
+"guid": "2229901960"
+        }, {
+            "name": "Christoph Wittmann",
+"guid": "1973377886"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 114,
+"abstract": "Background#R##N#The identification of genetic target genes is a key step for rational engineering of production strains towards bio-based chemicals, fuels or therapeutics. This is often a difficult task, beca…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

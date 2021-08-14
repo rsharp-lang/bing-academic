@@ -1,3 +1,4 @@
+[
 {
             "guid": "f79d261d719742c5fd62caf90b5e70e8",
 "title": "Constraining Genome-Scale Models to Represent the Bow Tie Structure of Metabolism for 13C Metabolic Flux Analysis",
@@ -37,4 +38,299 @@
         }
 ]
 
+        }, {
+            "guid": "a48280b420d9d71f1fd38e2991c703ec",
+"title": "Analysis and design of biological circuits and systems",
+"authors": [
+
+]
+,
+"year": "2009",
+"journal": "· international symposium on circuits and systems",
+"cites": 2,
+"abstract": "Systems and synthetic biology are two emerging disciplines that hold promise to revolutionize our understanding of biological systems and to herald a new era of programmable hardware, respectively. …",
+"keywords": [
+{
+            "word": "Ordinary Differential Equation",
+"guid": "51544822"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Differential Equation",
+"guid": "78045399"
         }
+]
+
+        }, {
+            "guid": "1453a8fd1a0ae864b34878688ff40391",
+"title": "Genome-Scale Modeling of Thermophilic Microorganisms",
+"authors": [
+{
+            "name": "Sanjeev Dahal",
+"guid": "2644328452"
+        }, {
+            "name": "Suresh Poudel",
+"guid": "2693202572"
+        }, {
+            "name": "R Adam Thompson",
+"guid": "2154610240"
+        }
+]
+,
+"year": "2016",
+"journal": "· Advances in Biochemical Engineering \/ Biotechnology",
+"cites": 2,
+"abstract": "Thermophilic microorganisms are of increasing interest for many industries as their enzymes and metabolisms are highly efficient at elevated temperatures. However, their metabolic processes are ofte…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Thermophile",
+"guid": "27911776"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "654042829251bf17095516cde39fdd7a",
+"title": "Algae genome-scale reconstruction, modelling and applications",
+"authors": [
+
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 2,
+"abstract": "Driven by revolutionary advances in high-throughput omics technologies, genome-scale metabolic reconstructions are a common denominator in systems biology and are available for a wide range of org…",
+"keywords": [
+{
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Glycolate Metabolism",
+"guid": "2909582709"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d6fa4a305a3c86065520a83dc2c1dff0",
+"title": "Partial inhibition and bilevel optimization in flux balanceanalysis",
+"authors": [
+{
+            "name": "Giuseppe Facchetti",
+"guid": "2068482808"
+        }, {
+            "name": "Claudio Altafini",
+"guid": "2214272408"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Bioinformatics",
+"cites": 2,
+"abstract": "Motivation#R##N#Within Flux BalanceAnalysis, the investigation of complex subtasks, such as finding the optimal perturbation of the network or finding an optimal combination of drugs, often requires to set up a …",
+"keywords": [
+{
+            "word": "Bilevel Optimization",
+"guid": "3309286"
+        }, {
+            "word": "Boolean Data Type",
+"guid": "7342684"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "56bd43c75a3e7709332803f6a8d3b6f0",
+"title": "Overcoming the lack of kinetic information in biochemical reactions networks",
+"authors": [
+{
+            "name": "Niccolo Totis",
+"guid": "2611667661"
+        }, {
+            "name": "Laura Follia",
+"guid": "2611479803"
+        }, {
+            "name": "Chiara Riganti",
+"guid": "10217226"
+        }, {
+            "name": "Francesco Novelli",
+"guid": "1971096120"
+        }, {
+            "name": "Francesca Cordero",
+"guid": "2115900252"
+        }, {
+            "name": "Marco Beccuti",
+"guid": "1976296970"
+        }
+]
+,
+"year": "2017",
+"journal": "· measurement and modeling of computer systems",
+"cites": 2,
+"abstract": "A main aspect in computational modelling of biological systems is the determination of model structure and model parameters. Due to economical and technical reasons, only part of these details are well cha…",
+"keywords": [
+{
+            "word": "Ode",
+"guid": "34862557"
+        }, {
+            "word": "Petri Net",
+"guid": "38677869"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "791cebe8c4ac50e6f89d49677594b30e",
+"title": "Evolutionary Approaches for Strain Optimization Using Dynamic Models under a Metabolic Engineering Perspective",
+"authors": [
+{
+            "name": "Pedro Evangelista",
+"guid": "1997777526"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "E C Ferreira",
+"guid": "2140807371"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": "2009",
+"journal": "· evolutionary computation machine learning and data mining in bioinformatics",
+"cites": 2,
+"abstract": "One of the purposes of Systems Biology is the quantitative modeling of biochemical networks. In this effort, the use of dynamical mathematical models provides for powerful tools in the prediction of the phe…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c1e500052d4ff05a1a6827de39bfe737",
+"title": "A multi-scale, multi-disciplinary approach for assessing the technological, economic and environmental performance of b…",
+"authors": [
+{
+            "name": "Markus J Herrgard",
+"guid": "1772558778"
+        }, {
+            "name": "Sumesh Sukumara",
+"guid": "1878503389"
+        }, {
+            "name": "Miguel A Campodonico",
+"guid": "2207455665"
+        }, {
+            "name": "Kai Zhuang",
+"guid": "2137039988"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biochemical Society Transactions",
+"cites": 2,
+"abstract": "In recent years, bio-based chemicals have gained interest as a renewable alternative to petrochemicals. However, there is a significant need to assess the technological, biological, economic and environmenta…",
+"keywords": [
+{
+            "word": "Chemical Industry",
+"guid": "12404463"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a25e77e879ce7208db991378d643105e",
+"title": "Effective Dynamic Models of Metabolic Networks",
+"authors": [
+{
+            "name": "Michael Vilkhovoy",
+"guid": "2572107689"
+        }, {
+            "name": "Mason Minot",
+"guid": "2340724694"
+        }, {
+            "name": "Jeffrey D Varner",
+"guid": "2019038162"
+        }
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 2,
+"abstract": "Mathematical models of biochemical networks are the useful tools to understand and ultimately predict how cells utilize nutrients to produce valuable products. Hybrid cybernetic models (HCMs) in combinatio…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Mathematical Model",
+"guid": "76969082"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f971d150a3a7868c3cb9eeb57ae0f3a5",
+"title": "Robust mutant strain design by pessimistic optimization.",
+"authors": [
+{
+            "name": "Meltem Apaydin",
+"guid": "2222205180"
+        }, {
+            "name": "Liang Xu",
+"guid": "2761854274"
+        }, {
+            "name": "Bo Zeng",
+"guid": "2184971861"
+        }, {
+            "name": "Xiaoning Qian",
+"guid": "2120003736"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Genomics",
+"cites": 2,
+"abstract": "Background#R##N#Flux BalanceAnalysis (FBA) based mathematical modeling enables in silico prediction of systems behavior for genome-scale metabolic networks. Computational methods have bee…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "bb6c00cadc8bea04e13d43ddb8371e59",
 "title": "Noise effect in metabolic networks",
@@ -34,4 +35,299 @@
         }
 ]
 
+        }, {
+            "guid": "8f9f1a5e802d64118e9f85e81b4b5c91",
+"title": "Metabolic network destruction: Relating topology to robustness",
+"authors": [
+{
+            "name": "Wynand Winterbach",
+"guid": "1999660682"
+        }, {
+            "name": "Huijuan Wang",
+"guid": "2133561219"
+        }, {
+            "name": "Marcel J T Reinders",
+"guid": "2158742305"
+        }, {
+            "name": "Piet Van Mieghem",
+"guid": "718552027"
+        }, {
+            "name": "Dick De Ridder",
+"guid": "2964534701"
         }
+]
+,
+"year": "2011",
+"journal": "· Nano Communication Networks",
+"cites": 2,
+"abstract": "Abstract Biological networks exhibit intriguing topological properties such as small-worldness. In this paper, we investigate whether the topology of a particular type of biological network, a metabolic networ…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d52a0322485a9aade304a4902556b133",
+"title": "Systems Biology of Tuberculosis: Insights for Drug Discovery",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "",
+"cites": 2,
+"abstract": "Tuberculosis has been a global health concern for decades and the emergence of resistant strains and co-infection with HIV warrant newer approaches to identify anti-tubercular drugs and targets. The availabilit…",
+"keywords": [
+{
+            "word": "Boolean Network",
+"guid": "134444547"
+        }, {
+            "word": "Drug Discovery",
+"guid": "74187038"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "33f856ee8c54e2491363b1a47bc1cf96",
+"title": "Quantitative metrics for bio-modeling algorithm selection",
+"authors": [
+
+]
+,
+"year": "2008",
+"journal": "· international conference of the ieee engineering in medicine and biology soci…",
+"cites": 2,
+"abstract": "In this paper, we report our efforts in developing guidelines that are capable of helping researchers to select algorithms in systems biology modeling. We propose a set of metrics based on discrete observabl…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Specification",
+"guid": "117222624"
+        }, {
+            "word": "Modelling Biological Systems",
+"guid": "137866125"
+        }
+]
+
+        }, {
+            "guid": "7604a7885db3a0e65e9e41f1a73598a0",
+"title": "PlantSEED enables automated annotation and reconstruction of plant primary metabolism with improved compartmentalizati…",
+"authors": [
+{
+            "name": "Samuel M D Seaver",
+"guid": "2034033404"
+        }, {
+            "name": "Claudia Lermaortiz",
+"guid": "288634975"
+        }, {
+            "name": "Neal Conrad",
+"guid": "2292185968"
+        }, {
+            "name": "Arman Mikaili",
+"guid": "2809007067"
+        }, {
+            "name": "Avinash Sreedasyam",
+"guid": "2641943356"
+        }, {
+            "name": "Andre…",
+"guid": "2126668887"
+        }
+]
+,
+"year": "2018",
+"journal": "· Plant Journal",
+"cites": 2,
+"abstract": "",
+"keywords": [
+{
+            "word": "Compartmentalization (psychology)",
+"guid": "42174756"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "99271624515b79385a774d0efd61531a",
+"title": "Stochastic Simulations of Cellular Processes: From Single Cells to Colonies",
+"authors": [
+{
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biophysical Journal",
+"cites": 2,
+"abstract": "All chemical reactions are inherently random discrete events; while large numbers of reacting species in well-stirred vessels my appear to be governed by deterministic expressions, the biochemistry at the hea…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Stochastic Simulation",
+"guid": "25915931"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b1e7428da7e045fd3d52fa5d9bad5869",
+"title": "Characteristics of oxygen transport through the surface of the isolated perfused rat liver.",
+"authors": [
+{
+            "name": "K V Shadrin",
+"guid": "2627860375"
+        }, {
+            "name": "I I Morgulis",
+"guid": "394543858"
+        }, {
+            "name": "V G Pahomova",
+"guid": "2484316389"
+        }, {
+            "name": "A P Rupenko",
+"guid": "2704518462"
+        }, {
+            "name": "R G Khlebopros",
+"guid": "2308099243"
+        }
+]
+,
+"year": "2015",
+"journal": "· Doklady Biochemistry and Biophysics",
+"cites": 2,
+"abstract": "It is shown that the transport of oxygen through the surface of the isolated perfused rat liver is an energy-dependent process that requires the energy of ATP hydrolysis.",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f3cc714adb4197efe31135405458b367",
+"title": "Systematic development of biomass overproducing Scheffersomyces stipitis for high-cell-density fermentations",
+"authors": [
+{
+            "name": "Pornkamol Unrean",
+"guid": "2577173002"
+        }, {
+            "name": "Sukanya Jeennor",
+"guid": "2546542834"
+        }, {
+            "name": "Kobkul Laoteng",
+"guid": "2310095191"
+        }
+]
+,
+"year": "2016",
+"journal": "· Synthetic and Systems Biotechnology",
+"cites": 2,
+"abstract": "The development of economically feasible bio-based process requires efficient cell factories capable of producing the desired product at high titer under high-cell-density fermentation. Herein we present a co…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0f23bbf40b6c29c8c380012f3427ed9f",
+"title": "Leaf Energy Balance Requires Mitochondrial Respiration and Export of Chloroplast NADPH in the Light",
+"authors": [
+{
+            "name": "Sanu Shameer",
+"guid": "2792776582"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }
+]
+,
+"year": "2019",
+"journal": "· Plant Physiology",
+"cites": 2,
+"abstract": "Key aspects of leaf mitochondrial metabolism in the light remain unresolved. For example, there is debate about the relative importance of exporting reducing equivalents from mitochondria for the peroxisomal st…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3cab403341b4e52e4f19da0e01a016d0",
+"title": "Proliferation inhibition of cisplatin-resistant ovarian cancer cells using drugs screened by integrating a metabolic model and tr…",
+"authors": [
+{
+            "name": "Ehsan Motamedian",
+"guid": "1747667545"
+        }, {
+            "name": "E Taheri",
+"guid": "2752439746"
+        }, {
+            "name": "Fatemeh Bagheri",
+"guid": "2592899497"
+        }
+]
+,
+"year": "2017",
+"journal": "· Cell Proliferation",
+"cites": 2,
+"abstract": "Objectives#R##N#If screening to find effective drugs is possible, the inhibition of proliferation using existing drugs can be a practical strategy to control the drug resistance of cancer. Development of a sys…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Cancer Cell",
+"guid": "96232424"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,3 +1,4 @@
+[
 {
             "guid": "0ab51a4456f520d3f138233905ad9a00",
 "title": "Computation of metabolic fluxes and efficiencies for biological carbon dioxide fixation",
@@ -28,4 +29,299 @@
         }
 ]
 
+        }, {
+            "guid": "87a2762895ccf3c4e101455b8794c114",
+"title": "Systems Biology of lactic acid bacteria: a critical review.",
+"authors": [
+{
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Herwig Bachmann",
+"guid": "2055921307"
+        }, {
+            "name": "Douwe Molenaar",
+"guid": "2128267214"
         }
+]
+,
+"year": "2011",
+"journal": "· Microbial Cell Factories",
+"cites": 49,
+"abstract": "Understanding the properties of a system as emerging from the interaction of well described parts is the most important goal of Systems Biology. Although in the practice of Lactic Acid Bacteria (LAB) physiolog…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "205d5fb8fc8bb0958ef538ef2f0206a2",
+"title": "Genetic and metabolic determinants of nutritional phenotype in an insect–bacterial symbiosis",
+"authors": [
+{
+            "name": "Sandy J Macdonald",
+"guid": "2138566124"
+        }, {
+            "name": "Gavin H Thomas",
+"guid": "2542588231"
+        }, {
+            "name": "Angela E Douglas",
+"guid": "2460502529"
+        }
+]
+,
+"year": "2011",
+"journal": "· Molecular Ecology",
+"cites": 49,
+"abstract": "The pervasive influence of resident microorganisms on the phenotype of their hosts is exemplified by the intracellular bacterium Buchnera aphidicola, which provides its aphid partner with essential amino acids …",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Symbiosis",
+"guid": "43144210"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e9cff94e18899681bffd88341fc50c6a",
+"title": "Flux balance analysis predicts essential genes in clear cell renal cell carcinoma metabolism",
+"authors": [
+{
+            "name": "Francesco Gatto",
+"guid": "2140418173"
+        }, {
+            "name": "Heike Miess",
+"guid": "2020771708"
+        }, {
+            "name": "Almut Schulze",
+"guid": "2037886682"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2015",
+"journal": "· Scientific Reports",
+"cites": 49,
+"abstract": "Flux balance analysis is the only modelling approach that is capable of producing genome-wide predictions of gene essentiality that may aid to unveil metabolic liabilities in cancer. Nevertheless, a syst…",
+"keywords": [
+{
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "17672a58aa9003f08691c3acf6c8e035",
+"title": "Genome-scale modeling enables metabolic engineering of Saccharomyces cerevisiae for succinic acid production",
+"authors": [
+{
+            "name": "Rasmus Agren",
+"guid": "1912267410"
+        }, {
+            "name": "Jose Manuel Otero",
+"guid": "2610020173"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2013",
+"journal": "· Journal of Industrial Microbiology & Biotechnology",
+"cites": 49,
+"abstract": "In this work, we describe the application of a genome-scale metabolic model and flux balance analysis for the prediction of succinic acid overproduction strategies in Saccharomyces cerevisiae. The top three sin…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Reverse Krebs Cycle",
+"guid": "18545589"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2a8f64c54a7a762d9fe9014075f549c3",
+"title": "Integrating flux balance analysis into kinetic models to decipher the dynamic metabolism of Shewanella oneidensis MR-1.",
+"authors": [
+{
+            "name": "Xueyang Feng",
+"guid": "2059886172"
+        }, {
+            "name": "You Xu",
+"guid": "2123053962"
+        }, {
+            "name": "Yixin Chen",
+"guid": "2295009377"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS Computational Biology",
+"cites": 48,
+"abstract": "Shewanella oneidensis MR-1 sequentially utilizes lactate and its waste products (pyruvate and acetate) during batch culture. To decipher MR-1 metabolism, we integrated genome-scale flux balance analysis (…",
+"keywords": [
+{
+            "word": "Gluconeogenesis",
+"guid": "20904676"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "631cd34479ee9ddf97adca392f1c4b4c",
+"title": "Genome‐scale metabolic model integrated with RNAseq data to identify metabolic states of Clostridium thermocellum",
+"authors": [
+{
+            "name": "Christopher M Gowen",
+"guid": "2146119903"
+        }, {
+            "name": "Stephen S Fong",
+"guid": "2230560253"
+        }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology Journal",
+"cites": 48,
+"abstract": "Constraint-based genome-scale metabolic models are becoming an established tool for using genomic and biochemical information to predict cellular phenotypes. While these models provide quantitative pre…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "985be5d39e8606e8ca9dcc19376a52b9",
+"title": "Plant genome-scale metabolic reconstruction and modelling",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 48,
+"abstract": "Genome-scale metabolic reconstructions are used extensively in the study of microbial metabolism and have proven powerful tools to guide rational pathway design of industrial strains. Generation and curatio…",
+"keywords": [
+{
+            "word": "Vascular Bundle",
+"guid": "160148424"
+        }, {
+            "word": "Transformation",
+"guid": "204241405"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4cb4f126853a796fe881c910cd4a8f19",
+"title": "Genome-level transcription data of Yersinia pestis analyzed with a New metabolic constraint-based approach",
+"authors": [
+{
+            "name": "Ali Navid",
+"guid": "2148589744"
+        }, {
+            "name": "Eivind Almaas",
+"guid": "25302217"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 48,
+"abstract": "Background#R##N#Constraint-based computational approaches, such as flux balance analysis (FBA), have proven successful in modeling genome-level metabolic behavior for conditions where a set of simp…",
+"keywords": [
+{
+            "word": "Interconnectivity",
+"guid": "25516864"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5b6614c8991e1c2880608e394e2e44e2",
+"title": "The Ability of Flux Balance Analysis to Predict Evolution of Central Metabolism Scales with the Initial Distance to the Opti…",
+"authors": [
+{
+            "name": "William R Harcombe",
+"guid": "2245689179"
+        }, {
+            "name": "Nigel F Delaney",
+"guid": "2305114027"
+        }, {
+            "name": "Nicholas Leiby",
+"guid": "807720769"
+        }, {
+            "name": "Niels Klitgord",
+"guid": "1975186576"
+        }, {
+            "name": "Christopher J Marx",
+"guid": "2014197716"
+        }
+]
+,
+"year": "2013",
+"journal": "· PLOS Computational Biology",
+"cites": 47,
+"abstract": "The most powerful genome-scale framework to model metabolism, flux balance analysis (FBA), is an evolutionary optimality model. It hypothesizes selection upon a proposed optimality criterion in order to …",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

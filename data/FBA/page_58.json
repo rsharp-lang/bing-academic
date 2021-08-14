@@ -1,3 +1,4 @@
+[
 {
             "guid": "336585cefa823eb5ed786ff9340229c0",
 "title": "Elucidating acetogenic H2 consumption in dark fermentation using fluxbalanceanalysis",
@@ -34,4 +35,332 @@
         }
 ]
 
+        }, {
+            "guid": "5a04cd6fe64e6b6da9c72f82a3305efe",
+"title": "Uncovering Metabolic Objectives Pursued by Changes of Enzyme Levels",
+"authors": [
+{
+            "name": "Sabrina Hoffmann",
+"guid": "2156684554"
+        }, {
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
         }
+]
+,
+"year": "2009",
+"journal": "· Annals of the New York Academy of Sciences",
+"cites": 12,
+"abstract": "Expression profiling and proteomic techniques reveal significant variations in the levels of thousands of mRNAs and proteins in response to environmental changes such as substrate depletion, oxidative stres…",
+"keywords": [
+{
+            "word": "Linear Combination",
+"guid": "9260844"
+        }, {
+            "word": "Gene Expression Profiling",
+"guid": "18431079"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e44459a1a50a3a5b4a3942aab4de233b",
+"title": "Metabolic model of central carbon and energy metabolisms of growing Arabidopsis thaliana in relation to sucrose translocati…",
+"authors": [
+{
+            "name": "Maksim Zakhartsev",
+"guid": "2618148889"
+        }, {
+            "name": "Irina V Medvedeva",
+"guid": "2311277809"
+        }, {
+            "name": "Yury Orlov",
+"guid": "2497543311"
+        }, {
+            "name": "Ilya R Akberdin",
+"guid": "2569563510"
+        }, {
+            "name": "Olga Krebs",
+"guid": "2123549463"
+        }, {
+            "name": "Waltraud X Schulze",
+"guid": "1989721921"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Plant Biology",
+"cites": 12,
+"abstract": "Background#R##N#Sucrose translocation between plant tissues is crucial for growth, development and reproduction of plants. Systemic analysis of these metabolic and underlying regulatory processes allow …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ba3d7441ded3d8f9d609ee94fb9de53",
+"title": "Identifying Gene Knockout Strategies Using a Hybrid of Bees Algorithm and FluxBalanceAnalysis for in Silico Optimization …",
+"authors": [
+{
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Chuii Khim Chong",
+"guid": "2157616592"
+        }, {
+            "name": "Lian En Chai",
+"guid": "2161638723"
+        }, {
+            "name": "Zuwairie I…",
+"guid": "2165755961"
+        }
+]
+,
+"year": "2012",
+"journal": "· distributed computing and artificial intelligence",
+"cites": 12,
+"abstract": "Genome-scale metabolic networks reconstructions from different organisms have become popular in recent years. Genetic engineering is proven to be able to obtain the desirable phenotypes. Optimization …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f1f48a740a10befff74dc12020c5989b",
+"title": "Modeling central metabolism and energy biosynthesis across microbial life.",
+"authors": [
+{
+            "name": "Janaka N Edirisinghe",
+"guid": "2798511865"
+        }, {
+            "name": "Pamela Weisenhorn",
+"guid": "2071953204"
+        }, {
+            "name": "Neal Conrad",
+"guid": "2292185968"
+        }, {
+            "name": "Fangfang Xia",
+"guid": "2163384288"
+        }, {
+            "name": "Ross Overbeek",
+"guid": "2444423396"
+        }, {
+            "name": "Rick Stev…",
+"guid": "2618893480"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Genomics",
+"cites": 12,
+"abstract": "Background#R##N#Automatically generated bacterial metabolic models, and even some curated models, lack accuracy in predicting energy yields due to poor representation of key pathways in energy biosynth…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6c70fc199b62a40e1219daf2cdafa770",
+"title": "WUFlux: an open-source platform for 13 C metabolic fluxanalysis of bacterial metabolism",
+"authors": [
+{
+            "name": "Lian He",
+"guid": "2166059467"
+        }, {
+            "name": "Stephen G Wu",
+"guid": "2158553408"
+        }, {
+            "name": "Muhan Zhang",
+"guid": "2539585314"
+        }, {
+            "name": "Yixin Chen",
+"guid": "2295009377"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }
+]
+,
+"year": "2016",
+"journal": "· BMC Bioinformatics",
+"cites": 12,
+"abstract": "Flux analyses, including fluxbalanceanalysis (FBA) and 13C-metabolic fluxanalysis (13C-MFA), offer direct insights into cell metabolism, and have been widely used to characterize model and non-model mi…",
+"keywords": [
+{
+            "word": "Computer Programming",
+"guid": "33857546"
+        }, {
+            "word": "Graphical User Interface",
+"guid": "37789001"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f620dee235780903efcd5e88280d3028",
+"title": "Thermodynamic analysis of regulation in metabolic networks using constraint-based modeling",
+"authors": [
+{
+            "name": "Srinath Garg",
+"guid": "2192021078"
+        }, {
+            "name": "Laurence Yang",
+"guid": "2349532682"
+        }, {
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Research Notes",
+"cites": 12,
+"abstract": "Background#R##N#Geobacter sulfurreducens is a member of the Geobacter species, which are capable of oxidation of organic waste coupled to the reduction of heavy metals and electrode with applications i…",
+"keywords": [
+{
+            "word": "Bioremediation",
+"guid": "2124996"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "18da87f7ef049e05590815a5ec160f8a",
+"title": "A dynamic fluxbalance model and bottleneck identification of glucose, xylose, xylulose co-fermentation in Saccharomyces c…",
+"authors": [
+{
+            "name": "William Hohenschuh",
+"guid": "147142231"
+        }, {
+            "name": "Ronald E Hector",
+"guid": "2423366170"
+        }, {
+            "name": "Ganti S Murthy",
+"guid": "2107198103"
+        }
+]
+,
+"year": "2015",
+"journal": "· Bioresource Technology",
+"cites": 12,
+"abstract": "A combination of batch fermentations and genome scale fluxbalanceanalysis were used to identify and quantify the rate limiting reactions in the xylulose transport and utilization pathway. Xylulose phosphoryl…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Fermentation",
+"guid": "100544194"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c039aba8e4db687527db95d0224aa8b3",
+"title": "Optimal flux patterns in cellular metabolic networks",
+"authors": [
+{
+            "name": "Eivind Almaas",
+"guid": "25302217"
+        }
+]
+,
+"year": "2007",
+"journal": "· Chaos",
+"cites": 12,
+"abstract": "The availability of whole-cell-level metabolic networks of high quality has made it possible to develop a predictive understanding of bacterial metabolism. Using the optimization framework of fluxbalanceanal…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "33e177ace9480c8296595c14e77d282b",
+"title": "A systems biology approach to reconcile metabolic network models with application to Synechocystis sp. PCC 6803 for bio…",
+"authors": [
+{
+            "name": "Reza Mohammadi",
+"guid": "2030404994"
+        }, {
+            "name": "Jalil Fallahmehrabadi",
+"guid": "2486760732"
+        }, {
+            "name": "Gholamreza Bidkhori",
+"guid": "2571393412"
+        }, {
+            "name": "Javad Zahiri",
+"guid": "2289407194"
+        }, {
+            "name": "Mohammad Javad Nir…",
+"guid": "2477250030"
+        }
+]
+,
+"year": "2016",
+"journal": "· Molecular BioSystems",
+"cites": 12,
+"abstract": "Production of biofuels has been one of the promising efforts in biotechnology in the past few decades. The perspective of these efforts can be reduction of increasing demands for fossil fuels and consequently re…",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

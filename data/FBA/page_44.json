@@ -1,3 +1,4 @@
+[
 {
             "guid": "2864de735ddc002a7d603c297348d812",
 "title": "Selection of organisms for systems biology study of microbial electricity generation: a review",
@@ -28,4 +29,275 @@
         }
 ]
 
+        }, {
+            "guid": "3516651bec04d6ef75cd499d190a5882",
+"title": "Bridging the Gap between Fluxomics and Industrial Biotechnology",
+"authors": [
+{
+            "name": "Xueyang Feng",
+"guid": "2059886172"
+        }, {
+            "name": "Lawrence E Page",
+"guid": "2135605077"
+        }, {
+            "name": "Jacob Rubens",
+"guid": "2112545153"
+        }, {
+            "name": "Lauren Chircus",
+"guid": "2669752847"
+        }, {
+            "name": "Peter Colletti",
+"guid": "2735605715"
+        }, {
+            "name": "Himadri B Pakrasi",
+"guid": "58005962"
         }
+]
+,
+"year": "2010",
+"journal": "· BioMed Research International",
+"cites": 21,
+"abstract": "Metabolic fluxanalysis is a vital tool used to determine the ultimate output of cellular metabolism and thus detect biotechnologically relevant bottlenecks in productivity. 13C-based metabolic fluxanalysis (13C-M…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fe4b3c3bfbcede7efb79fbedba9f50d1",
+"title": "From bit to it: How a complex metabolic network transforms information into living matter",
+"authors": [
+{
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }
+]
+,
+"year": "2007",
+"journal": "· BMC Systems Biology",
+"cites": 21,
+"abstract": "Organisms live and die by the amount of information they acquire about their environment. The systems analysis of complex metabolic networks allows us to ask how such information translates into fitness. A …",
+"keywords": [
+{
+            "word": "Systems Analysis",
+"guid": "24119478"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f56961abaa36a93d4ed63c3fcb3048bd",
+"title": "Metabolic network modeling with model organisms",
+"authors": [
+{
+            "name": "L Safak Yilmaz",
+"guid": "2111640983"
+        }, {
+            "name": "Albertha J M Walhout",
+"guid": "331712814"
+        }
+]
+,
+"year": "2017",
+"journal": "· Current Opinion in Chemical Biology",
+"cites": 21,
+"abstract": "Fluxbalanceanalysis (FBA) with genome-scale metabolic network models (GSMNM) allows systems level predictions of metabolism in a variety of organisms. Different types of predictions with different accuracy …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0bca5b83121f877fe4d09e077f137c6f",
+"title": "Modelling Inhibition in Metabolic Pathways Through Abduction and Induction",
+"authors": [
+
+]
+,
+"year": "2004",
+"journal": "· inductive logic programming",
+"cites": 20,
+"abstract": "In this paper, we study how a logical form of scientific modelling that integrates together abduction and induction can be used to understand the functional class of unknown enzymes or inhibitors. We show ho…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "inductive logic programming",
+"guid": "2779382394"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "298d71f074cf4e6a13413b7de94302cb",
+"title": "Systematic analysis of transcription-level effects of neurodegenerative diseases on human brain metabolism by …",
+"authors": [
+{
+            "name": "Mustafa Sertbas",
+"guid": "2055294314"
+        }, {
+            "name": "Kutlu O Ulgen",
+"guid": "2146392340"
+        }, {
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }
+]
+,
+"year": "2014",
+"journal": "· FEBS Open Bio",
+"cites": 20,
+"abstract": "Network-oriented analysis is essential to identify those parts of a cell affected by a given perturbation. The effect of neurodegenerative perturbations in the form of diseases of brain metabolism was investigated b…",
+"keywords": [
+{
+            "word": "Lipid Metabolism",
+"guid": "4733338"
+        }, {
+            "word": "Transcription Factor",
+"guid": "86339819"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7590317d88adddce7702cb815165a012",
+"title": "Advanced Stoichiometric Analysis of Metabolic Networks of Mammalian Systems",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "· Critical Reviews in Biomedical Engineering",
+"cites": 20,
+"abstract": "Metabolic engineering tools have been widely applied to living organisms to gain a comprehensive understanding about cellular networks and to improve cellular properties. Metabolic fluxanalysis (MFA), …",
+"keywords": [
+{
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8e26b421bd94ae9b33c29ee22fce03db",
+"title": "Incorporating metabolic flux ratios into constraint-based fluxanalysis by using artificial metabolites and converging ratio d…",
+"authors": [
+{
+            "name": "Hyung Seok Choi",
+"guid": "2160374679"
+        }, {
+            "name": "Tae Yong Kim",
+"guid": "2116269765"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }
+]
+,
+"year": "2007",
+"journal": "· Journal of Biotechnology",
+"cites": 20,
+"abstract": "Abstract One of the well-established approaches for the quantitative characterization of large-scale underdetermined metabolic network is constraint-based fluxanalysis, which quantifies intracellular meta…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "44336e8f90bf5a9cc76738e2f4244362",
+"title": "Whole-genome metabolic network reconstruction and constraint-based modeling",
+"authors": [
+
+]
+,
+"year": "2011",
+"journal": "· Methods in Enzymology",
+"cites": 20,
+"abstract": "With the advent of modern high-throughput genomics, there is a significant need for genome-scale analysis techniques that can assist in complex systems analysis. Metabolic genome-scale network reco…",
+"keywords": [
+{
+            "word": "Bayes' Theorem",
+"guid": "207201462"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dec564128154636532b03a89543e8533",
+"title": "Reconstruction and analysis of human heart-specific metabolic network based on transcriptome and proteome data",
+"authors": [
+{
+            "name": "Yuqi Zhao",
+"guid": "2203170117"
+        }, {
+            "name": "Jingfei Huang",
+"guid": "2136563483"
+        }
+]
+,
+"year": "2011",
+"journal": "· Biochemical and Biophysical Research Communications",
+"cites": 20,
+"abstract": "The availability and utility of genome-scale metabolic networks have exploded with modern genome-sequencing capabilities. However, these generic models overlooked actual physiological states of the tis…",
+"keywords": [
+{
+            "word": "Biomarker (medicine)",
+"guid": "7466232"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

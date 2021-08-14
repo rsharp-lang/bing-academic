@@ -1,3 +1,4 @@
+[
 {
             "guid": "6c952db7b7093420f0a0cde13d778faf",
 "title": "Computational Methods for Modification of Metabolic Networks",
@@ -31,4 +32,332 @@
         }
 ]
 
+        }, {
+            "guid": "968c52570a132d42e8105badee4f3f69",
+"title": "Phenotypic constraints promote latent versatility and carbon efficiency in metabolic networks.",
+"authors": [
+{
+            "name": "Marco Bardoscia",
+"guid": "2777254251"
+        }, {
+            "name": "Matteo Marsili",
+"guid": "2103281278"
+        }, {
+            "name": "Areejit Samal",
+"guid": "2157138228"
         }
+]
+,
+"year": "2015",
+"journal": "· Physical Review E",
+"cites": 3,
+"abstract": "System-level properties of metabolic networks may be the direct product of natural selection or arise as a by-product of selection on other properties. Here we study the effect of direct selective pressure for grow…",
+"keywords": [
+{
+            "word": "Monte Carlo Method",
+"guid": "19499675"
+        }, {
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b201231c09935792015f059d0d7f23fb",
+"title": "Predicting the accumulation of storage compounds by Rhodococcus jostii RHA1 in the feast-famine growth cycles us…",
+"authors": [
+{
+            "name": "Mohammad Tajparast",
+"guid": "2461878426"
+        }, {
+            "name": "Dominic Frigon",
+"guid": "2933088724"
+        }
+]
+,
+"year": "2018",
+"journal": "· PLOS ONE",
+"cites": 3,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Chemistry",
+"guid": "185592680"
+        }
+]
+
+        }, {
+            "guid": "babdac697b9fc85d57e8cee7867a2f9e",
+"title": "Determination of the Thermodynamically Dominant Metabolic Pathways",
+"authors": [
+{
+            "name": "Choamun Yun",
+"guid": "2776441042"
+        }, {
+            "name": "Tae Yong Kim",
+"guid": "2116269765"
+        }, {
+            "name": "Tengyan Zhang",
+"guid": "2710737518"
+        }, {
+            "name": "Young Ho Kim",
+"guid": "2936168937"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }, {
+            "name": "Sunwon Park",
+"guid": "2159876294"
+        }, {
+            "name": "Fere…",
+"guid": "2624996970"
+        }
+]
+,
+"year": "2012",
+"journal": "· Industrial & Engineering Chemistry Research",
+"cites": 3,
+"abstract": "An effective strategy comprising two phases is proposed to determine the thermodynamically dominant pathways in a metabolic network of a given phenotype, involving several metabolic reactions. In the first …",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Ethanol Fuel",
+"guid": "65183824"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "703a477b9d18e1893c230f6a92cf14a6",
+"title": "Metabolic engineering to increase crop yield: From concept to execution.",
+"authors": [
+{
+            "name": "Frank A Skraly",
+"guid": "1676277008"
+        }, {
+            "name": "Madana M R Ambavaram",
+"guid": "1987517198"
+        }, {
+            "name": "Oliver P Peoples",
+"guid": "1541127791"
+        }, {
+            "name": "Kristi D Snell",
+"guid": "2166660341"
+        }
+]
+,
+"year": "2018",
+"journal": "· Plant Science",
+"cites": 3,
+"abstract": "Abstract Although the return on investment over the last 20 years for mass screening of individual plant genes to improve crop performance has been low, the investment in these activities was essential to est…",
+"keywords": [
+{
+            "word": "Timeline",
+"guid": "4438859"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "36bb56146cabef32243511ad8f5f1491",
+"title": "Modeling a Complex Biological Network with Temporal Heterogeneity: Cardiac Myocyte Plasticity as a Case Study",
+"authors": [
+{
+            "name": "Amin R Mazloom",
+"guid": "1214082381"
+        }, {
+            "name": "Kalyan Basu",
+"guid": "2965696537"
+        }, {
+            "name": "Subhrangsu S Mandal",
+"guid": "2132048957"
+        }, {
+            "name": "Sajal K Das",
+"guid": "2101367683"
+        }
+]
+,
+"year": "2009",
+"journal": "· international conference on complex sciences",
+"cites": 3,
+"abstract": "Complex biological systems often characterize nonlinear dynamics. Employing traditional deterministic or stochastic approaches to quantify these dynamics either fail to capture their existing deviant effects or le…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "71b9bf00c039349993efe1cf8e3a468c",
+"title": "Prediction of Vanillin Production in Yeast Using a Hybrid of Continuous Bees Algorithm and Flux Balance Analysis (CBAFBA)",
+"authors": [
+{
+            "name": "Leang Huat Yin",
+"guid": "2321795770"
+        }, {
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Lian En Chai",
+"guid": "2161638723"
+        }, {
+            "name": "Chuii Khim Chong",
+"guid": "2157616592"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Md Illias",
+"guid": "2227999364"
+        }, {
+            "name": "M…",
+"guid": "2131251652"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 3,
+"abstract": "Most food and beverage is containing artificial flavor compound. Creation of artificial flavors is not an easy step and it is hardly ever completely effective. In this paper, we introduce an in silico method in optimizat…",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Trial And Error",
+"guid": "32076795"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c7be0661cd072c6e295aaa5343764843",
+"title": "Large-scale modeling provides insights into Arabidopsis's acclimation to changing light and temperature conditions.",
+"authors": [
+{
+            "name": "Nadine Topfer",
+"guid": "2228180624"
+        }, {
+            "name": "Zoran Niokoloski",
+"guid": "2511417965"
+        }
+]
+,
+"year": "2013",
+"journal": "· Plant Signaling & Behavior",
+"cites": 3,
+"abstract": "Classical flux balance analysis predicts steady-state flux distributions that maximize a given objective function. A recent study, Schuetz et al.,1 demonstrated that competing objectives constrain the metaboli…",
+"keywords": [
+{
+            "word": "Null Model",
+"guid": "36382193"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b459b5a17a1b64fc1981773a1bc9a34a",
+"title": "Metabolic pathway analysis using a nash equilibrium approach",
+"authors": [
+{
+            "name": "Angelo Lucia",
+"guid": "1994410222"
+        }, {
+            "name": "Peter A Dimaggio",
+"guid": "2095756755"
+        }, {
+            "name": "Diego Alonsomartinez",
+"guid": "2791639839"
+        }
+]
+,
+"year": "2018",
+"journal": "· Journal of Global Optimization",
+"cites": 3,
+"abstract": "A novel approach to metabolic network analysis using a Nash Equilibrium (NE) formulation is proposed in which enzymes are considered players in a multi-player game. Each player has its own payoff function …",
+"keywords": [
+{
+            "word": "Stochastic Game",
+"guid": "22171661"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9f37b20ff0f5de8599cfb6e81f36b078",
+"title": "Thermodynamically constrained Flux and Control Analysis of Escherichia coli",
+"authors": [
+{
+            "name": "Liliana Angelesmartineza",
+"guid": "2550672002"
+        }, {
+            "name": "Michael Binns",
+"guid": "2237143100"
+        }, {
+            "name": "Constantinos Theodoropoulos",
+"guid": "2617950423"
+        }, {
+            "name": "Pedro De Atauri",
+"guid": "2075461777"
+        }, {
+            "name": "Marta Ca…",
+"guid": "2172148279"
+        }
+]
+,
+"year": "2012",
+"journal": "· Computer-aided chemical engineering",
+"cites": 3,
+"abstract": "Abstract Flux Balance Analysis allows calculation of the theoretical maximum yield of desired products given a metabolic network and some experimentally determined fluxes. However these “optimal” values …",
+"keywords": [
+{
+            "word": "Crystallography",
+"guid": "8010536"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

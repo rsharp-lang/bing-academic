@@ -1,3 +1,4 @@
+[
 {
             "guid": "4cd10cd553147796006d7f95c656e3be",
 "title": "DFBA-LQR: An Optimal Control Approach to FluxBalanceAnalysis",
@@ -31,4 +32,326 @@
         }
 ]
 
+        }, {
+            "guid": "155121948784dfb9be134b9fc142cee9",
+"title": "Metabolic analyses elucidate non-trivial gene targets for amplifying dihydroartemisinic acid production in yeast",
+"authors": [
+{
+            "name": "Ashish Misra",
+"guid": "2554880148"
+        }, {
+            "name": "Matthew F Conway",
+"guid": "2571188849"
+        }, {
+            "name": "Joseph Johnnie",
+"guid": "2323321284"
+        }, {
+            "name": "Tabish M Qureshi",
+"guid": "2571382960"
+        }, {
+            "name": "Bao Lige",
+"guid": "2635331128"
+        }, {
+            "name": "Anne M Derrick",
+"guid": "2253126910"
         }
+]
+,
+"year": "2013",
+"journal": "· Frontiers in Microbiology",
+"cites": 11,
+"abstract": "Synthetic biology enables metabolic engineering of industrial microbes to synthesize value-added molecules. In this, a major challenge is the efficient redirection of carbon to the desired metabolic pathw…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "870c729d42e54f5e9afa68ee4bbd5667",
+"title": "Somatic transposition in the brain has the potential to influence the biosynthesis of metabolites involved in Parkinson’s diseas…",
+"authors": [
+{
+            "name": "Gyorgy Abrusan",
+"guid": "2303472753"
+        }
+]
+,
+"year": "2012",
+"journal": "· Biology Direct",
+"cites": 11,
+"abstract": "It has been recently discovered that transposable elements show high activity in the brain of mammals, however, the magnitude of their influence on its functioning is unclear so far. In this paper, I use fluxbal…",
+"keywords": [
+{
+            "word": "Transposition (music)",
+"guid": "48204334"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e7fa886e0b4054fa4c02403202ceed58",
+"title": "Metabolic network discovery by top-down and bottom-up approaches and paths for reconciliation.",
+"authors": [
+{
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }, {
+            "name": "Mohammad Jafar Khatibipour",
+"guid": "286942042"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Bioengineering and Biotechnology",
+"cites": 11,
+"abstract": "The primary focus in the network-centric analysis of cellular metabolism by systems biology approaches is to identify the active metabolic network for the condition of interest. Two major approaches are availabl…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ffb14d29aee9d26cd9c17eb0f7c56dc5",
+"title": "A Computational Method for Reconstructing Gapless Metabolic Networks",
+"authors": [
+{
+            "name": "Esa Pitkanen",
+"guid": "2006042496"
+        }, {
+            "name": "Ari Rantanen",
+"guid": "2132487240"
+        }, {
+            "name": "Juho Rousu",
+"guid": "2764080610"
+        }, {
+            "name": "Esko Ukkonen",
+"guid": "582562560"
+        }
+]
+,
+"year": "2008",
+"journal": "· international conference on bioinformatics",
+"cites": 11,
+"abstract": "We propose a computational method for reconstructing metabolic networks. The method utilizes optimization techniques and graph traversal algorithms to discover a set of biochemical reactions that is …",
+"keywords": [
+{
+            "word": "Gapless Playback",
+"guid": "24057170"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2cd8cf38022d5535875486071e16725c",
+"title": "Understanding regulation of metabolism through feasibility analysis.",
+"authors": [
+{
+            "name": "Emrah Nikerel",
+"guid": "2561466228"
+        }, {
+            "name": "Jan Berkhout",
+"guid": "2130850494"
+        }, {
+            "name": "Fengyuan Hu",
+"guid": "2168158585"
+        }, {
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Marcel J T Reinders",
+"guid": "2158742305"
+        }, {
+            "name": "Dick De Ridder",
+"guid": "2964534701"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS ONE",
+"cites": 11,
+"abstract": "Understanding cellular regulation of metabolism is a major challenge in systems biology. Thus far, the main assumption was that enzyme levels are key regulators in metabolic networks. However, regulation …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Enzyme Kinetics",
+"guid": "56856141"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d01089f2e81441a2ba01e62f16024843",
+"title": "Metabolic network architecture and carbon source determine metabolite production costs.",
+"authors": [
+{
+            "name": "Silvio Waschina",
+"guid": "274699782"
+        }, {
+            "name": "Glen Dsouza",
+"guid": "2192702548"
+        }, {
+            "name": "Christian Kost",
+"guid": "1913283342"
+        }, {
+            "name": "Christoph Kaleta",
+"guid": "74203850"
+        }
+]
+,
+"year": "2016",
+"journal": "· FEBS Journal",
+"cites": 11,
+"abstract": "Metabolism is essential to organismal life, because it provides energy and building block metabolites. Even though it is known that the biosynthesis of metabolites consumes a significant proportion of the res…",
+"keywords": [
+{
+            "word": "Bacterial Growth",
+"guid": "17741926"
+        }, {
+            "word": "Auxotrophy",
+"guid": "20950039"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1eddcfcd1c9a4ece65a38dc4e396b579",
+"title": "Effects of Varying Nitrogen Sources on Amino Acid Synthesis Costs in Arabidopsis thaliana under Different Light and Carbo…",
+"authors": [
+{
+            "name": "Anne Arnold",
+"guid": "2296034923"
+        }, {
+            "name": "Max Sajitzhermstein",
+"guid": "1814551467"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 11,
+"abstract": "Plants as sessile organisms cannot escape their environment and have to adapt to any changes in the availability of sunlight and nutrients. The quantification of synthesis costs of metabolites, in terms of con…",
+"keywords": [
+{
+            "word": "Nitrogen Cycle",
+"guid": "49045045"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a1ac74be4de02c20790ed215a67e15f0",
+"title": "Gobal optimization of hybrid kinetic\/FBA models via outer-approximation",
+"authors": [
+{
+            "name": "Carlos Pozo",
+"guid": "2571626932"
+        }, {
+            "name": "Antoni Miro",
+"guid": "2313480010"
+        }, {
+            "name": "Gonzalo Guillengosalbez",
+"guid": "341125757"
+        }, {
+            "name": "Albert Sorribas",
+"guid": "2211096103"
+        }, {
+            "name": "Rui Alves",
+"guid": "2186426929"
+        }, {
+            "name": "Laureano Jimenez",
+"guid": "2139201549"
+        }
+]
+,
+"year": "2015",
+"journal": "· Computers & Chemical Engineering",
+"cites": 11,
+"abstract": "Abstract Fluxbalanceanalysis (FBA) is a linear programming-based framework widely used to predict the behavior, in terms of the resulting flux distribution, of cellular organisms in different media. FBA models …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4ca98e1eccfedf5515f3ac038a2d3538",
+"title": "Incorporation of flexible objectives and time-linked simulation with fluxbalanceanalysis.",
+"authors": [
+{
+            "name": "Elsa W Birch",
+"guid": "2161991239"
+        }, {
+            "name": "Madeleine Udell",
+"guid": "2170359824"
+        }, {
+            "name": "Markus W Covert",
+"guid": "1748710400"
+        }
+]
+,
+"year": "2014",
+"journal": "· Journal of Theoretical Biology",
+"cites": 11,
+"abstract": "We present two modifications of the fluxbalanceanalysis (FBA) metabolic modeling framework which relax implicit assumptions of the biomass reaction. Our flexible fluxbalanceanalysis (flexFBA) objective …",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

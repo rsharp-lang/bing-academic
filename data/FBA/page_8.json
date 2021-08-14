@@ -1,3 +1,4 @@
+[
 {
             "guid": "6994dd93b38962477d215aa356fb2208",
 "title": "Flux Balance Analysis of Mycolic AcidPathway: Targets for Anti-Tubercular Drugs",
@@ -31,4 +32,308 @@
         }
 ]
 
+        }, {
+            "guid": "12d1afc4986b8ac1637fd2c3e92e2f22",
+"title": "Constraint-based analysis of metabolic capacity of Salmonella typhimurium during host-pathogen interaction",
+"authors": [
+{
+            "name": "Anu Raghunathan",
+"guid": "2152163163"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }, {
+            "name": "Sookil Shin",
+"guid": "2111918931"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Simon Daefler",
+"guid": "223111044"
         }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 194,
+"abstract": "Background#R##N#Infections with Salmonella cause significant morbidity and mortality worldwide. Replication of Salmonella typhimurium inside its host cell is a model system for studying the pathogenes…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "127990815a20f4c8b5c4e536fd2327d9",
+"title": "Genome-scale reconstruction and in silico analysis of the Clostridium acetobutylicum ATCC 824 metabolic network",
+"authors": [
+{
+            "name": "Joungmin Lee",
+"guid": "2619940986"
+        }, {
+            "name": "Hongseok Yun",
+"guid": "2128206786"
+        }, {
+            "name": "Adam M Feist",
+"guid": "2061080551"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }
+]
+,
+"year": "2008",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 193,
+"abstract": "To understand the metabolic characteristics of Clostridium acetobutylicum and to examine the potential for enhanced butanol production, we reconstructed the genome-scale metabolic network from its annotate…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "75116b9b405f278950f7ea947f02d3e8",
+"title": "Impact of gene expression noise on organismal fitness and the efficacy of natural selection",
+"authors": [
+{
+            "name": "Zhi Wang",
+"guid": "2431461267"
+        }, {
+            "name": "Jianzhi Zhang",
+"guid": "2138618021"
+        }
+]
+,
+"year": "2011",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 193,
+"abstract": "Gene expression noise is a universal phenomenon across all life forms. Although beneficial under certain circumstances, expression noise is generally thought to be deleterious. However, neither the magnitud…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Natural Selection",
+"guid": "75268714"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ef1782e9db388232c7dfd25248677fad",
+"title": "INCA: a computational platform for isotopically non-stationary metabolic fluxanalysis",
+"authors": [
+{
+            "name": "Jamey D Young",
+"guid": "2140283018"
+        }
+]
+,
+"year": "2014",
+"journal": "· Bioinformatics",
+"cites": 189,
+"abstract": "Summary: 13 C fluxanalysis studies have become an essential component of metabolic engineering research. The scope of these studies has gradually expanded to include both isotopically steady-state a…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d05ab11eb6b9d920e2179e81e4c7265f",
+"title": "Evolution-guided optimization of biosynthetic pathways",
+"authors": [
+{
+            "name": "Srivatsan Raman",
+"guid": "2177461420"
+        }, {
+            "name": "Jameson K Rogers",
+"guid": "2168227171"
+        }, {
+            "name": "Noah D Taylor",
+"guid": "2145497375"
+        }, {
+            "name": "George M Church",
+"guid": "2111535815"
+        }
+]
+,
+"year": "2014",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 183,
+"abstract": "Engineering biosynthetic pathways for chemical production requires extensive optimization of the host cellular metabolic machinery. Because it is challenging to specify a priori an optimal design, metabolic e…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Negative Selection",
+"guid": "7386963"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "96368760839e9b191d3e9a525cac2176",
+"title": "Industrial Systems Biology",
+"authors": [
+{
+            "name": "Jose Manuel Otero",
+"guid": "2610020173"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2010",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 182,
+"abstract": "The chemical industry is currently undergoing a dramatic change driven by demand for developing more sustainable processes for the production of fuels, chemicals, and materials. In biotechnological process…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Chemical Industry",
+"guid": "12404463"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bf07207c0c2331cb5744b85459bfa777",
+"title": "Zea mays iRS1563: A Comprehensive Genome-Scale Metabolic Reconstruction of Maize Metabolism",
+"authors": [
+{
+            "name": "Rajib Saha",
+"guid": "2227653910"
+        }, {
+            "name": "Patrick F Suthers",
+"guid": "217024006"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2011",
+"journal": "· PLOS ONE",
+"cites": 182,
+"abstract": "The scope and breadth of genome-scale metabolic reconstructions have continued to expand over the last decade. Herein, we introduce a genome-scale model for a plant with direct applications to food and bioe…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e5164b69db749288dec60535bcdafcc8",
+"title": "C4GEM, a Genome-Scale Metabolic Model to Study C4 Plant Metabolism",
+"authors": [
+{
+            "name": "Cristiana Gomes De Oliveira Dalmolin",
+"guid": "2012929314"
+        }, {
+            "name": "Lakeee Quek",
+"guid": "2134002722"
+        }, {
+            "name": "Robin W Palfreyman",
+"guid": "1819901280"
+        }, {
+            "name": "S M Brumbley",
+"guid": "2065907750"
+        }, {
+            "name": "Lars K Ni…",
+"guid": "2124263552"
+        }
+]
+,
+"year": "2010",
+"journal": "· Plant Physiology",
+"cites": 180,
+"abstract": "Leaves of C4 grasses (such as maize [Zea mays], sugarcane [Saccharum officinarum], and sorghum [Sorghum bicolor]) form a classical Kranz leaf anatomy. Unlike C3 plants, where photosynthetic CO2 fix…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "43b833e89f1f38525944414d793e1b27",
+"title": "Dynamic metabolic modelling under the balanced growth condition",
+"authors": [
+{
+            "name": "Agnes Provost",
+"guid": "2158838861"
+        }, {
+            "name": "Georges Bastin",
+"guid": "2143245734"
+        }
+]
+,
+"year": "2004",
+"journal": "· Journal of Process Control",
+"cites": 179,
+"abstract": "The issue of bioprocess dynamical modelling is addressed in the situation where measurements of extracellular species are the only available data besides measurements of the biomass itself. This quest…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

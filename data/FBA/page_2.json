@@ -1,3 +1,4 @@
+[
 {
             "guid": "8d2aae21797dd31aaf12823b46bef6e9",
 "title": "The Escherichia coli MG1655 in silico metabolic genotype: Its definition, characteristics, and capabilities",
@@ -28,4 +29,299 @@
         }
 ]
 
+        }, {
+            "guid": "e3471df4fcdb4c7a5adba8f49a769537",
+"title": "Stoichiometric fluxbalance models quantitatively predict growth and metabolic by-product secretion in wild-type Esch…",
+"authors": [
+{
+            "name": "Amit H Varma",
+"guid": "2260932798"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
         }
+]
+,
+"year": "1994",
+"journal": "· Applied and Environmental Microbiology",
+"cites": 1062,
+"abstract": "Fluxbalance models of metabolism use stoichiometry of metabolic pathways, metabolic demands of growth, and optimality principles to predict metabolic flux distribution and cellular growth under specifie…",
+"keywords": [
+{
+            "word": "Anaerobic Exercise",
+"guid": "5140985"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a07c0bc64c83b5cf6c46937f4aaba787",
+"title": "The effects of alternate optimal solutions in constraint-based genome-scale metabolic models",
+"authors": [
+{
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }, {
+            "name": "Christopher H Schilling",
+"guid": "2169260714"
+        }
+]
+,
+"year": "2003",
+"journal": "· Metabolic Engineering",
+"cites": 1033,
+"abstract": "Abstract Genome-scale constraint-based models of several organisms have now been constructed and are being used for model driven research. A key issue that may arise in the use of such models is the ex…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "93a97ff2e38d8bd17fbd34537078f6d8",
+"title": "Metabolic Flux Balancing: Basic Concepts, Scientific and Practical Use",
+"authors": [
+{
+            "name": "Amit H Varma",
+"guid": "2260932798"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "1994",
+"journal": "· Nature Biotechnology",
+"cites": 1012,
+"abstract": "Recently, there has been an increasing interest in stoichiometric analysis of metabolic flux distributions. Fluxbalance methods only require information about metabolic reaction stoichiometry, metabolic require…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "efaa2e7bd8dd47b10dbf56a5919077d9",
+"title": "Reconstruction of biochemical networks in microorganisms",
+"authors": [
+{
+            "name": "Adam M Feist",
+"guid": "2061080551"
+        }, {
+            "name": "Markus J Herrgard",
+"guid": "1772558778"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Jennie L Reed",
+"guid": "2514359628"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2009",
+"journal": "· Nature Reviews Microbiology",
+"cites": 926,
+"abstract": "Systems analysis of metabolic and growth functions in microbial organisms is rapidly developing and maturing. Such studies are enabled by reconstruction, at the genomic scale, of the biochemical reaction …",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "53d0354e4445c211d764a73121b3ec04",
+"title": "Escherichia coli K-12 undergoes adaptive evolution to achieve in silico predicted optimal growth",
+"authors": [
+{
+            "name": "Rafael U Ibarra",
+"guid": "2478536568"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }
+]
+,
+"year": "2002",
+"journal": "· Nature",
+"cites": 916,
+"abstract": "Annotated genome sequences1,2 can be used to reconstruct whole-cell metabolic networks3,4,5,6. These metabolic networks can be modelled and analysed (computed) to study complex biological functions7,8,…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5cc0c29ad6528a59bae49b5b80d5e303",
+"title": "Advances in flux balance analysis",
+"authors": [
+{
+            "name": "Kenneth J Kauffman",
+"guid": "2122260801"
+        }, {
+            "name": "Purusharth Prakash",
+"guid": "2576823733"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }
+]
+,
+"year": "2003",
+"journal": "· Current Opinion in Biotechnology",
+"cites": 887,
+"abstract": "Abstract Biology is going through a paradigm shift from reductionist to holistic, systems-based approaches. The complete genome sequence for a number of organisms is available and the analysis o…",
+"keywords": [
+{
+            "word": "Whole Genome Sequencing",
+"guid": "24432333"
+        }, {
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cf94f07506f91bd1785ed2485a03b7fd",
+"title": "Applications of genome‐scale metabolic reconstructions",
+"authors": [
+{
+            "name": "Matthew A Oberhardt",
+"guid": "2312160716"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2009",
+"journal": "· Molecular Systems Biology",
+"cites": 803,
+"abstract": "The availability and utility of genome-scale metabolic reconstructions have exploded since the first genome-scale reconstruction was published a decade ago. Reconstructions have now been built for a w…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1b073e5b2ce05ddea1ad15ceef51fc9d",
+"title": "Dynamic Flux Balance Analysis of Diauxic Growth in Escherichia coli",
+"authors": [
+{
+            "name": "Radhakrishnan Mahadevan",
+"guid": "1980092511"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Francis J Doyle",
+"guid": "2167853686"
+        }
+]
+,
+"year": "2002",
+"journal": "· Biophysical Journal",
+"cites": 756,
+"abstract": "Flux Balance Analysis (FBA) has been used in the past to analyze microbial metabolic networks. Typically, FBA is used to study the metabolic flux at a particular steady state of the system. However, there are m…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8aced475213cf8c2f2fcedf9e2a1df02",
+"title": "Systematic evaluation of objective functions for predicting intracellular fluxes in Escherichia coli",
+"authors": [
+{
+            "name": "Robert Schuetz",
+"guid": "1976173816"
+        }, {
+            "name": "Lars Kuepfer",
+"guid": "129383052"
+        }, {
+            "name": "Uwe Sauer",
+"guid": "693886280"
+        }
+]
+,
+"year": "2007",
+"journal": "· Molecular Systems Biology",
+"cites": 729,
+"abstract": "To which extent can optimality principles describe the operation of metabolic networks? By explicitly considering experimental errors and in silico alternate optima in flux balance analysis, we systematicall…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

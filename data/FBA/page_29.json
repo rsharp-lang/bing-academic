@@ -1,3 +1,4 @@
+[
 {
             "guid": "5c0257b06e8eb9ebfb19b018c1a9033b",
 "title": "Utilizing elementary mode analysis, pathway thermodynamics, and a genetic algorithm for metabolic flux determination and …",
@@ -34,4 +35,323 @@
         }
 ]
 
+        }, {
+            "guid": "983e592504375b5cb0e42a8c674fe9e8",
+"title": "Selection of objective function in genome scale flux balance analysis for process feed development in antibiotic production.",
+"authors": [
+
+]
+,
+"year": "2008",
+"journal": "· Metabolic Engineering",
+"cites": 38,
+"abstract": "Abstract Using flux variability analysis of a genome scale metabolic network of Streptomyces coelicolor , a series of reactions were identified, from disparate pathways that could be combined into an actinorhodi…",
+"keywords": [
+{
+            "word": "Process Simulation",
+"guid": "189575605"
+        }, {
+            "word": "Streptomyces Coelicolor",
+"guid": "2780681812"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
         }
+]
+
+        }, {
+            "guid": "4da92043eb86b116f7b4b2672a344a0d",
+"title": "Toward quantitative understanding on microbial community structure and functioning: a modeling-centered approach usi…",
+"authors": [
+{
+            "name": "Wilfred F M Roling",
+"guid": "2997451526"
+        }, {
+            "name": "Peter M Van Bodegom",
+"guid": "2779868442"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Microbiology",
+"cites": 38,
+"abstract": "Molecular ecology approaches are rapidly advancing our insights into the microorganisms involved in the degradation of marine oil spills and their metabolic potentials. Yet, many questions remain open: How d…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "58a5f20fac9cf7e3690d020f1a8388da",
+"title": "Systems modeling approaches for microbial community studies: from metagenomics to inference of the community st…",
+"authors": [
+{
+            "name": "Mark Hanemaaijer",
+"guid": "2657050349"
+        }, {
+            "name": "Wilfred F M Roling",
+"guid": "2997451526"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Ruchir A Khandelwal",
+"guid": "2096598821"
+        }, {
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Frank J …",
+"guid": "2100898815"
+        }
+]
+,
+"year": "2015",
+"journal": "· Frontiers in Microbiology",
+"cites": 38,
+"abstract": "Microbial communities play important roles in health, industrial applications and earth's ecosystems. With current molecular techniques we can characterize these systems in unprecedented detail. However, suc…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cc7b28252fa388ae28912239f8b34550",
+"title": "Conservation of Expression and Sequence of Metabolic Genes Is Reflected by Activity Across Metabolic States",
+"authors": [
+{
+            "name": "Yonatan Bilu",
+"guid": "2779009525"
+        }, {
+            "name": "Tomer Shlomi",
+"guid": "172881847"
+        }, {
+            "name": "Naama Barkai",
+"guid": "154623698"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }
+]
+,
+"year": "2005",
+"journal": "· PLOS Computational Biology",
+"cites": 38,
+"abstract": "Variation in gene expression levels on a genomic scale has been detected among different strains, among closely related species, and within populations of genetically identical cells. What are the driving forces t…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "341bc7ad88f677dd1f6145ed49befc66",
+"title": "Complementary identification of multiple flux distributions and multiple metabolic pathways",
+"authors": [
+{
+            "name": "Dongyup Lee",
+"guid": "2655701535"
+        }, {
+            "name": "L T Fan",
+"guid": "2396898619"
+        }, {
+            "name": "Sunwon Park",
+"guid": "2159876294"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2420484326"
+        }, {
+            "name": "Shahram Shafie",
+"guid": "1994925043"
+        }, {
+            "name": "Botond Bertok",
+"guid": "2056223911"
+        }, {
+            "name": "Ferenc Frie…",
+"guid": "2624996970"
+        }
+]
+,
+"year": "2005",
+"journal": "· Metabolic Engineering",
+"cites": 37,
+"abstract": "Abstract Cell robustness and complexity have been recognized as unique features of biological systems. Such robustness and complexity of metabolic-reaction systems can be explored by discovering, or identi…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "de27a0719897ea777b8aa6d39e198960",
+"title": "Software applications toward quantitative metabolic fluxanalysis and modeling",
+"authors": [
+{
+            "name": "Thomas Dandekar",
+"guid": "2162210936"
+        }, {
+            "name": "Astrid Fieselmann",
+"guid": "1934113301"
+        }, {
+            "name": "Saman Majeed",
+"guid": "2150294278"
+        }, {
+            "name": "Zeeshan Ahmed",
+"guid": "2276976124"
+        }
+]
+,
+"year": "2014",
+"journal": "· Briefings in Bioinformatics",
+"cites": 37,
+"abstract": "Metabolites and their pathways are central for adaptation and survival. Metabolic modeling elucidates in silico all the possible flux pathways (flux balance analysis, FBA) and predicts the actual fluxes under a gi…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e58721d43c902ca22cdc0dc17cb073f2",
+"title": "Flux balance analysis of primary metabolism in the diatom Phaeodactylum tricornutum.",
+"authors": [
+{
+            "name": "Joomi Kim",
+"guid": "2485601616"
+        }, {
+            "name": "Michele Fabris",
+"guid": "2151816607"
+        }, {
+            "name": "Gino Baart",
+"guid": "2089003488"
+        }, {
+            "name": "Min Kyung Kim",
+"guid": "2619766159"
+        }, {
+            "name": "Alain Goossens",
+"guid": "2276677155"
+        }, {
+            "name": "Wim Vyverman",
+"guid": "76981606"
+        }, {
+            "name": "Paul G F…",
+"guid": "631626869"
+        }
+]
+,
+"year": "2016",
+"journal": "· Plant Journal",
+"cites": 37,
+"abstract": "Diatoms (Bacillarophyceae) are photosynthetic unicellular microalgae that have risen to ecological prominence in oceans over the past 30 million years. They are of interest as potential feedstocks for sus…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9a36f49d19dcb59bbd1a9b546437a7eb",
+"title": "A Caenorhabditis elegans Genome-Scale Metabolic Network Model.",
+"authors": [
+{
+            "name": "L Safak Yilmaz",
+"guid": "2111640983"
+        }, {
+            "name": "Albertha J M Walhout",
+"guid": "331712814"
+        }
+]
+,
+"year": "2016",
+"journal": "· Cell systems",
+"cites": 37,
+"abstract": "Summary Caenorhabditis elegans is a powerful model to study metabolism and how it relates to nutrition, gene expression, and life history traits. However, while numerous experimental techniques that enable p…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f84943ceb6f22ab3b8cbeec9fe961f99",
+"title": "Methods for integration of transcriptomic data in genome-scale metabolic models",
+"authors": [
+{
+            "name": "Min Kyung Kim",
+"guid": "2619766159"
+        }, {
+            "name": "Desmond S Lun",
+"guid": "2509792065"
+        }
+]
+,
+"year": "2014",
+"journal": "· Computational and structural biotechnology journal",
+"cites": 37,
+"abstract": "Several computational methods have been developed that integrate transcriptomic data with genome-scale metabolic reconstructions to infer condition-specific system-wide intracellular metabolic flux distrib…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "A Priori And A Posteriori",
+"guid": "75553542"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

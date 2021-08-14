@@ -1,3 +1,4 @@
+[
 {
             "guid": "5253087a982aa12ad2bce32deeeba29d",
 "title": "Introduction to Biological Networks",
@@ -28,4 +29,332 @@
         }
 ]
 
+        }, {
+            "guid": "6c15c5e7268927b4009c9ca7206aaacb",
+"title": "Reconstruction and analysis of the industrial strain Bacillus megaterium WSH002 genome-scale in silico metabolic model.",
+"authors": [
+{
+            "name": "Wei Zou",
+"guid": "2431052229"
+        }, {
+            "name": "Maoda Zhou",
+"guid": "2135228244"
+        }, {
+            "name": "Liming Liu",
+"guid": "2119846317"
+        }, {
+            "name": "Jian Chen",
+"guid": "2429854539"
         }
+]
+,
+"year": "2013",
+"journal": "· Journal of Biotechnology",
+"cites": 16,
+"abstract": "A genome-scale metabolic model of Bacillus megaterium WSH002, an industrial bacterium widely used in the vitamin C industry, was reconstructed on the basis of the genome annotation and data from the liter…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e124253b8e904118489ee7dd2e60a8fd",
+"title": "Analysis of enzymopathies in the human red blood cells by constraint-based stoichiometric modeling approaches",
+"authors": [
+{
+            "name": "Saliha Durmus Tekir",
+"guid": "2085289335"
+        }, {
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }, {
+            "name": "Kutlu O Ilgen",
+"guid": "2021130132"
+        }
+]
+,
+"year": "2006",
+"journal": "· Computational Biology and Chemistry",
+"cites": 15,
+"abstract": "The human red blood cell (RBC) metabolism is investigated by calculating steady state fluxes using constraint-based stoichiometric modeling approaches. For the normal RBC metabolism, fluxbalancean…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "579373066ab3cbbc52ff54565f40adb8",
+"title": "Genome-scale metabolic modeling of Mucor circinelloides and comparative analysis with other oleaginous species",
+"authors": [
+{
+            "name": "Wanwipa Vongsangnak",
+"guid": "1074713982"
+        }, {
+            "name": "Amornpan Klanchui",
+"guid": "2603333752"
+        }, {
+            "name": "Iyarest Tawornsamretkit",
+"guid": "2557123282"
+        }, {
+            "name": "Witthawin Tatiyaborwornchai",
+"guid": "2555090226"
+        }
+]
+,
+"year": "2016",
+"journal": "· Gene",
+"cites": 15,
+"abstract": "We present a novel genome-scale metabolic model iWV1213 of Mucor circinelloides, which is an oleaginous fungus for industrial applications. The model contains 1213 genes, 1413 metabolites and 132…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bdb9ce3788bb1eed9a01e2871b1688fd",
+"title": "Environmental versatility promotes modularity in genome-scale metabolic networks",
+"authors": [
+{
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }, {
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }, {
+            "name": "Olivier Martin",
+"guid": "2158521274"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 15,
+"abstract": "Background#R##N#The ubiquity of modules in biological networks may result from an evolutionary benefit of a modular organization. For instance, modularity may increase the rate of adaptive evolution, becaus…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a30ab20e4259d40dc32cc7dcb415e46e",
+"title": "Metabolic modeling for multi-objective optimization of ethanol production in a Synechocystis mutant",
+"authors": [
+{
+            "name": "Tirthankar Sengupta",
+"guid": "2436072698"
+        }, {
+            "name": "Mani Bhushan",
+"guid": "2153620343"
+        }, {
+            "name": "Pramod P Wangikar",
+"guid": "67474287"
+        }
+]
+,
+"year": "2013",
+"journal": "· Photosynthesis Research",
+"cites": 15,
+"abstract": "Cyanobacteria have potential to produce drop-in bio-fuels such as ethanol via photoautotrophic metabolism. Although model cyanobacterial strains have been engineered to produce such products, sy…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "af1c68040f827f27014488ee1b402cfc",
+"title": "Deriving metabolic engineering strategies from genome‐scale modeling with flux ratio constraints",
+"authors": [
+{
+            "name": "Jiun Y Yen",
+"guid": "2163480782"
+        }, {
+            "name": "Hadi Nazembokaee",
+"guid": "2051939937"
+        }, {
+            "name": "Benjamin G Freedman",
+"guid": "1972875038"
+        }, {
+            "name": "Ahmad I M Athamneh",
+"guid": "2047210628"
+        }, {
+            "name": "Ryan S Senger",
+"guid": "1974991969"
+        }
+]
+,
+"year": "2013",
+"journal": "· Biotechnology Journal",
+"cites": 15,
+"abstract": "Optimized production of bio-based fuels and chemicals from microbial cell factories is a central goal of systems metabolic engineering. To achieve this goal, a new computational method of using fluxbalanc…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5f068ecb1852f5ab3eee9066f7da7e8e",
+"title": "Understanding Plant Nitrogen Metabolism through Metabolomics and Computational Approaches.",
+"authors": [
+{
+            "name": "Perrin H Beatty",
+"guid": "2108333220"
+        }, {
+            "name": "Matthias S Klein",
+"guid": "2105578802"
+        }, {
+            "name": "Jeffrey J Fischer",
+"guid": "2120119186"
+        }, {
+            "name": "Ian A Lewis",
+"guid": "2472383646"
+        }, {
+            "name": "Douglas G Muench",
+"guid": "1941903202"
+        }, {
+            "name": "Allen G Good",
+"guid": "2064686748"
+        }
+]
+,
+"year": "2016",
+"journal": "",
+"cites": 15,
+"abstract": "A comprehensive understanding of plant metabolism could provide a direct mechanism for improving nitrogen use efficiency (NUE) in crops. One of the major barriers to achieving this outcome is our poor u…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Nitrogen Cycle",
+"guid": "49045045"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5d35268e4c01811de9790d805d213e86",
+"title": "Metabolic Flexibility of Mitochondrial Respiratory Chain Disorders Predicted by Computer Modelling",
+"authors": [
+{
+            "name": "Łukasz P Zielinski",
+"guid": "2607771699"
+        }, {
+            "name": "Anthony C Smith",
+"guid": "2135130988"
+        }, {
+            "name": "Alexander G Smith",
+"guid": "2567326342"
+        }, {
+            "name": "Alan J Robinson",
+"guid": "2169164939"
+        }
+]
+,
+"year": "2016",
+"journal": "· Mitochondrion",
+"cites": 15,
+"abstract": "Mitochondrial respiratory chain dysfunction causes a variety of life-threatening diseases affecting about 1 in 4300 adults. These diseases are genetically heterogeneous, but have the same outcome; reduced ac…",
+"keywords": [
+{
+            "word": "Coenzyme Q – Cytochrome C Reductase",
+"guid": "14471203"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6bc15a4b91682a5e7ea2c107618f003b",
+"title": "Structural and dynamical analysis of biological networks",
+"authors": [
+{
+            "name": "Cecilia Coimbra Klein",
+"guid": "2304525980"
+        }, {
+            "name": "Andrea Marino",
+"guid": "2124718556"
+        }, {
+            "name": "Mariefrance Sagot",
+"guid": "1268254517"
+        }, {
+            "name": "Paulo Vieira Milreu",
+"guid": "2056943936"
+        }, {
+            "name": "Matteo Brilli",
+"guid": "1720964945"
+        }
+]
+,
+"year": "2012",
+"journal": "· Briefings in Functional Genomics",
+"cites": 15,
+"abstract": "Biological networks are currently being studied with approaches derived from the mathematical and physical sciences. Their structural analysis enables to highlight nodes with special properties that have …",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Scalability",
+"guid": "48044578"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

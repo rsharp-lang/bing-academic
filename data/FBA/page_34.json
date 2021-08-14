@@ -1,3 +1,4 @@
+[
 {
             "guid": "4d7322e6707d54ef4a6574af66b03674",
 "title": "FastPros: screening of reaction knockout strategies for metabolic engineering",
@@ -31,4 +32,302 @@
         }
 ]
 
+        }, {
+            "guid": "c922db16a4d77b93a57c7712a078cdfb",
+"title": "Enumerating constrained elementary flux vectors of metabolic networks",
+"authors": [
+{
+            "name": "R Urbanczik",
+"guid": "2677322913"
         }
+]
+,
+"year": "2007",
+"journal": "· Iet Systems Biology",
+"cites": 31,
+"abstract": "The concept of elementary vector is generalised to the case where the steady-state space of the metabolic network is not a flux cone but is a general polyhedron due to further inhomogeneous constrai…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "83179861dabfe135bc1df9e20468008b",
+"title": "Integrated network analysis and effective tools in plant systems biology",
+"authors": [
+{
+            "name": "Atsushi Fukushima",
+"guid": "1971055836"
+        }, {
+            "name": "Shigehiko Kanaya",
+"guid": "1719102504"
+        }, {
+            "name": "Kozo Nishida",
+"guid": "2106035594"
+        }
+]
+,
+"year": "2014",
+"journal": "· Frontiers in Plant Science",
+"cites": 31,
+"abstract": "One of the ultimate goals in plant systems biology is to elucidate the genotype-phenotype relationship in plant cellular systems. Integrated network analysis that combines omics data with mathematical models …",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3a5b766ba88d3efed2100da9d443458a",
+"title": "Metabolic Cancer Biology: Structural-based analysis of cancer as a metabolic disease, new sights and opportunities for disea…",
+"authors": [
+{
+            "name": "Ali Masoudinejad",
+"guid": "1215103233"
+        }, {
+            "name": "Yazdan Asgari",
+"guid": "1835967424"
+        }
+]
+,
+"year": "2015",
+"journal": "· Seminars in Cancer Biology",
+"cites": 31,
+"abstract": "Abstract The cancer cell metabolism or the Warburg effect discovery goes back to 1924 when, for the first time Otto Warburg observed, in contrast to the normal cells, cancer cells have different metabolism. Wit…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Model",
+"guid": "66024118"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "70d243b89c0d6a1e289f126db7ea59e6",
+"title": "Constraint-based stoichiometric modelling from single organisms to microbial communities",
+"authors": [
+{
+            "name": "Willi Gottstein",
+"guid": "2342336826"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }, {
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }
+]
+,
+"year": "2016",
+"journal": "· Journal of the Royal Society Interface",
+"cites": 31,
+"abstract": "Microbial communities are ubiquitously found in Nature and have direct implications for the environment, human health and biotechnology. The species composition and overall function of microbial communitie…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Scientific Progress",
+"guid": "23213167"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5ea3c3aa2862722917c126965f9eb31d",
+"title": "Metabolic flux distributions: genetic information, computational predictions, and experimental validation",
+"authors": [
+{
+            "name": "Lars M Blank",
+"guid": "2084069917"
+        }, {
+            "name": "Lars Kuepfer",
+"guid": "129383052"
+        }
+]
+,
+"year": "2010",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 30,
+"abstract": "Flux distributions in intracellular metabolic networks are of immense interest to fundamental and applied research, since they are quantitative descriptors of the phenotype and the operational mode of metaboli…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5bf2ed1357c33ed233ad3f03d1ca2358",
+"title": "Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models",
+"authors": [
+{
+            "name": "Siu Hung Joshua Chan",
+"guid": "2116281522"
+        }, {
+            "name": "Jingyi Cai",
+"guid": "2944196712"
+        }, {
+            "name": "Lin Wang",
+"guid": "2735831681"
+        }, {
+            "name": "Margaret N Simonssenftle",
+"guid": "2734600143"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": "2017",
+"journal": "· Bioinformatics",
+"cites": 30,
+"abstract": "In a genome-scale metabolic model, the biomass produced is defined to have a molecular weight (MW) of 1 g mmol-1. This is critical for correctly predicting growth yields, contrasting multiple models and more i…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Systematic Error",
+"guid": "100253034"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "734439ed417ab89e1b7cb62e4f840d72",
+"title": "Hybrid optimization for 13C metabolic fluxanalysis using systems parametrized by compactification",
+"authors": [
+{
+            "name": "Tae Hoon Yang",
+"guid": "2617339479"
+        }, {
+            "name": "Oliver Frick",
+"guid": "2340532039"
+        }, {
+            "name": "Elmar Heinzle",
+"guid": "347320711"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 30,
+"abstract": "Background#R##N#The importance and power of isotope-based metabolic fluxanalysis and its contribution to understanding the metabolic network is increasingly recognized. Its application is, howev…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d95dc2cb0432565395de0bcc7be3cde3",
+"title": "Genome-scale metabolic models: reconstruction and analysis.",
+"authors": [
+{
+            "name": "Gino Baart",
+"guid": "2089003488"
+        }, {
+            "name": "Dirk E Martens",
+"guid": "2185677557"
+        }
+]
+,
+"year": "2012",
+"journal": "· Methods of Molecular Biology",
+"cites": 30,
+"abstract": "Metabolism can be defined as the complete set of chemical reactions that occur in living organisms in order to maintain life. Enzymes are the main players in this process as they are responsible for catalyzin…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9a4068dac321af2f7ef4414d2e380efd",
+"title": "Counting and correcting thermodynamically infeasible flux cycles in genome-scale metabolic networks.",
+"authors": [
+{
+            "name": "Daniele De Martino",
+"guid": "2098897715"
+        }, {
+            "name": "Fabrizio Capuani",
+"guid": "2589040324"
+        }, {
+            "name": "Matteo Mori",
+"guid": "2138186571"
+        }, {
+            "name": "Andrea De Martino",
+"guid": "2342997241"
+        }, {
+            "name": "Enzo Marinari",
+"guid": "2686679001"
+        }
+]
+,
+"year": "2013",
+"journal": "· Metabolites",
+"cites": 30,
+"abstract": "Thermodynamics constrains the flow of matter in a reaction network to occur through routes along which the Gibbs energy decreases, implying that viable steady-state flux patterns should be void of closed rea…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Monte Carlo Method",
+"guid": "19499675"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

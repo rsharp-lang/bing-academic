@@ -1,3 +1,4 @@
+[
 {
             "guid": "5b917424a128f2172ef351d95dda0b18",
 "title": "Integration of Metabolic Modeling and Phenotypic Data in Evaluation and Improvement of Ethanol Production Using Res…",
@@ -40,4 +41,311 @@
         }
 ]
 
+        }, {
+            "guid": "87b6b4c111d6b2c52aa6981f5f128cc4",
+"title": "Network-based assessment of the selectivity of metabolic drug targets in Plasmodium falciparum with respect to human live…",
+"authors": [
+{
+            "name": "Susanna Bazzani",
+"guid": "2793788816"
+        }, {
+            "name": "Andreas Hoppe",
+"guid": "2029721110"
+        }, {
+            "name": "Hermanngeorg Holzhutter",
+"guid": "2029191397"
         }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 20,
+"abstract": "Background#R##N#The search for new drug targets for antibiotics against Plasmodium falciparum, a major cause of human deaths, is a pressing scientific issue, as multiple resistance strains spread rapidly…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Parasite Hosting",
+"guid": "71928629"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fc436266999e1c87c8189e611bf4d4d0",
+"title": "Xylose-induced dynamic effects on metabolism and gene expression in engineered Saccharomyces cerevisiae in anaero…",
+"authors": [
+{
+            "name": "Susanne Alfftuomala",
+"guid": "2218239045"
+        }, {
+            "name": "Laura Salusjarvi",
+"guid": "294221414"
+        }, {
+            "name": "Dorothee Barth",
+"guid": "2241397759"
+        }, {
+            "name": "Merja Oja",
+"guid": "2517068169"
+        }, {
+            "name": "Merja Penttila",
+"guid": "1974556113"
+        }, {
+            "name": "Juhapekka Pitka…",
+"guid": "2003401017"
+        }
+]
+,
+"year": "2016",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 20,
+"abstract": "Xylose is present with glucose in lignocellulosic streams available for valorisation to biochemicals. Saccharomyces cerevisiae has excellent characteristics as a host for the bioconversion, except that it st…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "427d171e6c57db582c0bb426483ef9a2",
+"title": "Dynamic regulatory on\/off minimization for biological systems under internal temporal perturbations",
+"authors": [
+{
+            "name": "Sabrina Kleessen",
+"guid": "2024302382"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 20,
+"abstract": "Fluxbalanceanalysis (FBA) together with its extension, dynamic FBA, have proven instrumental for analyzing the robustness and dynamics of metabolic networks by employing only the stoichiometry of th…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ca052f5fb9b173626f470a40f5090473",
+"title": "Relating tissue\/organ energy expenditure to metabolic fluxes in mouse and human: experimental data integrated with mathe…",
+"authors": [
+{
+            "name": "China M Kummitha",
+"guid": "2209811894"
+        }, {
+            "name": "Satish C Kalhan",
+"guid": "2118846923"
+        }, {
+            "name": "Gerald M Saidel",
+"guid": "8166740"
+        }, {
+            "name": "Nicola Lai",
+"guid": "2188832634"
+        }
+]
+,
+"year": "2014",
+"journal": "· Physiological Reports",
+"cites": 20,
+"abstract": "Mouse models of human diseases are used to study the metabolic and physiological processes leading to altered whole‐body energy expenditure (EE), which is the sum of EE of all body organs and tissues. Isot…",
+"keywords": [
+{
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "88d850b6abd123f3d1ade358f468d959",
+"title": "Predicting and characterizing selective multiple drug treatments for metabolic diseases and cancer",
+"authors": [
+{
+            "name": "Giuseppe Facchetti",
+"guid": "2068482808"
+        }, {
+            "name": "Mattia Zampieri",
+"guid": "1986313651"
+        }, {
+            "name": "Claudio Altafini",
+"guid": "2214272408"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 20,
+"abstract": "In the field of drug discovery, assessing the potential of multidrug therapies isa difficult task because of the combinatorial complexity (both theoretical andexperimental) and because of the requirements on the sel…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Drug Discovery",
+"guid": "74187038"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "614dd63926f83c3640e2970481306ddf",
+"title": "A new computational method to split large biochemical networks into coherent subnets",
+"authors": [
+{
+            "name": "W S Verwoerd",
+"guid": "2477011415"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 19,
+"abstract": "Background: Compared to more general networks, biochemical networks have some special features: while generally sparse, there are a small number of highly connected metabolite nodes; and metabolite …",
+"keywords": [
+{
+            "word": "Subnet",
+"guid": "21099817"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9508198a101357bd3564afac99d1ce79",
+"title": "In silico screening of triple reaction knockout Escherichia coli strains for overproduction of useful metabolites.",
+"authors": [
+{
+            "name": "Satoshi Ohno",
+"guid": "2937061202"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": "2013",
+"journal": "· Journal of Bioscience and Bioengineering",
+"cites": 19,
+"abstract": "For efficient production of industrially useful metabolites by microorganisms, it is important to design metabolic networks suitable for production. For this purpose, constraint-based metabolic flux simulation …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Gene Knockout",
+"guid": "77957584"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "03fb82301fc897183056d5743fe9e63f",
+"title": "A framework for the systematic design of fed‐batch strategies in mammalian cell culture",
+"authors": [
+{
+            "name": "Sarantos Kyriakopoulos",
+"guid": "1886686380"
+        }, {
+            "name": "Cleo Kontoravdi",
+"guid": "1991574528"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 19,
+"abstract": "A methodology to calculate the required amount of amino acids (a.a.) and glucose in feeds for animal cell culture from monitoring their levels in batch experiments is presented herein. Experiments with the desig…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "513ad792cdb082c33a64c846e55aedf2",
+"title": "Staphylococcus aureus physiological growth limitations: Insights from flux calculations built on proteomics and extern…",
+"authors": [
+{
+            "name": "Chunguang Liang",
+"guid": "2133246292"
+        }, {
+            "name": "Manuel Liebeke",
+"guid": "2305578925"
+        }, {
+            "name": "Roland F Schwarz",
+"guid": "2112775321"
+        }, {
+            "name": "Daniela Zuhlke",
+"guid": "2106734783"
+        }, {
+            "name": "Stephan Fuchs",
+"guid": "2099818380"
+        }, {
+            "name": "Leonhard …",
+"guid": "2721213897"
+        }
+]
+,
+"year": "2011",
+"journal": "· Proteomics",
+"cites": 19,
+"abstract": "Comparing proteomics and metabolomics allows insights into Staphylococcus aureus physiological growth. We update genome and proteome information and deliver strain-specific metabolic models for t…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

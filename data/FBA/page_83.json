@@ -1,3 +1,4 @@
+[
 {
             "guid": "5f2e9b934e61df0ff615292224d090bd",
 "title": "The poly-omics of ageing through individual-based metabolic modelling",
@@ -28,4 +29,335 @@
         }
 ]
 
+        }, {
+            "guid": "5ad234aa6102011c77ddf3509a49dd4a",
+"title": "MICOM: Metagenome-Scale Modeling To Infer Metabolic Interactions in the Gut Microbiota",
+"authors": [
+{
+            "name": "Christian Diener",
+"guid": "2137958068"
+        }, {
+            "name": "Sean M Gibbons",
+"guid": "2117678214"
+        }, {
+            "name": "Osbaldo Resendisantonio",
+"guid": "1768339730"
         }
+]
+,
+"year": "2020",
+"journal": "",
+"cites": 4,
+"abstract": "ABSTRACT Compositional changes in the gut microbiota have been associated with a variety of medical conditions such as obesity, Crohn’s disease, and diabetes. However, connecting microbial community c…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9af1ddefe93cf4e5acf00c66d60d3647",
+"title": "Expanding Metabolic Engineering Algorithms Using Feasible Space and Shadow Price Constraint Modules",
+"authors": [
+{
+            "name": "Christopher J Tervo",
+"guid": "2009931019"
+        }, {
+            "name": "Jennifer L Reed",
+"guid": "2139351304"
+        }
+]
+,
+"year": "2014",
+"journal": "· Metabolic Engineering Communications",
+"cites": 4,
+"abstract": "While numerous computational methods have been developed that use genome-scale models to propose mutants for the purpose of metabolic engineering, they generally compare mutants based on a single cri…",
+"keywords": [
+{
+            "word": "Integer",
+"guid": "4071166"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0b5f58ea949f5e452bd777e35384f112",
+"title": "Qualitative Reasoning for Reaction Networks with Partial Kinetic Information",
+"authors": [
+{
+            "name": "Joachim Niehren",
+"guid": "218987050"
+        }, {
+            "name": "Mathias John",
+"guid": "2929006625"
+        }, {
+            "name": "Cristian Versari",
+"guid": "2933047587"
+        }, {
+            "name": "Francois Coutte",
+"guid": "2946113722"
+        }, {
+            "name": "Philippe Jacques",
+"guid": "2141376916"
+        }
+]
+,
+"year": "2015",
+"journal": "· computational methods in systems biology",
+"cites": 4,
+"abstract": "We propose a formal modeling language for reaction networks with partial kinetic information. The language has a graphical syntax reminiscent to Petri nets. The kinetics of reactions need to be describe…",
+"keywords": [
+{
+            "word": "Petri Net",
+"guid": "38677869"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f7cb728c83814c2adfe7917ef776c963",
+"title": "Multi-Omics and Genome-Scale Modeling Reveal a Metabolic Shift During C. elegans Aging",
+"authors": [
+{
+            "name": "Janna Hastings",
+"guid": "2251524424"
+        }, {
+            "name": "Abraham Mains",
+"guid": "2752892983"
+        }, {
+            "name": "Bhupinder Virk",
+"guid": "2912597943"
+        }, {
+            "name": "Nicolas Rodriguez",
+"guid": "2135559267"
+        }, {
+            "name": "Sharlene Murdoch",
+"guid": "2911916709"
+        }, {
+            "name": "Juliette Pe…",
+"guid": "2753148787"
+        }
+]
+,
+"year": "2019",
+"journal": "· Frontiers in Molecular Biosciences",
+"cites": 4,
+"abstract": "In this contribution, we describe a multi-omics systems biology study of the metabolic changes that occur during aging in Caenorhabditis elegans. Sampling several time points from young adulthood until early o…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f165a2b8ff00c50862610b444bea3b80",
+"title": "The organization of metabolic genotype space facilitates adaptive evolution in nitrogen metabolism",
+"authors": [
+{
+            "name": "Andreas Wagner",
+"guid": "2811329581"
+        }, {
+            "name": "Vardan Andriasyan",
+"guid": "2035944772"
+        }, {
+            "name": "Aditya Barve",
+"guid": "2034754286"
+        }
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 4,
+"abstract": "A metabolism is a complex chemical reaction system, whose metabolic genotype – the DNA encoding the enzymes catalyzing these reactions – can be compactly represented by its complement of metabolic rea…",
+"keywords": [
+{
+            "word": "Nitrogen Cycle",
+"guid": "49045045"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c820aac8d1d0e13282885ab000da5abd",
+"title": "Characterization of Clostridium ljungdahlii OTA1: a non-autotrophic hyper ethanol-producing strain",
+"authors": [
+{
+            "name": "Jason M Whitham",
+"guid": "2551369259"
+        }, {
+            "name": "Mark J Schulte",
+"guid": "2167907647"
+        }, {
+            "name": "Benjamin G Bobay",
+"guid": "308530354"
+        }, {
+            "name": "Jose M Brunobarcena",
+"guid": "866448161"
+        }, {
+            "name": "Mari S Chinn",
+"guid": "1972586584"
+        }, {
+            "name": "Micha…",
+"guid": "742832856"
+        }
+]
+,
+"year": "2017",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 4,
+"abstract": "A Clostridium ljungdahlii lab-isolated spontaneous-mutant strain, OTA1, has been shown to produce twice as much ethanol as the C. ljungdahlii ATCC 55383 strain when cultured in a mixotrophic medium contai…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Strain (chemistry)",
+"guid": "61656845"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9f9134f97294b28615e367aa3de70b3d",
+"title": "Metabolic constraints for a novel symbiosis",
+"authors": [
+{
+            "name": "Megan E S Sorensen",
+"guid": "2337983232"
+        }, {
+            "name": "Duncan D Cameron",
+"guid": "2035485696"
+        }, {
+            "name": "Michael A Brockhurst",
+"guid": "30627975"
+        }, {
+            "name": "A Jamie Wood",
+"guid": "2126794510"
+        }
+]
+,
+"year": "2016",
+"journal": "· Royal Society Open Science",
+"cites": 4,
+"abstract": "Ancient evolutionary events are difficult to study because their current products are derived forms altered by millions of years of adaptation. The primary endosymbiotic event formed the first photosynthetic euka…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Obligate",
+"guid": "24990904"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d98f62da41cd62961abbd2bb19ade429",
+"title": "Why optimal states recruit fewer reactions in metabolic networks",
+"authors": [
+{
+            "name": "Joo Sang Lee",
+"guid": "2497489467"
+        }, {
+            "name": "Takashi Nishikawa",
+"guid": "2166848811"
+        }, {
+            "name": "Adilson E Motter",
+"guid": "2016077728"
+        }
+]
+,
+"year": "2012",
+"journal": "· Discrete and Continuous Dynamical Systems",
+"cites": 4,
+"abstract": "The metabolic network of a living cell involves several hundreds or thousands of interconnected biochemical reactions. Previous research has shown that under realistic conditions only a fraction of the…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Cascade",
+"guid": "34146451"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "737880f91a48ce2947dd8200a8a027be",
+"title": "Robust Analysis of Fluxes in Genome-Scale Metabolic Pathways",
+"authors": [
+{
+            "name": "Michael Macgillivray",
+"guid": "2606103461"
+        }, {
+            "name": "Amy Ko",
+"guid": "2599811102"
+        }, {
+            "name": "Emily Gruber",
+"guid": "2598265310"
+        }, {
+            "name": "Miranda Sawyer",
+"guid": "2147204521"
+        }, {
+            "name": "Eivind Almaas",
+"guid": "25302217"
+        }, {
+            "name": "Allen Holder",
+"guid": "2117704134"
+        }
+]
+,
+"year": "2017",
+"journal": "· Scientific Reports",
+"cites": 4,
+"abstract": "Constraint-based optimization, such as flux balanceanalysis (FBA), has become a standard systems-biology computational method to study cellular metabolisms that are assumed to be in a steady state of …",
+"keywords": [
+{
+            "word": "Linear System",
+"guid": "6802819"
+        }, {
+            "word": "Lipschitz Continuity",
+"guid": "22324862"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

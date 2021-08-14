@@ -1,3 +1,4 @@
+[
 {
             "guid": "9003420c82980cb26612c1ca35dfebb5",
 "title": "Novel Plasmodium falciparum metabolic network reconstruction identifies shifts associated with clinical antimal…",
@@ -31,4 +32,317 @@
         }
 ]
 
+        }, {
+            "guid": "b2a0509cbed45432722758027d158bd8",
+"title": "Mapping the landscape of metabolic goals of a cell",
+"authors": [
+{
+            "name": "Qi Zhao",
+"guid": "2597949402"
+        }, {
+            "name": "Arion I Stettner",
+"guid": "2306816122"
+        }, {
+            "name": "Ed Reznik",
+"guid": "2963292765"
+        }, {
+            "name": "Ioannis Ch Paschalidis",
+"guid": "1549817177"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
         }
+]
+,
+"year": "2016",
+"journal": "· Genome Biology",
+"cites": 19,
+"abstract": "Genome-scale fluxbalance models of metabolism provide testable predictions of all metabolic rates in an organism, by assuming that the cell is optimizing a metabolic goal known as the objective function. We i…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "30bd802760f4ede671d7825f1975abb7",
+"title": "Prediction of dynamic behavior of mutant strains from limited wild-type data",
+"authors": [
+{
+            "name": "Hyunseob Song",
+"guid": "2139895672"
+        }, {
+            "name": "Doraiswami Ramkrishna",
+"guid": "2009889351"
+        }
+]
+,
+"year": "2012",
+"journal": "· Metabolic Engineering",
+"cites": 19,
+"abstract": "Abstract Metabolic engineering is the field of introducing genetic changes in organisms so as to modify their function towards synthesizing new products of high impact to society. However, engineered cells fr…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "67e17d66639939ef11b3a7515bd2db91",
+"title": "Mechanistic modeling of aberrant energy metabolism in human disease",
+"authors": [
+{
+            "name": "Vineet Sangar",
+"guid": "1613378716"
+        }, {
+            "name": "James A Eddy",
+"guid": "2161965749"
+        }, {
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }
+]
+,
+"year": "2012",
+"journal": "· Frontiers in Physiology",
+"cites": 18,
+"abstract": "Dysfunction in energy metabolism—including in pathways localized to the mitochondria—has been implicated in the pathogenesis of a wide array of disorders, ranging from cancer to neurodegenerative di…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0cfc51ebc42f17b9598ba11d58361a38",
+"title": "Robust fluxbalanceanalysis of multiscale biochemical reaction networks.",
+"authors": [
+{
+            "name": "Yuekai Sun",
+"guid": "2099978586"
+        }, {
+            "name": "Ronan M T Fleming",
+"guid": "2103396758"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }, {
+            "name": "Michael A Saunders",
+"guid": "2134854633"
+        }
+]
+,
+"year": "2013",
+"journal": "· BMC Bioinformatics",
+"cites": 18,
+"abstract": "Background#R##N#Biological processes such as metabolism, signaling, and macromolecular synthesis can be modeled as large networks of biochemical reactions. Large and comprehensive networks, like int…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9580f8ec2f934b3a410a649fd12b0386",
+"title": "Metabolica: A statistical research tool for analyzing metabolic networks",
+"authors": [
+{
+            "name": "Jenni Heino",
+"guid": "2303859154"
+        }, {
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2010",
+"journal": "· Computer Methods and Programs in Biomedicine",
+"cites": 18,
+"abstract": "Steady state fluxbalanceanalysis (FBA) for cellular metabolism is used, e.g., to seek information on the activity of the different pathways under equilibrium conditions, or as a basis for kinetic models. In metab…",
+"keywords": [
+{
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ecf59913b55165e8fdebff31303e6f1a",
+"title": "Model-based Confirmation of Alternative Substrates of Mitochondrial Electron Transport Chain",
+"authors": [
+{
+            "name": "Sabrina Kleessen",
+"guid": "2024302382"
+        }, {
+            "name": "Wagner L Araujo",
+"guid": "2143730312"
+        }, {
+            "name": "Alisdair R Fernie",
+"guid": "2127484256"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Biological Chemistry",
+"cites": 18,
+"abstract": "Discrimination of metabolic models based on high throughput metabolomics data, reflecting various internal and external perturbations, is essential for identifying the components that contribute to the eme…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Electron Transport Chain",
+"guid": "24840226"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7ae93bb85f75f45b89078c4fd3fa094f",
+"title": "Dispensability of Escherichia coli’s latent pathways",
+"authors": [
+{
+            "name": "Sean P Cornelius",
+"guid": "2498200328"
+        }, {
+            "name": "Joo Sang Lee",
+"guid": "2497489467"
+        }, {
+            "name": "Adilson E Motter",
+"guid": "2016077728"
+        }
+]
+,
+"year": "2011",
+"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+"cites": 18,
+"abstract": "Gene-knockout experiments on single-cell organisms have established that expression of a substantial fraction of genes is not needed for optimal growth. This problem acquired a new dimension with the rece…",
+"keywords": [
+{
+            "word": "Adaptive Response",
+"guid": "33507282"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "afb86e446d7d6a9a8bc0d0044a221d59",
+"title": "Managing uncertainty in metabolic network structure and improving predictions using EnsembleFBA.",
+"authors": [
+{
+            "name": "Matthew B Biggs",
+"guid": "2116313122"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS Computational Biology",
+"cites": 18,
+"abstract": "Genome-scale metabolic network reconstructions (GENREs) are repositories of knowledge about the metabolic processes that occur in an organism. GENREs have been used to discover and interpret met…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b2a083150540f521be9b71061acd1daf",
+"title": "Quantitative Analysis of Escherichia coli Metabolic Phenotypes within the Context of Phenotypic Phase Planes",
+"authors": [
+{
+            "name": "Rafael U Ibarra",
+"guid": "2478536568"
+        }, {
+            "name": "P Fu",
+"guid": "2850398211"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "J R Ditonno",
+"guid": "2641485698"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }
+]
+,
+"year": "2003",
+"journal": "· Journal of Molecular Microbiology and Biotechnology",
+"cites": 18,
+"abstract": "In silico models of Escherichia coli metabolism have been developed to predict metabolic behavior and propose experimentally testable hypotheses. However, a thorough assessment of t",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

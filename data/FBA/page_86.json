@@ -1,3 +1,4 @@
+[
 {
             "guid": "74c8443515ffb5fa7a790aff1caa8101",
 "title": "Insights into the spatial and temporal organisation of plant metabolism from network fluxanalysis",
@@ -34,4 +35,320 @@
         }
 ]
 
+        }, {
+            "guid": "b0fa9502bb57df45fc0757d836872d6c",
+"title": "Modeling the Metabolic State of Mycobacterium tuberculosis Upon Infection",
+"authors": [
+{
+            "name": "Rienk A Rienksma",
+"guid": "268008456"
+        }, {
+            "name": "Peter J Schaap",
+"guid": "2003744388"
+        }, {
+            "name": "Vitor A P Martins Dos Santos",
+"guid": "2109312389"
+        }, {
+            "name": "Maria Suarezdiez",
+"guid": "86598953"
         }
+]
+,
+"year": "2018",
+"journal": "· Frontiers in Cellular and Infection Microbiology",
+"cites": 3,
+"abstract": "Genome-scale metabolic models of Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis, have been envisioned as a platform for drug discovery. By systematically probing the netw…",
+"keywords": [
+{
+            "word": "Bacterial Growth",
+"guid": "17741926"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "543de05c5e949d290aeebc8fb98ae7d7",
+"title": "Systematic investigation of metabolic reprogramming in different cancers based on tissue-specific metabolic models",
+"authors": [
+{
+            "name": "Fangzhou Shen",
+"guid": "2688216047"
+        }, {
+            "name": "Jian Li",
+"guid": "2633706284"
+        }, {
+            "name": "Ying Zhu",
+"guid": "2714576430"
+        }, {
+            "name": "Zhuo Wang",
+"guid": "2608289827"
+        }
+]
+,
+"year": "2016",
+"journal": "· Journal of Bioinformatics and Computational Biology",
+"cites": 3,
+"abstract": "Cancer cells have different metabolism in contrast to normal cells. The advancement in omics measurement technology enables the genome-wide characterization of altered cellular processes in can…",
+"keywords": [
+{
+            "word": "Biomarker (medicine)",
+"guid": "7466232"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "76f9e97b029bd3f0a3856de719b83c8d",
+"title": "A systematic approach for finding the objective function and active constraints for dynamic fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Ali Nikdel",
+"guid": "2264255665"
+        }, {
+            "name": "Richard D Braatz",
+"guid": "2264498544"
+        }, {
+            "name": "Hector Budman",
+"guid": "2020319352"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 3,
+"abstract": "Dynamic fluxbalanceanalysis (DFBA) has become an instrumental modeling tool for describing the dynamic behavior of bioprocesses. DFBA involves the maximization of a biologically meaningful objectiv…",
+"keywords": [
+{
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Mathematical Optimization",
+"guid": "126255220"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "06458caf6e9128d283aa1dc3705fc0b9",
+"title": "Flux control-based design of furfural-resistance strains of Saccharomyces cerevisiae for lignocellulosic biorefinery",
+"authors": [
+{
+            "name": "Pornkamol Unrean",
+"guid": "2577173002"
+        }
+]
+,
+"year": "2017",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 3,
+"abstract": "We have previously developed a dynamic fluxbalanceanalysis of Saccharomyces cerevisiae for elucidation of genome-wide flux response to furfural perturbation (Unrean and Franzen, Biotechnol J 10(…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Ethanol Fermentation",
+"guid": "98861065"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b7e1cc8f153928b3c2b17aea744a5cad",
+"title": "Analysis of the Effect of Reversibility Constraints on the Predictions of Genome-Scale Metabolic Models",
+"authors": [
+{
+            "name": "Jose P Faria",
+"guid": "2430505831"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }, {
+            "name": "Rick Stevens",
+"guid": "2618893480"
+        }, {
+            "name": "Christopher S Henry",
+"guid": "2129467050"
+        }
+]
+,
+"year": "2010",
+"journal": "· Advances in Bioinformatics",
+"cites": 3,
+"abstract": "Reversibility constraints are one aspect of genome-scale metabolic models that has received significant attention recently. This study explores the impact of complete removal of reversibility constraints on the …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7f4759aaaac1c756b5079a53d676cacc",
+"title": "Feedbacks from the metabolic network to the genetic network reveal regulatory modules in E. coli and B. subtilis",
+"authors": [
+{
+            "name": "Santhust Kumar",
+"guid": "2794340103"
+        }, {
+            "name": "Saurabh Mahajan",
+"guid": "2498860143"
+        }, {
+            "name": "Sanjay Jain",
+"guid": "3008944630"
+        }
+]
+,
+"year": "2018",
+"journal": "· PLOS ONE",
+"cites": 3,
+"abstract": "The genetic regulatory network (GRN) plays a key role in controlling the response of the cell to changes in the environment. Although the structure of GRNs has been the subject of many studies, their large scal…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Transcription Factor",
+"guid": "86339819"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e4f938bf12bcc7a992a0670dfb0ea629",
+"title": "Systems biology and the reconstruction of the cell : From molecular components to integral function",
+"authors": [
+{
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }, {
+            "name": "Sergio Rossell",
+"guid": "2059023479"
+        }, {
+            "name": "Karen Van Eunen",
+"guid": "196579412"
+        }, {
+            "name": "J Bouwman",
+"guid": "2803296981"
+        }, {
+            "name": "Hans V Westerhoff",
+"guid": "89570192"
+        }, {
+            "name": "Barbara …",
+"guid": "2140650265"
+        }
+]
+,
+"year": "2007",
+"journal": "· Sub-cellular biochemistry",
+"cites": 3,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Elasticity Coefficient",
+"guid": "85784176"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "82f52e1cceed0d1fd24eed88fd6c03ca",
+"title": "ModelExplorer - software for visual inspection and inconsistency correction of genome-scale metabolic reconstru…",
+"authors": [
+{
+            "name": "Nikolay Martyushenko",
+"guid": "2479153134"
+        }, {
+            "name": "Eivind Almaas",
+"guid": "25302217"
+        }
+]
+,
+"year": "2019",
+"journal": "· BMC Bioinformatics",
+"cites": 3,
+"abstract": "Genome-scale metabolic network reconstructions are low level chemical representations of biological organisms. These models allow the system-level investigation of metabolic phenotypes using a variety o…",
+"keywords": [
+{
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a8126e2fe7ea425f3cfa9c3db53c6243",
+"title": "Predicting growth conditions from internal metabolic fluxes in an in-silico model of E. coli.",
+"authors": [
+{
+            "name": "Viswanadham Sridhara",
+"guid": "2021307961"
+        }, {
+            "name": "Austin G Meyer",
+"guid": "2136281687"
+        }, {
+            "name": "Piyush Rai",
+"guid": "2136188764"
+        }, {
+            "name": "Jeffrey E Barrick",
+"guid": "2182654253"
+        }, {
+            "name": "Pradeep Ravikumar",
+"guid": "2409260842"
+        }, {
+            "name": "Daniel …",
+"guid": "2034634026"
+        }
+]
+,
+"year": "2014",
+"journal": "· PLOS ONE",
+"cites": 3,
+"abstract": "A widely studied problem in systems biology is to predict bacterial phenotype from growth conditions, using mechanistic models such as fluxbalanceanalysis (FBA). However, the inverse prediction of growt…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

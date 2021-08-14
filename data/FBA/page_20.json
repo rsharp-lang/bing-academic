@@ -1,3 +1,4 @@
+[
 {
             "guid": "a9fa0091a60fc96d13fd0fbb7b7dffce",
 "title": "Genome-Scale Modeling of Light-Driven Reductant Partitioning and Carbon Fluxes in Diazotrophic Unicellular Cyanobacteriu…",
@@ -43,4 +44,329 @@
         }
 ]
 
+        }, {
+            "guid": "1a133089955584cc5402574870a3efe5",
+"title": "Reconstruction and fluxanalysis of coupling between metabolic pathways of astrocytes and neurons: application to cerebral h…",
+"authors": [
+{
+            "name": "Tunahan Cakιr",
+"guid": "297406376"
+        }, {
+            "name": "Selma Alsan",
+"guid": "2061662568"
+        }, {
+            "name": "Hale Saybasιlι",
+"guid": "210444864"
+        }, {
+            "name": "Ata Akιn",
+"guid": "272549334"
+        }, {
+            "name": "Kutlu O Ulgen",
+"guid": "2146392340"
         }
+]
+,
+"year": "2007",
+"journal": "· Theoretical Biology and Medical Modelling",
+"cites": 82,
+"abstract": "Background#R##N#It is a daunting task to identify all the metabolic pathways of brain energy metabolism and develop a dynamic simulation environment that will cover a time scale ranging from seconds to hour…",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Cell Biology",
+"guid": "95444343"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c808d3bab94dff0e229a8c46110fe7d4",
+"title": "Dynamic analysis of optimality in myocardial energy metabolism under normal and ischemic conditions",
+"authors": [
+{
+            "name": "Ruoyu Luo",
+"guid": "2334695962"
+        }, {
+            "name": "Sha Liao",
+"guid": "2565124953"
+        }, {
+            "name": "Guanyang Tao",
+"guid": "2319948658"
+        }, {
+            "name": "Yuanyuan Li",
+"guid": "2291766699"
+        }, {
+            "name": "Shaoqun Zeng",
+"guid": "2701418727"
+        }, {
+            "name": "Yixue Li",
+"guid": "2420797795"
+        }, {
+            "name": "Qingming Luo",
+"guid": "2691218596"
+        }
+]
+,
+"year": "2006",
+"journal": "· Molecular Systems Biology",
+"cites": 81,
+"abstract": "To better understand the dynamic regulation of optimality in metabolic networks under perturbed conditions, we reconstruct the energetic-metabolic network in mammalian myocardia using dynamic flu…",
+"keywords": [
+{
+            "word": "Oxidative Phosphorylation",
+"guid": "57600042"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d44a75132318dc720d1d58f79bd80de",
+"title": "How does mild hypothermia affect monoclonal antibody glycosylation",
+"authors": [
+{
+            "name": "Si Nga Sou",
+"guid": "1990068279"
+        }, {
+            "name": "Christopher Sellick",
+"guid": "2096165215"
+        }, {
+            "name": "Kenneth Lee",
+"guid": "2479761513"
+        }, {
+            "name": "Alison Mason",
+"guid": "2150083779"
+        }, {
+            "name": "Sarantos Kyriakopoulos",
+"guid": "1886686380"
+        }, {
+            "name": "Karen M Poli…",
+"guid": "2030054357"
+        }
+]
+,
+"year": "2015",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 81,
+"abstract": "The application of mild hypothermic conditions to cell culture is a routine industrial practice used to improve recombinant protein production. However, a thorough understanding of the regulation of dynam…",
+"keywords": [
+{
+            "word": "Nucleotide Sugar",
+"guid": "26664279"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "216b6c88684ddda4174265d3e356070f",
+"title": "Redox balance is key to explaining full vs . partial switching to low-yield metabolism",
+"authors": [
+{
+            "name": "Milan J A Van Hoek",
+"guid": "2964007182"
+        }, {
+            "name": "Roeland M H Merks",
+"guid": "182731026"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Systems Biology",
+"cites": 81,
+"abstract": "Low-yield metabolism is a puzzling phenomenon in many unicellular and multicellular organisms. In abundance of glucose, many cells use a highly wasteful fermentation pathway despite the availability of …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Oxidative Phosphorylation",
+"guid": "57600042"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cde8ccf745608d6bb212fadbe2c982c2",
+"title": "Metabolic network reconstruction and flux variability analysis of storage synthesis in developing oilseed rape (Brassica napus L…",
+"authors": [
+{
+            "name": "Jordan O Hay",
+"guid": "2097360908"
+        }, {
+            "name": "Jorg Schwender",
+"guid": "2002373688"
+        }
+]
+,
+"year": "2011",
+"journal": "· Plant Journal",
+"cites": 81,
+"abstract": "Computational simulation of large-scale biochemical networks can be used to analyze and predict the metabolic behavior of an organism, such as a developing seed. Based on the biochemical literature, pat…",
+"keywords": [
+{
+            "word": "Heterotroph",
+"guid": "35195898"
+        }, {
+            "word": "Compartmentalization (psychology)",
+"guid": "42174756"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "62f37721f2fb7b77066be343f4dae759",
+"title": "Genome-scale metabolic reconstructions and theoretical investigation of methane conversion in Methylomicrobium bu…",
+"authors": [
+{
+            "name": "Andrea De La Torre",
+"guid": "2127397337"
+        }, {
+            "name": "Aisha Metivier",
+"guid": "2516012954"
+        }, {
+            "name": "Frances Chu",
+"guid": "2125525967"
+        }, {
+            "name": "Lieve M L Laurens",
+"guid": "2071129721"
+        }, {
+            "name": "David A C Beck",
+"guid": "2064001006"
+        }, {
+            "name": "Philip T Pie…",
+"guid": "1974812767"
+        }
+]
+,
+"year": "2015",
+"journal": "· Microbial Cell Factories",
+"cites": 80,
+"abstract": "Background#R##N#Methane-utilizing bacteria (methanotrophs) are capable of growth on methane and are attractive systems for bio-catalysis. However, the application of natural methanotrophic strains to lar…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "26fb84a59210c9cf9b4232dd08f092e2",
+"title": "Optimal flux spaces of genome-scale stoichiometric models are determined by a few subnetworks",
+"authors": [
+{
+            "name": "Steven Kelk",
+"guid": "2943487738"
+        }, {
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Leen Stougie",
+"guid": "2026401822"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }
+]
+,
+"year": "2012",
+"journal": "· Scientific Reports",
+"cites": 80,
+"abstract": "The metabolism of organisms can be studied with comprehensive stoichiometric models of their metabolic networks. Flux balance analysis (FBA) calculates optimal metabolic performance of stoichiometric mode…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Polyhedron",
+"guid": "54829058"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "27e5c05d50be85e24093062491dfd142",
+"title": "Steady-state and dynamic flux balance analysis of ethanol production by Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Jared L Hjersted",
+"guid": "1976019771"
+        }, {
+            "name": "Michael A Henson",
+"guid": "2283948593"
+        }
+]
+,
+"year": "2009",
+"journal": "· Iet Systems Biology",
+"cites": 80,
+"abstract": "Steady-state and dynamic flux balance analysis (DFBA) was used to investigate the effects of metabolic model complexity and parameters on ethanol production predictions for wild-type and engineered Sacch…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "666a3d8d8e0ba4126476df4fad857ae3",
+"title": "Reconstruction and In Silico Analysis of Metabolic Network for an Oleaginous Yeast, Yarrowia lipolytica",
+"authors": [
+{
+            "name": "Pengcheng Pan",
+"guid": "2590533774"
+        }, {
+            "name": "Qiang Hua",
+"guid": "2702347869"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS ONE",
+"cites": 80,
+"abstract": "With the emergence of energy scarcity, the use of renewable energy sources such as biodiesel is becoming increasingly necessary. Recently, many researchers have focused their minds on Yarrowia lip…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

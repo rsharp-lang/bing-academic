@@ -1,3 +1,4 @@
+[
 {
             "guid": "a9e71e0e803298a7913ae66423edfeda",
 "title": "A framework for the identification of promising bio-based chemicals",
@@ -37,4 +38,332 @@
         }
 ]
 
+        }, {
+            "guid": "e07e0381de6578c7ad531dd5294acff3",
+"title": "Construction of a genome-scale metabolic network of the plant pathogen Pectobacterium carotovorum provides new strategi…",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "· FEBS Letters",
+"cites": 9,
+"abstract": "We reconstructed the first genome-scale metabolic network of the plant pathogen Pectobacterium carotovorum subsp. carotovorum PC1 based on its genomic sequence, annotation, and physiological da…",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Virtual Screening",
+"guid": "103697762"
         }
+]
+
+        }, {
+            "guid": "5e20fbfdb598167bb0cdd1748ad89078",
+"title": "Strategies for Extending Metabolomics Studies with Stable Isotope Labelling and Fluxomics",
+"authors": [
+{
+            "name": "Anubhav Srivastava",
+"guid": "2099437670"
+        }, {
+            "name": "Greg M Kowalski",
+"guid": "2415815271"
+        }, {
+            "name": "Damien L Callahan",
+"guid": "2251932234"
+        }, {
+            "name": "Peter J Meikle",
+"guid": "2181855964"
+        }, {
+            "name": "Darren J Creek",
+"guid": "1986366149"
+        }
+]
+,
+"year": "2016",
+"journal": "· Metabolites",
+"cites": 9,
+"abstract": "This is a perspective from the peer session on stable isotope labelling and fluxomics at the Australian & New Zealand Metabolomics Conference (ANZMET) held from 30 March to 1 April 2016 at La Trobe Univ…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "47670d26a947f7daf1b23db0242f33ee",
+"title": "Modeling meets metabolomics— the WormJam consensus model as basis for metabolic studies in the model organism C…",
+"authors": [
+{
+            "name": "Michael Witting",
+"guid": "2167288037"
+        }, {
+            "name": "Janna Hastings",
+"guid": "2251524424"
+        }, {
+            "name": "Nicolas Rodriguez",
+"guid": "2135559267"
+        }, {
+            "name": "Chintan Joshi",
+"guid": "2797537016"
+        }, {
+            "name": "Jake P N Hattwell",
+"guid": "2552320589"
+        }, {
+            "name": "Paul R Ebert",
+"guid": "2170397633"
+        }
+]
+,
+"year": "2018",
+"journal": "· Frontiers in Molecular Biosciences",
+"cites": 9,
+"abstract": "Metabolism is one of the attributes of life and supplies energy and building blocks to organisms. Therefore, understanding metabolism is crucial for the understanding of complex biological phenomena. Despite ha…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "76acbc934220cd6bcfbbe7bcf90a1aed",
+"title": "Using bioconductor package BiGGR for metabolic flux estimation based on gene expression changes in brain",
+"authors": [
+{
+            "name": "Anand K Gavai",
+"guid": "2948460173"
+        }, {
+            "name": "Farahaniza Supandi",
+"guid": "2771177631"
+        }, {
+            "name": "Hannes Hettling",
+"guid": "1235057009"
+        }, {
+            "name": "Paul Murrell",
+"guid": "2125587961"
+        }, {
+            "name": "Jack A M Leunissen",
+"guid": "1596647227"
+        }, {
+            "name": "Johanne…",
+"guid": "2045910041"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 9,
+"abstract": "Predicting the distribution of metabolic fluxes in biochemical networks is of major interest in systems biology. Several databases provide metabolic reconstructions for different organisms. Software to analy…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "SBML",
+"guid": "87186988"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "09de2dc6bb02811cdb44158204ffcdb6",
+"title": "Studying salmonellae and yersiniae host-pathogen interactions using integrated 'omics and modeling",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "· Current Topics in Microbiology and Immunology",
+"cites": 9,
+"abstract": "Salmonella and Yersinia are two distantly related genera containing species with wide host-range specificity and pathogenic capacity. The metabolic complexity of these organisms facilitates robust lifest…",
+"keywords": [
+{
+            "word": "Metabolic Model",
+"guid": "2910604104"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c202a92b324b2c57424d32ee371b1734",
+"title": "Computational modelling of genome-scale metabolic networks and its application to CHO cell cultures.",
+"authors": [
+{
+            "name": "Živa Bricman Rejc",
+"guid": "2327521691"
+        }, {
+            "name": "Lidija Magdevska",
+"guid": "2567442580"
+        }, {
+            "name": "Tilen Trselic",
+"guid": "2734144353"
+        }, {
+            "name": "Timotej Osolin",
+"guid": "2734038161"
+        }, {
+            "name": "Rok Vodopivec",
+"guid": "2724783081"
+        }, {
+            "name": "Jakob Mraz",
+"guid": "2724973242"
+        }, {
+            "name": "E…",
+"guid": "2727704056"
+        }
+]
+,
+"year": "2017",
+"journal": "· Computers in Biology and Medicine",
+"cites": 9,
+"abstract": "Abstract Genome-scale metabolic models (GEMs) have become increasingly important in recent years. Currently, GEMs are the most accurate in silico representation of the genotype-phenotype link. They all…",
+"keywords": [
+{
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "645ac288dc9c31842ab892813aa7a827",
+"title": "Multi-scale computational study of the Warburg effect, reverse Warburg effect and glutamine addiction in solid tumors.",
+"authors": [
+{
+            "name": "Mengrou Shan",
+"guid": "2224601691"
+        }, {
+            "name": "David Dai",
+"guid": "2780657327"
+        }, {
+            "name": "Arunodai Vudem",
+"guid": "2905362430"
+        }, {
+            "name": "Jeffrey D Varner",
+"guid": "2019038162"
+        }, {
+            "name": "Abraham D Stroock",
+"guid": "1994784151"
+        }
+]
+,
+"year": "2018",
+"journal": "· PLOS Computational Biology",
+"cites": 9,
+"abstract": "Cancer metabolism has received renewed interest as a potential target for cancer therapy. In this study, we use a multi-scale modeling approach to interrogate the implications of three metabolic scenarios of p…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ad2ec34c3c210c23ac9154df3fa555d7",
+"title": "Enhancement of rapamycin production by metabolic engineering in Streptomyces hygroscopicus based on genom…",
+"authors": [
+{
+            "name": "Lanqing Dang",
+"guid": "2560493390"
+        }, {
+            "name": "Jiao Liu",
+"guid": "2311257392"
+        }, {
+            "name": "Cheng Wang",
+"guid": "2677342490"
+        }, {
+            "name": "Huanhuan Liu",
+"guid": "2485231445"
+        }, {
+            "name": "Jianping Wen",
+"guid": "2166027150"
+        }
+]
+,
+"year": "2017",
+"journal": "· Journal of Industrial Microbiology & Biotechnology",
+"cites": 9,
+"abstract": "Rapamycin, as a macrocyclic polyketide with immunosuppressive, antifungal, and anti-tumor activity produced by Streptomyces hygroscopicus, is receiving considerable attention for its significant contributi…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b86926367a8822843c7a1bfc498b9f33",
+"title": "A mathematical model of liver metabolism: from steady state to dynamic",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Amy Kuceyeski",
+"guid": "1991100140"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }
+]
+,
+"year": "2008",
+"journal": "",
+"cites": 9,
+"abstract": "The increase in Type 2 diabetes and other metabolic disorders has led to an intense focus on the areas of research related to metabolism. Because the liver is essential in regulating metabolite concentrations th…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Chemical Kinetics",
+"guid": "36663273"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

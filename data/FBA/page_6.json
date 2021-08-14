@@ -1,3 +1,4 @@
+[
 {
             "guid": "df778486345edf26820284df088213db",
 "title": "Microbial laboratory evolution in the era of genome-scale science",
@@ -31,4 +32,329 @@
         }
 ]
 
+        }, {
+            "guid": "329c2abcccf2fe05de3da88643590460",
+"title": "Toward Metabolic Phenomics: Analysis of Genomic Data Using Flux Balances",
+"authors": [
+{
+            "name": "Christophe H Schilling",
+"guid": "2159110332"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
         }
+]
+,
+"year": "1999",
+"journal": "· Biotechnology Progress",
+"cites": 243,
+"abstract": "Small genome sequencing and annotations are leading to the definition of metabolic genotypes in an increasing number of organisms. Proteomics is beginning to give insights into the use of the metabolic g…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "25f1b686ed95fed6f85376f7c7533795",
+"title": "Dynamic Analysis of Integrated Signaling, Metabolic, and Regulatory Networks",
+"authors": [
+{
+            "name": "Jong Min Lee",
+"guid": "2922654577"
+        }, {
+            "name": "Erwin P Gianchandani",
+"guid": "1962170659"
+        }, {
+            "name": "James A Eddy",
+"guid": "2161965749"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }
+]
+,
+"year": "2008",
+"journal": "· PLOS Computational Biology",
+"cites": 243,
+"abstract": "Extracellular cues affect signaling, metabolic, and regulatory processes to elicit cellular responses. Although intracellular signaling, metabolic, and regulatory networks are highly integrated, previous analy…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Signal Transduction",
+"guid": "62478195"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7d57a3be789f6ffada3053f3c1481492",
+"title": "A genome-scale metabolic reconstruction of Pseudomonas putida KT2440: iJN746 as a cell factory",
+"authors": [
+{
+            "name": "Juan Nogales",
+"guid": "2114779511"
+        }, {
+            "name": "Bernhard O Palsson",
+"guid": "2068736320"
+        }, {
+            "name": "Ines Thiele",
+"guid": "2015971504"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 234,
+"abstract": "Background#R##N#Pseudomonas putida is the best studied pollutant degradative bacteria and is harnessed by industrial biotechnology to synthesize fine chemicals. Since the publication of P. putida K…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0f136363ff35bb5d8d6676ad9bcb604d",
+"title": "Stoichiometric modelling of cell metabolism",
+"authors": [
+{
+            "name": "Francisco Llaneras",
+"guid": "232298328"
+        }, {
+            "name": "Jesus Pico",
+"guid": "2296036715"
+        }
+]
+,
+"year": "2008",
+"journal": "· Journal of Bioscience and Bioengineering",
+"cites": 231,
+"abstract": "There are several methodologies based on representations of cell metabolism that share two characteristics: the use of a metabolic network and the assumption of pseudosteady state. These metho…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "28a1039ec4613cb6abf07b26640a7c60",
+"title": "GSMN-TB: a web-based genome scale network model of Mycobacterium tuberculosis metabolism",
+"authors": [
+{
+            "name": "Dany J V Beste",
+"guid": "2155014663"
+        }, {
+            "name": "Tracy Hooper",
+"guid": "2675017402"
+        }, {
+            "name": "Graham R Stewart",
+"guid": "2099580866"
+        }, {
+            "name": "Bhushan Bonde",
+"guid": "1963683845"
+        }, {
+            "name": "Claudio Avignonerossa",
+"guid": "2025239620"
+        }, {
+            "name": "Micha…",
+"guid": "2165455718"
+        }
+]
+,
+"year": "2007",
+"journal": "· Genome Biology",
+"cites": 227,
+"abstract": "Background: An impediment to the rational development of novel drugs against tuberculosis (TB) is a general paucity of knowledge concerning the metabolism of Mycobacterium tuberculosis, particularly dur…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1acc70d2ef538bd2c30eb7200345f696",
+"title": "Integrating quantitative proteomics and metabolomics with a genome-scale metabolic network model",
+"authors": [
+{
+            "name": "Keren Yizhak",
+"guid": "1108276475"
+        }, {
+            "name": "Tomer Benyamini",
+"guid": "299162645"
+        }, {
+            "name": "Wolfram Liebermeister",
+"guid": "204281954"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }, {
+            "name": "Tomer Shlomi",
+"guid": "172881847"
+        }
+]
+,
+"year": "2010",
+"journal": "· Bioinformatics",
+"cites": 226,
+"abstract": "Motivation: The availability of modern sequencing techniques has led to a rapid increase in the amount of reconstructed metabolic networks. Using these models as a platform for the analysis of high throughput …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7b9aa7f162350771ec813492c8e81346",
+"title": "Is maximization of molar yield in metabolic networks favoured by evolution",
+"authors": [
+{
+            "name": "Stefan Schuster",
+"guid": "2569839502"
+        }, {
+            "name": "Thomas Pfeiffer",
+"guid": "2155461021"
+        }, {
+            "name": "David A Fell",
+"guid": "2173109630"
+        }
+]
+,
+"year": "2008",
+"journal": "· Journal of Theoretical Biology",
+"cites": 224,
+"abstract": "Stoichiometric analysis of metabolic networks allows the calculation of possible metabolic flux distributions in the absence of kinetic data. In order to predict which of the possible fluxes are present under certain c…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Evolutionary Game Theory",
+"guid": "20249471"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c9b6d496f9251ffd3b5403049f578943",
+"title": "Enhancing sesquiterpene production in Saccharomyces cerevisiae through in silico driven metabolic engineering",
+"authors": [
+{
+            "name": "Mohammad Ali Asadollahi",
+"guid": "2512350640"
+        }, {
+            "name": "Jerome Maury",
+"guid": "2149040426"
+        }, {
+            "name": "Kiran Raosaheb Patil",
+"guid": "2169763613"
+        }, {
+            "name": "Michel Schalk",
+"guid": "2129198108"
+        }, {
+            "name": "Anthony Clark",
+"guid": "2343858178"
+        }, {
+            "name": "Jen…",
+"guid": "2630046106"
+        }
+]
+,
+"year": "2009",
+"journal": "· Metabolic Engineering",
+"cites": 222,
+"abstract": "A genome-scale metabolic model was used to identify new target genes for enhanced biosynthesis of sesquiterpenes in the yeast Saccharomyces cerevisiae. The effect of gene deletions on the flux distributi…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "30567dd50f4496fd4e006d18a3a719cc",
+"title": "Thermodynamic constraints for biochemical networks",
+"authors": [
+{
+            "name": "Daniel A Beard",
+"guid": "2135719953"
+        }, {
+            "name": "Eric Babson",
+"guid": "17703494"
+        }, {
+            "name": "Edward Curtis",
+"guid": "2651334894"
+        }, {
+            "name": "Hong Qian",
+"guid": "2139598642"
+        }
+]
+,
+"year": "2004",
+"journal": "· Journal of Theoretical Biology",
+"cites": 221,
+"abstract": "The constraint-based approach to analysis of biochemical systems has emerged as a useful tool for rational metabolic engineering. Flux balance analysis (FBA) is based on the constraint of mass conserv…",
+"keywords": [
+{
+            "word": "Network Theory",
+"guid": "11804174"
+        }, {
+            "word": "Laws of Thermodynamics",
+"guid": "18815010"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]
