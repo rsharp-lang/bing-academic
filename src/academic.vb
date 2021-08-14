@@ -2,16 +2,14 @@
 Imports System.Text
 Imports Microsoft.Bing.Academic.Models
 Imports Microsoft.VisualBasic.CommandLine.Reflection
-Imports Microsoft.VisualBasic.Language.C
 Imports Microsoft.VisualBasic.Scripting.MetaData
 Imports SMRUCC.Rsharp.Runtime
 Imports SMRUCC.Rsharp.Runtime.Internal.Object
-Imports SMRUCC.Rsharp.Runtime.Interop
 
 ''' <summary>
 ''' Bing search for academic
 ''' </summary>
-<Package("search", Category:=APICategories.UtilityTools, Publisher:="xie.guigang@gcmodeller.org")>
+<Package("academic", Category:=APICategories.UtilityTools, Publisher:="xie.guigang@gcmodeller.org")>
 Public Module academic
 
     Const searchApiTemplate$ = "https://cn.bing.com/academic/search?q=%s&first=%s&FORM=HDRSC4"
@@ -56,6 +54,20 @@ Public Module academic
         Return data
     End Function
 
+    <ExportAPI("summary")>
+    Public Function createItem(title As String, guid As String, ref As String, cites As Integer, abstract As String) As literatureEntry
+        Dim year As String = ref.Match("\d+")
+        Dim jour As String = ref.Replace(year, "").Trim
+
+        Return New literatureEntry With {
+            .abstract = abstract,
+            .cites = cites,
+            .guid = guid,
+            .title = title,
+            .year = year,
+            .journal = jour
+        }
+    End Function
 
 End Module
 

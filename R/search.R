@@ -10,7 +10,18 @@ imports ["Html", "http", "graphquery"] from "webKit";
 const search as function(term) {
     const urlq as string  = `https://cn.bing.com/academic/search?q=${urlencode(term)}&first=${urlencode(term)}&FORM=HDRSC4`;
     const html as string = REnv::getHtml(urlq);
-    const result = BingAcademic::html_query(html, "graphquery/listPage.graphquery");
+    const result = html
+    |> BingAcademic::html_query("graphquery/listPage.graphquery")
+    |> sapply(function(i) {
+        summary(
+            title    = i$title$title, 
+            guid     = i$title$guid, 
+            ref      = i$publication$ref, 
+            cites    = i$publication$cites, 
+            abstract = i$abstract
+        );
+    })
+    ;
 
     result;
 }

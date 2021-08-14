@@ -7,4 +7,6 @@ const json = json_encode(result);
 
 print(json);
 
-str(result[[1]]);
+str(result[1]);
+
+writeLines(json, con = `${dirname(@script)}/test.json`);
