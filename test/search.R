@@ -2,7 +2,7 @@ require(JSON);
 
 options(http.cache_dir = `${dirname(@script)}/.cache/`);
 
-const result = BingAcademic::search("aes");
+const result = BingAcademic::search("flux balance analysis");
 const json = json_encode(result);
 
 print(json);

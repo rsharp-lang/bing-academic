@@ -1,1 +1,5 @@
-literature text()
+literature css(".aca_base", 0) {
+
+    title css(".aca_title") | text() | trim()
+
+}
