@@ -61,7 +61,8 @@ Public Module academic
                                ref As String,
                                cites As Integer,
                                abstract As String,
-                               authors As dataframe) As literatureEntry
+                               authors As dataframe,
+                               fields As dataframe) As literatureEntry
 
         Dim year As String = ref.Match("\d+")
         Dim jour As String = ref.Replace(year, "").Trim
@@ -79,6 +80,15 @@ Public Module academic
                             Return New Models.author With {
                                 .guid = any.ToString(i(0)),
                                 .name = any.ToString(i(1))
+                            }
+                        End Function) _
+                .ToArray,
+            .keywords = fields _
+                .forEachRow _
+                .Select(Function(i)
+                            Return New Models.keyword With {
+                                .guid = any.ToString(i(0)),
+                                .word = any.ToString(i(1))
                             }
                         End Function) _
                 .ToArray

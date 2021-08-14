@@ -19,7 +19,8 @@ const search as function(term) {
             ref      = i$publication$ref, 
             cites    = i$publication$cites, 
             abstract = i$abstract,
-            authors  = frameData(i$authors)
+            authors  = frameData(i$authors),
+            fields   = frameData(i$fields, "term")
         );
     })
     ;
