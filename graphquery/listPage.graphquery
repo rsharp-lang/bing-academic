@@ -1,5 +1,14 @@
 list css(".aca_algo", "*") [
     {
+        title css("h2", 0) {
+            id css("a") 
+             | attr("href") 
+             | regexp("id[=][a-z0-9]+") 
+             | tagValue("=", "value")
+            
+            title text() | strip() | trim()
+        } 
+
         authors css(".aca_caption", 0) 
               | css(".caption_author", 0)
               | css("a")
@@ -11,5 +20,29 @@ list css(".aca_algo", "*") [
                       name text() | strip()
                   }
               ]
+
+        publication css(".caption_venue", 0) {
+            ref text() 
+              | trim() 
+              | tagValue("|", "name") 
+              | strip()
+
+            cites text() 
+              | trim() 
+              | tagValue("|", "value") 
+              | replace("Cited by:", "") 
+              | trim()
+        }
+
+        abstract css(".caption_abstract", 0) | text() | strip()
+        fields css(".caption_field", 0) | css("a") [
+
+            {
+                id attr("href") 
+                  | regexp("id[=]\d+") 
+                  | tagValue("=", "value")
+                term text() | strip()
+            }
+        ]
     }
 ]
