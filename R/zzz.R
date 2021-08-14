@@ -1,5 +1,5 @@
 require(REnv);
 
-const .onLoad as fucntion() {
-
+const .onLoad as function() {
+    print("Search bing academic!");
 }
