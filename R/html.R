@@ -14,8 +14,8 @@ imports "graphquery" from "webKit";
 const html_query as function(html, queryName) {
     const queryfile as string = system.file(queryName, package = "BingAcademic");
 
-    print("query of html components from query file:");
-    print(queryfile);
+    # print("query of html components from query file:");
+    # print(queryfile);
 
     Html::parse(html, strip = TRUE)
     |> query(
