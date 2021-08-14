@@ -1,12 +1,10 @@
-imports "search" from "../dist/academic.dll";
 
-let data = search("aes")
-:> as.data.frame
-;
+#' Do bing academic search
+#' 
+#' @param term the term string to be searched
+#' 
+#' @return a list of term search result which is query from the bing academic search engine.
+#' 
+const search as function(term) {
 
-data
-:> print
-;
-data 
-:> write.csv(file = "../data/demo_search.csv")
-;
+}
