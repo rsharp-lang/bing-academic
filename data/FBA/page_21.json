@@ -1,0 +1,31 @@
+{
+            "guid": "02825c1f9dc1e1d89c562e1cef91547b",
+"title": "Flux balance analysis: A geometric perspective",
+"authors": [
+{
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }
+]
+,
+"year": "2009",
+"journal": "· Journal of Theoretical Biology",
+"cites": 80,
+"abstract": "Advances in the field of bioinformatics have led to reconstruction of genome-scale networks for a number of key organisms. The application of physicochemical constraints to these stoichiometric networks allow…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

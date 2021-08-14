@@ -1,0 +1,34 @@
+{
+            "guid": "088ff6676691bafa61c1e442972696a9",
+"title": "Metabolic network modeling of redox balancing and biohydrogen production in purple nonsulfur bacteria",
+"authors": [
+{
+            "name": "Oliver Hadicke",
+"guid": "2011622146"
+        }, {
+            "name": "Hartmut Grammel",
+"guid": "1861809032"
+        }, {
+            "name": "Steffen Klamt",
+"guid": "2097038584"
+        }
+]
+,
+"year": "2011",
+"journal": "· BMC Systems Biology",
+"cites": 46,
+"abstract": "Background: Purple nonsulfur bacteria (PNSB) are facultative photosynthetic bacteria and exhibit an extremely versatile metabolism. A central focus of research on PNSB dealt with the elucidation of mech…",
+"keywords": [
+{
+            "word": "Biohydrogen",
+"guid": "1124016"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,31 @@
+{
+            "guid": "e385e6a2c2d1aee2ad0550daf006c188",
+"title": "Calibration and analysis of genome-based models for microbial ecology",
+"authors": [
+{
+            "name": "Stilianos Louca",
+"guid": "2145248473"
+        }, {
+            "name": "Michael Doebeli",
+"guid": "1997819589"
+        }
+]
+,
+"year": "2015",
+"journal": "· eLife",
+"cites": 33,
+"abstract": "Microbial ecosystem modeling is complicated by the large number of unknown parameters and the lack of appropriate calibration tools. Here we present a novel computational framework for modeling microbial e…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

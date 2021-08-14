@@ -1,0 +1,34 @@
+{
+            "guid": "c9ebf07ea7b4fc7f09ce35a8a4a00644",
+"title": "Fast-SL: an efficient algorithm to identify synthetic lethal sets in metabolic networks",
+"authors": [
+{
+            "name": "Aditya Pratapa",
+"guid": "2785257875"
+        }, {
+            "name": "Shankar Balachandran",
+"guid": "2098112727"
+        }, {
+            "name": "Karthik Raman",
+"guid": "2127877947"
+        }
+]
+,
+"year": "2015",
+"journal": "· Bioinformatics",
+"cites": 24,
+"abstract": "Synthetic lethal reaction\/gene-sets are sets of reactions\/genes where only the simultaneous removal of all reactions\/genes in the set abolishes growth of an organism. In silico, synthetic lethal sets can be identifi…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

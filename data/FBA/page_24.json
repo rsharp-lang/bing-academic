@@ -1,0 +1,31 @@
+{
+            "guid": "0ab51a4456f520d3f138233905ad9a00",
+"title": "Computation of metabolic fluxes and efficiencies for biological carbon dioxide fixation",
+"authors": [
+{
+            "name": "Nanette R Boyle",
+"guid": "2136719151"
+        }, {
+            "name": "John A Morgan",
+"guid": "2180064207"
+        }
+]
+,
+"year": "2011",
+"journal": "· Metabolic Engineering",
+"cites": 49,
+"abstract": "Abstract With rising energy prices and concern over the environmental impact of fossil fuel consumption, the push to develop biomass derived fuels has increased significantly. Although most global carbon fixat…",
+"keywords": [
+{
+            "word": "Reverse Krebs Cycle",
+"guid": "18545589"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

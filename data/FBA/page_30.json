@@ -1,0 +1,43 @@
+{
+            "guid": "1338c5b47b2358495a3a35c99c120eab",
+"title": "Computational Strategies for a System-Level Understanding of Metabolism",
+"authors": [
+{
+            "name": "Paolo Cazzaniga",
+"guid": "2003733666"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Daniela Besozzi",
+"guid": "409270392"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Marco S Nobile",
+"guid": "2005869881"
+        }, {
+            "name": "Daniela G…",
+"guid": "2303886116"
+        }
+]
+,
+"year": "2014",
+"journal": "· Metabolites",
+"cites": 36,
+"abstract": "Cell metabolism is the biochemical machinery that provides energy and building blocks to sustain life. Understanding its fine regulation is of pivotal relevance in several fields, from metabolic engineering app…",
+"keywords": [
+{
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

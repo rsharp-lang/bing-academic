@@ -1,0 +1,40 @@
+{
+            "guid": "20fb1740580883cba648e7f96d837b6f",
+"title": "A genome-scale metabolic network reconstruction of tomato (Solanum lycopersicum L.) and its application to photorespirat…",
+"authors": [
+{
+            "name": "H Huili Yuan",
+"guid": "2248292174"
+        }, {
+            "name": "C Y Maurice Cheung",
+"guid": "2508862988"
+        }, {
+            "name": "Mark G Poolman",
+"guid": "2101310263"
+        }, {
+            "name": "Paj Peter Hilbers",
+"guid": "2478718110"
+        }, {
+            "name": "Naw Natal Van Riel",
+"guid": "2784846244"
+        }
+]
+,
+"year": "2016",
+"journal": "· Plant Journal",
+"cites": 25,
+"abstract": "Tomato (Solanum lycopersicum L.) has been studied extensively due to its high economic value in the market, and high content in health-promoting antioxidant compounds. Tomato is also considered as an …",
+"keywords": [
+{
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

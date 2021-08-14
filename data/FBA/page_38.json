@@ -1,0 +1,31 @@
+{
+            "guid": "01ae9121aae4f92ad560091bebcf61c9",
+"title": "Metabolic investigation of host\/pathogen interaction using MS2-infected Escherichia coli",
+"authors": [
+{
+            "name": "Rishi Jain",
+"guid": "2304829789"
+        }, {
+            "name": "Ranjan Srivastava",
+"guid": "2274633379"
+        }
+]
+,
+"year": "2009",
+"journal": "· BMC Systems Biology",
+"cites": 26,
+"abstract": "Background#R##N#RNA viruses are responsible for a variety of illnesses among people, including but not limited to the common cold, the flu, HIV, and ebola. Developing new drugs and new strategies for treatin…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Drug Development",
+"guid": "64903051"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

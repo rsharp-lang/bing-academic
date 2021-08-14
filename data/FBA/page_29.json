@@ -1,0 +1,37 @@
+{
+            "guid": "5c0257b06e8eb9ebfb19b018c1a9033b",
+"title": "Utilizing elementary mode analysis, pathway thermodynamics, and a genetic algorithm for metabolic flux determination and …",
+"authors": [
+{
+            "name": "Brett A Boghigian",
+"guid": "1167511761"
+        }, {
+            "name": "Hai Shi",
+"guid": "2153362332"
+        }, {
+            "name": "Kyongbum Lee",
+"guid": "2120960230"
+        }, {
+            "name": "Blaine A Pfeifer",
+"guid": "2029878413"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Systems Biology",
+"cites": 38,
+"abstract": "Background#R##N#Microbial hosts offer a number of unique advantages when used as production systems for both native and heterologous small-molecules. These advantages include high selectivity a…",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

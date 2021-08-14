@@ -1,0 +1,43 @@
+{
+            "guid": "3830b3e9acdf04c51f7024d9384c00ab",
+"title": "Iterative reconstruction of a global metabolic model of Acinetobacter baylyi ADP1 using high-throughput growth ph…",
+"authors": [
+{
+            "name": "Maxime Durot",
+"guid": "2074108877"
+        }, {
+            "name": "Francois Le Fevre",
+"guid": "2089871126"
+        }, {
+            "name": "Veronique De Berardinis",
+"guid": "288972523"
+        }, {
+            "name": "Annett Kreimeyer",
+"guid": "2760974085"
+        }, {
+            "name": "David Vallenet",
+"guid": "173398372"
+        }, {
+            "name": "Cyri…",
+"guid": "2577217448"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Systems Biology",
+"cites": 75,
+"abstract": "Genome-scale metabolic models are powerful tools to study global properties of metabolic networks. They provide a way to integrate various types of biological information in a single framework, providing a struc…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

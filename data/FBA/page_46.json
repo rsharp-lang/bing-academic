@@ -1,0 +1,34 @@
+{
+            "guid": "9003420c82980cb26612c1ca35dfebb5",
+"title": "Novel Plasmodium falciparum metabolic network reconstruction identifies shifts associated with clinical antimal…",
+"authors": [
+{
+            "name": "Maureen A Carey",
+"guid": "2496304658"
+        }, {
+            "name": "Jason A Papin",
+"guid": "1927876132"
+        }, {
+            "name": "Jennifer L Guler",
+"guid": "251784410"
+        }
+]
+,
+"year": "2017",
+"journal": "· BMC Genomics",
+"cites": 19,
+"abstract": "Malaria remains a major public health burden and resistance has emerged to every antimalarial on the market, including the frontline drug, artemisinin. Our limited understanding of Plasmodium biology hinde…",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,34 @@
+{
+            "guid": "4d7322e6707d54ef4a6574af66b03674",
+"title": "FastPros: screening of reaction knockout strategies for metabolic engineering",
+"authors": [
+{
+            "name": "Satoshi Ohno",
+"guid": "2937061202"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }
+]
+,
+"year": "2014",
+"journal": "· Bioinformatics",
+"cites": 31,
+"abstract": "Motivation: Although constraint-based fluxanalysis of knockout strains has facilitated the production of desirable metabolites in microbes, current screening methods have placed a limitation on the number kn…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

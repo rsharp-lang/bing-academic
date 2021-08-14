@@ -1,0 +1,40 @@
+{
+            "guid": "952bbb5c024edc40de3aaaf254955449",
+"title": "Logical transformation of genome-scale metabolic models for gene level applications and analysis",
+"authors": [
+{
+            "name": "Cheng Zhang",
+"guid": "2493466893"
+        }, {
+            "name": "Boyang Ji",
+"guid": "2294883240"
+        }, {
+            "name": "Adil Mardinoglu",
+"guid": "1964522928"
+        }, {
+            "name": "Jens Nielsen",
+"guid": "2630046106"
+        }, {
+            "name": "Qiang Hua",
+"guid": "2694256915"
+        }
+]
+,
+"year": "2015",
+"journal": "· Bioinformatics",
+"cites": 27,
+"abstract": "Motivation: In recent years, genome-scale metabolic models (GEMs) have played important roles in areas like systems biology and bioinformatics. However, because of the complexity of genereaction associatio…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,37 @@
+{
+            "guid": "15fbb0a0d8655f984b80ae009774e667",
+"title": "Maximizing output and recognizing autocatalysis in chemical reaction networks is NP-complete",
+"authors": [
+{
+            "name": "Jakob L Andersen",
+"guid": "2110168456"
+        }, {
+            "name": "Christoph Flamm",
+"guid": "1965187182"
+        }, {
+            "name": "Daniel Merkle",
+"guid": "1981192622"
+        }, {
+            "name": "Peter F Stadler",
+"guid": "2168957985"
+        }
+]
+,
+"year": "2012",
+"journal": "· Journal of Systems Chemistry",
+"cites": 34,
+"abstract": "A classical problem in metabolic design is to maximize the production of a desired compound in a given chemical reaction network by appropriately directing the mass flow through the network. Computationall…",
+"keywords": [
+{
+            "word": "Computational Problem",
+"guid": "19754495"
+        }, {
+            "word": "Autocatalysis",
+"guid": "37263863"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

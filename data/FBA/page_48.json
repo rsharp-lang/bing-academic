@@ -1,0 +1,37 @@
+{
+            "guid": "d079042f0c679a0aeef00d71a4582865",
+"title": "A multi-objective constraint-based approach for modeling genome-scale microbial ecosystems",
+"authors": [
+{
+            "name": "Marko Budinich",
+"guid": "2133899939"
+        }, {
+            "name": "Jeremie Bourdon",
+"guid": "2193310788"
+        }, {
+            "name": "Abdelhalim Larhlimi",
+"guid": "1393425648"
+        }, {
+            "name": "Damien Eveillard",
+"guid": "2026693254"
+        }
+]
+,
+"year": "2017",
+"journal": "· PLOS ONE",
+"cites": 17,
+"abstract": "Interplay within microbial communities impacts ecosystems on several scales, and elucidation of the consequent effects is a difficult task in ecology. In particular, the integration of genome-scale data withi…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

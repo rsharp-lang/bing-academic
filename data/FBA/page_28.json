@@ -1,0 +1,40 @@
+{
+            "guid": "3896c7eb0a03c0b070401ac26a16297b",
+"title": "Metabolic model of Synechococcus sp. PCC 7002: Prediction of flux distribution and network modification for enhanced biofu…",
+"authors": [
+{
+            "name": "John I Hendry",
+"guid": "2580813152"
+        }, {
+            "name": "Charulata B Prasannan",
+"guid": "2582486081"
+        }, {
+            "name": "Aditi Joshi",
+"guid": "2582222790"
+        }, {
+            "name": "Santanu Dasgupta",
+"guid": "2675464005"
+        }, {
+            "name": "Pramod P Wangikar",
+"guid": "67474287"
+        }
+]
+,
+"year": "2016",
+"journal": "· Bioresource Technology",
+"cites": 41,
+"abstract": "Flux Balance Analysis was performed with the Genome Scale Metabolic Model of a fast growing cyanobacterium Synechococcus sp. PCC 7002 to gain insights that would help in engineering the organ…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

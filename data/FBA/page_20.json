@@ -1,0 +1,46 @@
+{
+            "guid": "a9fa0091a60fc96d13fd0fbb7b7dffce",
+"title": "Genome-Scale Modeling of Light-Driven Reductant Partitioning and Carbon Fluxes in Diazotrophic Unicellular Cyanobacteriu…",
+"authors": [
+{
+            "name": "Trang T Vu",
+"guid": "2159770511"
+        }, {
+            "name": "Sergey Stolyar",
+"guid": "2297018844"
+        }, {
+            "name": "Grigoriy E Pinchuk",
+"guid": "2083826245"
+        }, {
+            "name": "Eric A Hill",
+"guid": "2148939991"
+        }, {
+            "name": "Leo A Kucek",
+"guid": "2065235430"
+        }, {
+            "name": "Roslyn N Brown",
+"guid": "2161013098"
+        }, {
+            "name": "Mary S …",
+"guid": "2103604669"
+        }
+]
+,
+"year": "2012",
+"journal": "· PLOS Computational Biology",
+"cites": 82,
+"abstract": "Genome-scale metabolic models have proven useful for answering fundamental questions about metabolic capabilities of a variety of microorganisms, as well as informing their metabolic engineering. H…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

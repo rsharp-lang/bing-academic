@@ -1,0 +1,40 @@
+{
+            "guid": "64558b0276ab4c70a26cae1575b3de39",
+"title": "Generation and Evaluation of a Genome-Scale Metabolic Network Model of Synechococcus elongatus PCC7942",
+"authors": [
+{
+            "name": "J Triana",
+"guid": "2549998192"
+        }, {
+            "name": "Arnau Montagud",
+"guid": "1395024416"
+        }, {
+            "name": "Maria Pilar Santamarina Siurana",
+"guid": "2618642833"
+        }, {
+            "name": "David Velasco De La Fuente",
+"guid": "2265500643"
+        }, {
+            "name": "Arantxa …",
+"guid": "2287495338"
+        }
+]
+,
+"year": "2014",
+"journal": "· Metabolites",
+"cites": 22,
+"abstract": "The reconstruction of genome-scale metabolic models and their applications represent a great advantage of systems biology. Through their use as metabolic flux simulation models, production of industrially-inte…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biological Database",
+"guid": "20901353"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,43 @@
+{
+            "guid": "2946650c550558c54c555ecf4881f86a",
+"title": "Metabolic reconstruction identifies strain-specific regulation of virulence in Toxoplasma gondii.",
+"authors": [
+{
+            "name": "Carl Song",
+"guid": "2508164829"
+        }, {
+            "name": "Melissa A Chiasson",
+"guid": "2132541650"
+        }, {
+            "name": "Nirvana Nursimulu",
+"guid": "327173976"
+        }, {
+            "name": "Stacy S Hung",
+"guid": "2154325326"
+        }, {
+            "name": "James D Wasmuth",
+"guid": "2006739291"
+        }, {
+            "name": "Michael E …",
+"guid": "1745603412"
+        }
+]
+,
+"year": "2013",
+"journal": "· Molecular Systems Biology",
+"cites": 28,
+"abstract": "Increasingly, metabolic potential is proving to be a critical determinant governing a pathogen's virulence as well as its capacity to expand its host range. To understand the potential contribution of metabolism to st…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

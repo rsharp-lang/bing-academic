@@ -1,0 +1,43 @@
+{
+            "guid": "ee417e6140076254b94502978dfb6a6e",
+"title": "Metabolic stasis in an ancient symbiosis: genome-scale metabolic networks from two Blattabacterium cuenoti strains…",
+"authors": [
+{
+            "name": "Carmen M Gonzalezdomenech",
+"guid": "1967696213"
+        }, {
+            "name": "Eugeni Belda",
+"guid": "2301409182"
+        }, {
+            "name": "Rafael Patinonavarrete",
+"guid": "256798119"
+        }, {
+            "name": "Andres Moya",
+"guid": "2115973768"
+        }, {
+            "name": "Juli Pereto",
+"guid": "2060918440"
+        }, {
+            "name": "A…",
+"guid": "2109056485"
+        }
+]
+,
+"year": "2012",
+"journal": "· BMC Microbiology",
+"cites": 35,
+"abstract": "Background#R##N#Cockroaches are terrestrial insects that strikingly eliminate waste nitrogen as ammonia instead of uric acid. Blattabacterium cuenoti (Mercier 1906) strains Bge and Pam are the oblig…",
+"keywords": [
+{
+            "word": "Obligate",
+"guid": "24990904"
+        }, {
+            "word": "Symbiosis",
+"guid": "43144210"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

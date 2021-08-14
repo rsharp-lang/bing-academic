@@ -1,0 +1,40 @@
+{
+            "guid": "c769a3154ea3b4018de8f35fb514088b",
+"title": "Computational analysis of the productivity potential of CAM.",
+"authors": [
+{
+            "name": "Sanu Shameer",
+"guid": "2792776582"
+        }, {
+            "name": "K Baghalian",
+"guid": "2192021703"
+        }, {
+            "name": "C Y Maurice Cheung",
+"guid": "2508862988"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }
+]
+,
+"year": "2018",
+"journal": "· Nature plants",
+"cites": 23,
+"abstract": "There is considerable interest in transferring crassulacean acid metabolism (CAM) to C3 crops to improve their water-use efficiency. However, because the CAM biochemical cycle is energetically costly, it is uncl…",
+"keywords": [
+{
+            "word": "Agronomy",
+"guid": "6557445"
+        }, {
+            "word": "RuBisCO",
+"guid": "50212798"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

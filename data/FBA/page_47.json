@@ -1,0 +1,31 @@
+{
+            "guid": "faea558533844be42750be6056b13857",
+"title": "Using a logical model to predict the growth of yeast",
+"authors": [
+{
+            "name": "Ken Whelan",
+"guid": "2058649971"
+        }, {
+            "name": "Ross D King",
+"guid": "2998355416"
+        }
+]
+,
+"year": "2008",
+"journal": "· BMC Bioinformatics",
+"cites": 18,
+"abstract": "Background#R##N#A logical model of the known metabolic processes in S. cerevisiae was constructed from iFF708, an existing Flux BalanceAnalysis (FBA) model, and augmented with information from the …",
+"keywords": [
+{
+            "word": "Predicate Logic",
+"guid": "19689857"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

@@ -1,0 +1,31 @@
+{
+            "guid": "3e5de29c373ad13182073ff03806e16a",
+"title": "Network integration meets network dynamics",
+"authors": [
+{
+            "name": "Teresa M Przytycka",
+"guid": "615945282"
+        }, {
+            "name": "Yooah Kim",
+"guid": "2159003370"
+        }
+]
+,
+"year": "2010",
+"journal": "· BMC Biology",
+"cites": 26,
+"abstract": "Molecular interaction networks provide a window on the workings of the cell. However, combining various types of networks into one coherent large-scale dynamic model remains a formidable challenge. A rece…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

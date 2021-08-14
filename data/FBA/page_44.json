@@ -1,0 +1,31 @@
+{
+            "guid": "2864de735ddc002a7d603c297348d812",
+"title": "Selection of organisms for systems biology study of microbial electricity generation: a review",
+"authors": [
+{
+            "name": "Longfei Mao",
+"guid": "2149052789"
+        }, {
+            "name": "W S Verwoerd",
+"guid": "2477011415"
+        }
+]
+,
+"year": "2013",
+"journal": "· international journal of energy and environmental engineering",
+"cites": 21,
+"abstract": "A microbial fuel cell (MFC) is a device that uses microorganisms as biocatalysts to transform chemical energy or light energy into electricity. However, the commercial applications of MFCs are limited by thei…",
+"keywords": [
+{
+            "word": "Electricity Generation",
+"guid": "423512"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }

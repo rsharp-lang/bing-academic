@@ -1,0 +1,43 @@
+{
+            "guid": "167bf9dc58d3eef0314746a3cdfc6e5e",
+"title": "Genome-scale metabolic model for Lactococcus lactis MG1363 and its application to the analysis of flavor formation",
+"authors": [
+{
+            "name": "Nicolas A L Flahaut",
+"guid": "2701416081"
+        }, {
+            "name": "Anne Wiersma",
+"guid": "1997751262"
+        }, {
+            "name": "Bert Van De Bunt",
+"guid": "2941422794"
+        }, {
+            "name": "Dirk E Martens",
+"guid": "2185677557"
+        }, {
+            "name": "Peter J Schaap",
+"guid": "2003744388"
+        }, {
+            "name": "Lolke Sijtsma",
+"guid": "2763003422"
+        }
+]
+,
+"year": "2013",
+"journal": "· Applied Microbiology and Biotechnology",
+"cites": 65,
+"abstract": "Lactococcus lactis subsp. cremoris MG1363 is a paradigm strain for lactococci used in industrial dairy fermentations. However, despite of its importance for process development, no genome-scale metaboli…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }

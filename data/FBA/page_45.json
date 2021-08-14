@@ -1,0 +1,43 @@
+{
+            "guid": "5b917424a128f2172ef351d95dda0b18",
+"title": "Integration of Metabolic Modeling and Phenotypic Data in Evaluation and Improvement of Ethanol Production Using Res…",
+"authors": [
+{
+            "name": "Duygu Dikicioglu",
+"guid": "2915165022"
+        }, {
+            "name": "Pinar Pir",
+"guid": "1554389331"
+        }, {
+            "name": "Z Ilsen Onsan",
+"guid": "1564014128"
+        }, {
+            "name": "Kutlu O Ulgen",
+"guid": "2146392340"
+        }, {
+            "name": "Betul Kirdar",
+"guid": "879979628"
+        }, {
+            "name": "Stephen G Oliver",
+"guid": "2141347178"
+        }
+]
+,
+"year": "2008",
+"journal": "· Applied and Environmental Microbiology",
+"cites": 20,
+"abstract": "Fluxbalanceanalysis and phenotypic data were used to provide clues to the relationships between the activities of gene products and the phenotypes resulting from the deletion of genes involved in respirator…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "NAD+ Kinase",
+"guid": "75520062"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
