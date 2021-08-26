@@ -13,10 +13,10 @@ const loading = list.files(`${dirname(@script)}/FBA`, pattern = "*.json")
 for(list in loading) {
 	for(article in list) {
 		const words = article$keywords;
-		const cites = article$cites;
+		const cites = as.integer(article$cites);
 
-		str(words);
-		print(cites);
+		# str(words);
+		# print(cites);
 		
 		for(word in words) {
 			if (length(g |> getElementByID(word$word)) == 0) {
@@ -27,7 +27,7 @@ for(list in loading) {
 				const mass = list();
 				const node = g |> getElementByID(word$word);
 
-				list[[word$word]] = as.object(as.object(node)$data)$mass + cites;
+				list[[word$word]] = as.object(as.object(node)$data)$mass + ifelse(cites == 0, 1, cites);
 				list;
 			}
 
