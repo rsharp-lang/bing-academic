@@ -1,0 +1,291 @@
+[
+{
+            "guid": "4245868e3de9ffdcabf5a53c5038d0fb",
+"title": "Computational Labeling, Partitioning, and Balancing of Molecular Networks",
+"authors": [
+{
+            "name": "Biaobin Jiang",
+"guid": "2098287074"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computational Science",
+"guid": "459310"
+        }, {
+            "word": "Protein–protein Interaction",
+"guid": "11804247"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f98ea6af0c2e3a188099ab01b4a166ac",
+"title": "Multi-product trade-off analysis of E. coli by multiobjective fluxbalanceanalysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In this study, we developed a novel multiobjective linear programming (MOLP) strategy based on the noninferior set estimation (NISE) method (Solanki et al., 1993), whereby Pareto solutions for the given s…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }
+]
+
+        }, {
+            "guid": "e58dac3f3df6df24f7649b7077e7ec34",
+"title": "Master Thesis proposal Investigating Perturbed Metabolic Networks through FluxBalanceAnalysis",
+"authors": [
+{
+            "name": "Claudio Altani",
+"guid": "2547431505"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Engineering",
+"guid": "127413603"
+        }, {
+            "word": "Control Engineering",
+"guid": "133731056"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c39b663ca9b058af269a0b81ded416c3",
+"title": "Design and strain selection criteria for bacterial communication networks",
+"authors": [
+{
+            "name": "Claudio Angione",
+"guid": "2055711581"
+        }, {
+            "name": "Giovanni Carapezza",
+"guid": "1851350200"
+        }, {
+            "name": "Jole Costanza",
+"guid": "2123949151"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }, {
+            "name": "Giuseppe Nicosia",
+"guid": "2151495100"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In this paper we discuss data and methodological challenges for building bacterial communication networks using two examples: Escherichia coli as a flagellate bacterium and of Geobacter sulfurreducen…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bb17f878a4c79f564692a06533b09d4f",
+"title": "Evaluating Microbial Community Interactions, using Ecology and FluxBalanceAnalysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "University of Minnesota Ph.D. dissertation.September 2018. Major: Biomedical Informatics and Computational Biology. Advisor: Nicholas Chia. 1 computer file (PDF); vii, 114 pages.",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Microbiome",
+"guid": "143121216"
+        }
+]
+
+        }, {
+            "guid": "363f36bbb190170fe27d9dd1a27ffd0a",
+"title": "Predicting metabolism during growth by osmotic cell expansion",
+"authors": [
+{
+            "name": "Sanu Shameer",
+"guid": "2792776582"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Cell expansion is a significant contributor to organ growth and is driven by the accumulation of osmolytes to increase cell turgor pressure. Metabolic modelling has the potential to provide insights into the proces…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "daef7aede3927209e329391c5a450da4",
+"title": "Evaluating the Integration of Proteomic Data for the Prediction of Intracellular Fluxes after Knockout Experiments",
+"authors": [
+{
+            "name": "Rafael S Costa",
+"guid": "2359100572"
+        }, {
+            "name": "Daniel Machado",
+"guid": "2233137791"
+        }, {
+            "name": "E C Ferreira",
+"guid": "2140807371"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract So far, few large scale kinetic models of metabolic networks have been successfully constructed. The main reasons for this are not only the associated mathematical complexity, but also the large numb…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a6a99d626c1f14c5d3cac161826f9297",
+"title": "Bayesian fluxbalanceanalysis applied to a skeletal muscle metabolic model",
+"authors": [
+{
+            "name": "Daniela Calvetti",
+"guid": "2014613166"
+        }, {
+            "name": "Jenni Heino",
+"guid": "2303859154"
+        }, {
+            "name": "Erkki Somersalo",
+"guid": "2080988462"
+        }, {
+            "name": "Knarik Tunyan",
+"guid": "2323777466"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The steady state condition of two-compartment skeletal muscle model is considered. The inverse problem is to estimate the reaction and transport fluxes, as well as the concentrations in venous blood when the …",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "53d7f59fe1dce48b6015d44df3fff2d4",
+"title": "Computational Tools for Strain Optimization by Adding Reactions",
+"authors": [
+{
+            "name": "Sara Correia",
+"guid": "2130653115"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "This paper introduces a new plug-in for the OptFlux Metabolic Engineering platform, aimed at finding suitable sets of reactions to add to the genomes of microbes (wild type strain), as well as finding comple…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "870f1a1a6fdd0d454ebf43bdafdd85f9",
+"title": "Desenvolvimento sistemático de modelos cinéticos a partir de dados experimentais",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

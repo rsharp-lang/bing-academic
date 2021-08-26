@@ -1,0 +1,294 @@
+[
+{
+            "guid": "3f38466bd1d63cfef97f91a2cfbae366",
+"title": "Reconstruction of Genome-Scale Metabolic Model and Prediction of Gene Manipulation Targets for Enhancement of …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Avermectin",
+"guid": "2780535491"
+        }
+]
+
+        }, {
+            "guid": "c304c3e192a526f8e1d1a4eb070aa2d6",
+"title": "FBA-based simulator of Saccharomyces cerevisiae fed-batch cultures involving an internal unbalanced metabolite",
+"authors": [
+{
+            "name": "J Plaza",
+"guid": "2801723172"
+        }, {
+            "name": "Ph Bogaerts",
+"guid": "2170748766"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract A dynamic macroscopic simulator based on FluxBalanceAnalysis (FBA) is proposed to predict the dynamics of biomass growth, substrate consumption (glucose and ammonium) and ethanol producti…",
+"keywords": [
+{
+            "word": "Simulation",
+"guid": "44154836"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0a7c3085f63fcb729c6a9a6485ebc181",
+"title": "A non-dominated sorting Differential Search Algorithm FluxBalanceAnalysis (ndsDSAFBA) for in silico multiobjective opti…",
+"authors": [
+{
+            "name": "Kauthar Mohd Daud",
+"guid": "2646919875"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Zalmiyah Zakaria",
+"guid": "2188856552"
+        }, {
+            "name": "Rohayanti Hassan",
+"guid": "2153533317"
+        }, {
+            "name": "Zuraini Ali Shah",
+"guid": "2170846027"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Metabolic engineering is defined as improving the cellular activities of an organism by manipulating the metabolic, signal or regulatory network. In silico reaction knockout simulation is one of the techniques a…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "41e7a1853d737e05db175d07f6388a73",
+"title": "Mathematical Models in Biotechnology",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "Biotechnology uses cellular systems to produce biomolecules that benefit society. One of the core challenges of biotechnology is the understanding of how cellular mechanisms result in functional respon…",
+"keywords": [
+{
+            "word": "Agent-based Model",
+"guid": "2780873155"
+        }, {
+            "word": "Stochastic Modelling",
+"guid": "127491075"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3b2270a93bf7929da4a43efe0076706f",
+"title": "Predicting metabolic strategies in Saccharomyces cerevisiae with a kinetically constrained FBA model",
+"authors": [
+{
+            "name": "Avlant Nilsson",
+"guid": "2236472588"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Metabolism is central to all life. It provides the energy and the building blocks from which the cells are constructed and maintained. Synthetic biologists#N#often make genetic alterations to the enzymes invol…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7151d0ef2bb49a18a22c5138730183ba",
+"title": "2S3a02 有用微生物創製を目指した代謝フラックス解析 : in vivo代謝観測システムとin silico代謝予測システム(バイオアナリシス …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic FluxAnalysis",
+"guid": "160941953"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "06956c407fdb3b2041336e34f65197b3",
+"title": "Modelling and analysis of biological systems to obtain biofuels",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "Esta tesis se centra en la construccion y usos de los modelos metabolicos a escala genomica para obtener biocombustibles de manera eficiente, como etanol e hidrogeno. Como organismo objetivo, se h…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Synechocystis Sp.",
+"guid": "2908742696"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3068811ea2774563387c4f958d48e7ce",
+"title": "A Pipeline for Creation of Genome-Scale Metabolic Reconstructions",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "05e59374bd3a50e7390d3c11e9c6240a",
+"title": "Modeling of adaptation phenomena in microbial dynamics: a fluxbalanceanalysis approach",
+"authors": [
+{
+            "name": "Philippe Nimmegeers",
+"guid": "2326806231"
+        }, {
+            "name": "Simen Akkermans",
+"guid": "3003756233"
+        }, {
+            "name": "Ihab Hashem",
+"guid": "2551255721"
+        }, {
+            "name": "Maria Baka",
+"guid": "1991999145"
+        }, {
+            "name": "Dries Telen",
+"guid": "1775664018"
+        }, {
+            "name": "Jan Van Impe",
+"guid": "2550126532"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Mechanics",
+"guid": "57879066"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d746fe4fc56808e6ffe68e9e43cea30",
+"title": "Towards the construction of GSMN-based community model for an oral biofilm",
+"authors": [
+{
+            "name": "Kjerstin De Winter",
+"guid": "2894557405"
+        }, {
+            "name": "Justien Ghesquiere",
+"guid": "2997821272"
+        }, {
+            "name": "Wim Teughels",
+"guid": "1738378141"
+        }, {
+            "name": "Steffen Waldherr",
+"guid": "1988481109"
+        }, {
+            "name": "Kristel Bernaerts",
+"guid": "2032694137"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Oral biofilms form on all hard and soft surfaces of the oral cavity. When the microbial balance in this biofilm is disturbed, pathogens can take the overhand, and this can lead to periodontitis (i.e. a chron…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biofilm",
+"guid": "58123911"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

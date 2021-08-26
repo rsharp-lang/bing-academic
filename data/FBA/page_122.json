@@ -1,0 +1,264 @@
+[
+{
+            "guid": "abd7e9d71e459b0755db7ec5a7749a6d",
+"title": "Maps for when the living gets tough: Maneuvering through a hostile energy",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Clostridium Ljungdahlii",
+"guid": "2776554588"
+        }, {
+            "word": "Wood–Ljungdahl Pathway",
+"guid": "2780580815"
+        }
+]
+
+        }, {
+            "guid": "0ae3b89e8e59d8ace4566ff63eb7aef7",
+"title": "Metabolic Network Analysis-Based Identification of Antimicrobial Drug Target in Pathogenic Bacteria",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "Tradional methods of targets discovery took several years before a new class of inhibiting compound was identified. This approach further slows the discovery in fastidious, uncultivable, or intracellular pathogen…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "53497c311fd52e4371fb670f42ec9c2b",
+"title": "Understanding Protozoan Parasite Metabolism and Identifying Drug Targets through Constraint‐Based Modeling",
+"authors": [
+{
+            "name": "Francis Isidore Totanes",
+"guid": "2481707339"
+        }, {
+            "name": "Sanu Shameer",
+"guid": "2007302401"
+        }, {
+            "name": "David R Westhead",
+"guid": "2171597384"
+        }, {
+            "name": "Fabien Jourdan",
+"guid": "2083426550"
+        }, {
+            "name": "Glenn A Mcconkey",
+"guid": "2035510178"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "915a2a481182464059bc7416fbdd81b0",
+"title": "Constraint-based metabolic models and their application in industrial biotechnology",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "This thesis is focused on the application of small constraint-based models to analyze and predict the behavior of wild type and modified strains of Pichia pastoris. The presented work deals with the commo…",
+"keywords": [
+{
+            "word": "Pichia Pastoris",
+"guid": "2781372317"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Flux Analysis",
+"guid": "160941953"
+        }
+]
+
+        }, {
+            "guid": "5271625930d7e6702d80d30c19a87d7a",
+"title": "Flux Analysis of the Tricarboxylic Acid Cycle in Synechocystis sp. PCC6803 under Photoautotrophic Cultures",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "Cyanobacteria",
+"guid": "2779669040"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "00f466f7c0be95631b592fe75f570af1",
+"title": "Metabolic engineering strategies for high-level production of aromatic amino acid pathway derivatives in Saccharomyces ce…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Muconic Acid",
+"guid": "2776234857"
+        }, {
+            "word": "Aromatic Amino Acids",
+"guid": "2777992278"
+        }
+]
+
+        }, {
+            "guid": "27a20508f3bbeebe61d5e531a871c854",
+"title": "Development of Steady-State and Dynamic Flux Models for Broad-Scope Microbial Metabolism Analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Chemical Engineering",
+"guid": "42360764"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "68b26394e3d0ba5bdf3e683979415c01",
+"title": "DFBAlab: a fast and reliable MATLAB code for dynamic flux balanceanalysis",
+"authors": [
+{
+            "name": "J A Gomez",
+"guid": "2110489425"
+        }, {
+            "name": "Kai Hoeffner",
+"guid": "2238087555"
+        }, {
+            "name": "Paul I Barton",
+"guid": "2124270199"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computational Science",
+"guid": "459310"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c75fe36ff5de2a5aa9860cf1908032ab",
+"title": "Reconstruction, verification and in-silico analysis of a genome-scale metabolic model of bacterial cellulose producing Koma…",
+"authors": [
+{
+            "name": "Mohammad Rezazadeh",
+"guid": "3004140402"
+        }, {
+            "name": "Valiollah Babaeipour",
+"guid": "2291383409"
+        }, {
+            "name": "Ehsan Motamedian",
+"guid": "1747667545"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In this study, a comprehensive genome-scale metabolic network of Komagataeibacter xylinus as the model microorganism was reconstructed based on genome annotation, for better understanding of meta…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8b8871d4414e45dfe95155fef6c62dc7",
+"title": "Fundamentals of Materials for Energy and Environmental Sustainability: Biofuels and biomaterials from microbes",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "Registry of Standard Biological Parts",
+"guid": "2778171201"
+        }, {
+            "word": "Microbial Metabolism",
+"guid": "101014631"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,0 +1,291 @@
+[
+{
+            "guid": "2de162cd2af3ba3fce190b147050e5ff",
+"title": "NIHBA: A Network Interdiction Approach for Metabolic Engineering Design.",
+"authors": [
+{
+            "name": "Shouyong Jiang",
+"guid": "2113679361"
+        }, {
+            "name": "Yong Wang",
+"guid": "2803653710"
+        }, {
+            "name": "Marcus Kaiser",
+"guid": "2099872102"
+        }, {
+            "name": "Natalio Krasnogor",
+"guid": "257144541"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "MOTIVATION: Fluxbalanceanalysis (FBA) based bilevel optimisation has been a great success in redesigning metabolic networks for biochemical overproduction. To date, many computational approach…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "17645ff957d68c1be778c9e69793d334",
+"title": "Recombinant protein production in the chloroplast of microalgae: a systems biology approach",
+"authors": [
+{
+            "name": "Oluwafemi Davies",
+"guid": "2720245026"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "Several expression systems for recombinant protein production, essentially cells or whole organisms are currently in use today. Recently, research into recombinant protein production revealed a more attractiv…",
+"keywords": [
+{
+            "word": "Protein Biosynthesis",
+"guid": "3675279"
+        }, {
+            "word": "Heterotroph",
+"guid": "35195898"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0c58e6fdefed263ae25dbba4ee350c5f",
+"title": "Prediction of Vanillin and Glutamate Productions in Yeast Using a Hybrid of Continuous Bees Algorithm and FluxBalanceAnal…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Most food and beverages contain artificial flavor compounds. Creation of artificial flavors is not an easy step and it is hardly ever completely effective. In this paper, we introduce an in silico method in optimizat…",
+"keywords": [
+{
+            "word": "Yeast",
+"guid": "2779222958"
+        }, {
+            "word": "Vanillin",
+"guid": "2777340834"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3ad827b6a578066ffffa7b3e5368f588",
+"title": "Constraint-based modeling of metabolism - interpreting predictions of growth and ATP synthesis in human and yeast",
+"authors": [
+{
+            "name": "Avlant Nilsson",
+"guid": "2236472588"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "Growth is the primary objective of the cell. Diseases arise when cells diverge from a healthy growth-pattern. An increased understanding of cellular growth may thus be translated into improved human hea…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "28a0072a9e94981c162c2b1fb696a950",
+"title": "Effects of Reaction Knockouts on Steady States of Metabolism",
+"authors": [
+{
+            "name": "Oriol Guell",
+"guid": "2030959327"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "The activity and essentiality of metabolic reactions of two model organisms, Escherichia coli and Mycoplasma pneumoniae, are studied using fluxbalanceanalysis in different environments. In particular…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Programmed Cell Death",
+"guid": "31573885"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3759d05d14048f20a40816f3425da2a9",
+"title": "Predicting Metabolism from Gene Expression in an Improved Whole-Genome Metabolic Network Model of Danio rerio",
+"authors": [
+{
+            "name": "Leonie Van Steijn",
+"guid": "2999641362"
+        }, {
+            "name": "Fons J Verbeek",
+"guid": "2023157849"
+        }, {
+            "name": "Herman P Spaink",
+"guid": "109559607"
+        }, {
+            "name": "Roeland M H Merks",
+"guid": "182731026"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Zebrafish is a useful modeling organism for the study of vertebrate development, immune response, and metabolism. Metabolic studies can be aided by mathematical reconstructions of the metabolic network o…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "12cd8d7208a576f309a119bdf3f4992c",
+"title": "A mathematical model to describe the flexibility of energy reserves at cellular scale",
+"authors": [
+{
+            "name": "Masoomeh Taghipoor",
+"guid": "2809034209"
+        }, {
+            "name": "Florence Gondret",
+"guid": "2011455032"
+        }, {
+            "name": "Jaap Vanmilgen",
+"guid": "2240096420"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Farm animals, as any living organism, need energy for their basal metabolism and physical activities. When dietary energy intake exceeds energy expenditure (on a short-term or long-term basis), …",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Mathematical Model",
+"guid": "76969082"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d6ee5153fedc2ee723c1fda6ba4f8436",
+"title": "The Fate of Glutamine in Human Metabolism. Comparison with Glucose",
+"authors": [
+{
+            "name": "Jeanpierre Mazat",
+"guid": "2235459224"
+        }, {
+            "name": "Stephane Ransac",
+"guid": "2785387760"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Genome-scale models of metabolism (GEM) are now used to study how metabolism varies in different physiological conditions or environments. However, the great number of reactions involved in GEM mak…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "66b7cedc0d9993ced2b85d05be6517f2",
+"title": "Flux Optimization in Human Specific Map‐Kinase Pathways: A Systems Biology Approach to Study Cancer",
+"authors": [
+{
+            "name": "Sombeet Sahu",
+"guid": "2192791383"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2010,
+"abstract": "Mitogen‐Activated Protein Kinase (MAP kinases) transduces signals that are involved in a multitude of cellular pathways and functions in response to variety of ligands and cell stimuli. Aberrant or inappropria…",
+"keywords": [
+{
+            "word": "MAPK\/ERK Pathway",
+"guid": "57074206"
+        }, {
+            "word": "Transcription Factor",
+"guid": "86339819"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d9c3b2f64cebbe3b6e5f8ea0be8b0473",
+"title": "Synchronous Balanced Analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "When modeling Chemical Reaction Networks, a commonly used mathematical formalism is that of Petri Nets, with the usual interleaving execution semantics. We aim to substitute to a Chemical Reaction Net…",
+"keywords": [
+{
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

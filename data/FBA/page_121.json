@@ -1,0 +1,312 @@
+[
+{
+            "guid": "e539d0d7137f93d67e8e15c3a24af58f",
+"title": "New algorithm for computing objective function of glycerol metabolism",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Flux balanceanalysis is an effective tool that can quantitatively predict the flux distribution of cellular metabolism in the study of metabolic engineering. The accuracy of this kind of predictions can be achiev…",
+"keywords": [
+{
+            "word": "Glycerol",
+"guid": "2780881558"
+        }, {
+            "word": "Bilevel Optimization",
+"guid": "3309286"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5113536deea789a99c5e0721b2e2140e",
+"title": "Bridging substrate intake kinetics and bacterial growth phenotypes with flux balanceanalysis incorporating proteom…",
+"authors": [
+{
+            "name": "Hong Zeng",
+"guid": "3010625375"
+        }, {
+            "name": "Aidong Yang",
+"guid": "3010028280"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Empirical kinetic models such as the Monod equation have been widely applied to relate the cell growth with substrate availability. The Monod equation shares a similar form with the mechanistically-based Mic…",
+"keywords": [
+{
+            "word": "Bacterial Growth",
+"guid": "17741926"
+        }, {
+            "word": "Michaelis–Menten Kinetics",
+"guid": "64915919"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cfde2531e523ea207a95aa4e4a884a06",
+"title": "ELUCIDATING THE ROLE OF METABOLITES AS QUORUM SENSING SIGNALS USING PHASE PLANE ANALYSIS: THE CAS…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Quorum sensing signals were initially restricted to those molecules whose only role is to sense density. Nevertheless Indole is a quorum sensing stationary phase signal secreted by Escherichia coli which is a…",
+"keywords": [
+{
+            "word": "Quorum Sensing",
+"guid": "118687296"
+        }, {
+            "word": "Indole Test",
+"guid": "192527728"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "84adfa681b6378f1795b70c9ae5cd49b",
+"title": "Quantifying Methane and Methanol Metabolism of “Methylotuvimicrobium buryatense” 5GB1C under Substrate L…",
+"authors": [
+{
+            "name": "Lian He",
+"guid": "2166059467"
+        }, {
+            "name": "Yanfen Fu",
+"guid": "2323414976"
+        }, {
+            "name": "Mary E Lidstrom",
+"guid": "2183633200"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "ABSTRACT Methanotrophic bacteria are a group of prokaryotes capable of using methane as their sole carbon and energy source. Although efforts have been made to simulate and elucidate their metabolis…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a645161b80cc56a82e0c231b33b6fade",
+"title": "Multi-omic Network Regression: Methodology, Tool and Case Study.",
+"authors": [
+{
+            "name": "Vandan Parmar",
+"guid": "2896033811"
+        }, {
+            "name": "Pietro Lio",
+"guid": "2157341662"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "The analysis of biological networks is characterized by the definition of precise linear constraints used to cumulatively reduce the solution space of the computed states of a multi-omic (for instance metabolic, tr…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Complex Network",
+"guid": "34947359"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bd79f9aed945c2cf6161560050d0aea7",
+"title": "Time Integrated Flux Analysis: Exploiting the Concentration Measurements Directly for Cost-Effective Metabolic Network …",
+"authors": [
+{
+            "name": "Rui M C Portela",
+"guid": "2400352264"
+        }, {
+            "name": "Anne Richelle",
+"guid": "2990955476"
+        }, {
+            "name": "Patrick Dumas",
+"guid": "2990196266"
+        }, {
+            "name": "Moritz Von Stosch",
+"guid": "2920419217"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "Background: Flux analyses, such as Metabolic Flux Analysis (MFA), Flux BalanceAnalysis (FBA), Flux Variability Analysis (FVA) or similar methods, can provide insights into the cellular metabolism, especiall…",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c2ffe918d64512a6c062f24e221adad9",
+"title": "An unconventional uptake rate objective function approach enhances applicability of genome-scale models for mammalia…",
+"authors": [
+{
+            "name": "Yiqun Chen",
+"guid": "2891345523"
+        }, {
+            "name": "Brian O Mcconnell",
+"guid": "2338168861"
+        }, {
+            "name": "Venkata Gayatri Dhara",
+"guid": "2899163159"
+        }, {
+            "name": "Harnish Mukesh Naik",
+"guid": "2898937036"
+        }, {
+            "name": "Chienting Li",
+"guid": "2803771365"
+        }, {
+            "name": "Macie…",
+"guid": "25222508"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "Constraint-based modeling has been applied to analyze metabolism of numerous organisms via flux balanceanalysis and genome-scale metabolic models, including mammalian cells such as the Chinese …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Mathematical Optimization",
+"guid": "126255220"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "98e3d806bcdfbf186b440b6618aa9a9d",
+"title": "RetSynth: determining all optimal and sub-optimal synthetic pathways that facilitate synthesis of target compounds in cha…",
+"authors": [
+{
+            "name": "Leanne S Whitmore",
+"guid": "2709241598"
+        }, {
+            "name": "Bernard Nguyen",
+"guid": "2973205531"
+        }, {
+            "name": "Ali Pinar",
+"guid": "2104623905"
+        }, {
+            "name": "Anthe George",
+"guid": "2302298679"
+        }, {
+            "name": "Corey M Hudson",
+"guid": "2149699357"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The efficient biological production of industrially and economically important compounds is a challenging problem. Brute-force determination of the optimal pathways to efficient production of a target chemical i…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biological Pathway",
+"guid": "9927688"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6de5cd4a8fc98b54689d4d330a0e15da",
+"title": "Sensitivity of Contending Cellular Objectives in the Central Carbon Metabolism of Escherichia Coli",
+"authors": [
+{
+            "name": "Max Sajitzhermstein",
+"guid": "1814551467"
+        }, {
+            "name": "Zoran Nikoloski",
+"guid": "2118996914"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "To ensure homeostasis as well as proliferation, cellular systems usually adapt to changes in environmental and intracellular conditions at the level of the flux phenotype. The latter is characterized b…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "54175428c8caabea7f86a429ad60cecd",
+"title": "2S-Cp04 代謝モデルを用いたin silico代謝予測と有用物質生産への応用(バイオものづくりにおけるwet研究とdry研究の融合,シン …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }
+]
+
+        }
+]
