@@ -1,0 +1,318 @@
+[
+{
+            "guid": "95e3b02d51eef790a5ed5699c3461764",
+"title": "Genome size reduction: design and analysis of a minimal metabolic network for yeast",
+"authors": [
+{
+            "name": "Giorgio Jansen",
+"guid": "3003238433"
+        }, {
+            "name": "Giuseppe Nicosia",
+"guid": "2151495100"
+        }, {
+            "name": "Steve Oliver",
+"guid": "2941236514"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "The issue of genome minimization for a living cell has been the subject of intense study, and raises important theoretical questions and practical opportunities. We have developed an in-silico methodology…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Genome Size",
+"guid": "61271108"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "421ef33e527f39e4c04adb9e469fde94",
+"title": "Modelling microbial communities using biochemical resource allocation analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "To understand the functioning and dynamics of microbial communities is a fundamental challenge in current biology. To tackle this challenge, the construction of computational models of interacting ...",
+"keywords": [
+{
+            "word": "Marine Biology",
+"guid": "117467278"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Cyanobacteria",
+"guid": "2779669040"
+        }
+]
+
+        }, {
+            "guid": "179928a9d7e6c99fc81e26f43d4ae1ef",
+"title": "Modelamiento de la red metabólica de Pseudomonas aeruginosa PAO1 para la síntesis biológica de Fenazina-1-Car…",
+"authors": [
+{
+            "name": "Martinez Guarnizo",
+"guid": "2995232253"
+        }, {
+            "name": "Julian Camilo",
+"guid": "2994665151"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "Phenazine-1-carboxylic acid is a molecule produced by strains of Pseudomonas aeruginosa which is of great importance for the agricultural sector due to its ability to inhibit the growth of various phytopathoge…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "10127cf174f6543a0ca966d7d1935f4d",
+"title": "Evaluating Pathway Enumeration Algorithms in Metabolic Engineering Case Studies",
+"authors": [
+{
+            "name": "Filipe Alexandre Wang Liu",
+"guid": "2255640063"
+        }, {
+            "name": "Paulo Vilaca",
+"guid": "2008265950"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The design of cell factories for the production of compounds involves the search for suitable heterologous pathways. Different strategies have been proposed to infer such pathways, but most are optimization ap…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f0034ea518db40c49e229cfb6fe4e775",
+"title": "Metabolite patterns reveal regulatory responses to genetic perturbations",
+"authors": [
+{
+            "name": "Tolutola Oyetunde",
+"guid": "2338249727"
+        }, {
+            "name": "Jeffrey Czajka",
+"guid": "2571851768"
+        }, {
+            "name": "Gang Wu",
+"guid": "2687963687"
+        }, {
+            "name": "Cynthia S Lo",
+"guid": "2208111710"
+        }, {
+            "name": "Yinjie J Tang",
+"guid": "2282694939"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Genetic and environmental perturbation experiments have been used to study microbes in a bid to gain insight into transcriptional regulation, adaptive evolution, and other cellular dynamics. These studies hav…",
+"keywords": [
+{
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f64f51e0b020ad667e35d2a0a5db1abf",
+"title": "A dynamic state metabolic journey: from mass spectrometry to network analysis via estimation of kinetic parameters",
+"authors": [
+{
+            "name": "Bart C Weimer",
+"guid": "2099683072"
+        }, {
+            "name": "Donald H Cooley",
+"guid": "2021736683"
+        }, {
+            "name": "Arockia Ranjitha Dhanasekaran",
+"guid": "2277454655"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "In the post-genomic era, there is a dire need for tools to perform metabolic analyses that include the structural, functional, and regulatory analysis of metabolic networks. This need arose because of the la…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Network Analysis",
+"guid": "32946077"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "61fc4e7d4b328fc9b4a03822f19e250f",
+"title": "Genome-scale Metabolic Reconstruction of the Eukaryote Cell Factory Yarrowia Lipolytica",
+"authors": [
+{
+            "name": "Nicolas Loira",
+"guid": "1640711535"
+        }, {
+            "name": "David James Sherman",
+"guid": "2076855998"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Yarrowia lipolytica is an oleaginous yeast studied experimentally for its role as a food contaminant and its use in bioremediation and cell factory applications. As one of the hemiascomycetous yeasts completely …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "356d8334b18ee94392cd33afc9b0c6bc",
+"title": "In silico predicted transcriptional regulatory control of steroidogenesis in spawning female fathead minnows (Pimep…",
+"authors": [
+{
+            "name": "D Hala",
+"guid": "2973178170"
+        }, {
+            "name": "J A Cullen",
+"guid": "2883756620"
+        }, {
+            "name": "B Hernout",
+"guid": "2884992766"
+        }, {
+            "name": "Ivan Ivanov",
+"guid": "2158013941"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Oocyte development and maturation (or oogenesis) in spawning female fish is mediated by interrelated transcriptional regulatory and steroidogenesis networks. This study integrates a transcriptio…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Cholesterol Side-chain Cleavage Enzyme",
+"guid": "80446465"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "88ad1bb23f40757d3474df051d6e95b6",
+"title": "Metabolic engineering of Shewanella oneidensis MR-1 formicrobial fuel cell application",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Microbial Fuel Cell",
+"guid": "165337572"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }
+]
+
+        }, {
+            "guid": "761b84051707bfeb0ba50ad8fe55eb8f",
+"title": "COMPARING FLUX BALANCE ANALYSIS TO NETWORK EXPANSION",
+"authors": [
+{
+            "name": "Kai Kruse",
+"guid": "2328212362"
+        }, {
+            "name": "Oliver Ebenhoh",
+"guid": "2796560689"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

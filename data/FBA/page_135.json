@@ -1,0 +1,291 @@
+[
+{
+            "guid": "d4100b88d6bfac9c60bcd87e869de6fe",
+"title": "Evolutionary algorithms for finding gen knockout targets",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Evolutionary Algorithm",
+"guid": "159149176"
+        }
+]
+
+        }, {
+            "guid": "67d59448ee528ca1d5a2de553b6bf55b",
+"title": "A quantitative lens on anaerobic life: leveraging the state-of-the-art fluxomics approach to explore clostridial metabolism",
+"authors": [
+{
+            "name": "Chao Wu",
+"guid": "2633597369"
+        }, {
+            "name": "Melissa Cano",
+"guid": "2995324354"
+        }, {
+            "name": "Xiang Gao",
+"guid": "2996063897"
+        }, {
+            "name": "Jonathan Lo",
+"guid": "2887774127"
+        }, {
+            "name": "Pinching Maness",
+"guid": "2150913729"
+        }, {
+            "name": "Wei Xiong",
+"guid": "2599686775"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Quantitative understanding of clostridial metabolism is of longstanding interest due to the importance of Clostridia as model anaerobes, biotechnology workhorses, and contributors to evolutionary history and …",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "443ba7cf601ea37402e09c248a4234f2",
+"title": "Systematic approaches to mine, predict and visualize biological functions",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biological Database",
+"guid": "20901353"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5f7468323155b596a06fdc538acb6c8c",
+"title": "Computational tools for data integration and regulatory network inference in systems biology",
+"authors": [
+{
+            "name": "Jose P Pinto",
+"guid": "2124241657"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2010,
+"abstract": "Over the last few years, the field of Metabolic Engineering (ME), dealing with the design of strains with enhanced production capabilities of desired compounds, has grown considerably given the growing dem…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8d90827ebe65bcd3ed253c8e2acb89be",
+"title": "Analyzing and Designing Cell Factories with OptFlux",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }
+]
+
+        }, {
+            "guid": "bef5ec81cd22f4faff84b8b3a635cbce",
+"title": "Systems Biology: Dual Causality",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2006,
+"abstract": "",
+"keywords": [
+{
+            "word": "Perturbation",
+"guid": "177918212"
+        }, {
+            "word": "Topology",
+"guid": "126794175"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "46b1a2a7ba7b404c2321812396247115",
+"title": "Dynamic Metabolic Modelling of Cupriavidus necator DSM 545 in PHB Production from Glycerol",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Utilisation of glycerol from the ever-expanding biodiesel industry (Heming, 2005) is deemed as a promising solution for the sustainable manufacturing of value-added chemicals. In one such novel proce…",
+"keywords": [
+{
+            "word": "Cupriavidus Necator",
+"guid": "2780637011"
+        }, {
+            "word": "Glycerol",
+"guid": "2780881558"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "af0b08276a922ae92ee04987dec03292",
+"title": "Distributed flux balance analysis simulations of serial biomass fermentation by two organisms",
+"authors": [
+{
+            "name": "Edward Vitkin",
+"guid": "2632444755"
+        }, {
+            "name": "Amichai Gillis",
+"guid": "2896150413"
+        }, {
+            "name": "Mark Polikovsky",
+"guid": "2336276467"
+        }, {
+            "name": "Barak Bender",
+"guid": "3000468234"
+        }, {
+            "name": "Alexander Golberg",
+"guid": "2064633658"
+        }, {
+            "name": "Zohar Yakhini",
+"guid": "2251033988"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Fermentation",
+"guid": "100544194"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3604e6ecefc0723f25524be6e1fa4a3d",
+"title": "Biogeochemical dynamics in porous media",
+"authors": [
+{
+            "name": "Eric King",
+"guid": "2999698380"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biogeochemical Cycle",
+"guid": "71915725"
+        }, {
+            "word": "Porous Medium",
+"guid": "105569014"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c44f315129343257e6a04d570556752a",
+"title": "A Bilevel Optimization Algorithm to Identify Enzymatic Capacity Constraints in Metabolic Networks - Development and Applic…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2008,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Redox",
+"guid": "55904794"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

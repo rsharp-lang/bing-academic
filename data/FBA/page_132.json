@@ -1,0 +1,297 @@
+[
+{
+            "guid": "91df1f8a4690df2be885c4c218c26c51",
+"title": "A Reaction Route Approach to Flux BalanceAnalysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Background: Flux balance and network-based pathway analyses are theoretical tools aimed to find optimal steady state flux distributions in a metabolic network subject to additional constraints on the rates of the …",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }
+]
+
+        }, {
+            "guid": "d7abbfff06c630272946b6eebb6c0036",
+"title": "An ensemble approach to the study of the emergence of metabolic and proliferative disorders via Flux BalanceAnalysis.",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Sara Molinari",
+"guid": "2168986812"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Daniela Gaglio",
+"guid": "2952305475"
+        }, {
+            "name": "Marco Vanoni",
+"guid": "2142769582"
+        }, {
+            "name": "Li…",
+"guid": "2919640860"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Chemistry",
+"guid": "185592680"
+        }, {
+            "word": "Biological System",
+"guid": "186060115"
+        }
+]
+
+        }, {
+            "guid": "83963d9a794d01c9fcea4a841b2cd465",
+"title": "Flux balanceanalysis of metabolism during growth by osmotic cell expansion and its application to tomato fruits",
+"authors": [
+{
+            "name": "Sanu Shameer",
+"guid": "2792776582"
+        }, {
+            "name": "Jose G Vallarino",
+"guid": "2233123642"
+        }, {
+            "name": "Alisdair R Fernie",
+"guid": "2127484256"
+        }, {
+            "name": "R George Ratcliffe",
+"guid": "408521331"
+        }, {
+            "name": "Lee J Sweetlove",
+"guid": "205797508"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "25ca31ddaa9df36a44620235f030ec51",
+"title": "Integration of the droop model with the flux balanceanalysis method to predict metabolic shifts in microalgae growth = 미…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Chlamydomonas Reinhardtii",
+"guid": "2777727519"
+        }
+]
+
+        }, {
+            "guid": "de8ecd9a83182eac7ec09c819a580fbb",
+"title": "Research on Plant Pathogenic Fungi in the Genomics Era: From Sequence Analysis to Systems Biology",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Recent years have seen the development of a variety of so-called “next-generation” sequencing platforms, with several others anticipated to become available shortly. Second-generation sequencing technologie…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Horizontal Gene Transfer",
+"guid": "92938381"
+        }, {
+            "word": "Fungal Genome",
+"guid": "2910172532"
+        }
+]
+
+        }, {
+            "guid": "4197f60cfdc034ea07f92a813e68acad",
+"title": "Metaheuristics for strain optimization using transcriptional information enriched metabolic models",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Publicado em \"Evolutionary computation, machine learning and data mining in bioinformatics : 8th European Conference, EvoBIO 2010...\", ISBN 978-3-642-12210-1",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "19711ff4b07a7e935fa32a30be3750fd",
+"title": "Coordination of Plant Primary Metabolism Studied with a Constraint-based Metabolic Model of C3 Mesophyll Cell",
+"authors": [
+{
+            "name": "Zhuo Wang",
+"guid": "2608289827"
+        }, {
+            "name": "L Lu",
+"guid": "2659007385"
+        }, {
+            "name": "L Liu",
+"guid": "3003869837"
+        }, {
+            "name": "Jianghua Li",
+"guid": "2113432176"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Engineering plant primary metabolism is currently recognized as a major approach to gain improved productivity. Most of the current efforts in plant metabolic engineering focused on either individual enzy…",
+"keywords": [
+{
+            "word": "Nitrogen Assimilation",
+"guid": "3119751"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4b5d444679de8e9762efb9ffe945fc1d",
+"title": "In SILICO Simulations Predict a Causative Link Between Increased Glycolysis and Metabolic Reprogramming in Autoso…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) is a genetic disorder characterized by bilateral renal cyst formation due to loss-of-functions mutations in either PKD1 or PKD2 genes. Metabolic rewirin…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Autosomal Dominant Polycystic Kidney Disease",
+"guid": "2776266639"
+        }
+]
+
+        }, {
+            "guid": "0247491fa5dda29e98c4e080d428c5cd",
+"title": "Tapping the Wealth of Microbial Data in High-Throughput Metabolic Model Reconstruction",
+"authors": [
+{
+            "name": "Ric Colasanti",
+"guid": "2743795751"
+        }, {
+            "name": "Janaka N Edirisinghe",
+"guid": "2798511865"
+        }, {
+            "name": "Tahmineh Khazaei",
+"guid": "2254331255"
+        }, {
+            "name": "Jose P Faria",
+"guid": "2430505831"
+        }, {
+            "name": "Samuel M D Seaver",
+"guid": "2034033404"
+        }, {
+            "name": "Fangfa…",
+"guid": "2163384288"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "We acknowledge the entire SEED, Model SEED, and CytoSEED teams at Argonne National Laboratory, Fellowship for Interpretation of Genomes, Hope College and University of Chicago for efforts on the fram…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "844867db583fd7323350edba6d46fdfd",
+"title": "A priori optimization of cell culture feeds using metabolic engineering",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Design of Experiments",
+"guid": "34559072"
+        }
+]
+
+        }
+]

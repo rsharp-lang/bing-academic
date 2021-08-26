@@ -1,0 +1,318 @@
+[
+{
+            "guid": "4a90e080dbdc1dd0735a0388108375ed",
+"title": "Identification of gene regulatory pathways: a regularization method",
+"authors": [
+{
+            "name": "Mouli Das",
+"guid": "2259140115"
+        }, {
+            "name": "Rajat K De",
+"guid": "2119655096"
+        }, {
+            "name": "Subhasis Mukhopadhyay",
+"guid": "2102215849"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Network based pathways are emerging as an important paradigm for analysis of biological systems. In the present article, we introduce a new method for identifying a set of extreme regulatory pathways by usin…",
+"keywords": [
+{
+            "word": "Regularization (mathematics)",
+"guid": "8398441"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cff027bf14bc87c6a21a82001b0040b6",
+"title": "SNPeffect: Identifying Functional Roles of SNPs using Metabolic Networks.",
+"authors": [
+{
+            "name": "Debolina Sarkar",
+"guid": "2883722574"
+        }, {
+            "name": "Costas D Maranas",
+"guid": "66001407"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Genetic sources of phenotypic variation have been a focus of plant studies aimed at improving agricultural yield and understanding adaptive processes. Genome-wide association studies identify the genetic back…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5d1ee11c9ebd053489725c1dc9d0aac8",
+"title": "Systems-based Saccharomyces cerevisiae strain design for improved squalene synthesis",
+"authors": [
+{
+            "name": "Kalaivani Paramasivan",
+"guid": "2606085689"
+        }, {
+            "name": "Punil Kumar Hn",
+"guid": "2942385393"
+        }, {
+            "name": "Sarma Mutturi",
+"guid": "2422723552"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Constraint-based fluxbalanceanalysis of S. cerevisiae has led to the identification of a novel gene deletion targets, LYS1 and ADK1, for enhancement of squalene flux. LYS1 deletion resulted in 2-fo…",
+"keywords": [
+{
+            "word": "Titer",
+"guid": "32611913"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0ba183a4549872e5806c1a71419108b3",
+"title": "Simulation analysis of diauxic shift of E.coli using a global scale modeling method for metabolic networks",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Petri Net",
+"guid": "38677869"
+        }
+]
+
+        }, {
+            "guid": "7a9e5eb131926cdb536a794205a04471",
+"title": "Systems metabolic engineering of Arabidopsis for increased cellulose production",
+"authors": [
+{
+            "name": "Jiun Yen",
+"guid": "2588793495"
+        }, {
+            "name": "Glenda E Gillaspy",
+"guid": "219037011"
+        }, {
+            "name": "Ryan S Senger",
+"guid": "1974991969"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Plant metabolism offers a source to a diverse variety of commodity compounds. One current focus is on improving the yield of cellulose for use of bioethanol production. Most current metabolic engin...",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a40bddce9731484c094d71bed59ad736",
+"title": "Using Genome-Scale Metabolic Networks for Analysis, Visualization, and Integration of Targeted Metabolomics Data",
+"authors": [
+{
+            "name": "Jake P N Hattwell",
+"guid": "3000412357"
+        }, {
+            "name": "Janna Hastings",
+"guid": "2251524424"
+        }, {
+            "name": "Olivia Casanueva",
+"guid": "2565731272"
+        }, {
+            "name": "Horst Joachim Schirra",
+"guid": "2280488871"
+        }, {
+            "name": "Michael Witting",
+"guid": "2753730635"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Interpretation of metabolomics data in the context of biological pathways is important to gain knowledge about underlying metabolic processes. In this chapter we present methods to analyze genome-scale mo…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "79b259dafc9b37e7a0cd53ffc7b16b72",
+"title": "Systematic Reduction of Genome Scale Metabolic Reconstructions - redGEM",
+"authors": [
+{
+            "name": "Meric Ataman",
+"guid": "2135485507"
+        }, {
+            "name": "Daniel Federico Hernandez Gardiol",
+"guid": "2646271162"
+        }, {
+            "name": "Georgios Fengos",
+"guid": "1339151714"
+        }, {
+            "name": "Keng Cher Soh",
+"guid": "2121964572"
+        }, {
+            "name": "Vassily Hatzi…",
+"guid": "55762200"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "Genome-scale metabolic reconstructions (GEMs) are valuable resources for understanding and redesigning cellular networks as they encapsulate all the known biochemistry of the organisms from gen…",
+"keywords": [
+{
+            "word": "Simulation",
+"guid": "44154836"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "20d9e2068c01d52c1d50a8c665f5bdbf",
+"title": "Computational modeling of horticultural crops under different light conditions",
+"authors": [
+{
+            "name": "B Wijnen",
+"guid": "2097683564"
+        }, {
+            "name": "Huili Yuan",
+"guid": "2811306666"
+        }, {
+            "name": "P A J Hilbers",
+"guid": "2030010529"
+        }, {
+            "name": "Y Ren",
+"guid": "2810955627"
+        }, {
+            "name": "Guofu Zhou",
+"guid": "2475554144"
+        }, {
+            "name": "J Yu",
+"guid": "2811444714"
+        }, {
+            "name": "N A W Van Riel",
+"guid": "2117867337"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "Light regulates many aspects of plant growth and developmental processes as well as disease resistance in plants. Computational models can be used to provide more detailed insights in how processes are re…",
+"keywords": [
+{
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Computational Model",
+"guid": "66024118"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b5ce3a9b615ae7c00c291818b2516c23",
+"title": "A fluxbalance based approach of hemicellulose fermentation to ethanol by industrial yeast Saccharomyces cerevisiae",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2010,
+"abstract": "A major challenge in ethanol production using lignocellulosic feed stocks is the inefficient utilization of hemicellulose, which accounts for 30-40% of the lignocellulosic biomass. Xylose is the major product of …",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Saccharomyces Cerevisiae",
+"guid": "2777576037"
+        }
+]
+
+        }, {
+            "guid": "ea881d43f017ab08787e50f0d9613d46",
+"title": "FluxBalanceAnalysis of Escherichia coli under Temperature and pH Stress Conditions",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

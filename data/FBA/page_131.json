@@ -1,0 +1,303 @@
+[
+{
+            "guid": "8e4bf5d303ffeb4ae6ca1c1ac6ed60e6",
+"title": "Metabolic influences on ageing in Caenorhabditis elegans : a time series multi-omics and metabolic modelling study",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Ageing",
+"guid": "500499127"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ed57ce07af8025e008db1a2ccb350770",
+"title": "Improving metabolite evaluation in integrated pathway analysis",
+"authors": [
+{
+            "name": "Rasanpreet Kaur",
+"guid": "2123081339"
+        }, {
+            "name": "Anwesha Dutta",
+"guid": "2169769740"
+        }, {
+            "name": "Martina Kutmon",
+"guid": "1959674186"
+        }, {
+            "name": "Martijn P Van Iersel",
+"guid": "2997747867"
+        }, {
+            "name": "Chris T Evelo",
+"guid": "2098532862"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Biological molecules such as proteins and metabolites interact to accomplish a biological function and to respond to environmental stimuli. Pathways capture this information derived through scientific experime…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Ontology",
+"guid": "25810664"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "400d904221898cc05382f9b01f30f17b",
+"title": "Metabolism‐Combined Growth Model Construction and Its Application to Optimal Bioreactor Operation",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Bioreactor",
+"guid": "168170006"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6e66e5bf70e3a805bc15392de4226857",
+"title": "Modeling of Biomass Composition Using Dynamic FluxBalanceAnalysis for Optimization of Microalgal Biorefineries",
+"authors": [
+{
+            "name": "Robert J Flassig",
+"guid": "2055612470"
+        }, {
+            "name": "Melanie Fachet",
+"guid": "245129318"
+        }, {
+            "name": "Steffi Gladebeck",
+"guid": "2583456386"
+        }, {
+            "name": "Kristin Pirwitz",
+"guid": "1928667607"
+        }, {
+            "name": "Liisa Rihkostruckmann",
+"guid": "2044621604"
+        }, {
+            "name": "Kai Sun…",
+"guid": "713527922"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Process Engineering",
+"guid": "21880701"
+        }, {
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9b306305a3096e6ffc28af293bb6fe8f",
+"title": "Evolution retraces its steps to advance",
+"authors": [
+{
+            "name": "Daniel J Kliebenstein",
+"guid": "1824276517"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Bacteria in a long-term evolution experiment evolved a new metabolic trait via two separate mutations with opposite effects.",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Epistasis",
+"guid": "61727976"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b24e95dfdfb7412dc7cfc7a2528baf18",
+"title": "Modelling metabolic rewiring during melanoma progression using fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Rahul Metri",
+"guid": "2329513423"
+        }, {
+            "name": "Shikhar Saxena",
+"guid": "2772738878"
+        }, {
+            "name": "Madhulika Mishra",
+"guid": "2151939236"
+        }, {
+            "name": "Nagasuma Chandra",
+"guid": "2257022061"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Improvements in melanoma diagnosis, treatment and prognosis are urgently warranted, given that it causes 3 out of 4 skin cancer deaths. A large amount of genomic and molecular data indicate that altera…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "54d935c0e41124d77e5cbb562f960d1f",
+"title": "Global Sensitivity Analysis of Constraint-Based Metabolic Models",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Marco S Nobile",
+"guid": "2005869881"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In the latter years, detailed genome-wide metabolic models have been proposed, paving the way to thorough investigations of the connection between genotype and phenotype in human cells. Nevertheles…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9ff4a1057d6be141687b16a04f66e5dc",
+"title": "The Metabolic Capabilities of Two Cells in Enterobacteria",
+"authors": [
+{
+            "name": "Qing Hua Zhou",
+"guid": "2244363621"
+        }, {
+            "name": "Xiao Dian Sun",
+"guid": "2248168946"
+        }, {
+            "name": "Yan Li",
+"guid": "2436616389"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In this paper, we investigate the metabolic capabilities of two kinds cells belong to enterbacteria. Firstly we develop the mathematical models for Escherichia coli and Buchnera aphidicola Cc based on Fluxbalan…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Materials Science",
+"guid": "192562407"
+        }
+]
+
+        }, {
+            "guid": "3eadf4bd513a371428b000de405ae309",
+"title": "Comparative analysis of C3 and C4 plants using constraint-based model",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "To realize the transition from C3 to C4 plants, the systematic comparison of C3 and C4 metabolism is necessary. In this study, we detected their differences using the improved constraint-based models by s…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Sampling",
+"guid": "90842384"
+        }, {
+            "word": "C4 Photosynthesis",
+"guid": "2910521719"
+        }
+]
+
+        }, {
+            "guid": "c356fb7e9c079e7df2cbed9671b5a89f",
+"title": "Kp1.0 : Genome-scale metabolic model for Komagataella phaffii",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Komagataella Phaffii",
+"guid": "2909726035"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

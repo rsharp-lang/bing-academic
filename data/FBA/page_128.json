@@ -1,0 +1,288 @@
+[
+{
+            "guid": "645ffae411aaff1032c2abe1ce971e83",
+"title": "A pipeline to optimize metabolic pathways in the synthetically regulated Saccharomyces cerevisiae using tryptophan pathwa…",
+"authors": [
+{
+            "name": "Birgitta Lehtinen",
+"guid": "2618337893"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b7ed9b66e541b92fafe00f1c069e0a70",
+"title": "Problems in Mathematizing Systems Biology",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "“I think biology stands out as a discipline in which there has been a wild flowering of interdisciplinary approaches – bioinformatics, for example, and applications of informational visualization. This flowering …",
+"keywords": [
+{
+            "word": "Synthetic Biology",
+"guid": "191908910"
+        }, {
+            "word": "Ozone Depletion",
+"guid": "141810719"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0434b5e4b893487532ae333fe41746c7",
+"title": "Building Metabolic Models From First Principles",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "Strategies for modeling cellular behavior have come a long way since the first genome models of cellular metabolism and phenotypes were published. Given a completely annotated genome, the challenges in …",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }
+]
+
+        }, {
+            "guid": "6a86bb31d2b5d79477020ed9843b7939",
+"title": "An synthetic microbial loop for modelling heterotroph-phototroph metabolic interactions",
+"authors": [
+{
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }, {
+            "name": "Francesca Di Patti",
+"guid": "2307149054"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Marine ecosystems are characterized by an intricate set of interactions among their representatives. One of the most important occurs through the exchange of dissolved organic matter (DOM) provided by phot…",
+"keywords": [
+{
+            "word": "Heterotroph",
+"guid": "35195898"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0be9fc54eca5d8228364674bd59ac597",
+"title": "2-Phenylethanol and 2-phenylethylacetate production by nonconventional yeasts using tequila vinasses as a substrate.",
+"authors": [
+{
+            "name": "Jose De Jesus Rodriguezromero",
+"guid": "3001402187"
+        }, {
+            "name": "Cesar Arturo Aceveslara",
+"guid": "2328302734"
+        }, {
+            "name": "Cristina Ferreira Silva",
+"guid": "2108483961"
+        }, {
+            "name": "Anne Christine Gs…",
+"guid": "2004835359"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Vinasses from the tequila industry are wastewaters with highly elevated organic loads. Therefore, to obtain value-added products by yeast fermentations, such as 2-phenylethanol (2-PE) and 2-phenyleth…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Chemistry",
+"guid": "185592680"
+        }
+]
+
+        }, {
+            "guid": "f4eda50c0aa89678af1b7a94bd43fd11",
+"title": "Regulatory dynamic enzyme-cost flux balance analysis: A unifying framework for constraint-based modeling",
+"authors": [
+{
+            "name": "Lin Liu",
+"guid": "2923261682"
+        }, {
+            "name": "Alexander Bockmayr",
+"guid": "56252975"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Integrated modeling of metabolism and gene regulation continues to be a major challenge in computational biology. While there exist approaches like regulatory flux balance analysis (rFBA), dynam…",
+"keywords": [
+{
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "40e75fa1aec5abb4da63de74f7b7efdb",
+"title": "Reaction Pathway Analysis",
+"authors": [
+{
+            "name": "Tamas Turanyi",
+"guid": "275795217"
+        }, {
+            "name": "Alison S Tomlin",
+"guid": "2082774608"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Chemical changes that occur within reaction kinetic models are traditionally depicted by reaction pathways. One possible approach is to investigate the flow of a conserved property (such as the numbe…",
+"keywords": [
+{
+            "word": "Reaction Mechanism",
+"guid": "65024703"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e6ec7a34186dedd30fc0a521237ee273",
+"title": "Microbiome Data Mining for Microbial Interactions and Relationships",
+"authors": [
+{
+            "name": "Xingpeng Jiang",
+"guid": "2706623292"
+        }, {
+            "name": "Xiaohua Hu",
+"guid": "2641456785"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "The study of how microbial species coexist and interact in a host-associated environment or a natural environment is crucial to advance basic microbiology science and the understanding of human health an…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Microbial Population Biology",
+"guid": "81407943"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "99ef8107037ce336a63d6ae0a7cffe70",
+"title": "A Systems Level Approach for Identification of Molecular Targets for Antimicrobial Intervention against Pseudomonas …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract In this case study, we aimed at evaluating the suitability of genome-scale metabolic models to identify molecular targets that can potentially enhance antimicrobial effects of chemical preservatives ag…",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Pseudomonas Aeruginosa",
+"guid": "2777637488"
+        }
+]
+
+        }, {
+            "guid": "c6954be8665a0e6a42c108ae642c31c2",
+"title": "Elucidating Metabolic Variability in Isogenic Microbial Populations Arising due to Noise in Protein Expression",
+"authors": [
+{
+            "name": "Piyush Labhsetwar",
+"guid": "2302743033"
+        }, {
+            "name": "John A Cole",
+"guid": "2146265515"
+        }, {
+            "name": "Nathan D Price",
+"guid": "2133907422"
+        }, {
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Members of a population of isogenic microbes vary in their protein expression states because of stochastic gene expression. Advances in single-cell proteomics on model organisms like E. coli and S. c…",
+"keywords": [
+{
+            "word": "Model Organism",
+"guid": "19843653"
+        }, {
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,0 +1,321 @@
+[
+{
+            "guid": "d25757542c62a39b7beba6457d482c6f",
+"title": "Mathematical modeling of bacterial metabolism",
+"authors": [
+{
+            "name": "A N Golomysova",
+"guid": "2088467617"
+        }, {
+            "name": "Mark Gomelsky",
+"guid": "345227912"
+        }, {
+            "name": "P S Ivanov",
+"guid": "2900826018"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "A variant of mathematical model construction for the anaerobic metabolism of a purple nonsulfur bacterium based on a flux balanceanalysis is presented in this paper. The model includes all the centra…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Quantum Mechanics",
+"guid": "62520636"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d16f2e6cc864a5d484af5c7c31d257ee",
+"title": "Modeling metabolite accumulation and biomass composition in microalgae using dynamic flux balanceanalysis",
+"authors": [
+{
+            "name": "Kai Hoffner",
+"guid": "2023742012"
+        }, {
+            "name": "Robert J Flassig",
+"guid": "2055612470"
+        }, {
+            "name": "Melanie Fachet",
+"guid": "245129318"
+        }, {
+            "name": "Kai Sundmacher",
+"guid": "713527922"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "",
+"keywords": [
+{
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b7a8477668dcf370c5f62fe5a32e3777",
+"title": "ETFL: A formulation for flux balance models accounting for expression, thermodynamics, and resource allocation constrai…",
+"authors": [
+{
+            "name": "Pierre Salvy",
+"guid": "2810176260"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Since the introduction of metabolic models and flux balanceanalysis (FBA) in systems biology, several attempts have been made to supplement these formulations with expression information to form metabo…",
+"keywords": [
+{
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2f8e79eb02737658033ebcbbf9e2191c",
+"title": "Flux balanceanalysis of myocardial mitochondrial metabolic network",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "A large number of biological information has been available from genome sequencing and bioinformatics. To further understand the qualities of the biological networks (such as metabolic network) in the comple…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }
+]
+
+        }, {
+            "guid": "5b400ddb3627c7cff4cbf94f822ede37",
+"title": "Flux measurement selection in metabolic networks",
+"authors": [
+{
+            "name": "Wout Megchelenbrink",
+"guid": "2052281461"
+        }, {
+            "name": "Martijn A Huynen",
+"guid": "2426917830"
+        }, {
+            "name": "Elena Marchiori",
+"guid": "1974086637"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Genome-scale metabolic networks can be reconstructed using a constraint-based modeling approach. The stoichiometry of the network and the physiochemical laws still enable organisms to achieve certain …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Greedy Algorithm",
+"guid": "51823790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f9b3d96c8f1e7f1da48400694fac55d3",
+"title": "Coupling Fluxes, Enzymes, and Regulation in Genome-Scale Metabolic Models",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Integer Programming",
+"guid": "56086750"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }
+]
+
+        }, {
+            "guid": "bfc44cfd00ede8a547b003155fce282a",
+"title": "Dynamic metabolic modelling of overproduced protein secretion in Streptomyces lividans using adaptive DFBA",
+"authors": [
+{
+            "name": "Jose R Valverde",
+"guid": "2097584025"
+        }, {
+            "name": "Sonia Gullon",
+"guid": "1479851682"
+        }, {
+            "name": "Clara A Garciaherrero",
+"guid": "2981586198"
+        }, {
+            "name": "Ivan F Mondragon Pascual Campoy",
+"guid": "2572357704"
+        }, {
+            "name": "Rafael …",
+"guid": "2233789239"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Background#R##N#Streptomyces lividans is an appealing host for the production of proteins of biotechnological interest due to its relaxed exogenous DNA restriction system and its ability to secrete p…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Secretion",
+"guid": "49039625"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ded10e58d5bb95a40fb3156993e44b0b",
+"title": "Oncogene inference optimization using constraint-based modelling incorporated with protein expression in normal an…",
+"authors": [
+{
+            "name": "Wuhsiung Wu",
+"guid": "2684960072"
+        }, {
+            "name": "Fanyu Li",
+"guid": "3012008545"
+        }, {
+            "name": "Yichen Shu",
+"guid": "3010806078"
+        }, {
+            "name": "Jinmei Lai",
+"guid": "2102378598"
+        }, {
+            "name": "Peter Muhsin Chang",
+"guid": "2149438494"
+        }, {
+            "name": "Chiying F Huang",
+"guid": "2096966525"
+        }, {
+            "name": "Fengshe…",
+"guid": "2688515913"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Cancer cells are known to exhibit unusual metabolic activity, and yet few metabolic cancer driver genes are known. Genetic alterations and epigenetic modifications of cancer cells result in the abn...",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Epigenetics",
+"guid": "41091548"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c538815cdec68a28c93eb2b6a70cea61",
+"title": "Exploring the potential of metabolic models in the study of microbial ecosystems",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Microbial Ecology",
+"guid": "69562835"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }
+]
+
+        }, {
+            "guid": "e82b2e9a82fcd0c71e5e1a1e863d6f12",
+"title": "Optimal control of a multi-level dynamic model for biofuel production",
+"authors": [
+{
+            "name": "Roberta Ghezzi",
+"guid": "2144544629"
+        }, {
+            "name": "Benedetto Piccoli",
+"guid": "2006272134"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Dynamic flux balanceanalysis of a bioreactor is based on the coupling between a dynamic problem, which models the evolution of biomass, feeding substrates and metabolites, and a linear program, which enco…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

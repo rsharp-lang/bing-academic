@@ -1,0 +1,282 @@
+[
+{
+            "guid": "982a847b28394086002218b1f05cc82c",
+"title": "FlySilico: Fluxbalance modeling of Drosophila larval growth and resource allocation",
+"authors": [
+{
+            "name": "Jurgen Wilhelm Schonborn",
+"guid": "2991497562"
+        }, {
+            "name": "Lisa Jehrke",
+"guid": "2896809003"
+        }, {
+            "name": "Tabea Mettleraltmann",
+"guid": "2510421464"
+        }, {
+            "name": "Mathias Beller",
+"guid": "2107190130"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Organisms depend on a highly connected and regulated network of biochemical reactions fueling life sustaining and growth promoting functions. While details of this metabolic network are well established, …",
+"keywords": [
+{
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e56aca26c6bf85e8b32632a9e26af22b",
+"title": "Metabolic modeling of Pectobacterium parmentieri SCC3193 provides insights into metabolic pathways of plant pathogeni…",
+"authors": [
+{
+            "name": "Sabina Zoledowska",
+"guid": "388552710"
+        }, {
+            "name": "Luana Presta",
+"guid": "2102239415"
+        }, {
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }, {
+            "name": "Francesca Decorosi",
+"guid": "1419308475"
+        }, {
+            "name": "Luciana Giovannetti",
+"guid": "2051614521"
+        }, {
+            "name": "Alessi…",
+"guid": "2285508305"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Understanding the plant-microbe interactions are crucial for improving plant productivity and plant protection. The latter aspect is particularly relevant for sustainable agriculture and development of new p…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Rhizosphere",
+"guid": "86626682"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fbb5edb763e6eb72a55342993613dc17",
+"title": "Systems Approaches to Study Infectious Diseases",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "Exposure to infectious agents can either lead to active disease or containment or killing of the pathogen. Outcome of an infectious disease is determined by the complex interplay between the host and the path…",
+"keywords": [
+{
+            "word": "PlasmoDB",
+"guid": "88683482"
+        }, {
+            "word": "Malaria",
+"guid": "2778048844"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "580441562816924db1d7f7a5d06f5c76",
+"title": "Molecular characterization of breast cancer cell response to metabolic drugs",
+"authors": [
+{
+            "name": "Lucia Trillafuertes",
+"guid": "2587165011"
+        }, {
+            "name": "Angelo Gamezpozo",
+"guid": "1276209756"
+        }, {
+            "name": "Jorge M Arevalillo",
+"guid": "1922536295"
+        }, {
+            "name": "Mariana Diazalmiron",
+"guid": "2710507193"
+        }, {
+            "name": "Guillermo Pradova…",
+"guid": "2621565711"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Metabolic reprogramming is a hallmark of cancer. We and other authors have previously shown that breast cancer subtypes present metabolism differences. In this study, breast cancer cell lines were treat…",
+"keywords": [
+{
+            "word": "Cell Cycle",
+"guid": "29537977"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c9ba5c687a6fadfba50e3632a7aee387",
+"title": "Emerging ensembles of kinetic parameters to characterize observed metabolic phenotypes",
+"authors": [
+{
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "David Gilbert",
+"guid": "2112644535"
+        }, {
+            "name": "Monika Heiner",
+"guid": "1981762573"
+        }, {
+            "name": "Giancarlo Mauri",
+"guid": "2102122772"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Determining the value of kinetic constants for a metabolic system in the exact physiological conditions is an extremely hard task. However, this kind of information is of pivotal relevance to effectively simulate a …",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Ode",
+"guid": "34862557"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "71de369c7c77d0c11335d2f333384caa",
+"title": "A modeling and experimental approach to understanding the bottlenecks in xylulose utilization in S. cerevisiae",
+"authors": [
+{
+            "name": "William Hohenschuh",
+"guid": "147142231"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "85052535d40a85bcaf0e47fcff573d86",
+"title": "A Roadmap Towards a Systems Biology Description of Bacterial Nitrogen Fixation",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "Nitrogen fixation is a process in which microorganisms transform atmospheric nitrogen, N2, into ammonia, NH3. Various microorganisms can perform nitrogen fixation, including most of the Rhizobiaceae family, …",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Phenotype",
+"guid": "2992652459"
+        }, {
+            "word": "Cluster Coefficient",
+"guid": "2993043414"
+        }
+]
+
+        }, {
+            "guid": "",
+"title": "Regulated Flux-Balance Analysis (rFBA)",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Regulated Flux-Balance Analysis (rFBA) Speack: Zhu YANG 2006.10.04 Reference Covert, M.W., Schilling, C.H., and Palsson, B.Ø. 2001. Regulation of gene expression in fluxbalance models of metab…",
+"keywords": [
+
+]
+
+        }, {
+            "guid": "",
+"title": "Temperature and Precipitation Variability in China - A Gridded Monthly Time Series from 1958 to 1988.",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The sensitivity analysis focuses on three macroeconomic indices of the stability of the old-age support system: current balance and assets of the private, defined-contribution, fully-funded pension system an…",
+"keywords": [
+
+]
+
+        }, {
+            "guid": "",
+"title": "Estimating Mangrove Above-Ground Biomass Using Extreme Gradient Boosting Decision Trees Algorithm with Fused Senti…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Remote. Sens. 12 4 610 2020 Journal Articles journals\/remotesensing\/AdamsIMPPH20 10.3390\/RS12040610 https:\/\/doi.org\/10.3390\/rs12040610 https:\/\/dblp.org\/rec\/journals ...",
+"keywords": [
+
+]
+
+        }
+]

@@ -1,0 +1,312 @@
+[
+{
+            "guid": "6340cf171c2b85bf2e59fc57150855c0",
+"title": "Understanding germ cell regulation using bioinformatics approaches",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Spermatogenesis",
+"guid": "123765429"
+        }
+]
+
+        }, {
+            "guid": "1c1637c88851a78a7243fb29fd962326",
+"title": "Integrated genome-based studies of Shewanella ecophysiology",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "This project was a component of the Shewanella Federation and, as such, contributed to the overall goal of applying the genomic tools to better understand eco-physiology and speciation of respiratory-versatil…",
+"keywords": [
+{
+            "word": "Respiration",
+"guid": "182215343"
+        }, {
+            "word": "Gene",
+"guid": "104317684"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "475ff3998a4fac7e3c57b73a76a184fc",
+"title": "Identifying Gene Knockout Strategy Using Bees Hill Flux Balance Analysis (BHFBA) for Improving the Production of Suc…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Strains of Saccharomyces cerevisiae can be manipulated to improve product yield and growth characteristics. Optimization algorithms are developed to identify the effects of gene knockout on the res…",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Bees Algorithm",
+"guid": "143574069"
+        }, {
+            "word": "Hill Climbing",
+"guid": "135450995"
+        }
+]
+
+        }, {
+            "guid": "19f3d56534f1710c94c31879b93d102a",
+"title": "Flux-dependent graphs for metabolic networks",
+"authors": [
+{
+            "name": "Mariano Beguerissediaz",
+"guid": "1330279615"
+        }, {
+            "name": "Gabriel Bosque",
+"guid": "2270362165"
+        }, {
+            "name": "Diego A Oyarzun",
+"guid": "2112721400"
+        }, {
+            "name": "Jesus Pico",
+"guid": "2296036715"
+        }, {
+            "name": "Mauricio Barahona",
+"guid": "2146118813"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "Cells adapt their metabolic fluxes in response to changes in the environment. We present a framework for the systematic construction of flux-based graphs derived from organism-wide metabolic networks. Our g…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "ENCODE",
+"guid": "66746571"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ee646e9658b3b4d23e0bddd05f44f7e9",
+"title": "Exploiting transcriptomic data in genome-scale metabolic networks: new insights into obesity",
+"authors": [
+{
+            "name": "Ilaria Granata",
+"guid": "2563820054"
+        }, {
+            "name": "Enrico Troiano",
+"guid": "2762399319"
+        }, {
+            "name": "Mara Sangiovanni",
+"guid": "1844040356"
+        }, {
+            "name": "Mario Rosario Guarracino",
+"guid": "2029998973"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "Systems Biology is a holistic approach, based on the integration of multiscale models and different kinds of data, aimed at studying the underlying mechanisms of complex biological systems. A GEnome-scale …",
+"keywords": [
+{
+            "word": "Representation (mathematics)",
+"guid": "50341643"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a6012e8441c17fd57444cef2aeefdd42",
+"title": "Thermodynamics-based Significance Ranking of Candidates for Metabolomics",
+"authors": [
+{
+            "name": "Alexandros Kiparissides",
+"guid": "225726867"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "Cellular metabolism is the driving force of all living cells and organisms. Numerous research projects undertaken over the past century have attempted to decipher the function and operating principles of m…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "86256747af1fbaa6493bed98268c4784",
+"title": "Computing Minimum Reaction Modifications in a Boolean Metabolic Network",
+"authors": [
+{
+            "name": "Takeyuki Tamura",
+"guid": "2171727546"
+        }, {
+            "name": "Wei Lu",
+"guid": "2304482583"
+        }, {
+            "name": "Jiangning Song",
+"guid": "2151785084"
+        }, {
+            "name": "Tatsuya Akutsu",
+"guid": "699492180"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In metabolic network modification, we newly add enzymes or\/and knock-out genes to maximize the biomass production with minimum side-effect. Although this problem has been studied for various proble…",
+"keywords": [
+{
+            "word": "Feedback Vertex Set",
+"guid": "28723256"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d554236081d64baedc2ba593577680e7",
+"title": "Large Scale Metabolic Characterization Using Flux Balance Analysis and Data Mining",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Genome-scale metabolic models of several microbes have been reconstructed from sequenced genomes in the last years. These have been used in several applications in Biotechnology and biological discover…",
+"keywords": [
+{
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }
+]
+
+        }, {
+            "guid": "ab99557f99deee235303bcb60e5eaaba",
+"title": "The Entner-Doudoroff and Nonoxidative Pentose Phosphate Pathways Bypass Glycolysis and the Oxidative Pentose Phosp…",
+"authors": [
+{
+            "name": "Poonam Jyoti",
+"guid": "3000066787"
+        }, {
+            "name": "Manu Shree",
+"guid": "2897914869"
+        }, {
+            "name": "Chandrakant Joshi",
+"guid": "3003652502"
+        }, {
+            "name": "Tulika Prakash",
+"guid": "2288522703"
+        }, {
+            "name": "Suvendra Kumar Ray",
+"guid": "2128015055"
+        }, {
+            "name": "Siddhartha …",
+"guid": "2051936119"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2020,
+"abstract": "ABSTRACT In Ralstonia solanacearum, a devastating phytopathogen whose metabolism is poorly understood, we observed that the Entner-Doudoroff (ED) pathway and nonoxidative pentose phosphate …",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "585ff58bf771ca7ed456eeae1fde2f05",
+"title": "Provitamin D3 modulation through prebiotics supplementation: simulation based assessment",
+"authors": [
+{
+            "name": "Sucheta Gokhale",
+"guid": "2995653123"
+        }, {
+            "name": "Anirban Bhaduri",
+"guid": "2226299904"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Vitamin D is important in multiple health conditions. Vitamin D deficiency is prevalent globally even with exposure to adequate sunlight. Reduction in provitamin D3 (7-dehydrocholesterol, 7-DHC) is an importa…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

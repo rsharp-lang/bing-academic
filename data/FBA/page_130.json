@@ -1,0 +1,276 @@
+[
+{
+            "guid": "66e005a2de12c0d2923e97d80565e8bf",
+"title": "Computational metabolism modeling predicts risk of distant relapse-free survival in breast cancer patients.",
+"authors": [
+{
+            "name": "Lucia Trillafuertes",
+"guid": "2587165011"
+        }, {
+            "name": "Angelo Gamezpozo",
+"guid": "1276209756"
+        }, {
+            "name": "Mariana Diazalmiron",
+"guid": "2710507193"
+        }, {
+            "name": "Guillermo Pradovazquez",
+"guid": "2621565711"
+        }, {
+            "name": "Andrea Zap…",
+"guid": "2748923930"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Aim: Differences in metabolism among breast cancer subtypes suggest that metabolism plays an important role in this disease. Flux balanceanalysis is used to explore these differences as well as drug …",
+"keywords": [
+{
+            "word": "Personalized Medicine",
+"guid": "32220436"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "688aa6696b80272c90b50cc464ceffc1",
+"title": "Improved Methods for Constraint Based Modeling of Mammalian Systems",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cc8d1477955c09cca289d665ce018a2f",
+"title": "Revealing the Biological Meaning of Alternative Optimal Solutions of an E. coli Core Model through a System Identifica…",
+"authors": [
+{
+            "name": "Matthew Hilliard",
+"guid": "2753515449"
+        }, {
+            "name": "Q Peter He",
+"guid": "2119832328"
+        }, {
+            "name": "Jin Wang",
+"guid": "2117524406"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Genome-scale metabolic network models (GEMs) have been developed and applied successfully in many applications. Among different modeling approaches, flux balanceanalysis (FBA), a constraint-b…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ae14b30ed0e363a25fdffa599ca48a7a",
+"title": "Minimizing the number of optimizations for efficient community dynamic flux balanceanalysis.",
+"authors": [
+{
+            "name": "James D Brunner",
+"guid": "2923994477"
+        }, {
+            "name": "Nicholas Chia",
+"guid": "2159767788"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Dynamic flux balanceanalysis uses a quasi-steady state assumption to calculate an organism9s metabolic activity at each time-step of a dynamic simulation, using the well-know technique of flux balan…",
+"keywords": [
+{
+            "word": "Source Code",
+"guid": "43126263"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5788cd069abf2e1af7d06c2cdd5aa4f2",
+"title": "Genome-scale reconstruction and constraint-based modelling of Arabidopsis thaliana energy metabolism",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Network Modelling",
+"guid": "121094220"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }
+]
+
+        }, {
+            "guid": "d3579a5d456031cbe5c326d43b916b58",
+"title": "Metabolic Modeling of the Gut Microbiome-Host Interactions and Meta’omics Integration",
+"authors": [
+{
+            "name": "Saeed Shoaie",
+"guid": "2151234782"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "A large number of microbes with different strain types occupy the human gut. These gut inhabitant microbes have key roles in decomposition of indigestible dietary macronutrients before they are metabol…",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "89002a40e96cceca0429dc52b1a9aa94",
+"title": "In silico analysis for determining sensitive routes and genes related to carbon uptake through Flux balanceanalysis in the …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "Flux balanceanalysis (FBA) was performed in order to find sensitive pathways when the CO2 input in the system varied from low to high concentrations. A sensitivity coefficient was defined to detect those reacti…",
+"keywords": [
+{
+            "word": "Chlamydomonas",
+"guid": "2776580309"
+        }, {
+            "word": "Biomass",
+"guid": "2779371384"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "65e15d8d131423e9fd0f02ad1f792b50",
+"title": "Metabolites production improvement by identifying minimal genomes and essential genes using flux balanceanalysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "With the advancement in metabolic engineering technologies, reconstruction of the genome of host organisms to achieve desired phenotypes can be made. However, due to the complexity and size of the …",
+"keywords": [
+{
+            "word": "Minimal Genome",
+"guid": "42480944"
+        }, {
+            "word": "Gene Deletion",
+"guid": "2994499388"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bc7e4ac7f8af9afcfdbb16429f370bdd",
+"title": "Algorithms to infer metabolic flux ratios from fluxomics data",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In silico cell simulation approaches based in the use of genome-scale metabolic models (GSMMs) and constraint-based methods such as Flux BalanceAnalysis are gaining importance, but methods to integr…",
+"keywords": [
+{
+            "word": "Genomics",
+"guid": "189206191"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2fc984dab8ad91064c2f53584906e312",
+"title": "Predictive Potential of Flux BalanceAnalysis of Saccharomyces cerevisiae Using as Optimization Function Combinations of Ce…",
+"authors": [
+{
+            "name": "Carlos Eduardo",
+"guid": "2739573134"
+        }, {
+            "name": "Rodrigo Gonzalo",
+"guid": "2741800366"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "Background: The main objective of flux balanceanalysis (FBA) is to obtain quantitative predictions of metabolic fluxes of an organism, and it is necessary to use an appropriate objective function to guarante…",
+"keywords": [
+{
+            "word": "Linear Combination",
+"guid": "9260844"
+        }, {
+            "word": "Exponential Growth",
+"guid": "75235859"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

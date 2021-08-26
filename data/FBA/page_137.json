@@ -1,0 +1,321 @@
+[
+{
+            "guid": "d866c326ea9c151456616fa4a7f287cd",
+"title": "Dynamics of energy reserves in a generic cell",
+"authors": [
+{
+            "name": "Masoomeh Taghipoor",
+"guid": "2809034209"
+        }, {
+            "name": "Jacob Van Milgen",
+"guid": "3010968662"
+        }, {
+            "name": "Florence Gondret",
+"guid": "2011455032"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Farm animals, as any living organism, need energy for their basal metabolism and physical activities. When dietary energy intake exceeds energy expenditure (on a short-term or long-term basis), the surplu…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Mathematical Model",
+"guid": "76969082"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e931d099422432bb2f0c5ff5e265f2cd",
+"title": "Modeling of in Silico Microbe System based on the Combination of a Hierarchical Regulatory Network with Meta…",
+"authors": [
+{
+            "name": "Sunggun Lee",
+"guid": "2840971671"
+        }, {
+            "name": "Sangil Han",
+"guid": "2498733273"
+        }, {
+            "name": "Kyunghoon Kim",
+"guid": "2156497274"
+        }, {
+            "name": "Young Han Kim",
+"guid": "2315696440"
+        }, {
+            "name": "Kyusuk Hwang",
+"guid": "2139734337"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "FBA(flux balanceanalysis) with Boolean rules for representing regulatory events has correctly predicted cellular behaviors, such as optimal flux distribution, maximal growth rate, metabolic by-product, and sub…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0e16fe132f83fccb5f0d1fbc45728cf6",
+"title": "Differential flux balanceanalysis of quantitative proteomic data on protein interaction networks",
+"authors": [
+{
+            "name": "Biaobin Jiang",
+"guid": "2098287074"
+        }, {
+            "name": "David F Gleich",
+"guid": "2148810670"
+        }, {
+            "name": "Michael Gribskov",
+"guid": "2984179084"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Protein fluxes provide a more refined notion of protein abundance than raw counts alone by considering potential channels based on protein interaction networks. We propose a novel method to estimate protei…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Interaction Network",
+"guid": "55105296"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c230a2d8ff3361bbe41c7d87222a47f4",
+"title": "Analysis of metabolic flux distributions in relation to the extracellular environment in Avian cells",
+"authors": [
+{
+            "name": "Joao Rodrigues Correia Ramos",
+"guid": "2593511989"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "16354d94e3f1bf1e3bec250343a34dee",
+"title": "Busca de alvos proteicos para desenvolvimento de inibidores enzimáticos em sistemas hospedeiro-parasito",
+"authors": [
+{
+            "name": "Larissa Catharina Costa",
+"guid": "2508040160"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "In view of the need for a methodology to search for and evaluate the relevance of inhibitor development for specific enzymes of a pathogenic organism that could be applied in hostparasite systems, two models w…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ab5dc189b30ef197bccfb55b85757928",
+"title": "Identifying synergistically switching pathways for multi-product strain improvement using multiobjective flux balanceanalysis",
+"authors": [
+{
+            "name": "Suresh Selvarasu",
+"guid": "2079339859"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }, {
+            "name": "I A Karimi",
+"guid": "2290951554"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract The current work involves in silico analysis of metabolic network of E. coli, characterizing its pathways for the production of various industrially important metabolites including pyruvate, acetate, lact…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ded32b63b8b83ee33d2e2ed382ac76f3",
+"title": "Programming Living Machines: The Case Study of Escherichia Coli",
+"authors": [
+{
+            "name": "Jole Costanza",
+"guid": "2123949151"
+        }, {
+            "name": "Luca Zammataro",
+"guid": "2482539984"
+        }, {
+            "name": "Giuseppe Nicosia",
+"guid": "2151495100"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In 1952, Turing outlined computational processes in the morphogenesis [8], thus thinking of the biological evolution of an organism as a consequence of the computation that it can perform. Following Turing’s id…",
+"keywords": [
+{
+            "word": "Turing",
+"guid": "9870796"
+        }, {
+            "word": "Turing Machine",
+"guid": "29248071"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e633085e0d95f858b9a62a786cf4224b",
+"title": "Microbial Chassis Assisting Retrosynthesis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "Synthetic biology has come a long way from constructing simple regulatory element to de novo pathway construction in heterologous host chassis. This is achieved by the transfer of the desired pathway from …",
+"keywords": [
+{
+            "word": "Synthetic Biology",
+"guid": "191908910"
+        }, {
+            "word": "Artemisinic Acid",
+"guid": "2909463367"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "034a0e228039ce6b4dd100aa52e4e4e8",
+"title": "The influence of the pentose’s pathway of the Clostridium Acetobutylicum on the production of butanol: Insights from …",
+"authors": [
+{
+            "name": "Rafael Ferreira Soares",
+"guid": "2710400782"
+        }, {
+            "name": "Fabricio Alves Barbosa Da Silva",
+"guid": "2668291326"
+        }, {
+            "name": "Ana Carolina Ramos Guimaraes",
+"guid": "2138395640"
+        }, {
+            "name": "Ernesto R…",
+"guid": "2228387456"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "This work is a pilot study for further analysis of the organism Trypanosoma cruzi (T. cruzi) and the influences of the Pentose’s Pathway on the parasite Clostridium acetobutylicum, already cataloged in th…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ef00fcf3d41d88c18d849a88c465f6e8",
+"title": "Interplay of Shadow Price, Phenotype and Alternative Optimal Solutions in Flux BalanceAnalysis",
+"authors": [
+{
+            "name": "Matthew Hilliard",
+"guid": "2753515449"
+        }, {
+            "name": "Q Peter He",
+"guid": "2119832328"
+        }, {
+            "name": "Jin Wang",
+"guid": "2117524406"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Genome-scale metabolic network models (GEMs) have been applied successfully in many applications, and one important application is to predict different growth phenotypes in various genetic a…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Root Cause",
+"guid": "84945661"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

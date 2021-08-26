@@ -1,0 +1,282 @@
+[
+{
+            "guid": "259e466eae0f9b3eff698fb09de15673",
+"title": "Identification of flux-coupled genes and their use in flux balance analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Transcriptome",
+"guid": "162317418"
+        }
+]
+
+        }, {
+            "guid": "bb7a83d8e3af8bb7e57972b5c8d151d9",
+"title": "Predicting the carbon source for Bacillus subtilis by integrating gene expression profiles into a constraint-based metabolic m…",
+"authors": [
+{
+            "name": "Kulwadee Thanamit",
+"guid": "2988549774"
+        }, {
+            "name": "Franziska Hoerhold",
+"guid": "2987242044"
+        }, {
+            "name": "Marcus Oswald",
+"guid": "2130356273"
+        }, {
+            "name": "Rainer Koenig",
+"guid": "2655679289"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Finding drug targets for antimicrobial treatment is a central focus in biomedical research. To discover new drug targets, we are interested in finding out which nutrients are essential for pathogenic microorganism…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "84b1af05c3dbeea6b84c63c7667e2c5a",
+"title": "Computational Studies on the Evolution of Metabolism",
+"authors": [
+{
+            "name": "Alexander Ullrich",
+"guid": "2285417094"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "Living organisms throughout evolution have developed desired properties, such as the ability#R##N#of maintaining functionality despite changes in the environment or their inner structure, the#R##N#formatio…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Artificial Life",
+"guid": "19273510"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3a10ca0a85e1931d84f22d0d24ba26ef",
+"title": "In Silico Approaches to Metabolic Engineering",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "With an increasing understanding of the cell at the molecular level, primarily guided by advances in high-throughput “omics” and systems biology, metabolic engineering has become more rational and less relia…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "In Silico",
+"guid": "2775905019"
+        }
+]
+
+        }, {
+            "guid": "4a60e17eedd4effff166806c2e99bb94",
+"title": "Modeling Mycobacterium tuberculosis H37Rv In Silico",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "Network reconstructions and constraint-based modeling have been shown to be effective methods for understanding complex processes, such as metabolism. These reconstructions are in fact biologically st…",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b4c8d5f38eadc9ae05b0f0247adb508d",
+"title": "A Bio-inspired Approach to Attack Graphs Analysis",
+"authors": [
+{
+            "name": "Vincenzo Conti",
+"guid": "2155398292"
+        }, {
+            "name": "Simone Sante Ruffo",
+"guid": "2755223611"
+        }, {
+            "name": "Alessio Merlo",
+"guid": "2160285081"
+        }, {
+            "name": "Mauro Migliardi",
+"guid": "2676784453"
+        }, {
+            "name": "Salvatore Vitabile",
+"guid": "1251500987"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "Computer security has recently become more and more important as the world economy dependency from data has kept growing. The complexity of the systems that need to be kept secure calls for new mo…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Theoretical Computer Science",
+"guid": "80444323"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "003e241b967a48c486ff6b63bb94905f",
+"title": "Topological analysis of carbon flux during multi-stress adaptation in Halomonas sp. AAD12",
+"authors": [
+{
+            "name": "Hilal Mangaoglu Yoruk",
+"guid": "2502049234"
+        }, {
+            "name": "Nihat Alpagu Sayar",
+"guid": "2739696719"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Background: Osmolytes with their effective stabilizing properties are accumulated as protectants not only against salinity but also against denaturing harsh environmental stresses such as freezing, drying, high t…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "da833dcb83b970dc1e8f13e4175f0697",
+"title": "MRAD: Metabolic Reaction Analysis Database – An Entity-Relationship Approach",
+"authors": [
+{
+            "name": "Raman Lall",
+"guid": "2695516760"
+        }, {
+            "name": "Guang Gao",
+"guid": "2496003116"
+        }, {
+            "name": "Prasad Dhurjati",
+"guid": "662088860"
+        }, {
+            "name": "Jeremy S Edwards",
+"guid": "2923627577"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The Metabolic Reaction Analysis Database (MRAD) is a relational database based on the Entity-Relationship (ER) model which combines information about organisms, biochemical pathways, reactions…",
+"keywords": [
+{
+            "word": "Relational Database",
+"guid": "5655090"
+        }, {
+            "word": "Database",
+"guid": "77088390"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "14f4b06d1265d238307c602e1c8c667f",
+"title": "2Ka08 Prediction of metabolic flux profile by genome-scale metabolic model for bioproduction using cyanobacteria",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7baacef0abd34e5039a6d4a486bab852",
+"title": "Flux Balance Analysis of Synechocystis PCC 6803",
+"authors": [
+{
+            "name": "Robert M Elder",
+"guid": "2677650672"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2009,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Chemistry",
+"guid": "185592680"
+        }
+]
+
+        }
+]

@@ -1,0 +1,330 @@
+[
+{
+            "guid": "427267ba532c6de6c4e6ed3af0581057",
+"title": "Elucidation of new condition-dependent roles for fructose-1,6-bisphosphatase linked to cofactor balances.",
+"authors": [
+{
+            "name": "Du Toit W P Schabort",
+"guid": "2437867588"
+        }, {
+            "name": "S G Kilian",
+"guid": "2013489540"
+        }, {
+            "name": "James C Du Preez",
+"guid": "2149521365"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The cofactor balances in metabolism is of paramount importance in the design of a metabolic engineering strategy and understanding the regulation of metabolism in general. ATP, NAD+ and NADP+ balances a…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "02b32c056617132565beb22fee4be935",
+"title": "Quantitative Connection between Cell Size and Growth Rate by Phospholipid Metabolism.",
+"authors": [
+{
+            "name": "Zhichao Zhang",
+"guid": "3004419744"
+        }, {
+            "name": "Qing Zhang",
+"guid": "3006118371"
+        }, {
+            "name": "Shaohua Guan",
+"guid": "3001099695"
+        }, {
+            "name": "Hualin Shi",
+"guid": "2734597884"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The processes involved in cell growth are extremely complicated even for a single cell organism such as Escherichia coli, while the relationship between growth rate and cell size is simple. We aimed to reveal t…",
+"keywords": [
+{
+            "word": "Cell Growth",
+"guid": "62112901"
+        }, {
+            "word": "Exponential Growth",
+"guid": "75235859"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e446d7e6dcbdedd06eee47bce77e796a",
+"title": "Handling the heterogeneity of genomic and metabolic networks data within flexible workflows with the PADMet tool…",
+"authors": [
+{
+            "name": "Marie Chevallier",
+"guid": "2726866452"
+        }, {
+            "name": "Meziane Aite",
+"guid": "2730985292"
+        }, {
+            "name": "Jeanne Got",
+"guid": "2581882720"
+        }, {
+            "name": "Guillaume Collet",
+"guid": "2163273410"
+        }, {
+            "name": "Nicolas Loira",
+"guid": "1640711535"
+        }, {
+            "name": "Mariapaz Cortes",
+"guid": "2302281962"
+        }, {
+            "name": "Cle…",
+"guid": "2583937456"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "A main challenge of the era of fast and massive genome sequencing is to transform sequences into biological knowledge. The reconstruction of metabolic networks that include all biochemical reactions of …",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0732313ca22691b4c712809cb9af485c",
+"title": "Grohar: Automated Visualization of Genome-Scale Metabolic Models and Their Pathways",
+"authors": [
+{
+            "name": "Miha Moskon",
+"guid": "2044224604"
+        }, {
+            "name": "Nikolaj Zimic",
+"guid": "970262265"
+        }, {
+            "name": "Miha Mraz",
+"guid": "2018422711"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Genome-scale metabolic models (GEMs) have become a powerful tool for the investigation of the entire metabolism of the organism in silico. These models are, however, often extremely hard to reconst…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Visualization",
+"guid": "36464697"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9dc73da56d9f913db58bb83e5757b1ab",
+"title": "Linking Microbial Genomics to Renewable Energy Production and Global Carbon Management",
+"authors": [
+{
+            "name": "Neha",
+"guid": "2991167910"
+        }, {
+            "name": "Abhishek Singh",
+"guid": "2409808672"
+        }, {
+            "name": "Suman Yadav",
+"guid": "2989109391"
+        }, {
+            "name": "Yashpal Bhardwaj",
+"guid": "2524523458"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "The diminishing concentration of available fossil fuels and increasing global demand of energy have obligated the need for the production of alternate fuels to current petroleum-based fuels. Microbes have …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "26d6f90fbd29f32584798916ec800302",
+"title": "Integrating Flux BalanceAnalysis into Microalgae Growth Kinetics for Dynamic Simulation",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Most of the microalgae growth models are based on modified Monod kinetics, which often involve many parameters to identify. Some fundamental questions about the validity of such empirical growth ra…",
+"keywords": [
+{
+            "word": "Chlamydomonas Reinhardtii",
+"guid": "2777727519"
+        }, {
+            "word": "Bioreactor",
+"guid": "168170006"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9061fd9a48cbb75c1fcd1b805375bdaa",
+"title": "Automatic Generation of Secondary Metabolite Biosynthetic Reactions to Update Host Strain\"s Network",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Polyketide",
+"guid": "2778635478"
+        }
+]
+
+        }, {
+            "guid": "5de95b2f47a248e84f796829c8eb191d",
+"title": "Prediction of N-linked Glycoform Profiles of Monoclonal Antibody with Extracellular Metabolites and Two-Step Intracel…",
+"authors": [
+{
+            "name": "Sha Sha",
+"guid": "2401421731"
+        }, {
+            "name": "Zhuangrong Huang",
+"guid": "2535621157"
+        }, {
+            "name": "Cyrus Agarabi",
+"guid": "2558791415"
+        }, {
+            "name": "Scott Lute",
+"guid": "2618170029"
+        }, {
+            "name": "Kurt Brorson",
+"guid": "2024637672"
+        }, {
+            "name": "Seongkyu Yoon",
+"guid": "2148129068"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "Monoclonal antibodies (mAbs) are commonly glycosylated and show varying levels of galactose attachment. A set of experiments in our work showed that the galactosylation level of mAbs was altered …",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3d582111e9ce19e5f116084a52ce03e5",
+"title": "A biocomputational application for the automated construction of large-scale metabolic models from transcriptomic data",
+"authors": [
+{
+            "name": "Baezvillalobos Edwin",
+"guid": "2621685647"
+        }, {
+            "name": "Silescanales Francisco",
+"guid": "2623057945"
+        }, {
+            "name": "R A Morarodriguez",
+"guid": "2622316896"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "Cancer is a very complex disease with particular metabolic features that turn it into a very difficult system to approach from the solely experimental research. Therefore a systems biology approach is absolutely …",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4a89f2bf70c91fcfcd4369ed68bd508a",
+"title": "The interdependence between environment and metabolism in microbe sand their ecosystems",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metagenomics",
+"guid": "15151743"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]
