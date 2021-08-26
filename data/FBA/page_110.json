@@ -1,0 +1,294 @@
+[
+{
+            "guid": "d4ea0c316b4f1fab4d1730690bf40988",
+"title": "Computing abundance constraints in Saccharomyces cerevisiae’s metabolism",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2019,
+"abstract": "The unicellular eukaryotic organism Saccharomyces cerevisiae (budding yeast) is routinely used for production of high-value chemical compounds in the biotechnology industry. To improve production yiel…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Lipidomics",
+"guid": "58017582"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }
+]
+
+        }, {
+            "guid": "7f1c4e2fe0646e812142c932a094e766",
+"title": "The Path Forward : Using High Throughput Data and Dynamic FluxBalance Modeling to Identify Bottlenecks in the Carbon …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Ethanol",
+"guid": "2780161600"
+        }, {
+            "word": "Xylose",
+"guid": "2780294150"
+        }
+]
+
+        }, {
+            "guid": "e7c3519170b0c7b382ccbfc64826d4cf",
+"title": "Chemical Transformation Motifs - Modelling Pathways as Integer Hyperflows",
+"authors": [
+{
+            "name": "Jakob L Andersen",
+"guid": "2110168456"
+        }, {
+            "name": "Christoph Flamm",
+"guid": "1965187182"
+        }, {
+            "name": "Daniel Merkle",
+"guid": "1981192622"
+        }, {
+            "name": "Peter F Stadler",
+"guid": "2168957985"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "We present an elaborate framework for formally modelling pathways in chemical reaction networks on a mechanistic level. Networks are modelled mathematically as directed multi-hypergraphs, with vertices c…",
+"keywords": [
+{
+            "word": "Integer",
+"guid": "4071166"
+        }, {
+            "word": "Theoretical Computer Science",
+"guid": "80444323"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b5cd1cbb8765e2e3d45774ec38ed2497",
+"title": "Fluxbalanceanalysis of cyanobacteria reveals selective use of photosynthetic electron transport components under differen…",
+"authors": [
+{
+            "name": "Masakazu Toyoshima",
+"guid": "2801626321"
+        }, {
+            "name": "Yoshihiro Toya",
+"guid": "2746866190"
+        }, {
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Cyanobacteria acclimate and adapt to changing light conditions by controlling the energy transfer between photosystem I (PSI) and II (PSII) and pigment composition. Photosynthesis is driven by balancing the ex…",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Electron Transport Chain",
+"guid": "24840226"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b1bdcb85ca6d188b54df03cba834c940",
+"title": "Efficient production of a model designed peptide from sucrose in Escherichia coli",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Process Engineering",
+"guid": "21880701"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "452d51eecae6a657788fe83a160a8279",
+"title": "FindTargetsWEB: A User-Friendly Tool for Identification of Potential Therapeutic Targets in Metabolic Networks of Bacteria",
+"authors": [
+{
+            "name": "Thiago Castanheira Merigueti",
+"guid": "2808877489"
+        }, {
+            "name": "Marcia W Carneiro",
+"guid": "2107849229"
+        }, {
+            "name": "Ana Paula Dallincourt Carvalhoassef",
+"guid": "2952469535"
+        }, {
+            "name": "Floriano Pa…",
+"guid": "2015991451"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Healthcare-associated infections (HAI) are a serious public health problem. They can be associated with morbidity and mortality and are responsible for the increase in patient hospitalization. Antimicrobial resis…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1f0ee74669b938a944ae63f2ee0955aa",
+"title": "Differential Metabolic Control Analysis in Cancer Research",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "In the quest for anti-cancer drugs with high efficacy and low toxicity, cancer metabolism has increasingly been a focus of interest in clinical research. Enhanced glycolysis and robust production of lactate constit…",
+"keywords": [
+{
+            "word": "Metabolic Control Analysis",
+"guid": "70818257"
+        }, {
+            "word": "The Arts",
+"guid": "70789860"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "178f4a0a829e31a1c55f39a14c09a028",
+"title": "Constraint‐based metabolic targets for the improved production of heterologous compounds across molecular clas…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Yersiniabactin",
+"guid": "2776159380"
+        }, {
+            "word": "6-deoxyerythronolide B",
+"guid": "2909422518"
+        }
+]
+
+        }, {
+            "guid": "63c5a9f64b4577d259f86f2ced40fac5",
+"title": "Metabolic fluxbalanceanalysis of an industrially useful microorganism Corynebacerium glutamicum by a genome-sc…",
+"authors": [
+{
+            "name": "Hiroshi Shimizu",
+"guid": "2518822135"
+        }, {
+            "name": "Yohei Shinfuku",
+"guid": "308698449"
+        }, {
+            "name": "Masahiro Sono",
+"guid": "2146775094"
+        }, {
+            "name": "Chikara Furusawa",
+"guid": "2004371303"
+        }, {
+            "name": "Takashi Hirasawa",
+"guid": "2146155068"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Microorganisms have multi-hierarchical networks such as gene, protein and metabolites in the cells. In silico genome-scale metabolic models allow us to analyze characteristics of metabolic systems of organi…",
+"keywords": [
+{
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3ad9a0d8e8e1fa36027182c7bc2118dc",
+"title": "Minimale Flussmoden als theoretisches Konzept für die funktionelle Analyse und modulare Beschreibung zellulärer St…",
+"authors": [
+{
+            "name": "Sabrina Hoffmann",
+"guid": "2248045399"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "The metabolism of a cell consists of chemical transformations and transport processes. Their rates (fluxes) are the result of genetic, translational and metabolic control and therefore carry valuable information abo…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

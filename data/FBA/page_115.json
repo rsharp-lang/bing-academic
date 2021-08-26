@@ -1,0 +1,270 @@
+[
+{
+            "guid": "c45ad5a4256ba0ff91b89985196d85c0",
+"title": "1P-152 代謝シミュレーションに基づいた3HP高生産大腸菌の構築(一般講演(代謝工学))",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "3-Hydroxypropionic Acid",
+"guid": "2780429852"
+        }, {
+            "word": "Glycerol",
+"guid": "2780881558"
+        }
+]
+
+        }, {
+            "guid": "3a406cdbbae9e03cb0644b463da9de92",
+"title": "IN SILICO GENOME-SCALE RECONSTRUCTION AND ANALYSIS OF THE SHEWANELLA LOIHICA PV-4 METABOLIC NETWORK",
+"authors": [
+{
+            "name": "Zixiang Xu",
+"guid": "2152983630"
+        }, {
+            "name": "Jing Guo",
+"guid": "2250677864"
+        }, {
+            "name": "Yunxia Yue",
+"guid": "2567867033"
+        }, {
+            "name": "Jing Meng",
+"guid": "2307292591"
+        }, {
+            "name": "Xiao Sun",
+"guid": "2791102536"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Microbial Fuel Cells (MFCs) are devices that generate electricity directly from organic compounds with microbes (electricigens) serving as anodic catalysts. As a novel environment-friendly energy s...",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1f30476c96208466b9a2e3945e3d61f2",
+"title": "Uniting In Silico and In Vivo Systems Biology: a New Concept to Approximate Theory to Real-Life Flux Distributions",
+"authors": [
+{
+            "name": "Thorsten Fallisch",
+"guid": "2541735646"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2006,
+"abstract": "Within the last years, bioinformatics expanded from its focus on protein related research to the investigation of whole organisms. Up to date, a variety of bacteria has been modeled, in most detail Esc…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "073edb22f87b7b6400551ccdb227c8cc",
+"title": "Metabolic modelling of tomato fruit ripening",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "34a2cd35b3653850a0c4c7a3e026e4c5",
+"title": "Gene Expression Analysis in Large-Scale Flux Balance Model of Chlamydomonas reinhardtii",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Chlamydomonas Reinhardtii",
+"guid": "2777727519"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4fea4701376fd543b9e5bc4f41c990e3",
+"title": "Maintaining redox balance is key to explaining modes of metabolic switching",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "Lactococcus Lactis",
+"guid": "2780011460"
+        }, {
+            "word": "Saccharomyces Cerevisiae",
+"guid": "2777576037"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f8d35d466d3f49297a90842e32abf4ea",
+"title": "The Genotype-Phenotype Map: Origins, Properties, and Evolutionary Consequences",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Phenotypic Plasticity",
+"guid": "62277055"
+        }, {
+            "word": "Neutral Theory of Molecular Evolution",
+"guid": "1570309"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "035720961e59d9e673ff3ad0d0104e64",
+"title": "Genome-Scale Metabolic Reconstruction and in Silico Perturbation Analysis of the Polar Diatom Fragilariopsis cylind…",
+"authors": [
+{
+            "name": "Michel Lavoie",
+"guid": "3006216340"
+        }, {
+            "name": "Blanche Saintbeat",
+"guid": "3006910424"
+        }, {
+            "name": "Jan Strauss",
+"guid": "2908619635"
+        }, {
+            "name": "Sebastien Guerin",
+"guid": "3006457946"
+        }, {
+            "name": "Antoine Allard",
+"guid": "2092320438"
+        }, {
+            "name": "Simon V Hardy",
+"guid": "2628445542"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Diatoms are major primary producers in polar environments where they can actively grow under extremely variable conditions. Integrative modeling using a genome-scale model (GSM) is a powerful approach to …",
+"keywords": [
+{
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b8fe1124c06d5e635d80df6bf6fcf1f8",
+"title": "Metabolic Design And Engineering Through Ant Colony Optimization",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Due to the vast search space of all possible combinations of reaction knockouts in Escherichia coli, determining the best combination of knockouts for over-production of a metabolite of interest is a compu…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Genome Scale",
+"guid": "2992697278"
+        }
+]
+
+        }, {
+            "guid": "6196b747a8c3ab42d8fae74325d2fd57",
+"title": "Identification and dynamic simulation of metabolic pathways in the human red blood cells = 적혈구에서의 대사경로 인식과 동적모사",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2002,
+"abstract": "",
+"keywords": [
+{
+            "word": "Dynamic Simulation",
+"guid": "149808339"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

@@ -1,0 +1,330 @@
+[
+{
+            "guid": "6568d0db802fa5c6782f1d967016dbaa",
+"title": "Thermodynamics-based flux-balanceanalysis of the metabolic network of Plasmodium falciparum",
+"authors": [
+{
+            "name": "Stepan Tymoshenko",
+"guid": "1388962652"
+        }, {
+            "name": "Dominique Soldatifavre",
+"guid": "157386012"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "872911e9670b100de3f4485e01c18d84",
+"title": "Constraint-based models of microbial physiology : Surprisingly versatile",
+"authors": [
+{
+            "name": "Bas Teusink",
+"guid": "622208267"
+        }, {
+            "name": "Bob Planque",
+"guid": "2898745599"
+        }, {
+            "name": "Douwe Molenaar",
+"guid": "2128267214"
+        }, {
+            "name": "Frank J Bruggeman",
+"guid": "2100898815"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "Microbial cells evolved a remarkable ability to adapt to environmental conditions, or to withstand otherwise detrimental mutations, which makes them often very resilient to man-made interventions. These properti…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Resource Allocation",
+"guid": "29202148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "470804018740a1815240d0d80d46f329",
+"title": "A New Method of Genome-Scale Metabolic Model Validation for Biogeochemical Application",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Methanosarcina",
+"guid": "2778563749"
+        }, {
+            "word": "Geobacter",
+"guid": "2776062086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "04a4f91e5d055e84d00233eae1da02a1",
+"title": "Gene Knockout Study in Reduced Kidney Metabolic Network",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "As human metabolic network models become available, medical and pharmaceutical applications of these models are becoming feasible nowadays, and thus reconstruction and analysis of genome-scale model…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Kidney",
+"guid": "2780091579"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "02fa29fb2674970a3c80ba4f6f675564",
+"title": "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity",
+"authors": [
+{
+            "name": "Allon Wagner",
+"guid": "2669894492"
+        }, {
+            "name": "Chao Wang",
+"guid": "2099879469"
+        }, {
+            "name": "David Detomaso",
+"guid": "2336796746"
+        }, {
+            "name": "Julian Avilapacheco",
+"guid": "2515731799"
+        }, {
+            "name": "Sarah Zaghouani",
+"guid": "2636575302"
+        }, {
+            "name": "Johannes Fe…",
+"guid": "3002663818"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Cellular metabolism, a key regulator of immune responses, is difficult to study with current technologies in individual cells Here, we present Compass, an algorithm to characterize the metabolic state of cells bas…",
+"keywords": [
+{
+            "word": "Regulator",
+"guid": "6929976"
+        }, {
+            "word": "Immune System",
+"guid": "8891405"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4bb937aa529005ecd74b79c8273c23d7",
+"title": "Applying Molecular Communication Theory to Multi-Scale Integrated Models of Biological Pathways",
+"authors": [
+{
+            "name": "Zahmeeth Sakkaff",
+"guid": "2516154936"
+        }, {
+            "name": "Bige D Unluturk",
+"guid": "2344976659"
+        }, {
+            "name": "Massimiliano Pierobon",
+"guid": "2084667402"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The natural communication ability of cells is explored in this paper by providing preliminary results in the estimation of the Mutual Information (MI) of signaling pathway communication channels. These results, …",
+"keywords": [
+{
+            "word": "Biological Pathway",
+"guid": "9927688"
+        }, {
+            "word": "Computer Network",
+"guid": "31258907"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "97071789957faf3a8a572449f1717058",
+"title": "Genome-wide Metabolic Reconstruction and Flux BalanceAnalysis Modeling of Haloferax volcanii",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Archaea",
+"guid": "550995028"
+        }
+]
+
+        }, {
+            "guid": "b55e6e6f6ce7c802f4601b69d4271a34",
+"title": "Constraining flux balanceanalysis with genome-scale data",
+"authors": [
+{
+            "name": "Dave Lee",
+"guid": "2156787130"
+        }, {
+            "name": "Kieran Smallbone",
+"guid": "1993893657"
+        }, {
+            "name": "Warwick B Dunn",
+"guid": "2160577273"
+        }, {
+            "name": "Ettore Murabito",
+"guid": "30318258"
+        }, {
+            "name": "Catherine L Winder",
+"guid": "1936942739"
+        }, {
+            "name": "Douglas B Kell",
+"guid": "2998266927"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "Background#N#Constraint-based analysis of genome-scale metabolic models typically relies upon maximisation of a cellular objective function such as the rate or efficiency of biomass production. Whilst t…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Multicellular Organism",
+"guid": "74318829"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "325add23e6cbe5bb5c6c69bdb7f322e6",
+"title": "Functional Alignment of Metabolic Networks",
+"authors": [
+{
+            "name": "Arnon Mazza",
+"guid": "2135786199"
+        }, {
+            "name": "Allon Wagner",
+"guid": "2165250579"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }, {
+            "name": "Roded Sharan",
+"guid": "2234942671"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Network alignment has become a standard tool in comparative biology, allowing the inference of protein function, interaction and orthology. However, current alignment techniques are based on topological pro…",
+"keywords": [
+{
+            "word": "Comparative Biology",
+"guid": "39234202"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ff9dcaf7dccddd92098cfb6323bb7267",
+"title": "A novel method for flux distribution computation in metabolic networks",
+"authors": [
+{
+            "name": "Da Jiang",
+"guid": "2148865427"
+        }, {
+            "name": "Shuigeng Zhou",
+"guid": "2157277864"
+        }, {
+            "name": "Jihong Guan",
+"guid": "2111293301"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In recent years, the study on metabolic networks has attracted considerable attention from the research community. Though the topological structures of genome-scale metabolic networks of some organisms …",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

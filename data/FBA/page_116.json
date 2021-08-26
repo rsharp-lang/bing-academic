@@ -1,0 +1,309 @@
+[
+{
+            "guid": "484f66eae2426f4493786b024e8bae54",
+"title": "Identifying metabolic markers for the hemibiotrophic life style of Phytophthora infestans",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Phytophthora infestans es uno de los patogenos de las plantas mas importantes en todo el mundo. Dentro de sus caracteristicas mas interesantes es la rapida adaptacion a las diferentes practicas agricolas com…",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Phytophthora Infestans",
+"guid": "2777257142"
+        }
+]
+
+        }, {
+            "guid": "10415d02c4f6b4fe8b3f3ad8701c86c1",
+"title": "In silico and in vivo stability analysis of a heterologous biosynthetic pathway for 1,4-butanediol production in metab…",
+"authors": [
+{
+            "name": "Ildiko Miklossy",
+"guid": "2599370553"
+        }, {
+            "name": "Zsolt Bodor",
+"guid": "2963567190"
+        }, {
+            "name": "Reka Sinkler",
+"guid": "2565643358"
+        }, {
+            "name": "Kalman Csongor Orban",
+"guid": "2576206393"
+        }, {
+            "name": "Szabolcs Lanyi",
+"guid": "2114227870"
+        }, {
+            "name": "Beata Albert",
+"guid": "2696697403"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Recently, several approaches have been published in order to develop a functional biosynthesis route for the non-natural compound 1,4-butanediol (BDO) in E. coli using glucose as a sole carbon source or start…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8da1b3e84c1742c8e7c2cab20e2573cc",
+"title": "Minimizing the number of optimizations for efficient community dynamic fluxbalanceanalysis.",
+"authors": [
+{
+            "name": "James D Brunner",
+"guid": "2923994477"
+        }, {
+            "name": "Nicholas Chia",
+"guid": "2159767788"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Dynamic fluxbalanceanalysis uses a quasi-steady state assumption to calculate an organism's metabolic activity at each time-step of a dynamic simulation, using the well-know technique of fluxbalanceanalysi…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Source Code",
+"guid": "43126263"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a0acdbd03c2040985cff09bacb27239a",
+"title": "Reconstruction and validation of the genome-scale metabolic model of Yarrowia lipolytica iNL750",
+"authors": [
+{
+            "name": "David James Sherman",
+"guid": "2076855998"
+        }, {
+            "name": "Nicolas Loira",
+"guid": "1640711535"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2010,
+"abstract": "For many fungal genomes of biotechnological interest, the combination of large-scale sequencing projects and in-depth experimental studies has made it feasible to undertake metabolic network reconstruction. …",
+"keywords": [
+{
+            "word": "Experimental Data",
+"guid": "55037315"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6861227d1867fe3db34c98fef5083966",
+"title": "Metabolic profiling of secreted fermentative byproducts by Salmonella typhimurium",
+"authors": [
+{
+            "name": "Anielle C A Silva",
+"guid": "2104990348"
+        }, {
+            "name": "Cintia Regina Sargo",
+"guid": "1952013724"
+        }, {
+            "name": "T C Zangirolami",
+"guid": "2089813098"
+        }, {
+            "name": "Roberto C Giordano",
+"guid": "2155553005"
+        }, {
+            "name": "I Rocha",
+"guid": "2159642706"
+        }, {
+            "name": "E C Ferreira",
+"guid": "2140807371"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "s 665 A326 METABOLIC PROFILING OF SECRETED FERMENTATIVE BYPRODUCTS BY SALMONELLA TYPHIMURIUM ADILSON SILVA1; CINTIA REGINA SARGO1; TERESA CRISTINA ZA…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8ac2659f4a820c755d481cd495124c67",
+"title": "Experimental Definition and Validation of Protein Coding Transcripts in Chlamydomonas reinhardtii",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "",
+"keywords": [
+{
+            "word": "Algae",
+"guid": "559758991"
+        }, {
+            "word": "Carbon",
+"guid": "501529594"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "fc45ab34b31e7237d73f687157a04248",
+"title": "(A) systematic approach for estimating chemical properties = 화학 물질의 특성 예측을 위한 시스템적 접근법",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2009,
+"abstract": "",
+"keywords": [
+{
+            "word": "Gibbs Free Energy",
+"guid": "146477669"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7fe7409041207a2092a6bee3413a168f",
+"title": "Identification of Flux-coupled Genes for the Improved Simulation Accuracy of FluxBalanceAnalysis",
+"authors": [
+{
+            "name": "Won Jun Kim",
+"guid": "2996396788"
+        }, {
+            "name": "Hyun Uk Kim",
+"guid": "2096908699"
+        }, {
+            "name": "Sang Yup Lee",
+"guid": "2618418927"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Operations Research",
+"guid": "42475967"
+        }, {
+            "word": "Engineering",
+"guid": "127413603"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "852d35f05aa2ec77c3262f4380b46714",
+"title": "Chemical Biophysics: Constraint-based analysis of biochemical systems",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2008,
+"abstract": "",
+"keywords": [
+{
+            "word": "Energy Metabolism",
+"guid": "2986317502"
+        }, {
+            "word": "Orthogonality",
+"guid": "17137986"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4841c71ff026b82bf3ecafdb21ba34f7",
+"title": "Enzyme capacity-based genome scale modelling of CHO cells",
+"authors": [
+{
+            "name": "Hock Chuan Yeo",
+"guid": "2099044590"
+        }, {
+            "name": "Jongkwang Hong",
+"guid": "2911560542"
+        }, {
+            "name": "Meiyappan Lakshmanan",
+"guid": "2303245260"
+        }, {
+            "name": "Dongyup Lee",
+"guid": "2135777369"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Chinese hamster ovary (CHO) cells are most prevalently used for producing recombinant therapeutics in biomanufacturing. Recently, more rational and systems approaches have been increasingly exploited to …",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

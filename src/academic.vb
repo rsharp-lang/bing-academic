@@ -64,8 +64,14 @@ Public Module academic
                                authors As dataframe,
                                fields As dataframe) As literatureEntry
 
-        Dim year As String = ref.Match("\d+")
-        Dim jour As String = ref.Replace(year, "").Trim
+        Dim year As String = Nothing
+        Dim jour As String = Nothing
+
+        If ref.StringEmpty Then
+        Else
+            year = ref.Match("\d+")
+            jour = ref.Replace(year, "").Trim
+        End If
 
         Return New literatureEntry With {
             .abstract = abstract,

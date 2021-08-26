@@ -1,0 +1,270 @@
+[
+{
+            "guid": "aca0e440a7321311dc377d3fb801b47c",
+"title": "2Gp20 FastPros : 有用物質生産性向上に向けた多重遺伝子破壊のin silicoスクリーニング(代謝工学\/脂質工学,一般講演)",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "",
+"keywords": [
+{
+            "word": "Escherichia Coli",
+"guid": "547475151"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "02f3d42513a4bf1963372a1d0cb16651",
+"title": "Numerical Simulations of Plasma-generated Chemical Species and Induced Metabolic Responses",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0631934d5f4912b3fdd6bd3219e75d18",
+"title": "A Virtual Nodule Environment (ViNE) for modelling the inter-kingdom metabolic integration during symbiotic nitrogen fixa…",
+"authors": [
+{
+            "name": "George C Dicenzo",
+"guid": "2972841826"
+        }, {
+            "name": "Michelangelo Tesi",
+"guid": "2972900746"
+        }, {
+            "name": "Thomas Pfau",
+"guid": "2703939287"
+        }, {
+            "name": "Alessio Mengoni",
+"guid": "2285508305"
+        }, {
+            "name": "Marco Fondi",
+"guid": "2005577459"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Biological associations are often premised upon metabolic cross-talk between the organisms, with the N2-fixing endosymbiotic relationship between rhizobia and leguminous plants being a prime example. Here…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6a17594b74fa3b6fde1d8c78645e3e00",
+"title": "A combined systems biology and genomics approach to the study of metabolism in Kluyveromyces marxianus",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "English: The yeast Kluyveromyces marxianus has become an important micro-organism for industrial#R##N#applications, as have other non-conventional yeasts. It has the advantages over Sacch…",
+"keywords": [
+{
+            "word": "Fructose 1,6-bisphosphatase",
+"guid": "189909181"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e986f784a8dd64b171a78dbcfab3f150",
+"title": "LK-DFBA: a linear programming-based modeling strategy for capturing dynamics and metabolite-dependent regulation in …",
+"authors": [
+{
+            "name": "Robert A Dromms",
+"guid": "2101371180"
+        }, {
+            "name": "Justin Y Lee",
+"guid": "2900455384"
+        }, {
+            "name": "Mark P Styczynski",
+"guid": "1986743995"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "BACKGROUND: The systems-scale analysis of cellular metabolites, \"metabolomics,\" provides data ideal for applications in metabolic engineering. However, many of the computational tools for strain design ar…",
+"keywords": [
+{
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Computation",
+"guid": "45374587"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "386fcec811a54aaf7f0c520552849d71",
+"title": "The identification of optimal pathways in Synechocystis sp. PCC 6803 by flux balance analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2015,
+"abstract": "Cyanobacteria are microorganisms considered advantageous for producing valuable compounds because of their high growth rates compared to plants. They also can be grown at large scale in photobioreactors…",
+"keywords": [
+{
+            "word": "Cyanobacteria",
+"guid": "2779669040"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Phenylalanine",
+"guid": "2777431362"
+        }
+]
+
+        }, {
+            "guid": "a4861975884559856e98501cc9503c0e",
+"title": "iMet: A graphical user interface software tool to merge metabolic networks",
+"authors": [
+{
+            "name": "Reza Mohammadi",
+"guid": "2952364120"
+        }, {
+            "name": "Javad Zahiri",
+"guid": "2289407194"
+        }, {
+            "name": "Mohammad Javad Niroomand",
+"guid": "2477250030"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Nowadays, studying microorganisms has become faster and deeper than the last decades, thanks to the modeling of genome-scale metabolic networks. Completed genome sequencing projects o…",
+"keywords": [
+{
+            "word": "Graphical User Interface",
+"guid": "37789001"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6bd4c2917ecc64cc064733f63d627b7a",
+"title": "The Enzymes that beyond Non-Oxidative Glycolysis",
+"authors": [
+{
+            "name": "Zixiang Xu",
+"guid": "2152983630"
+        }, {
+            "name": "Qiaqing Wu",
+"guid": "2147092638"
+        }, {
+            "name": "Dunming Zhu",
+"guid": "2115368438"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "High yield is an important objective of cell factory. One or several genes cloned into the bacterial may make the synthetic pathway much more optimal, so can increase the yield. But the global benefit enzym…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "83945cad67dae98182d928b3fdde21b9",
+"title": "Estimating Flux Distribution in Cattle Glycolysis using Flux Balance Analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Glycolysis",
+"guid": "20251656"
+        }
+]
+
+        }, {
+            "guid": "db2c63327815b81e37f41276ee4cc639",
+"title": "Characterization of Metabolic Networks in Differentiated CD4+ T Cells",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

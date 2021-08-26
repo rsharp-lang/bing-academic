@@ -1,0 +1,285 @@
+[
+{
+            "guid": "dcdded413ec42bb05454b857ac662dbf",
+"title": "Computational metabolomics hints at the relevance of glutamine metabolism in breast cancer",
+"authors": [
+{
+            "name": "Lucia Trillafuertes",
+"guid": "2587165011"
+        }, {
+            "name": "Angelo Gamezpozo",
+"guid": "1276209756"
+        }, {
+            "name": "Elena Lopezcamacho",
+"guid": "1945680887"
+        }, {
+            "name": "Guillermo Pradovazquez",
+"guid": "2621565711"
+        }, {
+            "name": "Andrea Za…",
+"guid": "2748923930"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Metabolomics has great potential in the development of new biomarkers in cancer. In this study, metabolomics and gene expression data from breast cancer tumor samples were analyzed, using (1) pr…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "84744b8efab034f248144276f03237a8",
+"title": "Flux balance analysis of Plasmodium falciparum growth and energy metabolism",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Plasmodium Falciparum",
+"guid": "2778371730"
+        }
+]
+
+        }, {
+            "guid": "faa28e0b830ed4c4b6044f3edf4d671e",
+"title": "Implications of the Assumptions on Intracellular Metabolic Operational States in Metabolic Control Analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Modeling and analysis of metabolic networks is inherently biased by assumptions regarding the intracellular metabolite and flux states. Despite the advanced metabolomics and fluxomics methods at o…",
+"keywords": [
+{
+            "word": "Metabolic Control Analysis",
+"guid": "70818257"
+        }, {
+            "word": "Thermodynamics",
+"guid": "97355855"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "efa32f75a996cc2af54d9e4752a0241e",
+"title": "Network-Based Metabolism-Centered Screening of Potential Drug Targets in Klebsiella pneumoniae at Genome Scale",
+"authors": [
+{
+            "name": "Muberra Fatma Cesur",
+"guid": "2776402392"
+        }, {
+            "name": "Bushra Siraj",
+"guid": "2997957178"
+        }, {
+            "name": "Reaz Uddin",
+"guid": "1914233717"
+        }, {
+            "name": "Saliha Durmus",
+"guid": "2129856503"
+        }, {
+            "name": "Tunahan Cakir",
+"guid": "2115127029"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Klebsiella pneumoniae is an opportunistic bacterial pathogen leading to life-threatening nosocomial infections. Emergence of highly resistant strains poses a major challenge in the management of the infe…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "9b9d46d64cb3685973f3ddf12493eab6",
+"title": "Computational Modeling of Planktonic and Biofilm Metabolism",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "CRISPR",
+"guid": "98108389"
+        }, {
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ed1102a9074e15b664e5c11c8c624f72",
+"title": "Human Platelet Metabolic Network Reconstruction",
+"authors": [
+{
+            "name": "Sorena Rahmaniyan",
+"guid": "2564353803"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "In the past, metabolic network reconstruction has been used extensively for the analysis and discoveries in microorganisms such as E.Coli. furthermore, after the completion of human genome sequencing and …",
+"keywords": [
+{
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8e758e3062816bf5a04d1b7679443cd0",
+"title": "Exploring the metabolic flexibility of the mammary gland of dairy cows through flux-balance analysis",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Mammary Gland",
+"guid": "2778001805"
+        }
+]
+
+        }, {
+            "guid": "abf8bd8fa0d4240233a1fc36333a6b8a",
+"title": "Математическое моделирование бактериального метаболизма",
+"authors": [
+{
+            "name": "Голомысова Анастасия Никитична",
+"guid": "3009640570"
+        }, {
+            "name": "Гомельский Марк",
+"guid": "3010563680"
+        }, {
+            "name": "Иванов Павел Сергеевич",
+"guid": "3009958769"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2010,
+"abstract": "",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "df14af511f3da6eb5c06b2f92c0ac9c6",
+"title": "Dynamic metabolic studies of C. necator producing PHB from glycerol",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Control Analysis",
+"guid": "70818257"
+        }, {
+            "word": "Cupriavidus Necator",
+"guid": "2780637011"
+        }
+]
+
+        }, {
+            "guid": "fd098dd1ade132bc39989251731570eb",
+"title": "Development of a Theoretical Workflow for Metabolic Engineering and its Application to Terpenoid Production in Es…",
+"authors": [
+{
+            "name": "Valderrama Gomez",
+"guid": "2922715306"
+        }, {
+            "name": "Miguel Angel",
+"guid": "2924702638"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "Metabolic Engineering is an emerging science aiming at the development of cellular factories for the overproduction of valuable chemicals. Target molecules can be either naturally produced by endogenou…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux Balance Analysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

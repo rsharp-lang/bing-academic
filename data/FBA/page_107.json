@@ -1,0 +1,315 @@
+[
+{
+            "guid": "34ab6a44acf7263e8804d0986dd7e59c",
+"title": "Cyclic decomposition explains a photosynthetic down regulation for Chlamydomonas reinhardtii",
+"authors": [
+{
+            "name": "Stephen Philip Chapman",
+"guid": "2522992550"
+        }, {
+            "name": "Marcelo Trindade Dos Santos",
+"guid": "2425842115"
+        }, {
+            "name": "Giles N Johnson",
+"guid": "2162063708"
+        }, {
+            "name": "Mauricio Vieira Kritz",
+"guid": "2035951740"
+        }, {
+            "name": "Jea…",
+"guid": "2293965298"
+        }
+]
+,
+"year": "2017",
+"journal": "· BioSystems",
+"cites": 1,
+"abstract": "Abstract The regulation of metabolic networks has been shown to be distributed and shared through the action of metabolic cycles. Biochemical cycles play important roles in maintaining flux and substrate ava…",
+"keywords": [
+{
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Biophysics",
+"guid": "12554922"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b6d4e7792fd3b275d962027da28e3449",
+"title": "Comment on ‘Dynamic analysis of optimality in myocardial energy metabolism under normal and ischemic conditions’",
+"authors": [
+{
+            "name": "Daniel A Beard",
+"guid": "2135719953"
+        }
+]
+,
+"year": "2008",
+"journal": "· Molecular Systems Biology",
+"cites": 1,
+"abstract": "Mol Syst Biol. 4: 207#N##N#In a recent paper, Luo et al (2006) present an innovative and perhaps useful approach to simulating metabolism, termed M‐dynamic flux balanceanalysis, in which metabolic fluxes …",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "34b7059e3b106c312bc482873de67379",
+"title": "Enumeration and Cartesian Product Decomposition of Alternate Optimal Fluxes in Cellular Metabolism",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· Informs Journal on Computing",
+"cites": 1,
+"abstract": "We introduce a framework for finding and analyzing all optimal solutions to a linear-programming-based model for cellular metabolism. The implementation of a pivoting-based method for generating alternate …",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5e9d511c5a1adf805e262ef5078e39cf",
+"title": "SBML Level 3 Package: Flux Balance Constraints ('fbc')",
+"authors": [
+{
+            "name": "Brett G Olivier",
+"guid": "2466684484"
+        }, {
+            "name": "Frank Bergmann",
+"guid": "2006598898"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 1,
+"abstract": "Constraint based modeling is a widely accepted methodology used to analyze and study biological networks on both a small and whole organism (genome) scale. Typically these models are underdetermi…",
+"keywords": [
+{
+            "word": "Biological Network",
+"guid": "28225019"
+        }, {
+            "word": "Bounded Function",
+"guid": "34388435"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c361d605c43e5d9fd2d762ada7be1c54",
+"title": "A Hybrid of Simple Constrained Artificial Bee Colony Algorithm and Flux BalanceAnalysis for Enhancing Lactate and Succinat…",
+"authors": [
+
+]
+,
+"year": "2018",
+"journal": "",
+"cites": 1,
+"abstract": "In the past decades, metabolic engineering has received great attention from different sectors of science due to its important role in enhancing the over expression of the target phenotype by manipulating the m…",
+"keywords": [
+{
+            "word": "Escherichia Coli",
+"guid": "547475151"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Computational Intelligence",
+"guid": "139502532"
+        }
+]
+
+        }, {
+            "guid": "81df407f18d90f4f8d9e77251662c2ad",
+"title": "Reconstruction of Oryza sativa indica Genome Scale Metabolic Model and Its Responses to Varying RuBisCO Activity, Light In…",
+"authors": [
+{
+            "name": "Ankita Chatterjee",
+"guid": "2594322607"
+        }, {
+            "name": "Benazir Huma",
+"guid": "2773163600"
+        }, {
+            "name": "Rahul Shaw",
+"guid": "2249007605"
+        }, {
+            "name": "Sudip Kundu",
+"guid": "2157969787"
+        }
+]
+,
+"year": "2017",
+"journal": "· Frontiers in Plant Science",
+"cites": 1,
+"abstract": "To combat decrease in rice productivity under different stresses, an understanding of rice metabolism is needed. Though there are different genome scale metabolic models (GSMs) of O.s. japonica, no GSM …",
+"keywords": [
+{
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c3fb4078fdd8cd3a4f5303c136c6d3e9",
+"title": "Insights into Algal Fermentation",
+"authors": [
+{
+            "name": "Wenqiang Yang",
+"guid": "2143196570"
+        }, {
+            "name": "Claudia Catalanotti",
+"guid": "2167972385"
+        }, {
+            "name": "Matthew C Posewitz",
+"guid": "194434966"
+        }, {
+            "name": "Jean Alric",
+"guid": "2166166260"
+        }, {
+            "name": "Arthur R Grossman",
+"guid": "2101479443"
+        }
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 1,
+"abstract": "Chlamydomonas reinhardtii (Chlamydomonas throughout) is a metabolically versatile, soil-dwelling photosynthetic alga, capable of modulating its metabolism as environmental conditions change; this flexi…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0294c1e23e0fc7cdc239cb300fc500aa",
+"title": "Integration of open source software tools for the in silico design of metabolic pathways using flux balanceanalysis – a…",
+"authors": [
+{
+            "name": "Ana Sofia Figueiredo",
+"guid": "2266800943"
+        }
+]
+,
+"year": "2005",
+"journal": "· BMC Bioinformatics",
+"cites": 1,
+"abstract": "This study describes the development of a system that calculates the fluxes of a metabolic network. It integrates several open source software tools in order to simulate the behaviour of specific metabolic pa…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e28866c16f68379ae80f20e7fb6e1a47",
+"title": "Integrative Computational Framework for Understanding Metabolic Modulation in Leishmania",
+"authors": [
+{
+            "name": "Nutan Chauhan",
+"guid": "2883937680"
+        }, {
+            "name": "Shailza Singh",
+"guid": "2600743720"
+        }
+]
+,
+"year": "2019",
+"journal": "· Frontiers in Bioengineering and Biotechnology",
+"cites": 1,
+"abstract": "Background: The integration of computational and mathematical approaches is used to provide a key insight into the biological systems. Through systems biology approaches we seek to find detailed and m…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bb1e81ccebaa95a3609f80a2db836dff",
+"title": "Flux balanceanalysis predicts NADP phosphatase and NADH kinase are critical to balancing redox during xylose fermentati…",
+"authors": [
+{
+            "name": "Kevin Correia",
+"guid": "2714729416"
+        }, {
+            "name": "Anna N Khusnutdinova",
+"guid": "2112885593"
+        }, {
+            "name": "Peter Yan Li",
+"guid": "2886611615"
+        }, {
+            "name": "Jeong Chan Joo",
+"guid": "2144689941"
+        }, {
+            "name": "Greg Brown",
+"guid": "2111525042"
+        }, {
+            "name": "Alexander F Ya…",
+"guid": "2204611229"
+        }
+]
+,
+"year": "2018",
+"journal": "· bioRxiv",
+"cites": 1,
+"abstract": "Xylose is the second most abundant sugar in lignocellulose and can be used as a feedstock for next-generation biofuels by industry. Saccharomyces cerevisiae, one of the main workhorses in biotechnolog…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

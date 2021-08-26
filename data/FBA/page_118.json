@@ -1,0 +1,306 @@
+[
+{
+            "guid": "d1510bef60b7bbbc76c71dfd28d4aae4",
+"title": "Using the “OMICS” Technologies as Complementary Tools to Study the Molecular Mechanisms Involved with the Adaptatio…",
+"authors": [
+{
+            "name": "K R De La Luzhernandez",
+"guid": "2582508840"
+        }, {
+            "name": "Y Rabasalegon",
+"guid": "2515415099"
+        }, {
+            "name": "A Lagecastellanos",
+"guid": "2316680201"
+        }, {
+            "name": "A Castillovitlloch",
+"guid": "2320155769"
+        }, {
+            "name": "L Castellanosserra",
+"guid": "2561341976"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "Production of recombinant therapeutic proteins, especially monoclonal antibodies (Mab), in myeloma cell lines represents a significant segment of the pharmaceutical market, and therefore striving for increase…",
+"keywords": [
+{
+            "word": "Protein Biosynthesis",
+"guid": "3675279"
+        }, {
+            "word": "Carbohydrate Metabolism",
+"guid": "17093226"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e29d0f0b6569d4790ab6a145d3bc1b93",
+"title": "Reconstruction and analysis of a carbon-core metabolic network for Dunaliella salina",
+"authors": [
+{
+            "name": "Melanie Fachet",
+"guid": "245129318"
+        }, {
+            "name": "Carina Witte",
+"guid": "3003939545"
+        }, {
+            "name": "Robert J Flassig",
+"guid": "2055612470"
+        }, {
+            "name": "Liisa Rihkostruckmann",
+"guid": "2044621604"
+        }, {
+            "name": "Zaid M Mckiekrisberg",
+"guid": "19119942"
+        }, {
+            "name": "Jurg…",
+"guid": "2305046694"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The green microalga Dunaliella salina accumulates a high proportion of β-carotene during abiotic stress conditions. To better understand the intracellular flux distribution leading to carotenoid accumulation, thi…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Chloroplast",
+"guid": "69305403"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dff31cab25b1684cd9cc0efeb43e2370",
+"title": "Flux balanceanalysis to model microbial metabolism for electricity generation",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Mathematical Optimization",
+"guid": "126255220"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ce5d3691c5547e7257e32fa76ff106b0",
+"title": "Predicción a escala genómica de Componentes de Saccharomyces cerevisiae mediante Análisis de Balance de Flu…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "Several biological models, named reconstructions, are used for the study of the S. cerevisiae microorganism. The reconstructions can be genomic scaled. Mathematical models are generated from t…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Saccharomyces Cerevisiae",
+"guid": "2777576037"
+        }
+]
+
+        }, {
+            "guid": "d6e6c90a1ca0387895040e6d93e5b43e",
+"title": "Melanoma proteomics suggests functional differences related to mutational status.",
+"authors": [
+{
+            "name": "Lucia Trillafuertes",
+"guid": "2587165011"
+        }, {
+            "name": "Angelo Gamezpozo",
+"guid": "1276209756"
+        }, {
+            "name": "Guillermo Pradovazquez",
+"guid": "2621565711"
+        }, {
+            "name": "Andrea Zapatermoros",
+"guid": "2748923930"
+        }, {
+            "name": "Mariana Di…",
+"guid": "2710507193"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Melanoma is the most lethal cutaneous cancer. New drugs have recently appeared; however, not all patients obtain a benefit of these new drugs. For this reason, it is still necessary to characterize melano…",
+"keywords": [
+{
+            "word": "Neuroblastoma RAS Viral Oncogene Homolog",
+"guid": "21790070"
+        }, {
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b241d4e7162e7a3b1c4b3d6138a8c8e4",
+"title": "Dynamical reduction of linearized metabolic networks through quasi steady state approximation",
+"authors": [
+{
+            "name": "Claudia Lopez Zazueta",
+"guid": "2740768971"
+        }, {
+            "name": "Olivier Bernard",
+"guid": "2167910322"
+        }, {
+            "name": "Jeanluc Gouze",
+"guid": "2002033685"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Metabolic modeling has gained accuracy in the last decades, but the resulting models are of high dimension and difficult to use for control purpose. Here we propose a mathematical approach to reduce …",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0abf8e90d9edf8ac02259c85faeb17a8",
+"title": "Advances In Genome-Scale Modeling Applied To Expression-Based Flux Estimation And Epistasis Prediction",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }
+]
+
+        }, {
+            "guid": "e6f545bf9022f50dd28c71f95da19d97",
+"title": "Derivation of a Biomass Proxy for Dynamic Analysis of Whole Genome Metabolic Models",
+"authors": [
+{
+            "name": "Timothy Self",
+"guid": "2888397205"
+        }, {
+            "name": "David Gilbert",
+"guid": "2112644535"
+        }, {
+            "name": "Monika Heiner",
+"guid": "1981762573"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "A whole genome metabolic model (GEM) is essentially a reconstruction of a network of enzyme-enabled chemical reactions representing the metabolism of an organism, based on information present in its gen…",
+"keywords": [
+{
+            "word": "Steady State",
+"guid": "34560132"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d1617bed39b004428f7dd4d9b13eb869",
+"title": "HUMAN BRAIN, MUSCLE AND ADIPOSE TISSUES MATHEMATICAL MODELING FOR NORMAL AND DISEASED S…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Ordinary Differential Equation",
+"guid": "51544822"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Adipose Tissue",
+"guid": "171089720"
+        }
+]
+
+        }, {
+            "guid": "a96aa4147b80031e8d3ca2ebaea600ca",
+"title": "Comparison of biochemical pathways of colorectal cancer patients and healthy controls using a systems biology approach",
+"authors": [
+{
+            "name": "Fatemeh Nikmanesh",
+"guid": "3010115476"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Gene Expression",
+"guid": "150194340"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

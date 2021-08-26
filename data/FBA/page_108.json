@@ -1,0 +1,315 @@
+[
+{
+            "guid": "e48a32eadd6493dd3c9feab8552012a7",
+"title": "A minimal model for explaining the higher ATP production in the Warburg effect",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "· PeerJ",
+"cites": 1,
+"abstract": "For producing ATP, tumor cells rely on glycolysis leading to lactate to about the same extent as on respiration. Thus, they use a higher fraction of glycolysis than the corresponding healthy cells. This is kn…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Yield",
+"guid": "54468928"
+        }, {
+            "word": "Respiratory Pathway",
+"guid": "2992170967"
+        }
+]
+
+        }, {
+            "guid": "99fc8618d9934a8de147a1238ef83bab",
+"title": "Estimating Metabolic Fluxes Using a Maximum Network Flexibility Paradigm",
+"authors": [
+{
+            "name": "Wout Megchelenbrink",
+"guid": "2052281461"
+        }, {
+            "name": "Sergio Rossell",
+"guid": "2059023479"
+        }, {
+            "name": "Martijn A Huynen",
+"guid": "2426917830"
+        }, {
+            "name": "Richard A Notebaart",
+"guid": "1992938829"
+        }, {
+            "name": "Elena Marchiori",
+"guid": "1974086637"
+        }
+]
+,
+"year": "2015",
+"journal": "· PLOS ONE",
+"cites": 1,
+"abstract": "MOTIVATION: Genome-scale metabolic networks can be modeled in a constraint-based fashion. Reaction stoichiometry combined with flux capacity constraints determine the space of allowable reaction rates. T…",
+"keywords": [
+{
+            "word": "Ecology",
+"guid": "18903297"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "dd595c9cc4a4c90a656ccab9811a556f",
+"title": "Modelling of Fungal Metabolism",
+"authors": [
+
+]
+,
+"year": "2005",
+"journal": "",
+"cites": 1,
+"abstract": "",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Flux Analysis",
+"guid": "160941953"
+        }
+]
+
+        }, {
+            "guid": "1024dd34923b3c0f24170be7487bd8d4",
+"title": "Computational prediction of changes in brain metabolic fluxes during Parkinson’s disease from mRNA expression",
+"authors": [
+{
+            "name": "Farahaniza Supandi",
+"guid": "2771177631"
+        }, {
+            "name": "Johannes H G M Van Beek",
+"guid": "2045910041"
+        }
+]
+,
+"year": "2018",
+"journal": "· PLOS ONE",
+"cites": 1,
+"abstract": "Background Parkinson’s disease is a widespread neurodegenerative disorder which affects brain metabolism. Although changes in gene expression during disease are often measured, it is difficult to pr…",
+"keywords": [
+{
+            "word": "Glycolysis",
+"guid": "20251656"
+        }, {
+            "word": "Mitochondrion",
+"guid": "28859421"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "a7001b75f77cae0e3026e6a22a68264c",
+"title": "Metabolism of Mycobacterium tuberculosis",
+"authors": [
+{
+            "name": "Dany J V Beste",
+"guid": "2155014663"
+        }, {
+            "name": "Johnjoe Mcfadden",
+"guid": "2251044004"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 1,
+"abstract": "Despite decades of research many aspects of the biology of Mycobacterium tuberculosis remain unclear and this is reflected in the antiquated tools available to treat and prevent tuberculosis. Consequently, thi…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "69c15096f08c1baf98c38407ac27b9d2",
+"title": "Metabolic modelling and flux analysis of microorganisms from the Atacama Desert used in biotechnological processes",
+"authors": [
+{
+            "name": "Valeria Razmilic",
+"guid": "2049223201"
+        }, {
+            "name": "Jean Franco Castro",
+"guid": "2108784574"
+        }, {
+            "name": "Francisca Marchant",
+"guid": "2790412225"
+        }, {
+            "name": "Juan A Asenjo",
+"guid": "2143611852"
+        }, {
+            "name": "Barbara A Andrews",
+"guid": "2166640307"
+        }
+]
+,
+"year": "2018",
+"journal": "· Antonie Van Leeuwenhoek International Journal of General and Molecular Mi…",
+"cites": 1,
+"abstract": "Metabolic modelling is a useful tool that enables the rational design of metabolic engineering experiments and the study of the unique capabilities of biotechnologically important microorganisms. The extreme ab…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1b9153839cd604d20592bb15c23cecef",
+"title": "Tapping into Salmonella typhimurium LT2 genome in a quest to explore its therapeutic arsenal: A metabolic network model…",
+"authors": [
+{
+            "name": "Kusum Mehla",
+"guid": "2119214470"
+        }, {
+            "name": "Jayashree Ramana",
+"guid": "2101306703"
+        }
+]
+,
+"year": "2017",
+"journal": "· Biomedicine & Pharmacotherapy",
+"cites": 1,
+"abstract": "S. typhimurium, the classical broad-host-range serovar is a widely distributed cause of food-borne illness. Escalating antibiotic resistance and potential of conjugal transmission to other pathogens attributable to …",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Gene Knockout",
+"guid": "77957584"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "31c9625f9b8d7ee4ec659badcc9efa43",
+"title": "Integrative Systems Biology II—Molecular Biology: Phase 2 Lead Discovery and In Silico Screening",
+"authors": [
+
+]
+,
+"year": "2012",
+"journal": "",
+"cites": 1,
+"abstract": "Many different OMICs\/HTS techniques now allow huge amounts of molecular signatures to be collected and then analysed further by system tools. Among them, ChIP-on-chip is used to investigate interaction…",
+"keywords": [
+{
+            "word": "High-throughput Screening",
+"guid": "51323132"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Synthetic Biology",
+"guid": "191908910"
+        }
+]
+
+        }, {
+            "guid": "496e41533ce3f7df82d7d2c725eae306",
+"title": "Simulation and optimization of dynamic flux balanceanalysis models using an interior point method reformulation",
+"authors": [
+{
+            "name": "Felipe Scott",
+"guid": "2397420526"
+        }, {
+            "name": "Pamela Wilson",
+"guid": "2888888018"
+        }, {
+            "name": "Raul Conejeros",
+"guid": "2303789462"
+        }, {
+            "name": "Vassilios S Vassiliadis",
+"guid": "540162473"
+        }
+]
+,
+"year": "2018",
+"journal": "· Computers & Chemical Engineering",
+"cites": 1,
+"abstract": "Abstract This work presents a novel, differentiable, way of solving dynamic Flux BalanceAnalysis (dFBA) problems by embedding flux balanceanalysis of metabolic network models within lumped bulk kinetics f…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Logarithm",
+"guid": "39927690"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d414553fc4101cd3844c2240f6c62fa1",
+"title": "On-line clean-up and LC-MS analysis of primary metabolites in cell culture supernatants",
+"authors": [
+{
+            "name": "Teresa Mairinger",
+"guid": "2165997216"
+        }, {
+            "name": "Julia Trondle",
+"guid": "2057632497"
+        }, {
+            "name": "Michael Hanscho",
+"guid": "149588360"
+        }, {
+            "name": "Stephan Hann",
+"guid": "2165624272"
+        }
+]
+,
+"year": "2017",
+"journal": "· Analytical Methods",
+"cites": 1,
+"abstract": "Current approaches to modern metabolic profiling of biotechnological samples are facing several challenges, e.g. the wide concentration ranges and the complexity of the matrix. While the information o…",
+"keywords": [
+{
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

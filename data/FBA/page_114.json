@@ -1,0 +1,345 @@
+[
+{
+            "guid": "63c3d1f23bb7aabcc94256bfc5d4b831",
+"title": "Assessing the impact of physicochemical parameters in the predictive capabilities of thermodynamics-based stoichiometr…",
+"authors": [
+{
+            "name": "Claudio Tomiandrino",
+"guid": "3005120898"
+        }, {
+            "name": "Rupert Norman",
+"guid": "2523831852"
+        }, {
+            "name": "Thomas Millat",
+"guid": "1848020635"
+        }, {
+            "name": "Philippe Soucaille",
+"guid": "2923396136"
+        }, {
+            "name": "Klaus Winzer",
+"guid": "1955790255"
+        }, {
+            "name": "David A Bar…",
+"guid": "2153576724"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Metabolic engineering in the post-genomic era is characterised by the development of new methods for metabolomics and fluxomics, supported by the integration of genetic engineering tools and mathematica…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7745f69c0ff12862dcee4997d2a694cf",
+"title": "NIHBA: A Network Interdiction Approach with Hybrid Benders Algorithm for Strain Design",
+"authors": [
+{
+            "name": "Shouyong Jiang",
+"guid": "2113679361"
+        }, {
+            "name": "Yong Wang",
+"guid": "2803653710"
+        }, {
+            "name": "Marcus Kaiser",
+"guid": "2099872102"
+        }, {
+            "name": "Natalio Krasnogor",
+"guid": "257144541"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Fluxbalanceanalysis (FBA) based bilevel optimisation has been a great success in redesigning metabolic networks for biochemical overproduction. To date, many computational approaches have bee…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Scalability",
+"guid": "48044578"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "297462156a057f3d9578db9c43ee6cd8",
+"title": "Experiments and simulations on short chain fatty acid production in a colonic bacterial community",
+"authors": [
+{
+            "name": "Bea Yu",
+"guid": "2104987767"
+        }, {
+            "name": "Ilija Dukovski",
+"guid": "2329941213"
+        }, {
+            "name": "David S Kong",
+"guid": "2433704831"
+        }, {
+            "name": "Johanna Bobrow",
+"guid": "2430981822"
+        }, {
+            "name": "Alla Ostrinskaya",
+"guid": "249766805"
+        }, {
+            "name": "Daniel Segre",
+"guid": "2034634026"
+        }, {
+            "name": "Todd Thor…",
+"guid": "2159640840"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Understanding how production of specific metabolites by gut microbes is modulated by interactions with surrounding species and by environmental nutrient availability is an important open challenge in microbi…",
+"keywords": [
+{
+            "word": "Food Science",
+"guid": "31903555"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4e99abd014688f081c0f557017148591",
+"title": "Development of a Stoichiometric Model for Estimation of Metabolic Fluxes in Saccharomyces cerevisiae during Tequila …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "Fermentation",
+"guid": "100544194"
+        }, {
+            "word": "Saccharomyces Cerevisiae",
+"guid": "2777576037"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f00a24ff0b68238eca4bf26423b9eeca",
+"title": "FBCA, A multiscale modeling framework combining cellular automata and fluxbalanceanalysis",
+"authors": [
+{
+            "name": "Alex Graudenzi",
+"guid": "45777830"
+        }, {
+            "name": "Davide Maspero",
+"guid": "2734710697"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Cellular Automaton",
+"guid": "35527583"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "bca7640bd7d57445ade81cf3bd38ba23",
+"title": "An ensemble approach to the study of the emergence of metabolic and proliferative disorders via FluxBalanceAnalysis",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Sara Molinari",
+"guid": "2168986812"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Daniela Gaglio",
+"guid": "2952305475"
+        }, {
+            "name": "Marco Vanoni",
+"guid": "2142769582"
+        }, {
+            "name": "Li…",
+"guid": "2919640860"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The search for the molecular basis of oncogenic transformation has long challenged the scientiﬁccommunity. It has been recently recognized [5] that distinct types of cancer share a few essent…",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3338a917043220d533dea4bdb29e3f63",
+"title": "Improving the Genome-scale Prediction of Metabolic Fluxes Based on Genomic Context and Flux-converging Pattern Anal…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }
+]
+
+        }, {
+            "guid": "59c4607dff9df9f709512527f39513a2",
+"title": "Metabolic flux and functional potential of microbial community in an acidogenic dynamic membrane bioreactor",
+"authors": [
+{
+            "name": "Jonghun Park",
+"guid": "2980682493"
+        }, {
+            "name": "Jeong Hoon Park",
+"guid": "2582579117"
+        }, {
+            "name": "Sang Hoon Lee",
+"guid": "2234713715"
+        }, {
+            "name": "Jeongjun Yoon",
+"guid": "2653234694"
+        }, {
+            "name": "Sanghyoun Kim",
+"guid": "2161222952"
+        }, {
+            "name": "Heedeung Park",
+"guid": "2294601952"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract In this study, a laboratory-scale acidogenic dynamic membrane bioreactor (DMBR) was operated with or without alginate immobilization under various hydraulic retention times. The interactions betwee…",
+"keywords": [
+{
+            "word": "Acidogenesis",
+"guid": "53247381"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c34b1c13f3b5dde520391525e80a650e",
+"title": "Development of an Internally Constrained FluxBalanceAnalysis Method for Saccharomyces cerevisiae",
+"authors": [
+{
+            "name": "Pal Roynestad",
+"guid": "2511103611"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Control Theory",
+"guid": "65244806"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1be1894793c379ab5eda9034e24c025d",
+"title": "A metabolic network of a phosphate-accumulating organism provides new insights into enhanced biological phosphorous …",
+"authors": [
+{
+            "name": "Sergio Bordel",
+"guid": "1719129262"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Here we present a metabolic network representing the central carbon metabolism as well as the synthesis of polyhydroxyalcanohates and the polyphosphate accumulation mechanisms of the bacterium Candidat…",
+"keywords": [
+{
+            "word": "Enhanced Biological Phosphorus Removal",
+"guid": "2860155"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

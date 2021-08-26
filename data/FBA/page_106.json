@@ -1,0 +1,297 @@
+[
+{
+            "guid": "099b36c09a6805203a9041c6a5ba99da",
+"title": "Flux balanceanalysis and its applications",
+"authors": [
+{
+            "name": "Balazs Papp",
+"guid": "2126101777"
+        }, {
+            "name": "Evangelos Simeonidis",
+"guid": "10291841"
+        }
+]
+,
+"year": "2007",
+"journal": "· BMC Systems Biology",
+"cites": 1,
+"abstract": "",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "730c66d9e697b91711ecfa94e4332544",
+"title": "Constraint-based metabolic modelling of marine microbes and communities",
+"authors": [
+
+]
+,
+"year": "2017",
+"journal": "· Marine Genomics",
+"cites": 1,
+"abstract": "Abstract Constraint-based metabolic modelling (CBMM) consists in the use of computational methods and tools to perform genome-scale simulations and predict metabolic features at the whole cellular level. Thi…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5acb81fd8e30554601093efb647b0502",
+"title": "Combining flux balanceanalysis and model checking for metabolic network validation and analysis",
+"authors": [
+
+]
+,
+"year": "2015",
+"journal": "· Natural Computing",
+"cites": 1,
+"abstract": "Several human diseases are caused by metabolism defects. Discovering the mechanisms that govern the onset and progression of human metabolism-related diseases is not a straightforward process. Comput…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Spin-½",
+"guid": "8244735"
+        }, {
+            "word": "Model Checking",
+"guid": "110251889"
+        }
+]
+
+        }, {
+            "guid": "9917685321a06d0c4f3334357294c1c8",
+"title": "Fba-Based Prediction of Biomass and Ethanol Concentration Time Profiles in Saccharomyces cerevisiae Fed-Bath Cultures",
+"authors": [
+{
+            "name": "J Plaza",
+"guid": "2801723172"
+        }, {
+            "name": "Ph Bogaerts",
+"guid": "2170748766"
+        }
+]
+,
+"year": "2019",
+"journal": "· IFAC-PapersOnLine",
+"cites": 1,
+"abstract": "Abstract A Flux BalanceAnalysis (FBA)-based dynamical model is proposed for predicting biomass and ethanol concentration time profiles in Saccharomyces cerevisiae fed-batch cultures, with glucose and a…",
+"keywords": [
+{
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "5cbfbc587db5eba9d609c23a05c76c7f",
+"title": "Flux balanceanalysis with or without molecular crowding fails to predict two thirds of experimentally observed epistasis in y…",
+"authors": [
+{
+            "name": "Deya Alzoubi",
+"guid": "2791951916"
+        }, {
+            "name": "Abdelmoneim Amer Desouki",
+"guid": "2346856092"
+        }, {
+            "name": "Martin J Lercher",
+"guid": "277508283"
+        }
+]
+,
+"year": "2019",
+"journal": "· Scientific Reports",
+"cites": 1,
+"abstract": "Computational predictions of double gene knockout effects by flux balanceanalysis (FBA) have been used to characterized genome-wide patterns of epistasis in microorganisms. However, it is unclear how in sili…",
+"keywords": [
+{
+            "word": "Epistasis",
+"guid": "61727976"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0095d9602c24d2aebc8dc1e1071c905d",
+"title": "Flux BalanceAnalysis Incorporating a Coarse-grained Proteome Constraint for Predicting Overflow Metabolism in Escherichia …",
+"authors": [
+{
+            "name": "Hong Zeng",
+"guid": "2963646465"
+        }, {
+            "name": "Aidong Yang",
+"guid": "2963226645"
+        }
+]
+,
+"year": "2019",
+"journal": "",
+"cites": 1,
+"abstract": "Abstract Flux balanceanalysis (FBA) and its dynamic extension DFBA are typical constraint-based modelling tools in systems biology. They have been widely used for in silico analysis of intracellular met…",
+"keywords": [
+{
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Proteome",
+"guid": "104397665"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "4f5c10c76464ace44f68121db6e9454e",
+"title": "Leveraging ensemble information of evolving populations in genetic algorithms to identify incomplete metabolic pathways",
+"authors": [
+
+]
+,
+"year": "2013",
+"journal": "· genetic and evolutionary computation conference",
+"cites": 1,
+"abstract": "Genome-scale metabolic models are powerful tools in helping to understand the metabolism of living organisms. They can be applied to the biomedical and biotechnological arenas. The use of such model…",
+"keywords": [
+{
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "94d0bd6d2885336957f8cf4d7e7c7877",
+"title": "Optimization and control of metabolic networks",
+"authors": [
+{
+            "name": "Ruisheng Wang",
+"guid": "2105038625"
+        }, {
+            "name": "Zhenping Li",
+"guid": "2126062433"
+        }, {
+            "name": "Xiangsun Zhang",
+"guid": "2312222211"
+        }, {
+            "name": "Luonan Chen",
+"guid": "2110806950"
+        }
+]
+,
+"year": "2010",
+"journal": "· chinese control conference",
+"cites": 1,
+"abstract": "Metabolism, which comprises the complete set of biochemical reactions in a living cell, is one of the most complex cellular processes. Metabolic networks connect biochemical reactions via substrate and produc…",
+"keywords": [
+{
+            "word": "Network Theory",
+"guid": "11804174"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "8538a2c0d256dde77371a68ed32a972c",
+"title": "Modeling Spatio-Temporal Dynamics of Metabolic Networks with Cellular Automata and Constraint-Based Methods",
+"authors": [
+{
+            "name": "Alex Graudenzi",
+"guid": "45777830"
+        }, {
+            "name": "Davide Maspero",
+"guid": "2972655914"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }
+]
+,
+"year": "2018",
+"journal": "· cellular automata for research and industry",
+"cites": 1,
+"abstract": "Increasing experimental evidence suggests that the behaviour of multi-cellular systems, such as tissues and organs, might be largely driven by the complex interplay occurring among metabolic networks. Com…",
+"keywords": [
+{
+            "word": "Cellular Automaton",
+"guid": "35527583"
+        }, {
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "f29f9e07c1c4c7fca4ba4b5bec6ef18d",
+"title": "Improving the accuracy of flux balanceanalysis through the implementation of carbon availability constraints for intracellu…",
+"authors": [
+{
+            "name": "Maximilian Lularevic",
+"guid": "2945529109"
+        }, {
+            "name": "Andrew J Racher",
+"guid": "1966931075"
+        }, {
+            "name": "Colin Jaques",
+"guid": "2345041661"
+        }, {
+            "name": "Alexandros Kiparissides",
+"guid": "225726867"
+        }
+]
+,
+"year": "2019",
+"journal": "· Biotechnology and Bioengineering",
+"cites": 1,
+"abstract": "",
+"keywords": [
+{
+            "word": "Chromatography",
+"guid": "43617362"
+        }, {
+            "word": "Intracellular",
+"guid": "79879829"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

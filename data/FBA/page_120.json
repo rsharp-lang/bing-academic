@@ -1,0 +1,321 @@
+[
+{
+            "guid": "5bf11a64a3f1d53f668b381a750292af",
+"title": "The Influence of Nutrients Diffusion on a Metabolism-driven Model of a Multi-cellular System",
+"authors": [
+{
+            "name": "Davide Maspero",
+"guid": "2734710697"
+        }, {
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Marco Antoniotti",
+"guid": "718414647"
+        }, {
+            "name": "Alex Graudenzi",
+"guid": "45777830"
+        }, {
+            "name": "Marzia Di Filippo",
+"guid": "2555707555"
+        }, {
+            "name": "Marco Vanoni",
+"guid": "2142769582"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "Discrete Mathematics",
+"guid": "118615104"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "899aaf81fa61377effb3301b20ea4cd6",
+"title": "Fermentation of Glucose\/Xylose\/Xylulose in the Presence of Furfural by Yeast for Ethanol Production",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "Abstract. Yeast xylose utilization could be increased by isomerization of xylose to xylulose. In experiments using synthetic media containing glucose, xylose, and xylulose, xylose utilization was prevented and as …",
+"keywords": [
+{
+            "word": "Xylose",
+"guid": "2780294150"
+        }, {
+            "word": "Ethanol",
+"guid": "2780161600"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "887987a6cf6eefe6bb28524c6cbf0fed",
+"title": "Predict genome-scale fluxes based solely on enzyme abundance by a novel Hyper-Cube Shrink Algorithm",
+"authors": [
+{
+            "name": "Zhengwei Xie",
+"guid": "2234311850"
+        }, {
+            "name": "Tianyu Zhang",
+"guid": "2569966421"
+        }, {
+            "name": "Qi Ouyang",
+"guid": "2482914667"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "One of the long-expected goals of genome-scale metabolic modeling is to evaluate the influence of the perturbed enzymes to the flux distribution. Both ordinary differential equation (ODE) models and the con…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ebef73db09e96f2700189134f36960e0",
+"title": "Determining a unique solution to underdetermined metabolic networks via a systematic path through the Most Accurate Flu…",
+"authors": [
+{
+            "name": "Khadija Mhallem K M Gziri",
+"guid": "2549513032"
+        }, {
+            "name": "Philippe Bogaerts",
+"guid": "1925178193"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Abstract Metabolic FluxAnalysis (MFA) and FluxBalanceAnalysis (FBA) often lead to underdetermined problems in the sense that there are more unknown fluxes in the metabolic network than the number of …",
+"keywords": [
+{
+            "word": "Applied Mathematics",
+"guid": "28826006"
+        }, {
+            "word": "Mathematics",
+"guid": "33923547"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "d65a02899b858229c5906a742474221f",
+"title": "Modelling sponge-symbiont metabolism",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "",
+"keywords": [
+{
+            "word": "Symbiosis",
+"guid": "43144210"
+        }, {
+            "word": "Microbiome",
+"guid": "143121216"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "006eecd39e1306dad786afdd7811a115",
+"title": "Enhancing genetic algorithm-based genome-scale metabolic network curation efficiency",
+"authors": [
+{
+            "name": "Eddy J Bautista",
+"guid": "2115610400"
+        }, {
+            "name": "Ranjan Srivastava",
+"guid": "2274633379"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Genome-scale metabolic modeling using constraint-based analysis is a powerful modeling paradigm for simulating metabolic networks. Models are generated via inference from genome annotations. However…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Genetic Algorithm",
+"guid": "8880873"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ed3c1909c9826812c4f0137ea15fbb66",
+"title": "Principles of Metabolic Engineering",
+"authors": [
+{
+            "name": "K B Ramachandran",
+"guid": "2954664514"
+        }, {
+            "name": "Subramanian Ramalingam",
+"guid": "2166628414"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2017,
+"abstract": "Abstract Metabolic engineering deals with the application of rational engineering principles in the redesign of metabolic pathways in microorganisms for desired properties. The major steps involved in metabolic …",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "02e3f239bef8897f2697fd2dce3d6a00",
+"title": "Zooming-in on cancer metabolic rewiring with tissue specific constraint-based models",
+"authors": [
+{
+            "name": "Di Filippomarzia",
+"guid": "3010250831"
+        }, {
+            "name": "Colomboriccardo",
+"guid": "3009424742"
+        }, {
+            "name": "Damianichiara",
+"guid": "3009614798"
+        }, {
+            "name": "Pescinidario",
+"guid": "3009635623"
+        }, {
+            "name": "Gagliodaniela",
+"guid": "3009286689"
+        }, {
+            "name": "Vanonimarco",
+"guid": "3010507345"
+        }, {
+            "name": "Alb…",
+"guid": "3010375917"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Graphical abstractDisplay Omitted HighlightsGenome-scale metabolic models are comprehensives but difficult to control and to analyze.We manually reconstructed core models that zoom-in on cancer met...",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "105bb1af6b0488ba79ad10d6620d0e55",
+"title": "A Study on the Robustness of Strain Optimization Algorithms",
+"authors": [
+{
+            "name": "Paulo Vilaca",
+"guid": "2008265950"
+        }, {
+            "name": "Paulo Maia",
+"guid": "2154261331"
+        }, {
+            "name": "Miguel Rocha",
+"guid": "2299683466"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In recent years, there have been considerable advances in the use of genome-scale metabolic models to provide accurate phenotype simulation methods, which in turn enabled the development of efficient strai…",
+"keywords": [
+{
+            "word": "Computer Science",
+"guid": "41008148"
+        }, {
+            "word": "Robustness (computer Science)",
+"guid": "97970142"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "3b294fedb31ba9ededad39c213329582",
+"title": "Modelling metabolic interactions in the legume-rhizobia symbiosis",
+"authors": [
+{
+            "name": "Thomas Pfau",
+"guid": "2703939287"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "",
+"keywords": [
+{
+            "word": "Symbiosis",
+"guid": "43144210"
+        }, {
+            "word": "Botany",
+"guid": "59822182"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

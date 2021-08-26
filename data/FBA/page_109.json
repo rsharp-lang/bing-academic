@@ -1,0 +1,291 @@
+[
+{
+            "guid": "f9737bc3efbb0765f581fed09df736d3",
+"title": "A framework for application of metabolic modeling in yeast to predict the effects of nsSNV in human orthologs",
+"authors": [
+{
+            "name": "Hayley Dingerdissen",
+"guid": "2015375083"
+        }, {
+            "name": "Daniel S Weaver",
+"guid": "2338414372"
+        }, {
+            "name": "Peter D Karp",
+"guid": "2124303263"
+        }, {
+            "name": "Yang Pan",
+"guid": "2148398597"
+        }, {
+            "name": "Vahan Simonyan",
+"guid": "1786949531"
+        }, {
+            "name": "Raja Mazumder",
+"guid": "2229209549"
+        }
+]
+,
+"year": "2014",
+"journal": "· Biology Direct",
+"cites": 1,
+"abstract": "Background: We have previously suggested a method for proteome wide analysis of variation at functional residues wherein we identified the set of all human genes with nonsynonymous single nucleotide variati…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b86306458669b9465565558dfce19aee",
+"title": "On Integrating the Droop Model with the Flux Balance Model for Predicting Metabolic Shifts in Microalgae Growth",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "· international conference on control automation and systems",
+"cites": 1,
+"abstract": "Identifying the mechanism for and predicting the metabolic shift between lipid accumulation and cell growth is a key research issue for microalgal biodiesel production. In this study, we propose a novel wa…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Chlamydomonas Reinhardtii",
+"guid": "2777727519"
+        }
+]
+
+        }, {
+            "guid": "eaa9e3b656f454a74fdc743d15b7956f",
+"title": "Identifying a Gene Knockout Strategy Using a Hybrid of Simple Constrained Artificial Bee Colony Algorithm and Flux Balance…",
+"authors": [
+{
+            "name": "Mei Kie Hon",
+"guid": "2885202239"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Abdul Hakim Mohamed Salleh",
+"guid": "2124208187"
+        }, {
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Kauthar Moh…",
+"guid": "2646919875"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "In recent years, metabolic engineering has gained central attention in numerous fields of science because of its capability to manipulate metabolic pathways in enhancing the expression of target phenotypes. Du…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "12b64f52bc06a7ad01892fad778e8bd8",
+"title": "Conventional flux balanceanalysis and its applications",
+"authors": [
+{
+            "name": "Kazuyuki Shimizu",
+"guid": "2146345551"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2013,
+"abstract": "The conventional flux balanceanalysis method is briefly explained. Its application to the metabolic flux analysis of the Chlorella cell, under autotrophic, heterotrophic, and mixotrophic conditions, focuses on e…",
+"keywords": [
+{
+            "word": "Heterotroph",
+"guid": "35195898"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b50d00d4a4cbd0d4eca4ee6d2d8ef543",
+"title": "En Route for Systems Biology: In Silico Pathway Analysis and Metabolite Profiling",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2004,
+"abstract": "With the developments in genomics there has been an increasing focus on the behaviour of complete biological systems and this has resulted in the development of Systems Biology as a new research field …",
+"keywords": [
+{
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Pathway Analysis",
+"guid": "2779230013"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "e398594b43ab57f330a50e0a7bce1613",
+"title": "Metabolic Engineering of Cyanobacteria for Photosynthetic Production of Drop-In Liquid Fuels",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "Cyanobacteria",
+"guid": "2779669040"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c377f73bb19bffa0187c778bc43fa347",
+"title": "软腐欧文氏菌代谢网络重构及其在靶标筛选中的应用 Reconstruction of Erwinia carotovora subsp. atroseptica SCRI1043 Metabolic …",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2012,
+"abstract": "欧文氏杆菌(Erwinia)是一类重要的农作物致病细菌，侵染宿主范围广，在世界范围内造成了严重的经济损失，其中Erwinia carotovora subsp. atroseptica SCRI1043 (Eca SCRI1043) 可导致马铃薯感染黑胫软腐病…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Virtual Screening",
+"guid": "103697762"
+        }, {
+            "word": "Homology Modeling",
+"guid": "169627665"
+        }
+]
+
+        }, {
+            "guid": "054e77425ae2cbd293374f88b14a5c68",
+"title": "Modeling human muscle metabolism: using constraint-based modeling to investigate nutrition supplements, insulin resista…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Systems Biology",
+"guid": "152662350"
+        }, {
+            "word": "Type 2 Diabetes",
+"guid": "2777180221"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c1febf79166a835295b0ff1189d6fdfe",
+"title": "Applying systems biology methods to identify putative drug targets in the metabolism of the malaria pathogen Plasmodiu…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2010,
+"abstract": "",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Malaria",
+"guid": "2778048844"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }
+]
+
+        }, {
+            "guid": "eb42a307055aca707d64730cb7123c40",
+"title": "PO-137 Computational metabolism modelling predicts risk of relapse in breast cancer patients",
+"authors": [
+{
+            "name": "Lucia Trillafuertes",
+"guid": "2587165011"
+        }, {
+            "name": "Angelo Gamezpozo",
+"guid": "1276209756"
+        }, {
+            "name": "Guillermo Pradovazquez",
+"guid": "2621565711"
+        }, {
+            "name": "Andrea Zapatermoros",
+"guid": "2748923930"
+        }, {
+            "name": "M Ferrergo…",
+"guid": "2810326292"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "Introduction Breast cancer is one of the most prevalent cancers in the world. In previous works we observed differences in glucose metabolism between breast cancer subtypes, suggesting that metabolis…",
+"keywords": [
+{
+            "word": "Carbohydrate Metabolism",
+"guid": "17093226"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

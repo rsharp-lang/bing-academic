@@ -1,0 +1,345 @@
+[
+{
+            "guid": "c2a94607cc01051a18b03c065c9c521b",
+"title": "Flux BalanceAnalysis as an Alternative Method to Estimate Fluxes Without Labeling",
+"authors": [
+{
+            "name": "Eva Grafahrendbelau",
+"guid": "37378447"
+        }, {
+            "name": "Astrid Junker",
+"guid": "2123036431"
+        }, {
+            "name": "Falk Schreiber",
+"guid": "2166292476"
+        }, {
+            "name": "Bjorn H Junker",
+"guid": "2013242263"
+        }
+]
+,
+"year": "2014",
+"journal": "· Methods of Molecular Biology",
+"cites": 1,
+"abstract": "",
+"keywords": [
+{
+            "word": "Environmental Science",
+"guid": "39432304"
+        }, {
+            "word": "Flux (metallurgy)",
+"guid": "68709404"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "010905fab6179900ba36b44959eac7fb",
+"title": "Flux-based vs. topology-based similarity of metabolic genes",
+"authors": [
+{
+            "name": "Oleg Rokhlenko",
+"guid": "2291480806"
+        }, {
+            "name": "Tomer Shlomi",
+"guid": "172881847"
+        }, {
+            "name": "Roded Sharan",
+"guid": "2234942671"
+        }, {
+            "name": "Eytan Ruppin",
+"guid": "240297064"
+        }, {
+            "name": "Ron Y Pinter",
+"guid": "1999213637"
+        }
+]
+,
+"year": "2006",
+"journal": "· workshop on algorithms in bioinformatics",
+"cites": 1,
+"abstract": "We present an effectively computable measure of functional gene similarity that is based on metabolic gene activity across a variety of growth media. We applied this measure to 750 genes comprising the m…",
+"keywords": [
+{
+            "word": "Centrality",
+"guid": "53811970"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b4a2e2b8b7ff84f5bfc2a165ef87c1d7",
+"title": "Improving l-phenylacetylcarbinol production in Saccharomyces cerevisiae by in silico aided metabolic engineering",
+"authors": [
+{
+            "name": "Elham Iranmanesh",
+"guid": "2989266220"
+        }, {
+            "name": "Mohammad Ali Asadollahi",
+"guid": "2512350640"
+        }, {
+            "name": "D Biria",
+"guid": "2329512373"
+        }
+]
+,
+"year": "2020",
+"journal": "· Journal of Biotechnology",
+"cites": 1,
+"abstract": "Abstract L-Phenylacetylcarbinol (L-PAC) which is used as a precursor for the production of ephedrine and pseudoephedrine is the first reported biologically produced α-hydroxy ketone compound. l -PAC is com…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "7268034ae32e0442c17c7e97b3e2a419",
+"title": "Identifying Gene Knockout Strategy Using Bees Hill Flux BalanceAnalysis (BHFBA) for Improving the Production of Eth…",
+"authors": [
+{
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Rosli Md Illias",
+"guid": "2227999364"
+        }, {
+            "name": "Lian En Chai",
+"guid": "2161638723"
+        }, {
+            "name": "Chuii Khim Ch…",
+"guid": "2157616592"
+        }
+]
+,
+"year": "2013",
+"journal": "",
+"cites": 1,
+"abstract": "Bacillus subtilis strains can be manipulated to improve product yield and growth characteristics. Optimization algorithms are developed to identify the effects of gene knockout on the results. However, t…",
+"keywords": [
+{
+            "word": "Gene Knockout",
+"guid": "77957584"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "6f810f60a19c807f59b87e71f2cfee74",
+"title": "Limiting and excreting metabolites of succinate production in S.cerevisiae using flux balanceanalysis",
+"authors": [
+
+]
+,
+"year": "2014",
+"journal": "",
+"cites": 1,
+"abstract": "Metabolic engineering is widely known approach for producing a variety of products from readily available, simple and cheap starting material. The main purpose of metabolic engineering is to optimize the metab…",
+"keywords": [
+{
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Network",
+"guid": "101810790"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }
+]
+
+        }, {
+            "guid": "d1a1f2b33f3adbfa924424cec889dda8",
+"title": "Genome-scale fluxes predicted under the guidance of enzyme abundance using a novel hyper-cube shrink algorithm",
+"authors": [
+{
+            "name": "Zhengwei Xie",
+"guid": "2234311850"
+        }, {
+            "name": "Tianyu Zhang",
+"guid": "2569966421"
+        }, {
+            "name": "Qi Ouyang",
+"guid": "2482914667"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioinformatics",
+"cites": 1,
+"abstract": "Motivation: One of the long-expected goals of genome-scale metabolic modelling is to evaluate the influence of the perturbed enzymes on flux distribution. Both ordinary differential equation (ODE) model…",
+"keywords": [
+{
+            "word": "Algorithm",
+"guid": "11413529"
+        }, {
+            "word": "Ode",
+"guid": "34862557"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "981b457ea99685a491865aa84d811b23",
+"title": "Effect of weight-added regulatory networks on constraint-based metabolic models of Escherichia coli.",
+"authors": [
+
+]
+,
+"year": "2007",
+"journal": "· BioSystems",
+"cites": 1,
+"abstract": "Abstract Though the traditional flux balanceanalysis (FBA) has successfully predicted intracellular fluxes using stoichiometry, linear programming, and metabolic pathways, it has not automatically reflected any …",
+"keywords": [
+{
+            "word": "Central Metabolic Pathway",
+"guid": "2992768948"
+        }, {
+            "word": "Linear Programming",
+"guid": "41045048"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "0dc3a4c76f8dc684f63bb1ea575a4d9c",
+"title": "Integration of single-cell RNA-seq data into metabolic models to characterize tumour cell populations",
+"authors": [
+{
+            "name": "Chiara Damiani",
+"guid": "2558501981"
+        }, {
+            "name": "Davide Maspero",
+"guid": "2734710697"
+        }, {
+            "name": "M Filippo Di",
+"guid": "2981423018"
+        }, {
+            "name": "Riccardo Colombo",
+"guid": "2154966763"
+        }, {
+            "name": "Dario Pescini",
+"guid": "227787499"
+        }, {
+            "name": "Alex Graudenzi",
+"guid": "45777830"
+        }
+]
+,
+"year": "2018",
+"journal": "· bioRxiv",
+"cites": 1,
+"abstract": "Abstract Motivation Metabolic reprogramming is a general feature of cancer cells. Regrettably, the comprehensive quantification of metabolites in biological specimens does not promptly translate into kn…",
+"keywords": [
+{
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "Computational Biology",
+"guid": "70721500"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "1ac57dc0a839275e0d355770215f3d0e",
+"title": "The Fate of Glutamine in Human Metabolism. The Interplay with Glucose in Proliferating Cells",
+"authors": [
+{
+            "name": "Jeanpierre Mazat",
+"guid": "2235459224"
+        }, {
+            "name": "Stephane Ransac",
+"guid": "577968361"
+        }
+]
+,
+"year": "2019",
+"journal": "· Metabolites",
+"cites": 1,
+"abstract": "Genome-scale models of metabolism (GEM) are used to study how metabolism varies in different physiological conditions. However, the great number of reactions involved in GEM makes it difficult to un…",
+"keywords": [
+{
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "Oxidative Phosphorylation",
+"guid": "57600042"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "69a2caac63d75bd0bea767934350fe06",
+"title": "Dynamic flux balanceanalysis for microbial conversion of glycerol into 1,3-propanediol by Klebsiella pneumoniae",
+"authors": [
+{
+            "name": "Duotao Pan",
+"guid": "2230172522"
+        }, {
+            "name": "Xudong Wang",
+"guid": "2627123840"
+        }, {
+            "name": "Hongyan Shi",
+"guid": "2889199618"
+        }, {
+            "name": "Decheng Yuan",
+"guid": "2889158053"
+        }, {
+            "name": "Zhilong Xiu",
+"guid": "2101088646"
+        }
+]
+,
+"year": "2018",
+"journal": "· Bioprocess and Biosystems Engineering",
+"cites": 1,
+"abstract": "To investigate the relationship between the yield of 1,3-propanediol (1,3-PD) and the flux variation in metabolic pathways of Klebsiella pneumoniae, an optimized calculation method was constructed on basi…",
+"keywords": [
+{
+            "word": "Anabolism",
+"guid": "1008401"
+        }, {
+            "word": "Pentose Phosphate Pathway",
+"guid": "3409486"
+        }, {
+            "word": "Flux BalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

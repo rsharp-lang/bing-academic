@@ -13,11 +13,25 @@ const search as function(term, page = 1) {
     const result = html
     |> BingAcademic::html_query("graphquery/listPage.graphquery")
     |> sapply(function(i) {
+		const citeNumber as integer = {
+			let test = i$publication$cites == $"\d+";
+		
+			if (length(test) == 0) {
+				test = FALSE;
+			}
+		
+			if (test) {
+				as.integer(i$publication$cites);
+			} else {
+				0;
+			}
+		};
+	
         .summary(
             title    = i$title$title, 
             guid     = i$title$guid, 
             ref      = i$publication$ref, 
-            cites    = i$publication$cites, 
+            cites    = citeNumber, 
             abstract = i$abstract,
             authors  = frameData(i$authors),
             fields   = frameData(i$fields, "term")

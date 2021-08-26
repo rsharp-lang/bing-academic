@@ -1,0 +1,315 @@
+[
+{
+            "guid": "55c0a0d7758f3e5658f7fb4e4b6b41c2",
+"title": "Systematic and combinatorial approaches for metabolic engineering of optimal yeast strains to produce fuels and che…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Biofuel",
+"guid": "53991642"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Systems Biology",
+"guid": "152662350"
+        }
+]
+
+        }, {
+            "guid": "eb09aa3c3e9d6f9ac18534d22c35c99a",
+"title": "Modeling biological systems: from genome sequences to functional insights",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "",
+"keywords": [
+{
+            "word": "DNA Sequencing",
+"guid": "51679486"
+        }, {
+            "word": "Microbiology",
+"guid": "89423630"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "12d40f5f9f3bdd6eb0825125d1b89e17",
+"title": "A hybrid of integer differential bees and fluxbalanceanalysis for improving succinate and lactate production",
+"authors": [
+{
+            "name": "Mohd Fahmi Arieef",
+"guid": "2757717494"
+        }, {
+            "name": "Shahreen Kasim",
+"guid": "2410887059"
+        }, {
+            "name": "Yee Wen Choon",
+"guid": "2006160071"
+        }, {
+            "name": "Mohd Saberi Mohamad",
+"guid": "2131251652"
+        }, {
+            "name": "Safaai Deris",
+"guid": "738100022"
+        }, {
+            "name": "Suha…",
+"guid": "1997019967"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The production of succinate and lactate from E.coli become a demand in pharmaceutical industries. To increase the yield of the production, gene knockout technique was implemented in various hybrid optimi…",
+"keywords": [
+{
+            "word": "Integer",
+"guid": "4071166"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c075f190ffdf941a0ba01034b8ff625a",
+"title": "Metabolic pathway analysis for in silico design of efficient autotrophic production of advanced biofuels",
+"authors": [
+{
+            "name": "Pornkamol Unrean",
+"guid": "2577173002"
+        }, {
+            "name": "Kang Lan Tee",
+"guid": "1905551995"
+        }, {
+            "name": "Tuck Seng Wong",
+"guid": "2051967884"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Herein, autotrophic metabolism of Cupriavidus necator H16 growing on CO2, H2 and O2 gas mixture was analyzed by metabolic pathway analysis tools, specifically elementary mode analysis (EMA) and fluxbal…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Biochemistry",
+"guid": "55493867"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "cbf287ffec3b56ef04c1b75b75cd927c",
+"title": "2Ka08 シアノバクテリアを用いた物質生産に向けたゲノムスケール代謝モデルによる代謝予測(代謝工学\/培養工学,一般講演)",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2011,
+"abstract": "",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "ce83317f8e120acd56efddde2343402f",
+"title": "Bioinformatics pathway representations, databases, and algorithms",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2005,
+"abstract": "Management of pathway information is of great importance in bioinformatics because pathways place gene products in a causal, mechanistic context showing how those gene products contribute to a larger …",
+"keywords": [
+{
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Metabolic Pathway",
+"guid": "192989942"
+        }
+]
+
+        }, {
+            "guid": "f2a242ae74178637bfbff359ee6e0b51",
+"title": "In Silico Predictions for Fucoxanthin Production by the Diatom Phaeodactylum Tricornutum",
+"authors": [
+{
+            "name": "Claudia M Bauer",
+"guid": "2504955594"
+        }, {
+            "name": "Paulo Vilaca",
+"guid": "2008265950"
+        }, {
+            "name": "Fernanda Ramlov",
+"guid": "1578671529"
+        }, {
+            "name": "Eva Regina Oliveira",
+"guid": "2427469109"
+        }, {
+            "name": "Debora Queiroz Cabral",
+"guid": "2711674819"
+        }, {
+            "name": "Ca…",
+"guid": "2766349686"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2018,
+"abstract": "Diatoms and brown seaweeds are the main producers of fucoxanthin, an oxy-carotenoid with important biological functions related to its antioxidative properties. The diatom Phaeodactylum tricornutum appea…",
+"keywords": [
+{
+            "word": "Nitrogen Assimilation",
+"guid": "3119751"
+        }, {
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "61c9851b31c2389ddb663be4d783a03c",
+"title": "Maximization of non-nitrogenous metabolite production in E. coli using population systems biology",
+"authors": [
+{
+            "name": "Sreenath Rajagopal",
+"guid": "2997509942"
+        }, {
+            "name": "Arindam Ghatak",
+"guid": "3011144615"
+        }, {
+            "name": "Debdatto Mookherjee",
+"guid": "3007764756"
+        }, {
+            "name": "Rothangmawi Victoria Hmar",
+"guid": "2997098008"
+        }, {
+            "name": "Anirudh …",
+"guid": "2902647576"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The E. coli metabolome is an interconnected set of enzymes that has measurable kinetic parameters ascribed for the production of most of its metabolites. FluxBalanceAnalysis (FBA) or Ordinary Differenti…",
+"keywords": [
+{
+            "word": "Ode",
+"guid": "34862557"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "37f5ba4cd6e3fec3a8e75c7af52816e6",
+"title": "Stochastic Simulations of Cellular Processes in Bacteria",
+"authors": [
+{
+            "name": "Zaida Lutheyschulten",
+"guid": "2034432420"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Stochastic expression of genes produces heterogeneity in clonal populations of bacteria grown under identical conditions. We analyze the stochastic reaction-diffusion dynamics of selected biochemical path…",
+"keywords": [
+{
+            "word": "Stochastic Simulation",
+"guid": "25915931"
+        }, {
+            "word": "Proteomics",
+"guid": "46111723"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "40a400c74fc3e5055ff8424f2cccf1a8",
+"title": "Understanding the impact of different bioprocess conditions on monoclonal antibody glycosylation in CHO cell cultures throu…",
+"authors": [
+{
+            "name": "Si N Sou",
+"guid": "2437346847"
+        }, {
+            "name": "Christopher Sellick",
+"guid": "2096165215"
+        }, {
+            "name": "Kenneth Lee",
+"guid": "2479761513"
+        }, {
+            "name": "Alison Mason",
+"guid": "2150083779"
+        }, {
+            "name": "Sarantos Kyriakopoulos",
+"guid": "1886686380"
+        }, {
+            "name": "Karen M Polizzi",
+"guid": "2030054357"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "",
+"keywords": [
+{
+            "word": "Bioprocess",
+"guid": "4916135"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]

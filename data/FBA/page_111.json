@@ -1,0 +1,303 @@
+[
+{
+            "guid": "0daa42a7ea2c4ec91bcdf9103053da49",
+"title": "Enhanced flux prediction by integrating relative expression and relative metabolite abundance into thermodynamically consis…",
+"authors": [
+{
+            "name": "Vikash Pandey",
+"guid": "2595817056"
+        }, {
+            "name": "Noushin Hadadi",
+"guid": "133330261"
+        }, {
+            "name": "Vassily Hatzimanikatis",
+"guid": "55762200"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The ever-increasing availability of transcriptomic and metabolomic data can be used to deeply analyze and make ever-expanding predictions about biological processes, as changes in the reaction fluxes thro…",
+"keywords": [
+{
+            "word": "Metabolomics",
+"guid": "21565614"
+        }, {
+            "word": "Genetics",
+"guid": "54355233"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "b3a785bce0beb8d73f633d0858b17525",
+"title": "Metabolic Modeling of Secondary Metabolism in Plant Systems",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "",
+"keywords": [
+{
+            "word": "Taxus",
+"guid": "2778894183"
+        }, {
+            "word": "Methyl Jasmonate",
+"guid": "2777942875"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "2f34095a71b396c5775926e89b14fd07",
+"title": "Systems Biology and Metabolic Engineering in Bacteria",
+"authors": [
+{
+            "name": "Johannes Geiselmann",
+"guid": "2057435334"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 2014,
+"abstract": "Complete metabolic maps are currently available for a number of important bacteria. Even when these maps are not experimentally confirmed, the topology of the metabolic network can be reconstructed fro…",
+"keywords": [
+{
+            "word": "Metabolic Engineering",
+"guid": "6350086"
+        }, {
+            "word": "Fluxomics",
+"guid": "17667019"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "485ba3112e7c3b485462004f05e085e4",
+"title": "Melanoma proteomics unravels major differences related to mutational status",
+"authors": [
+{
+            "name": "Lucia Trillafuertes",
+"guid": "2587165011"
+        }, {
+            "name": "Angelo Gamezpozo",
+"guid": "1276209756"
+        }, {
+            "name": "Guillermo Pradovazquez",
+"guid": "2621565711"
+        }, {
+            "name": "Andrea Zapatermoros",
+"guid": "2748923930"
+        }, {
+            "name": "Mariana Di…",
+"guid": "2710507193"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "The aim of the study was to explore the molecular differences between melanoma tumor subtypes, based on BRAF and NRAS mutational status. Fourteen formalin-fixed, paraffin-embedded melanoma samples …",
+"keywords": [
+{
+            "word": "Neuroblastoma RAS Viral Oncogene Homolog",
+"guid": "21790070"
+        }, {
+            "word": "Extracellular",
+"guid": "28406088"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "afce7e92eaa63fb935c80bb51b793d94",
+"title": "Enhanced fluxbalanceanalysis to model metabolic networks",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "FluxBalanceAnalysis (FBA) is a widely used technique to predict rates of reactions in metabolic networks in cells under steady state using only stoichiometric information about the reactions. In this work, we intr…",
+"keywords": [
+{
+            "word": "Machine Learning",
+"guid": "119857082"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "826684e4c54e2b75e47fa1fb35f28cfa",
+"title": "Advances in the integration of transcriptional regulatory information into genome-scale metabolic models",
+"authors": [
+{
+            "name": "R P Vivekananth",
+"guid": "2866287044"
+        }, {
+            "name": "Areejit Samal",
+"guid": "2157138228"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "A major goal of systems biology is to build predictive computational models of cellular metabolism. Availability of complete genome sequences and wealth of legacy biochemical information has led to the …",
+"keywords": [
+{
+            "word": "Transcriptional Regulation",
+"guid": "27153228"
+        }, {
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "c7d09c577a14dea479e5b584cb5fd39c",
+"title": "Synchronization Effects in a Metabolism-Driven Model of Multi-cellular System",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Understanding the synchronization, either induced or spontaneous, of cell growth, division and proliferation in a cell culture is an important topic in molecular biology and biotechnology. Metabolic proc…",
+"keywords": [
+{
+            "word": "Cellular Potts Model",
+"guid": "2779787589"
+        }, {
+            "word": "Synchronization",
+"guid": "102602991"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "80c1773f1a9c6c841a7e16897c4232f3",
+"title": "Genome-Scale Metabolic Modeling with Protein Expressions of Normal and Cancerous Colorectal Tissues for Oncogene Infer…",
+"authors": [
+{
+            "name": "Fengsheng Wang",
+"guid": "2996785638"
+        }, {
+            "name": "Wuhsiung Wu",
+"guid": "2998053449"
+        }, {
+            "name": "Weishiang Hsiu",
+"guid": "2998570126"
+        }, {
+            "name": "Yanjun Liu",
+"guid": "2997184162"
+        }, {
+            "name": "Kuanwei Chuang",
+"guid": "2997373373"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Although cancer has historically been regarded as a cell proliferation disorder, it has recently been considered a metabolic disease. The first discovery of metabolic alterations in cancer cells refers to Ott…",
+"keywords": [
+{
+            "word": "PI3K\/AKT\/mTOR Pathway",
+"guid": "86554907"
+        }, {
+            "word": "Biology",
+"guid": "86803240"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }, {
+            "guid": "359da510f82607f96825d5358ab39005",
+"title": "In silico gene deletion of escherichia coli for optimal ethanol production using a hybrid algorithm of particle swarm optimi…",
+"authors": [
+
+]
+,
+"year": null,
+"journal": null,
+"cites": 2016,
+"abstract": "Metabolic engineering of microorganism is widely used to enhance the production of metabolites that is useful in food additives, pharmaceutical, supplements, cosmetics, and polymer materials. One of the ap…",
+"keywords": [
+{
+            "word": "Bioinformatics",
+"guid": "60644358"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }, {
+            "word": "Particle Swarm Optimization",
+"guid": "85617194"
+        }
+]
+
+        }, {
+            "guid": "991cef8f4268adb605e13221a75754be",
+"title": "Essentiality Landscape of Metabolic Networks",
+"authors": [
+{
+            "name": "Pureun Kim",
+"guid": "2640267696"
+        }, {
+            "name": "B Kahng",
+"guid": "1916781381"
+        }, {
+            "name": "K Han",
+"guid": "2922511270"
+        }, {
+            "name": "Daeyup Lee",
+"guid": "2667537777"
+        }
+]
+,
+"year": null,
+"journal": null,
+"cites": 0,
+"abstract": "Local perturbations of individual metabolic reactions may result in different levels of lethality, depending on their roles in metabolism and the size of subsequent cascades induced by their failure. Moreover, essen…",
+"keywords": [
+{
+            "word": "Nuclear Magnetic Resonance",
+"guid": "46141821"
+        }, {
+            "word": "Metabolism",
+"guid": "62231903"
+        }, {
+            "word": "FluxBalanceAnalysis",
+"guid": "167091322"
+        }
+]
+
+        }
+]
