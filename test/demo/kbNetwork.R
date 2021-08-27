@@ -11,6 +11,8 @@ const pushArticle as function(article) {
 	const words            = article$keywords;
 	const cites as integer = as.integer(article$cites);
 
+	print(article$title);
+
 	for(word in words) {
 		word = word$word;
 	
@@ -18,14 +20,15 @@ const pushArticle as function(article) {
 			g :> add.node(label = word);
 		}
 		
-		print(word);
+		# print(word);
 
-		mass(g) = {
-			const mass = list();
-			const node = g |> getElementByID(word);
+		mass(g, word) = {			
+			const node  = g |> getElementByID(word);
+			const ndata = as.object(as.object(node)$data);
 
-			list[[word]] = as.object(as.object(node)$data)$mass + ifelse(cites == 0, 1, cites);
-			list;
+			# print(names(ndata));
+
+			ndata$mass + ifelse(cites == 0, 1, cites);
 		}
 
 		for(word2 in words) {
@@ -51,6 +54,7 @@ for(list in loading) {
 const i as boolean = mass(g) < quantile(mass(g))[["25%"]];
 
 print("low cites words will be removes from the word graph:");
+print(sum(i));
 print(i);
 
 for(v in vertex(g)[i]) {
