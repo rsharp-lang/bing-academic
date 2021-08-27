@@ -48,10 +48,10 @@ const pushArticle as function(article) {
 for(list in loading) {
 	for(article in list) {
 		pushArticle(article);
-	}	
+	}
 }
 
-const i as boolean = unlist(mass(g)) < quantile(unlist(mass(g)))[["25%"]];
+const i as boolean = unlist(mass(g)) < quantile(unlist(mass(g)))[["50%"]];
 
 print("low cites words will be removes from the word graph:");
 print(sum(i));
