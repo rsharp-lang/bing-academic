@@ -51,7 +51,7 @@ for(list in loading) {
 	}	
 }
 
-const i as boolean = mass(g) < quantile(mass(g))[["25%"]];
+const i as boolean = unlist(mass(g)) < quantile(unlist(mass(g)))[["25%"]];
 
 print("low cites words will be removes from the word graph:");
 print(sum(i));
