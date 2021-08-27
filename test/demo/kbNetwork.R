@@ -7,44 +7,55 @@ const loading = list.files(`${dirname(@script)}/FBA`, pattern = "*.json")
 	json_decode(readText(path))
 })
 ;
+const pushArticle as function(article) {
+	const words            = article$keywords;
+	const cites as integer = as.integer(article$cites);
 
-# str(loading);
+	for(word in words) {
+		word = word$word;
+	
+		if (length(g |> getElementByID(word)) == 0) {
+			g :> add.node(label = word);
+		}
+		
+		print(word);
+
+		mass(g) = {
+			const mass = list();
+			const node = g |> getElementByID(word);
+
+			list[[word]] = as.object(as.object(node)$data)$mass + ifelse(cites == 0, 1, cites);
+			list;
+		}
+
+		for(word2 in words) {
+			word2 = word2$word;
+
+			if (word != word2) {
+				if (!(g |> has.edge(word, word2))) {
+					g |> add.edge(word, word2);
+				}
+				
+				g |> weight(word, word2, g |> weight(word, word2) + 1);
+			}
+		}
+	}
+}
 
 for(list in loading) {
 	for(article in list) {
-		const words = article$keywords;
-		const cites = as.integer(article$cites);
-
-		# str(words);
-		# print(cites);
-		
-		for(word in words) {
-			if (length(g |> getElementByID(word$word)) == 0) {
-				g :> add.node(label = word$word);
-			}
-			
-			mass(g) = {
-				const mass = list();
-				const node = g |> getElementByID(word$word);
-
-				list[[word$word]] = as.object(as.object(node)$data)$mass + ifelse(cites == 0, 1, cites);
-				list;
-			}
-
-			for(word2 in words) {
-				if (word$word != word2$word) {
-					if (!(g |> has.edge(word$word, word2$word))) {
-						g |> add.edge(word$word, word2$word);
-					}
-					
-					g |> weight(word$word, word2$word, g |> weight(word$word, word2$word) + 1);
-				}
-			}
-		}		
+		pushArticle(article);
 	}	
 }
 
-print(g);
+const i as boolean = mass(g) < quantile(mass(g))[["25%"]];
+
+print("low cites words will be removes from the word graph:");
+print(i);
+
+for(v in vertex(g)[i]) {
+	g |> igraph::delete(v);
+}
 
 g 
 |> louvain_cluster
