@@ -64,6 +64,8 @@ for(list in loading) {
 	}
 }
 
+mass(g, NULL) = lapply(mass(g), log);
+
 const i as boolean = unlist(mass(g)) < quantile(unlist(mass(g)))[["50%"]];
 
 print("low cites words will be removes from the word graph:");
