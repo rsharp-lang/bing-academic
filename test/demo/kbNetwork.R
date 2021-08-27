@@ -7,6 +7,19 @@ const loading = list.files(`${dirname(@script)}/FBA`, pattern = "*.json")
 	json_decode(readText(path))
 })
 ;
+const equals_FBA as string = [
+	"Flux Balance Analysis",
+	"FluxBalanceAnalysis",
+	"Flux BalanceAnalysis"
+];
+const splitKeyword as function(str) {
+	if (any(str == equals_FBA)) {
+		"FBA";
+	} else {
+		str;
+	}
+}
+
 const pushArticle as function(article) {
 	const words            = article$keywords;
 	const cites as integer = as.integer(article$cites);
@@ -14,7 +27,7 @@ const pushArticle as function(article) {
 	print(article$title);
 
 	for(word in words) {
-		word = word$word;
+		word = splitKeyword(word$word);
 	
 		if (length(g |> getElementByID(word)) == 0) {
 			g :> add.node(label = word);
@@ -32,7 +45,7 @@ const pushArticle as function(article) {
 		}
 
 		for(word2 in words) {
-			word2 = word2$word;
+			word2 = splitKeyword(word2$word);
 
 			if (word != word2) {
 				if (!(g |> has.edge(word, word2))) {
