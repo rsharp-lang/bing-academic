@@ -62,6 +62,7 @@ for(v in vertex(g)[i]) {
 }
 
 g 
+|> connected_graph
 |> louvain_cluster
 |> save.network(`${dirname(@script)}/FBA_graph/`)
 ;
