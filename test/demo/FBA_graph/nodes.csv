@@ -1,541 +1,274 @@
 ﻿ID,NodeType,weight,x,y,label
-3-Hydroxypropionic Acid,3,2014,0,0,3-Hydroxypropionic Acid
-6-deoxyerythronolide B,1,2,0,0,6-deoxyerythronolide B
+3-Hydroxypropionic Acid,2,2014,0,0,3-Hydroxypropionic Acid
 A Priori And A Posteriori,0,38,0,0,A Priori And A Posteriori
-Acetic Acid,1,9,0,0,Acetic Acid
-Acidogenesis,0,2,0,0,Acidogenesis
-Adaptive Response,2,19,0,0,Adaptive Response
-Adipose Tissue,3,2019,0,0,Adipose Tissue
+Adipose Tissue,2,2019,0,0,Adipose Tissue
 Ageing,1,2020,0,0,Ageing
 Agent-based Model,1,2012,0,0,Agent-based Model
 Agronomy,0,184,0,0,Agronomy
 Algae,1,2013,0,0,Algae
-Algae Fuel,1,4,0,0,Algae Fuel
-Algorithm,1,117,0,0,Algorithm
-Anabolism,0,376,0,0,Anabolism
-Anaerobic Exercise,0,1536,0,0,Anaerobic Exercise
-Anesthesia,1,18,0,0,Anesthesia
-Ant Colony Optimization Algorithms,1,7,0,0,Ant Colony Optimization Algorithms
-Antimicrobial,0,30,0,0,Antimicrobial
-Applied Mathematics,1,2104,0,0,Applied Mathematics
-Archaea,0,2019,0,0,Archaea
+Algorithm,2,117,0,0,Algorithm
+Anabolism,1,376,0,0,Anabolism
+Anaerobic Exercise,1,1536,0,0,Anaerobic Exercise
+Applied Mathematics,2,2104,0,0,Applied Mathematics
+Archaea,2,2019,0,0,Archaea
 Arithmetic,0,35,0,0,Arithmetic
-Aromatic Amino Acids,3,2018,0,0,Aromatic Amino Acids
-Artemisinic Acid,3,2017,0,0,Artemisinic Acid
+Aromatic Amino Acids,2,2018,0,0,Aromatic Amino Acids
+Artemisinic Acid,2,2017,0,0,Artemisinic Acid
 Artificial Life,0,2012,0,0,Artificial Life
 Aspergillus Niger,0,130,0,0,Aspergillus Niger
 Autocatalysis,0,101,0,0,Autocatalysis
-Autosomal Dominant Polycystic Kidney Disease,0,2,0,0,Autosomal Dominant Polycystic Kidney Disease
-Auxotrophy,2,372,0,0,Auxotrophy
+Auxotrophy,1,372,0,0,Auxotrophy
 Avermectin,1,2015,0,0,Avermectin
-Bacillus Subtilis,3,8,0,0,Bacillus Subtilis
-Bacterial Genome Size,2,44,0,0,Bacterial Genome Size
-Bacterial Growth,3,31,0,0,Bacterial Growth
-Bat Algorithm,1,7,0,0,Bat Algorithm
-Bayes' Theorem,1,21,0,0,Bayes' Theorem
-Bees Algorithm,0,2,0,0,Bees Algorithm
-Bilevel Optimization,3,1395,0,0,Bilevel Optimization
-Biochemical Engineering,1,10,0,0,Biochemical Engineering
+Bacterial Genome Size,1,44,0,0,Bacterial Genome Size
+Bilevel Optimization,2,1395,0,0,Bilevel Optimization
 Biochemistry,0,35996,0,0,Biochemistry
-Biodegradation,1,3,0,0,Biodegradation
-Biofilm,1,28,0,0,Biofilm
 Biofuel,0,8650,0,0,Biofuel
 Biogeochemical Cycle,0,2014,0,0,Biogeochemical Cycle
 Biohydrogen,0,129,0,0,Biohydrogen
 Bioinformatics,0,25861,0,0,Bioinformatics
 Biological Computation,0,214,0,0,Biological Computation
 Biological Database,0,2154,0,0,Biological Database
-Biological Dispersal,2,5,0,0,Biological Dispersal
-Biological Hydrogen Production,0,5,0,0,Biological Hydrogen Production
 Biological Network,1,4790,0,0,Biological Network
-Biological Pathway,3,3,0,0,Biological Pathway
-Biological System,3,2014,0,0,Biological System
+Biological System,2,2014,0,0,Biological System
 Biology,0,23719,0,0,Biology
-Biomarker (medicine),3,60,0,0,Biomarker (medicine)
-Biomass,3,2020,0,0,Biomass
-Biomass Yield,3,5,0,0,Biomass Yield
-Biomining,1,12,0,0,Biomining
+Biomarker (medicine),1,60,0,0,Biomarker (medicine)
+Biomass,2,2020,0,0,Biomass
 BioModels Database,0,34,0,0,BioModels Database
 Biophysics,1,6320,0,0,Biophysics
-Bioplastic,0,4,0,0,Bioplastic
 Bioprocess,0,3513,0,0,Bioprocess
-Bioprocess Engineering,3,15,0,0,Bioprocess Engineering
-Bioreactor,3,2020,0,0,Bioreactor
-Bioremediation,0,23,0,0,Bioremediation
-Biotechnology,3,10,0,0,Biotechnology
-Biotransformation,1,8,0,0,Biotransformation
-Boolean Data Type,3,3,0,0,Boolean Data Type
-Boolean Network,3,3,0,0,Boolean Network
+Bioreactor,2,2020,0,0,Bioreactor
 Botany,0,5307,0,0,Botany
-Bounded Function,0,12,0,0,Bounded Function
-Branch-decomposition,0,3,0,0,Branch-decomposition
-Breast Cancer,1,9,0,0,Breast Cancer
 C4 Photosynthesis,1,2013,0,0,C4 Photosynthesis
-Cancer,1,8,0,0,Cancer
-Cancer Cell,3,3,0,0,Cancer Cell
-Cancer Metabolism,3,3,0,0,Cancer Metabolism
-Carbohydrate Metabolism,2,4122,0,0,Carbohydrate Metabolism
+Carbohydrate Metabolism,1,4122,0,0,Carbohydrate Metabolism
 Carbon,1,2013,0,0,Carbon
-Carbon Cycle,1,10,0,0,Carbon Cycle
-Carbon Sequestration,0,3,0,0,Carbon Sequestration
-Cascade,3,5,0,0,Cascade
-Cell Biology,0,89,0,0,Cell Biology
-Cell Culture,0,28,0,0,Cell Culture
-Cell Cycle,2,2,0,0,Cell Cycle
-Cell Growth,3,26,0,0,Cell Growth
-Cell Metabolism,1,8,0,0,Cell Metabolism
-Cellular Automaton,1,3,0,0,Cellular Automaton
-Cellular Potts Model,1,2,0,0,Cellular Potts Model
-Cellular Respiration,0,13,0,0,Cellular Respiration
-Central Metabolic Pathway,3,2,0,0,Central Metabolic Pathway
-Centrality,0,14,0,0,Centrality
-Chemical Engineering,3,2032,0,0,Chemical Engineering
+Cell Biology,2,89,0,0,Cell Biology
+Chemical Engineering,2,2032,0,0,Chemical Engineering
 Chemical Industry,0,334,0,0,Chemical Industry
-Chemical Kinetics,1,10,0,0,Chemical Kinetics
-Chemical Synthesis,3,4,0,0,Chemical Synthesis
-Chemically Defined Medium,1,8,0,0,Chemically Defined Medium
-Chemistry,3,4027,0,0,Chemistry
-Chemostat,3,4,0,0,Chemostat
-Chlamydomonas,3,2017,0,0,Chlamydomonas
-Chlamydomonas Reinhardtii,3,4030,0,0,Chlamydomonas Reinhardtii
-Chloroplast,3,2,0,0,Chloroplast
-Cholesterol Side-chain Cleavage Enzyme,0,2,0,0,Cholesterol Side-chain Cleavage Enzyme
+Chemistry,1,4027,0,0,Chemistry
+Chlamydomonas,2,2017,0,0,Chlamydomonas
+Chlamydomonas Reinhardtii,2,4030,0,0,Chlamydomonas Reinhardtii
 Chromatography,1,467,0,0,Chromatography
-Circadian Clock,2,7,0,0,Circadian Clock
-Classical Mechanics,3,8,0,0,Classical Mechanics
-Climate Change,0,34,0,0,Climate Change
-Climatology,1,10,0,0,Climatology
-Clostridium Ljungdahlii,3,2,0,0,Clostridium Ljungdahlii
+Climate Change,1,34,0,0,Climate Change
 Cluster Coefficient,0,2014,0,0,Cluster Coefficient
-Coenzyme Q – Cytochrome C Reductase,0,16,0,0,Coenzyme Q – Cytochrome C Reductase
-Combinatorial Optimization,3,11,0,0,Combinatorial Optimization
-Community,0,277,0,0,Community
-Comparative Biology,2,2,0,0,Comparative Biology
+Community,2,277,0,0,Community
 Compartmentalization (psychology),0,84,0,0,Compartmentalization (psychology)
 Completeness (statistics),0,47,0,0,Completeness (statistics)
-Complex Network,3,2519,0,0,Complex Network
-Complex System,1,32,0,0,Complex System
-Computation,1,364,0,0,Computation
-Computational And Statistical Genetics,1,13,0,0,Computational And Statistical Genetics
-Computational Biology,3,13279,0,0,Computational Biology
-Computational Genomics,1,13,0,0,Computational Genomics
-Computational Intelligence,3,2,0,0,Computational Intelligence
-Computational Model,3,2266,0,0,Computational Model
+Complex Network,1,2519,0,0,Complex Network
+Computation,2,364,0,0,Computation
+Computational Biology,1,13279,0,0,Computational Biology
+Computational Model,0,2266,0,0,Computational Model
 Computational Problem,0,35,0,0,Computational Problem
 Computational Science,1,4051,0,0,Computational Science
-Computer Network,3,3,0,0,Computer Network
-Computer Programming,1,13,0,0,Computer Programming
-Computer Science,3,24819,0,0,Computer Science
+Computer Science,2,24819,0,0,Computer Science
 Constrained Optimization,0,126,0,0,Constrained Optimization
-Constraint Satisfaction Problem,1,10,0,0,Constraint Satisfaction Problem
 Control Engineering,1,2015,0,0,Control Engineering
-Control Theory,0,2057,0,0,Control Theory
-Convergence (routing),1,10,0,0,Convergence (routing)
+Control Theory,1,2057,0,0,Control Theory
 Convergent Evolution,0,104,0,0,Convergent Evolution
-Convex Analysis,1,733,0,0,Convex Analysis
-Cooperative Game Theory,1,11,0,0,Cooperative Game Theory
+Convex Analysis,2,733,0,0,Convex Analysis
 CRISPR,0,2018,0,0,CRISPR
 Critical To Quality,0,36,0,0,Critical To Quality
-Cross-validation,1,9,0,0,Cross-validation
-Crystallography,0,179,0,0,Crystallography
+Crystallography,2,179,0,0,Crystallography
 Cupriavidus Necator,0,2020,0,0,Cupriavidus Necator
-Cyanobacteria,3,6042,0,0,Cyanobacteria
-Data Mining,3,2,0,0,Data Mining
-Database,0,2,0,0,Database
-Design of Experiments,3,2021,0,0,Design of Experiments
-Differential Equation,3,3,0,0,Differential Equation
-Differential Evolution,3,12,0,0,Differential Evolution
-Differential Search Algorithm,3,3,0,0,Differential Search Algorithm
-Dilution,3,8,0,0,Dilution
-Directed Evolution,3,3,0,0,Directed Evolution
-Directed Hypergraph,3,4,0,0,Directed Hypergraph
+Cyanobacteria,2,6042,0,0,Cyanobacteria
+Design of Experiments,2,2021,0,0,Design of Experiments
 Directionality,1,37,0,0,Directionality
-Discrete Mathematics,1,2,0,0,Discrete Mathematics
-Distributed Element Model,3,4,0,0,Distributed Element Model
-Division of Labour,1,6,0,0,Division of Labour
-DNA Sequencing,2,3678,0,0,DNA Sequencing
-Documentation,1,12,0,0,Documentation
+DNA Sequencing,1,3678,0,0,DNA Sequencing
 Drug Development,0,474,0,0,Drug Development
-Drug Discovery,3,27,0,0,Drug Discovery
-Dynamic Network Analysis,0,13,0,0,Dynamic Network Analysis
-Dynamic Simulation,3,2003,0,0,Dynamic Simulation
-Ecological Network,1,6,0,0,Ecological Network
-Ecology,0,10383,0,0,Ecology
-Elasticity Coefficient,1,4,0,0,Elasticity Coefficient
-Electricity Generation,2,46,0,0,Electricity Generation
-Electron Transport Chain,1,55,0,0,Electron Transport Chain
-Electronic Engineering,3,5,0,0,Electronic Engineering
+Dynamic Simulation,2,2003,0,0,Dynamic Simulation
+Ecology,1,10383,0,0,Ecology
+Electricity Generation,1,46,0,0,Electricity Generation
+Electron Transport Chain,0,55,0,0,Electron Transport Chain
 ENCODE,0,2019,0,0,ENCODE
-Energy Charge,0,5,0,0,Energy Charge
 Energy Metabolism,1,2022,0,0,Energy Metabolism
-Engineering,3,4030,0,0,Engineering
-Enhanced Biological Phosphorus Removal,0,2,0,0,Enhanced Biological Phosphorus Removal
-Enterobacteriaceae,0,4,0,0,Enterobacteriaceae
-Environmental Chemistry,0,19,0,0,Environmental Chemistry
-Environmental Science,3,12136,0,0,Environmental Science
+Engineering,1,4030,0,0,Engineering
+Environmental Science,2,12136,0,0,Environmental Science
 Environmental Stress,0,34,0,0,Environmental Stress
-Enzyme,1,7,0,0,Enzyme
 Enzyme Kinetics,0,154,0,0,Enzyme Kinetics
-Epigenetics,3,2,0,0,Epigenetics
-Epistasis,3,373,0,0,Epistasis
-Epistasis And Functional Genomics,2,139,0,0,Epistasis And Functional Genomics
+Epistasis,1,373,0,0,Epistasis
+Epistasis And Functional Genomics,1,139,0,0,Epistasis And Functional Genomics
 Equilibrium Constant,0,36,0,0,Equilibrium Constant
-Escherichia Coli,3,2015,0,0,Escherichia Coli
-Essential Nutrient,1,8,0,0,Essential Nutrient
+Escherichia Coli,2,2015,0,0,Escherichia Coli
 Ethanol,1,4030,0,0,Ethanol
-Ethanol Fermentation,1,4,0,0,Ethanol Fermentation
-Ethanol Fuel,1,17,0,0,Ethanol Fuel
-Eubacterium Limosum,3,5,0,0,Eubacterium Limosum
 Evolutionary Algorithm,0,2023,0,0,Evolutionary Algorithm
-Evolutionary Biology,0,29,0,0,Evolutionary Biology
-Evolutionary Game Theory,0,257,0,0,Evolutionary Game Theory
-Excretion,1,8,0,0,Excretion
-Experimental Data,3,3555,0,0,Experimental Data
-Explicit Knowledge,1,17,0,0,Explicit Knowledge
-Exponential Growth,3,2016,0,0,Exponential Growth
+Evolutionary Game Theory,2,257,0,0,Evolutionary Game Theory
+Experimental Data,2,3555,0,0,Experimental Data
+Exponential Growth,2,2016,0,0,Exponential Growth
 Extracellular,1,6546,0,0,Extracellular
-Fatty Acid Synthesis,3,6,0,0,Fatty Acid Synthesis
-Feature Selection,3,8,0,0,Feature Selection
-Feedback Vertex Set,3,11,0,0,Feedback Vertex Set
-Fermentation,3,2043,0,0,Fermentation
-Flavin Group,1,6,0,0,Flavin Group
+Fermentation,1,2043,0,0,Fermentation
 Flow (psychology),0,2886,0,0,Flow (psychology)
-Flux (metallurgy),0,114,0,0,Flux (metallurgy)
+Flux (metallurgy),2,114,0,0,Flux (metallurgy)
 Flux Balance Analysis,0,146766,0,0,Flux Balance Analysis
-Flux BalanceAnalysis,3,122433,0,0,Flux BalanceAnalysis
+Flux BalanceAnalysis,2,122433,0,0,Flux BalanceAnalysis
 FluxBalanceAnalysis,1,108378,0,0,FluxBalanceAnalysis
 Fluxomics,1,8859,0,0,Fluxomics
 Food Science,1,2088,0,0,Food Science
-Formalism (philosophy),3,23,0,0,Formalism (philosophy)
 "Fructose 1,6-bisphosphatase",0,2017,0,0,"Fructose 1,6-bisphosphatase"
 Function (biology),0,99,0,0,Function (biology)
 Functional Genomics,0,130,0,0,Functional Genomics
-Fungal Genome,3,2015,0,0,Fungal Genome
-Fuzzy Logic,0,15,0,0,Fuzzy Logic
-Gapless Playback,3,12,0,0,Gapless Playback
+Fungal Genome,2,2015,0,0,Fungal Genome
 Gene,0,2151,0,0,Gene
 Gene Cluster,0,158,0,0,Gene Cluster
-Gene Deletion,1,5,0,0,Gene Deletion
-Gene Deletions,3,4,0,0,Gene Deletions
-Gene Duplication,2,196,0,0,Gene Duplication
-Gene Expression,3,2019,0,0,Gene Expression
+Gene Duplication,1,196,0,0,Gene Duplication
+Gene Expression,2,2019,0,0,Gene Expression
 Gene Expression Profiling,1,959,0,0,Gene Expression Profiling
 Gene Knockout,0,133,0,0,Gene Knockout
-Gene Regulatory Network,1,17,0,0,Gene Regulatory Network
-Generating Set of A Group,1,11,0,0,Generating Set of A Group
 Genetic Algorithm,0,72,0,0,Genetic Algorithm
-Genetic Design,1,8,0,0,Genetic Design
-Genetic Variation,1,14,0,0,Genetic Variation
-Genetically Modified Organism,3,31,0,0,Genetically Modified Organism
-Genetics,2,15578,0,0,Genetics
-Genome Scale,3,2,0,0,Genome Scale
+Genetics,1,15578,0,0,Genetics
 Genome Size,0,2020,0,0,Genome Size
-Genomics,3,2,0,0,Genomics
-Geobacter,3,2018,0,0,Geobacter
-Geometric Programming,3,4,0,0,Geometric Programming
-Gibbs Free Energy,1,2010,0,0,Gibbs Free Energy
-Gluconeogenesis,2,49,0,0,Gluconeogenesis
+Geobacter,2,2018,0,0,Geobacter
+Gibbs Free Energy,2,2010,0,0,Gibbs Free Energy
+Gluconeogenesis,1,49,0,0,Gluconeogenesis
 Glycerol,0,2020,0,0,Glycerol
-Glycolate Metabolism,3,3,0,0,Glycolate Metabolism
 Glycolysis,0,2857,0,0,Glycolysis
 Graphical User Interface,0,39,0,0,Graphical User Interface
-Greedy Algorithm,3,2,0,0,Greedy Algorithm
-Head And Neck Cancer,1,4,0,0,Head And Neck Cancer
-Heaviside Step Function,1,8,0,0,Heaviside Step Function
 Herbivore,0,125,0,0,Herbivore
 Heterotroph,0,4203,0,0,Heterotroph
-High-performance Liquid Chromatography,3,3,0,0,High-performance Liquid Chromatography
-High-throughput Screening,3,2,0,0,High-throughput Screening
-Hill Climbing,0,2,0,0,Hill Climbing
-Homeostasis,1,119,0,0,Homeostasis
-Homology Modeling,3,2013,0,0,Homology Modeling
-Horizontal Gene Transfer,3,2015,0,0,Horizontal Gene Transfer
-Human Genetics,2,50,0,0,Human Genetics
+Homeostasis,0,119,0,0,Homeostasis
+Homology Modeling,2,2013,0,0,Homology Modeling
+Horizontal Gene Transfer,2,2015,0,0,Horizontal Gene Transfer
+Human Genetics,1,50,0,0,Human Genetics
 Human Pathogen,0,176,0,0,Human Pathogen
-Hydrogenase,0,5,0,0,Hydrogenase
-Imagination,3,11,0,0,Imagination
-Immune System,3,2,0,0,Immune System
-Implementation,3,106,0,0,Implementation
+Implementation,2,106,0,0,Implementation
 In Silico,0,2018,0,0,In Silico
-Indole Test,3,2,0,0,Indole Test
-inductive logic programming,1,21,0,0,inductive logic programming
-Information Theory,3,3,0,0,Information Theory
-Integer,3,43,0,0,Integer
-Integer Programming,3,2133,0,0,Integer Programming
-Interaction Network,3,2,0,0,Interaction Network
-Interactome,1,17,0,0,Interactome
+Integer,1,43,0,0,Integer
+Integer Programming,2,2133,0,0,Integer Programming
 Interconnectivity,0,49,0,0,Interconnectivity
-Internal Medicine,3,3,0,0,Internal Medicine
-Interoperability,3,14,0,0,Interoperability
-Intracellular,3,2,0,0,Intracellular
 Isotopic Labeling,0,76,0,0,Isotopic Labeling
-Java Applet,3,27,0,0,Java Applet
-Karush–Kuhn–Tucker Conditions,0,6,0,0,Karush–Kuhn–Tucker Conditions
-Ketone Bodies,3,8,0,0,Ketone Bodies
-Kidney,3,2,0,0,Kidney
-Klebsiella Pneumoniae,3,5,0,0,Klebsiella Pneumoniae
 Knowledge Base,0,220,0,0,Knowledge Base
 Komagataella Phaffii,1,2018,0,0,Komagataella Phaffii
-Lactococcus Lactis,3,2012,0,0,Lactococcus Lactis
+Lactococcus Lactis,0,2012,0,0,Lactococcus Lactis
 Laws of Thermodynamics,3,677,0,0,Laws of Thermodynamics
 Lethality,0,81,0,0,Lethality
-Linear Combination,1,2822,0,0,Linear Combination
-Linear Programming,1,3177,0,0,Linear Programming
-Linear System,3,21,0,0,Linear System
+Linear Combination,2,2822,0,0,Linear Combination
+Linear Programming,2,3177,0,0,Linear Programming
 Lipid Metabolism,1,653,0,0,Lipid Metabolism
-Lipidomics,2,2025,0,0,Lipidomics
-Lipschitz Continuity,3,5,0,0,Lipschitz Continuity
-Logarithm,3,2,0,0,Logarithm
-Machine Learning,3,15,0,0,Machine Learning
-Malaria,3,4026,0,0,Malaria
-Mammary Gland,0,2,0,0,Mammary Gland
+Lipidomics,1,2025,0,0,Lipidomics
+Malaria,2,4026,0,0,Malaria
 MAPK/ERK Pathway,1,2011,0,0,MAPK/ERK Pathway
-Marine Biology,3,2,0,0,Marine Biology
-Markov Chain Monte Carlo,3,8,0,0,Markov Chain Monte Carlo
 Markup Language,1,162,0,0,Markup Language
-Materials Science,0,2,0,0,Materials Science
-Mathematical And Theoretical Biology,3,3,0,0,Mathematical And Theoretical Biology
-Mathematical Model,3,2140,0,0,Mathematical Model
-Mathematical Optimization,3,4038,0,0,Mathematical Optimization
-Mathematics,1,4527,0,0,Mathematics
+Mathematical Model,2,2140,0,0,Mathematical Model
+Mathematical Optimization,2,4038,0,0,Mathematical Optimization
+Mathematics,2,4527,0,0,Mathematics
 Mechanics,1,2018,0,0,Mechanics
-Medicine,1,6,0,0,Medicine
-Metabolic Age,2,5,0,0,Metabolic Age
 Metabolic Control Analysis,0,6151,0,0,Metabolic Control Analysis
 Metabolic Engineering,0,45897,0,0,Metabolic Engineering
-Metabolic Flux Analysis,3,2028,0,0,Metabolic Flux Analysis
-Metabolic FluxAnalysis,0,2102,0,0,Metabolic FluxAnalysis
-Metabolic Model,3,10,0,0,Metabolic Model
-Metabolic Modeling,1,6,0,0,Metabolic Modeling
-Metabolic Network,3,10706,0,0,Metabolic Network
-Metabolic Network Modelling,4,2051,0,0,Metabolic Network Modelling
+Metabolic Flux Analysis,2,2028,0,0,Metabolic Flux Analysis
+Metabolic FluxAnalysis,1,2102,0,0,Metabolic FluxAnalysis
+Metabolic Network,2,10706,0,0,Metabolic Network
+Metabolic Network Modelling,2,2051,0,0,Metabolic Network Modelling
 Metabolic Pathway,1,2006,0,0,Metabolic Pathway
 Metabolic Phenotype,0,2014,0,0,Metabolic Phenotype
-Metabolic Waste,0,9,0,0,Metabolic Waste
 Metabolism,0,16703,0,0,Metabolism
 Metabolomics,1,8615,0,0,Metabolomics
-Metagenomics,0,4499,0,0,Metagenomics
-Methanosarcina,3,2018,0,0,Methanosarcina
+Metagenomics,2,4499,0,0,Metagenomics
+Methanosarcina,2,2018,0,0,Methanosarcina
 Methyl Jasmonate,1,2015,0,0,Methyl Jasmonate
-Michaelis–Menten Kinetics,3,2,0,0,Michaelis–Menten Kinetics
 Microarray Analysis Techniques,1,63,0,0,Microarray Analysis Techniques
 Microbial Ecology,0,2105,0,0,Microbial Ecology
 Microbial Fuel Cell,0,2012,0,0,Microbial Fuel Cell
-Microbial Metabolism,3,2012,0,0,Microbial Metabolism
+Microbial Metabolism,2,2012,0,0,Microbial Metabolism
 Microbial Population Biology,0,2017,0,0,Microbial Population Biology
 Microbiology,0,2337,0,0,Microbiology
 Microbiome,1,4036,0,0,Microbiome
-Microorganism,1,4,0,0,Microorganism
-Minimal Genome,1,7,0,0,Minimal Genome
-MINOS,1,10,0,0,MINOS
-Mitochondrial Matrix,1,47,0,0,Mitochondrial Matrix
-Mitochondrion,1,463,0,0,Mitochondrion
-Mitosome,0,4,0,0,Mitosome
-Mixed Acid Fermentation,2,182,0,0,Mixed Acid Fermentation
-Mixotroph,3,8,0,0,Mixotroph
-Model Checking,3,2,0,0,Model Checking
+Mitochondrial Matrix,2,47,0,0,Mitochondrial Matrix
+Mitochondrion,2,463,0,0,Mitochondrion
+Mixed Acid Fermentation,1,182,0,0,Mixed Acid Fermentation
 Model Organism,1,2603,0,0,Model Organism
-Modeling And Simulation,3,5,0,0,Modeling And Simulation
-Modelling Biological Systems,3,3,0,0,Modelling Biological Systems
-Monte Carlo Method,1,228,0,0,Monte Carlo Method
-Muconic Acid,3,2018,0,0,Muconic Acid
-Multi-objective Optimization,0,101,0,0,Multi-objective Optimization
-Multicellular Organism,0,2147,0,0,Multicellular Organism
+Monte Carlo Method,2,228,0,0,Monte Carlo Method
+Muconic Acid,2,2018,0,0,Muconic Acid
+Multi-objective Optimization,2,101,0,0,Multi-objective Optimization
+Multicellular Organism,2,2147,0,0,Multicellular Organism
 NAD+ Kinase,0,63,0,0,NAD+ Kinase
-Nash Equilibrium,3,4,0,0,Nash Equilibrium
-Natural Selection,3,209,0,0,Natural Selection
+Natural Selection,2,209,0,0,Natural Selection
 Negative Selection,0,184,0,0,Negative Selection
-Network Analysis,0,2728,0,0,Network Analysis
+Network Analysis,2,2728,0,0,Network Analysis
 Network Theory,3,223,0,0,Network Theory
-Neuroblastoma RAS Viral Oncogene Homolog,1,3,0,0,Neuroblastoma RAS Viral Oncogene Homolog
-Neuroprotection,3,3,0,0,Neuroprotection
-Neutral Theory of Molecular Evolution,3,2018,0,0,Neutral Theory of Molecular Evolution
-Niche Construction,0,39,0,0,Niche Construction
+Neutral Theory of Molecular Evolution,2,2018,0,0,Neutral Theory of Molecular Evolution
+Niche Construction,2,39,0,0,Niche Construction
 Nitric Oxide Synthase,0,34,0,0,Nitric Oxide Synthase
-Nitrogen Assimilation,3,2132,0,0,Nitrogen Assimilation
-Nitrogen Cycle,2,128,0,0,Nitrogen Cycle
-Nitrous Oxide,4,36,0,0,Nitrous Oxide
+Nitrogen Assimilation,0,2132,0,0,Nitrogen Assimilation
+Nitrogen Cycle,1,128,0,0,Nitrogen Cycle
+Nitrous Oxide,2,36,0,0,Nitrous Oxide
 Nonlinear Programming,0,73,0,0,Nonlinear Programming
 Normal Conditions,1,45,0,0,Normal Conditions
-Normal Distribution,3,27,0,0,Normal Distribution
-Nuclear Magnetic Resonance,3,7,0,0,Nuclear Magnetic Resonance
 Nucleotide Sugar,1,82,0,0,Nucleotide Sugar
 Null Allele,0,205,0,0,Null Allele
-Null Model,0,4,0,0,Null Model
 Nutraceutical,0,165,0,0,Nutraceutical
-Nutrient,3,3,0,0,Nutrient
-Obligate,0,40,0,0,Obligate
-Ode,3,6,0,0,Ode
-Ontology,1,2,0,0,Ontology
+Obligate,1,40,0,0,Obligate
 Open Reading Frame,0,582,0,0,Open Reading Frame
-Operations Research,3,2032,0,0,Operations Research
-Optimal Control,1,14,0,0,Optimal Control
-Ordinary Differential Equation,3,2021,0,0,Ordinary Differential Equation
+Operations Research,1,2032,0,0,Operations Research
+Ordinary Differential Equation,2,2021,0,0,Ordinary Differential Equation
 Orthogonality,1,2009,0,0,Orthogonality
-Oscillation,3,4,0,0,Oscillation
-Osmoprotectant,0,22,0,0,Osmoprotectant
-Overfitting,0,4,0,0,Overfitting
 Oxidative Phosphorylation,0,164,0,0,Oxidative Phosphorylation
-Ozone Depletion,0,2,0,0,Ozone Depletion
-Parasite Hosting,1,21,0,0,Parasite Hosting
-Particle Swarm Optimization,0,2017,0,0,Particle Swarm Optimization
-Pathosystem,0,13,0,0,Pathosystem
-Pathway Analysis,3,2005,0,0,Pathway Analysis
-Pearson Product-moment Correlation Coefficient,0,6,0,0,Pearson Product-moment Correlation Coefficient
+Particle Swarm Optimization,1,2017,0,0,Particle Swarm Optimization
+Pathway Analysis,2,2005,0,0,Pathway Analysis
 Penalty Method,1,90,0,0,Penalty Method
-Penicillin,1,3,0,0,Penicillin
-Pentose Phosphate Pathway,3,2697,0,0,Pentose Phosphate Pathway
-PEP Group Translocation,2,6,0,0,PEP Group Translocation
-Personalized Medicine,3,17,0,0,Personalized Medicine
+Pentose Phosphate Pathway,0,2697,0,0,Pentose Phosphate Pathway
 Perturbation,0,2007,0,0,Perturbation
-Petri Net,3,2025,0,0,Petri Net
-Phenome,0,5,0,0,Phenome
-Phenotypic Plasticity,3,2018,0,0,Phenotypic Plasticity
-Phenylalanine,3,2016,0,0,Phenylalanine
-Phloem,1,8,0,0,Phloem
+Petri Net,2,2025,0,0,Petri Net
+Phenotypic Plasticity,2,2018,0,0,Phenotypic Plasticity
+Phenylalanine,2,2016,0,0,Phenylalanine
 Phosphoenolpyruvate Carboxykinase,0,163,0,0,Phosphoenolpyruvate Carboxykinase
-Phosphorylation,2,2,0,0,Phosphorylation
 Photophosphorylation,0,247,0,0,Photophosphorylation
-Photosynthesis,3,19,0,0,Photosynthesis
-Physiology,3,5,0,0,Physiology
 Phytophthora Infestans,1,2015,0,0,Phytophthora Infestans
-PI3K/AKT/mTOR Pathway,1,2,0,0,PI3K/AKT/mTOR Pathway
-Pichia Pastoris,3,2017,0,0,Pichia Pastoris
-Plasma Protein Binding,1,6,0,0,Plasma Protein Binding
-PlasmoDB,3,2016,0,0,PlasmoDB
+Pichia Pastoris,2,2017,0,0,Pichia Pastoris
+PlasmoDB,2,2016,0,0,PlasmoDB
 Plasmodium Falciparum,0,2018,0,0,Plasmodium Falciparum
 Polyhedron,0,81,0,0,Polyhedron
 Polyhydroxyalkanoates,0,35,0,0,Polyhydroxyalkanoates
-Polyketide,3,2016,0,0,Polyketide
-Population Model,0,6,0,0,Population Model
+Polyketide,2,2016,0,0,Polyketide
 Porous Medium,0,2014,0,0,Porous Medium
-Predicate Logic,3,19,0,0,Predicate Logic
-Prediction Algorithms,3,4,0,0,Prediction Algorithms
-Principal Component Analysis,3,17,0,0,Principal Component Analysis
-Principle of Maximum Entropy,1,20,0,0,Principle of Maximum Entropy
 Probabilistic Logic,0,341,0,0,Probabilistic Logic
 Process Engineering,1,4031,0,0,Process Engineering
 Process Simulation,0,39,0,0,Process Simulation
 Programmed Cell Death,1,2018,0,0,Programmed Cell Death
 Protein Biosynthesis,0,4128,0,0,Protein Biosynthesis
-Protein Expression,1,5,0,0,Protein Expression
 Protein–protein Interaction,1,2017,0,0,Protein–protein Interaction
-Proteome,3,2,0,0,Proteome
-Proteomics,2,7182,0,0,Proteomics
-Pseudomonas Aeruginosa,0,2,0,0,Pseudomonas Aeruginosa
-Pseudomonas Putida,3,4,0,0,Pseudomonas Putida
-Quadruple-precision Floating-point Format,1,10,0,0,Quadruple-precision Floating-point Format
-Quantifier Elimination,1,7,0,0,Quantifier Elimination
-Quantum Mechanics,3,4,0,0,Quantum Mechanics
-Quorum Sensing,3,2,0,0,Quorum Sensing
-Randomness,1,5,0,0,Randomness
-Raw Material,1,12,0,0,Raw Material
-Reaction Mechanism,3,2015,0,0,Reaction Mechanism
-Real Algebraic Geometry,1,7,0,0,Real Algebraic Geometry
+Proteomics,1,7182,0,0,Proteomics
+Reaction Mechanism,2,2015,0,0,Reaction Mechanism
 Recombinant DNA,0,90,0,0,Recombinant DNA
-Recombinant Protein Production,2,4,0,0,Recombinant Protein Production
 Redox,0,2009,0,0,Redox
-Redox Cycling,1,4,0,0,Redox Cycling
-Registry of Standard Biological Parts,3,2012,0,0,Registry of Standard Biological Parts
-Regularization (mathematics),1,7,0,0,Regularization (mathematics)
-Regulator,3,2,0,0,Regulator
-Relational Database,0,2,0,0,Relational Database
-Renewable Fuels,0,31,0,0,Renewable Fuels
-Representation (mathematics),3,2018,0,0,Representation (mathematics)
-Resource Allocation,0,4317,0,0,Resource Allocation
-Resource Management,1,10,0,0,Resource Management
+Registry of Standard Biological Parts,2,2012,0,0,Registry of Standard Biological Parts
+Representation (mathematics),1,2018,0,0,Representation (mathematics)
+Resource Allocation,1,4317,0,0,Resource Allocation
 Respiration,0,2016,0,0,Respiration
-Respiratory Pathway,3,2,0,0,Respiratory Pathway
 Reverse Krebs Cycle,0,99,0,0,Reverse Krebs Cycle
-Rhizosphere,3,4,0,0,Rhizosphere
-Robust Control,1,6,0,0,Robust Control
-Robustness (computer Science),1,2,0,0,Robustness (computer Science)
-Root Cause,3,2,0,0,Root Cause
 RuBisCO,0,396,0,0,RuBisCO
-Saccharomyces Cerevisiae,3,8083,0,0,Saccharomyces Cerevisiae
+Saccharomyces Cerevisiae,0,8083,0,0,Saccharomyces Cerevisiae
 Sampling,1,2013,0,0,Sampling
-SBML,1,10,0,0,SBML
 Scalability,1,188,0,0,Scalability
-Scale-free Network,3,3,0,0,Scale-free Network
-Scientific Progress,0,32,0,0,Scientific Progress
-Second Law of Thermodynamics,1,8,0,0,Second Law of Thermodynamics
-Second-order Cone Programming,3,3,0,0,Second-order Cone Programming
-Secretion,3,2,0,0,Secretion
-Serotype,3,3,0,0,Serotype
-Shapley Value,1,11,0,0,Shapley Value
 Signal Transduction,0,244,0,0,Signal Transduction
-Simulated Annealing,1,3,0,0,Simulated Annealing
-Simulation,1,2028,0,0,Simulation
-Singular Value Decomposition,3,3,0,0,Singular Value Decomposition
+Simulation,2,2028,0,0,Simulation
 Sink (computing),0,105,0,0,Sink (computing)
-Software Architecture,3,89,0,0,Software Architecture
-Source Code,2,5,0,0,Source Code
-Specification,3,3,0,0,Specification
+Software Architecture,2,89,0,0,Software Architecture
 Spermatogenesis,0,2016,0,0,Spermatogenesis
-Spin-½,3,2,0,0,Spin-½
-Stable Isotope Ratio,3,11,0,0,Stable Isotope Ratio
-Stationary State,3,8,0,0,Stationary State
 Steady State,1,4319,0,0,Steady State
-Stochastic Differential Equation,3,24,0,0,Stochastic Differential Equation
-Stochastic Game,1,4,0,0,Stochastic Game
 Stochastic Modelling,1,2012,0,0,Stochastic Modelling
-Stochastic Simulation,2,4,0,0,Stochastic Simulation
 Strain (chemistry),0,84,0,0,Strain (chemistry)
 Streptomyces Coelicolor,0,39,0,0,Streptomyces Coelicolor
 Streptomyces Lividans,0,34,0,0,Streptomyces Lividans
-Stringent Response,2,423,0,0,Stringent Response
-Subnet,0,20,0,0,Subnet
-Subspace Topology,1,8,0,0,Subspace Topology
+Stringent Response,1,423,0,0,Stringent Response
 Substrate (chemistry),0,103,0,0,Substrate (chemistry)
-Supercomputer,3,5,0,0,Supercomputer
-Sustainability,3,15,0,0,Sustainability
-Symbiosis,0,4125,0,0,Symbiosis
-Synchronization,1,2,0,0,Synchronization
+Symbiosis,1,4125,0,0,Symbiosis
 Synechocystis Sp.,1,2014,0,0,Synechocystis Sp.
-Synthetic Biology,3,2024,0,0,Synthetic Biology
-Systematic Error,0,31,0,0,Systematic Error
+Synthetic Biology,2,2024,0,0,Synthetic Biology
 Systems Analysis,0,136,0,0,Systems Analysis
-Systems Biology,1,14294,0,0,Systems Biology
-Systems Biomedicine,3,26,0,0,Systems Biomedicine
+Systems Biology,2,14294,0,0,Systems Biology
 Systems Medicine,0,167,0,0,Systems Medicine
-Targeted Drug Delivery,3,6,0,0,Targeted Drug Delivery
 Taxus,1,2015,0,0,Taxus
-Terpenoid,3,3,0,0,Terpenoid
-Test Data Generation,1,18,0,0,Test Data Generation
-Text Mining,0,19,0,0,Text Mining
 The Arts,1,2013,0,0,The Arts
-Theoretical Computer Science,3,2020,0,0,Theoretical Computer Science
-Theory of Computation,0,13,0,0,Theory of Computation
+Theoretical Computer Science,1,2020,0,0,Theoretical Computer Science
 Thermodynamics,0,2015,0,0,Thermodynamics
 Thermophile,0,246,0,0,Thermophile
-Timeline,0,6,0,0,Timeline
-Titer,0,15,0,0,Titer
 Topology,0,2007,0,0,Topology
 Transcription Factor,1,2034,0,0,Transcription Factor
 Transcriptional Regulation,0,2467,0,0,Transcriptional Regulation
 Transcriptome,1,2027,0,0,Transcriptome
 Transformation,0,49,0,0,Transformation
-Transposable Element,2,17,0,0,Transposable Element
-Transposition (music),2,12,0,0,Transposition (music)
-Transposon Mutagenesis,2,51,0,0,Transposon Mutagenesis
-Trial And Error,0,4,0,0,Trial And Error
-Turing,3,2,0,0,Turing
-Turing Machine,3,2,0,0,Turing Machine
-Type 2 Diabetes,3,2015,0,0,Type 2 Diabetes
-Uncertainty Quantification,3,4,0,0,Uncertainty Quantification
-Vanillin,1,2,0,0,Vanillin
+Transposon Mutagenesis,1,51,0,0,Transposon Mutagenesis
+Type 2 Diabetes,2,2015,0,0,Type 2 Diabetes
 Vascular Bundle,0,49,0,0,Vascular Bundle
-Vector Space,1,15,0,0,Vector Space
-Virtual Screening,3,2022,0,0,Virtual Screening
-Virulence,1,27,0,0,Virulence
+Virtual Screening,2,2022,0,0,Virtual Screening
 Visualization,1,87,0,0,Visualization
-Web Server,1,15,0,0,Web Server
 Whole Genome Sequencing,1,2476,0,0,Whole Genome Sequencing
-Wood–Ljungdahl Pathway,3,2,0,0,Wood–Ljungdahl Pathway
-Xylitol,3,3,0,0,Xylitol
 Xylose,1,4030,0,0,Xylose
-Yeast,1,2,0,0,Yeast
-Yeast Metabolism,3,3,0,0,Yeast Metabolism
-Yersiniabactin,1,2,0,0,Yersiniabactin
-Yield,3,2,0,0,Yield
-Yield (chemistry),1,27,0,0,Yield (chemistry)

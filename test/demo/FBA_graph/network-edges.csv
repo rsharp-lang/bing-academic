@@ -1,1594 +1,1018 @@
 ﻿fromNode,toNode,value,interaction,selfLoop,label,guid
 Biology,Flow (psychology),1,,False,,0
 Flux Balance Analysis,Flow (psychology),1,,False,,1
-Steady State,Fluxomics,1,,False,,10
-Cellular Automaton,Computer Science,2,,False,,100
-Gene Regulatory Network,Bioinformatics,1,,False,,1000
-Gene Regulatory Network,FluxBalanceAnalysis,2,,False,,1001
-Yield (chemistry),Biochemistry,2,,False,,1002
-Yield (chemistry),FluxBalanceAnalysis,4,,False,,1003
-Model Organism,Computer Science,2,,False,,1004
-Convex Analysis,Fluxomics,2,,False,,1005
-Community,Metagenomics,2,,False,,1006
-Community,Flux Balance Analysis,2,,False,,1007
-Ecology,Resource Allocation,2,,False,,1008
-Transcriptional Regulation,Genetics,2,,False,,1009
-Cellular Automaton,Flux BalanceAnalysis,2,,False,,101
-Bilevel Optimization,Anaerobic Exercise,2,,False,,1010
-Interactome,Biological Network,2,,False,,1011
-Interactome,FluxBalanceAnalysis,2,,False,,1012
-Biological Network,Bioinformatics,2,,False,,1013
-Metabolomics,Nitrogen Cycle,2,,False,,1014
-Nitrogen Cycle,FluxBalanceAnalysis,4,,False,,1015
-Coenzyme Q – Cytochrome C Reductase,Bioinformatics,2,,False,,1016
-Coenzyme Q – Cytochrome C Reductase,FluxBalanceAnalysis,2,,False,,1017
-Biological Network,Scalability,2,,False,,1018
-Ecology,Food Science,2,,False,,1019
-Chromatography,Flux BalanceAnalysis,12,,False,,102
-Biophysics,Steady State,2,,False,,1020
-Web Server,Visualization,2,,False,,1021
-Web Server,FluxBalanceAnalysis,2,,False,,1022
-Principal Component Analysis,Biochemistry,2,,False,,1023
-Principal Component Analysis,FluxBalanceAnalysis,2,,False,,1024
-Fuzzy Logic,Biochemistry,2,,False,,1025
-Fuzzy Logic,FluxBalanceAnalysis,2,,False,,1026
-Vector Space,Applied Mathematics,2,,False,,1027
-Vector Space,FluxBalanceAnalysis,2,,False,,1028
-Osmoprotectant,Biochemistry,4,,False,,1029
-Intracellular,Chromatography,1,,False,,103
-Osmoprotectant,FluxBalanceAnalysis,4,,False,,1030
-Bioprocess,Proteomics,2,,False,,1031
-Isotopic Labeling,Biochemistry,2,,False,,1032
-Isotopic Labeling,Flux BalanceAnalysis,4,,False,,1033
-Bioprocess Engineering,Biochemistry,1,,False,,1034
-Bioprocess Engineering,Flux BalanceAnalysis,2,,False,,1035
-Sustainability,Biology,2,,False,,1036
-Sustainability,Flux BalanceAnalysis,2,,False,,1037
-Computer Science,Computational Biology,4,,False,,1038
-Interoperability,Biological Network,2,,False,,1039
-Intracellular,Flux BalanceAnalysis,2,,False,,104
-Interoperability,Flux BalanceAnalysis,2,,False,,1040
-Metagenomics,Bioinformatics,2,,False,,1041
-Metabolomics,Proteomics,6,,False,,1042
-Titer,Flux BalanceAnalysis,2,,False,,1043
-Pentose Phosphate Pathway,RuBisCO,2,,False,,1044
-Complex System,Biochemistry,2,,False,,1045
-Complex System,Flux BalanceAnalysis,2,,False,,1046
-Anaerobic Exercise,Chromatography,2,,False,,1047
-Bacterial Growth,Gene Expression Profiling,2,,False,,1048
-Bacterial Growth,FluxBalanceAnalysis,6,,False,,1049
-Biophysics,Pentose Phosphate Pathway,1,,False,,105
-FluxBalanceAnalysis,Transcriptome,2,,False,,1050
-Transcriptome,Energy Metabolism,2,,False,,1051
-Ethanol Fuel,Biochemistry,1,,False,,1052
-Ethanol Fuel,FluxBalanceAnalysis,2,,False,,1053
-Genetic Variation,Biochemistry,1,,False,,1054
-Genetic Variation,FluxBalanceAnalysis,2,,False,,1055
-Protein Biosynthesis,Biochemistry,2,,False,,1056
-Biological Network,Flux (metallurgy),2,,False,,1057
-Flux (metallurgy),FluxBalanceAnalysis,8,,False,,1058
-Lipid Metabolism,Biomarker (medicine),2,,False,,1059
-Biophysics,Flux BalanceAnalysis,14,,False,,106
-Biomarker (medicine),Flux Balance Analysis,2,,False,,1060
-Linear Combination,Biochemistry,2,,False,,1061
-Computational Science,Flux Balance Analysis,2,,False,,1062
-Dynamic Network Analysis,Computational Science,1,,False,,1063
-Dynamic Network Analysis,Flux Balance Analysis,2,,False,,1064
-Botany,Flux (metallurgy),2,,False,,1065
-Cellular Respiration,Biochemistry,1,,False,,1066
-Cellular Respiration,Flux Balance Analysis,2,,False,,1067
-Theory of Computation,Genetic Algorithm,1,,False,,1068
-Theory of Computation,Flux Balance Analysis,2,,False,,1069
-Applied Mathematics,Bioinformatics,2,,False,,107
-Biophysics,Bioinformatics,2,,False,,1070
-Fluxomics,Metabolomics,12,,False,,1071
-Computation,Biochemistry,2,,False,,1072
-Computational And Statistical Genetics,FluxBalanceAnalysis,2,,False,,1073
-Computational Genomics,Computational And Statistical Genetics,1,,False,,1074
-Computational Genomics,FluxBalanceAnalysis,2,,False,,1075
-Principle of Maximum Entropy,Steady State,2,,False,,1076
-Principle of Maximum Entropy,FluxBalanceAnalysis,4,,False,,1077
-Biochemistry,Flux (metallurgy),2,,False,,1078
-Linear Combination,Gene Expression Profiling,2,,False,,1079
-Applied Mathematics,Flux BalanceAnalysis,4,,False,,108
-Linear Combination,FluxBalanceAnalysis,4,,False,,1080
-Metabolic Engineering,Model Organism,2,,False,,1081
-Computer Programming,Graphical User Interface,2,,False,,1082
-Computer Programming,FluxBalanceAnalysis,2,,False,,1083
-Graphical User Interface,FluxBalanceAnalysis,2,,False,,1084
-Bioremediation,Bioinformatics,4,,False,,1085
-Bioremediation,FluxBalanceAnalysis,4,,False,,1086
-Biochemistry,Fermentation,4,,False,,1087
-Mathematics,Metabolism,2,,False,,1088
-Pathosystem,Bioinformatics,2,,False,,1089
-Biological Network,Flux BalanceAnalysis,16,,False,,109
-Pathosystem,FluxBalanceAnalysis,2,,False,,1090
-Natural Selection,Metabolic Network,1,,False,,1091
-Natural Selection,FluxBalanceAnalysis,2,,False,,1092
-Systems Biology,Metabolism,2,,False,,1093
-Ecology,Complex System,2,,False,,1094
-Complex System,FluxBalanceAnalysis,4,,False,,1095
-Signal Transduction,Bioinformatics,1,,False,,1096
-Signal Transduction,Flux Balance Analysis,2,,False,,1097
-Ecology,Evolutionary Game Theory,2,,False,,1098
-Network Theory,Laws of Thermodynamics,2,,False,,1099
-Steady State,Flux Balance Analysis,20,,False,,11
-Bounded Function,Biological Network,1,,False,,110
-Network Theory,Flux Balance Analysis,2,,False,,1100
-Optimal Control,Control Theory,1,,False,,1101
-Optimal Control,FluxBalanceAnalysis,2,,False,,1102
-Transposition (music),Genetics,2,,False,,1103
-Transposition (music),FluxBalanceAnalysis,2,,False,,1104
-Biological Network,Biology,2,,False,,1105
-Gapless Playback,Computer Science,2,,False,,1106
-Gapless Playback,FluxBalanceAnalysis,2,,False,,1107
-Enzyme Kinetics,FluxBalanceAnalysis,2,,False,,1108
-Bacterial Growth,Auxotrophy,2,,False,,1109
-Bounded Function,Flux BalanceAnalysis,2,,False,,111
-Auxotrophy,FluxBalanceAnalysis,2,,False,,1110
-Nitrogen Cycle,Biochemistry,2,,False,,1111
-Raw Material,FluxBalanceAnalysis,1,,False,,1112
-Raw Material,Metabolic FluxAnalysis,1,,False,,1113
-Documentation,Computer Science,1,,False,,1114
-Documentation,FluxBalanceAnalysis,2,,False,,1115
-Chemical Engineering,FluxBalanceAnalysis,2,,False,,1116
-Biomining,Chemical Engineering,1,,False,,1117
-Biomining,FluxBalanceAnalysis,2,,False,,1118
-Metabolic Engineering,Yield (chemistry),2,,False,,1119
-Computational Intelligence,Escherichia Coli,1,,False,,112
-Microarray Analysis Techniques,Biochemistry,4,,False,,1120
-Microarray Analysis Techniques,FluxBalanceAnalysis,4,,False,,1121
-Metabolic Engineering,Whole Genome Sequencing,2,,False,,1122
-Text Mining,FluxBalanceAnalysis,4,,False,,1123
-Text Mining,Bioinformatics,4,,False,,1124
-Generating Set of A Group,Steady State,2,,False,,1125
-Generating Set of A Group,FluxBalanceAnalysis,2,,False,,1126
-Shapley Value,FluxBalanceAnalysis,2,,False,,1127
-Cooperative Game Theory,Shapley Value,1,,False,,1128
-Cooperative Game Theory,FluxBalanceAnalysis,2,,False,,1129
-Computational Intelligence,Flux BalanceAnalysis,1,,False,,113
-Niche Construction,Ecology,2,,False,,1130
-Niche Construction,Flux BalanceAnalysis,2,,False,,1131
-Imagination,Algorithm,2,,False,,1132
-Imagination,Flux BalanceAnalysis,2,,False,,1133
-Combinatorial Optimization,Linear Programming,1,,False,,1134
-Combinatorial Optimization,Flux BalanceAnalysis,2,,False,,1135
-Stable Isotope Ratio,Metabolomics,1,,False,,1136
-Stable Isotope Ratio,Flux BalanceAnalysis,2,,False,,1137
-Monte Carlo Method,Flux BalanceAnalysis,2,,False,,1138
-Fluxomics,Centrality,2,,False,,1139
-Mitochondrion,Genetics,4,,False,,114
-Centrality,FluxBalanceAnalysis,4,,False,,1140
-Integer,Feedback Vertex Set,2,,False,,1141
-Feedback Vertex Set,FluxBalanceAnalysis,2,,False,,1142
-Markup Language,FluxBalanceAnalysis,4,,False,,1143
-Climatology,Markup Language,1,,False,,1144
-Climatology,FluxBalanceAnalysis,2,,False,,1145
-Linear System,Monte Carlo Method,2,,False,,1146
-Linear System,FluxBalanceAnalysis,4,,False,,1147
-Monte Carlo Method,FluxBalanceAnalysis,2,,False,,1148
-Carbon Cycle,FluxBalanceAnalysis,2,,False,,1149
-Mitochondrion,Flux BalanceAnalysis,8,,False,,115
-Resource Management,Carbon Cycle,1,,False,,1150
-Resource Management,FluxBalanceAnalysis,2,,False,,1151
-Metabolic Engineering,RuBisCO,2,,False,,1152
-Quadruple-precision Floating-point Format,FluxBalanceAnalysis,2,,False,,1153
-MINOS,Quadruple-precision Floating-point Format,1,,False,,1154
-MINOS,FluxBalanceAnalysis,2,,False,,1155
-Biological Network,Visualization,2,,False,,1156
-Constraint Satisfaction Problem,Metabolic FluxAnalysis,1,,False,,1157
-Constraint Satisfaction Problem,FluxBalanceAnalysis,2,,False,,1158
-Food Science,Chromatography,4,,False,,1159
-Metabolism,Biochemistry,35,,False,,116
-Model Organism,Proteomics,2,,False,,1160
-Personalized Medicine,FluxBalanceAnalysis,2,,False,,1161
-Convergence (routing),Personalized Medicine,1,,False,,1162
-Convergence (routing),FluxBalanceAnalysis,2,,False,,1163
-Biochemical Engineering,Chromatography,1,,False,,1164
-Biochemical Engineering,FluxBalanceAnalysis,1,,False,,1165
-Metabolic Network,Virtual Screening,2,,False,,1166
-FluxBalanceAnalysis,Virtual Screening,2,,False,,1167
-Model Organism,Metabolomics,2,,False,,1168
-SBML,Bioinformatics,1,,False,,1169
-Metabolism,Flux BalanceAnalysis,24,,False,,117
-SBML,FluxBalanceAnalysis,2,,False,,1170
-Metabolic Model,Metabolic Network,2,,False,,1171
-Metabolic Model,FluxBalanceAnalysis,2,,False,,1172
-Complex Network,Computer Science,4,,False,,1173
-Complex Network,FluxBalanceAnalysis,8,,False,,1174
-Glycolysis,Bioinformatics,2,,False,,1175
-Glycolysis,FluxBalanceAnalysis,2,,False,,1176
-Chemical Kinetics,Steady State,1,,False,,1177
-Chemical Kinetics,FluxBalanceAnalysis,2,,False,,1178
-Breast Cancer,Proteomics,1,,False,,1179
-Biochemistry,Computational Biology,10,,False,,118
-Breast Cancer,FluxBalanceAnalysis,2,,False,,1180
-Acetic Acid,FluxBalanceAnalysis,2,,False,,1181
-Photosynthesis,Acetic Acid,1,,False,,1182
-Photosynthesis,FluxBalanceAnalysis,2,,False,,1183
-Ecology,Experimental Data,2,,False,,1184
-Cross-validation,Mathematics,2,,False,,1185
-Cross-validation,FluxBalanceAnalysis,2,,False,,1186
-Linear Programming,Simulation,2,,False,,1187
-Complex Network,Bioinformatics,2,,False,,1188
-Nitrogen Assimilation,Nitrogen Cycle,2,,False,,1189
-Genetics,Biochemistry,10,,False,,119
-Network Analysis,Steady State,2,,False,,1190
-Pentose Phosphate Pathway,Genetically Modified Organism,2,,False,,1191
-Genetically Modified Organism,Flux Balance Analysis,2,,False,,1192
-Genetics,Computational Model,2,,False,,1193
-Metabolic Waste,Extracellular,1,,False,,1194
-Metabolic Waste,Flux Balance Analysis,2,,False,,1195
-Anabolism,Ecology,2,,False,,1196
-Metabolic FluxAnalysis,Photosynthesis,2,,False,,1197
-Flux Balance Analysis,Photosynthesis,2,,False,,1198
-Bioprocess,Chromatography,2,,False,,1199
-Metabolic Engineering,Bioinformatics,22,,False,,12
-Yield,Flux BalanceAnalysis,1,,False,,120
-Differential Evolution,Chromatography,1,,False,,1200
-Differential Evolution,FluxBalanceAnalysis,2,,False,,1201
-Penalty Method,FluxBalanceAnalysis,4,,False,,1202
-Subspace Topology,Penalty Method,1,,False,,1203
-Subspace Topology,FluxBalanceAnalysis,2,,False,,1204
-Essential Nutrient,FluxBalanceAnalysis,2,,False,,1205
-Chemically Defined Medium,Essential Nutrient,1,,False,,1206
-Chemically Defined Medium,FluxBalanceAnalysis,1,,False,,1207
-Complex System,Biology,2,,False,,1208
-Linear System,Biochemistry,2,,False,,1209
-Respiratory Pathway,Flux BalanceAnalysis,1,,False,,121
-Computer Science,Computational Model,2,,False,,1210
-Biological Computation,Computer Science,1,,False,,1211
-Biological Computation,Flux Balance Analysis,2,,False,,1212
-Photophosphorylation,Biochemistry,2,,False,,1213
-Null Allele,Genetics,1,,False,,1214
-Null Allele,Flux Balance Analysis,2,,False,,1215
-Epistasis,Flux Balance Analysis,4,,False,,1216
-Model Organism,Bioinformatics,2,,False,,1217
-Microarray Analysis Techniques,Genetics,2,,False,,1218
-Heaviside Step Function,Penalty Method,1,,False,,1219
-Respiratory Pathway,Yield,1,,False,,122
-Heaviside Step Function,FluxBalanceAnalysis,2,,False,,1220
-Genetic Design,FluxBalanceAnalysis,2,,False,,1221
-Cell Metabolism,Genetic Design,1,,False,,1222
-Cell Metabolism,FluxBalanceAnalysis,2,,False,,1223
-Phloem,Botany,2,,False,,1224
-Phloem,FluxBalanceAnalysis,2,,False,,1225
-Second Law of Thermodynamics,Chromatography,1,,False,,1226
-Second Law of Thermodynamics,FluxBalanceAnalysis,2,,False,,1227
-Metagenomics,FluxBalanceAnalysis,4,,False,,1228
-Biotransformation,Metagenomics,1,,False,,1229
-Ecology,Flux (metallurgy),4,,False,,123
-Biotransformation,FluxBalanceAnalysis,2,,False,,1230
-Biotechnology,Biology,3,,False,,1231
-Biotechnology,Flux BalanceAnalysis,2,,False,,1232
-Electricity Generation,Flux BalanceAnalysis,2,,False,,1233
-Mixotroph,Electricity Generation,1,,False,,1234
-Mixotroph,Flux BalanceAnalysis,2,,False,,1235
-Flux BalanceAnalysis,Machine Learning,4,,False,,1236
-Feature Selection,Flux BalanceAnalysis,1,,False,,1237
-Feature Selection,Machine Learning,2,,False,,1238
-Stationary State,Flux BalanceAnalysis,1,,False,,1239
-Ecology,Flux BalanceAnalysis,28,,False,,124
-Markov Chain Monte Carlo,Flux BalanceAnalysis,1,,False,,1240
-Markov Chain Monte Carlo,Stationary State,1,,False,,1241
-Dilution,Biochemistry,1,,False,,1242
-Dilution,Flux BalanceAnalysis,2,,False,,1243
-Classical Mechanics,Biological Network,1,,False,,1244
-Classical Mechanics,Flux BalanceAnalysis,2,,False,,1245
-Bacillus Subtilis,Flux BalanceAnalysis,2,,False,,1246
-Linear Combination,Principle of Maximum Entropy,2,,False,,1247
-Bilevel Optimization,Mathematics,2,,False,,1248
-Bilevel Optimization,FluxBalanceAnalysis,2,,False,,1249
-Metabolic Flux Analysis,Metabolic Network,1,,False,,125
-Whole Genome Sequencing,Genetics,2,,False,,1250
-Excretion,Metabolomics,2,,False,,1251
-Excretion,FluxBalanceAnalysis,2,,False,,1252
-Model Organism,Symbiosis,2,,False,,1253
-Strain (chemistry),FluxBalanceAnalysis,2,,False,,1254
-Gene Expression Profiling,Extracellular,2,,False,,1255
-Linear Programming,Markup Language,2,,False,,1256
-Mathematics,Integer Programming,2,,False,,1257
-Integer Programming,FluxBalanceAnalysis,2,,False,,1258
-Visualization,Bioinformatics,2,,False,,1259
-Metabolic Flux Analysis,Flux BalanceAnalysis,7,,False,,126
-Bioprocess,Biofuel,2,,False,,1260
-Ecology,Biological Network,2,,False,,1261
-Ant Colony Optimization Algorithms,Metabolic Engineering,1,,False,,1262
-Ant Colony Optimization Algorithms,FluxBalanceAnalysis,2,,False,,1263
-Circadian Clock,Genetics,2,,False,,1264
-Circadian Clock,FluxBalanceAnalysis,2,,False,,1265
-Enzyme,Homeostasis,2,,False,,1266
-Enzyme,FluxBalanceAnalysis,2,,False,,1267
-Homeostasis,FluxBalanceAnalysis,2,,False,,1268
-Ecology,Computer Science,2,,False,,1269
-Glycolysis,Mitochondrion,4,,False,,127
-Applied Mathematics,Resource Allocation,2,,False,,1270
-Real Algebraic Geometry,FluxBalanceAnalysis,2,,False,,1271
-Quantifier Elimination,Real Algebraic Geometry,1,,False,,1272
-Quantifier Elimination,FluxBalanceAnalysis,2,,False,,1273
-Text Mining,Flux BalanceAnalysis,2,,False,,1274
-Metabolic Engineering,Computational Biology,2,,False,,1275
-Metabolic Engineering,Glycolysis,2,,False,,1276
-Computer Science,Cell Biology,2,,False,,1277
-Cell Biology,Flux BalanceAnalysis,2,,False,,1278
-Food Science,Biochemistry,4,,False,,1279
-Glycolysis,Flux BalanceAnalysis,10,,False,,128
-Food Science,Flux BalanceAnalysis,4,,False,,1280
-Metabolomics,Biology,2,,False,,1281
-Ecology,Bioinformatics,2,,False,,1282
-Bat Algorithm,Metabolic Engineering,2,,False,,1283
-Bat Algorithm,FluxBalanceAnalysis,2,,False,,1284
-Computational Biology,Mathematical Model,2,,False,,1285
-Ecological Network,Complex Network,1,,False,,1286
-Ecological Network,FluxBalanceAnalysis,2,,False,,1287
-Division of Labour,Metabolic Engineering,2,,False,,1288
-Division of Labour,FluxBalanceAnalysis,2,,False,,1289
-Metabolomics,Computational Biology,2,,False,,129
-Virulence,FluxBalanceAnalysis,2,,False,,1290
-Plasma Protein Binding,Biological Network,1,,False,,1291
-Plasma Protein Binding,FluxBalanceAnalysis,2,,False,,1292
-Biological Network,Metabolism,2,,False,,1293
-Applied Mathematics,Bounded Function,2,,False,,1294
-Bounded Function,FluxBalanceAnalysis,2,,False,,1295
-Flux BalanceAnalysis,Nuclear Magnetic Resonance,2,,False,,1296
-Metabolic Flux Analysis,Nuclear Magnetic Resonance,2,,False,,1297
-Strain (chemistry),Biology,2,,False,,1298
-Strain (chemistry),Flux BalanceAnalysis,4,,False,,1299
-Metabolic Engineering,Flux Balance Analysis,172,,False,,13
-Metabolomics,Flux BalanceAnalysis,20,,False,,130
-Anaerobic Exercise,Food Science,2,,False,,1300
-Anaerobic Exercise,Flux BalanceAnalysis,2,,False,,1301
-Fatty Acid Synthesis,Flux BalanceAnalysis,1,,False,,1302
-Fatty Acid Synthesis,Metabolic Network,2,,False,,1303
-Cancer,Flux BalanceAnalysis,2,,False,,1304
-Targeted Drug Delivery,Cancer,1,,False,,1305
-Targeted Drug Delivery,Flux BalanceAnalysis,2,,False,,1306
-Lipid Metabolism,Lipidomics,2,,False,,1307
-Lipid Metabolism,Flux BalanceAnalysis,2,,False,,1308
-Lipidomics,Flux BalanceAnalysis,2,,False,,1309
-Genetics,Gene Knockout,2,,False,,131
-Pearson Product-moment Correlation Coefficient,Biochemistry,2,,False,,1310
-Pearson Product-moment Correlation Coefficient,Flux BalanceAnalysis,2,,False,,1311
-Flux BalanceAnalysis,Evolutionary Algorithm,2,,False,,1312
-Bioprocess,Metabolic Network,2,,False,,1313
-Fluxomics,Proteomics,2,,False,,1314
-Metabolic Engineering,Bounded Function,2,,False,,1315
-Bounded Function,Flux Balance Analysis,2,,False,,1316
-Karush–Kuhn–Tucker Conditions,Mathematics,1,,False,,1317
-Karush–Kuhn–Tucker Conditions,Flux Balance Analysis,2,,False,,1318
-Epistasis And Functional Genomics,FluxBalanceAnalysis,2,,False,,1319
-High-throughput Screening,Flux BalanceAnalysis,2,,False,,132
-Ketone Bodies,Mitochondrion,1,,False,,1320
-Ketone Bodies,FluxBalanceAnalysis,2,,False,,1321
-Biophysics,Model Organism,2,,False,,1322
-Population Model,Bioinformatics,2,,False,,1323
-Population Model,FluxBalanceAnalysis,2,,False,,1324
-Medicine,Metabolism,1,,False,,1325
-Medicine,FluxBalanceAnalysis,2,,False,,1326
-Robust Control,Regularization (mathematics),1,,False,,1327
-Robust Control,FluxBalanceAnalysis,2,,False,,1328
-Metabolic Modeling,Metabolic FluxAnalysis,2,,False,,1329
-Synthetic Biology,High-throughput Screening,1,,False,,133
-Metabolic Modeling,FluxBalanceAnalysis,2,,False,,1330
-Genetics,Natural Selection,2,,False,,1331
-Natural Selection,Flux Balance Analysis,2,,False,,1332
-Negative Selection,Metabolic Engineering,1,,False,,1333
-Negative Selection,Flux Balance Analysis,2,,False,,1334
-Metabolic Engineering,Chemical Industry,2,,False,,1335
-Bioprocess,Mathematics,2,,False,,1336
-Flavin Group,Biology,2,,False,,1337
-Flavin Group,FluxBalanceAnalysis,2,,False,,1338
-Pentose Phosphate Pathway,Model Organism,2,,False,,1339
-Synthetic Biology,Flux BalanceAnalysis,5,,False,,134
-Minimal Genome,Genetics,2,,False,,1340
-Minimal Genome,FluxBalanceAnalysis,2,,False,,1341
-Metabolic Engineering,Carbohydrate Metabolism,2,,False,,1342
-Carbohydrate Metabolism,FluxBalanceAnalysis,2,,False,,1343
-Protein Expression,FluxBalanceAnalysis,2,,False,,1344
-Randomness,Protein Expression,1,,False,,1345
-Randomness,FluxBalanceAnalysis,2,,False,,1346
-Stringent Response,Recombinant DNA,2,,False,,1347
-Stringent Response,FluxBalanceAnalysis,2,,False,,1348
-Recombinant DNA,FluxBalanceAnalysis,2,,False,,1349
-Mathematics,Flux BalanceAnalysis,20,,False,,135
-Biochemistry,Drug Development,2,,False,,1350
-Drug Development,FluxBalanceAnalysis,2,,False,,1351
-Eubacterium Limosum,Chemical Engineering,1,,False,,1352
-Eubacterium Limosum,Flux BalanceAnalysis,2,,False,,1353
-Biomass Yield,Metabolic Network,2,,False,,1354
-Biomass Yield,Flux BalanceAnalysis,2,,False,,1355
-Convex Analysis,Chromatography,2,,False,,1356
-Convex Analysis,Flux BalanceAnalysis,2,,False,,1357
-Klebsiella Pneumoniae,Glycerol,1,,False,,1358
-Klebsiella Pneumoniae,Flux BalanceAnalysis,2,,False,,1359
-Logarithm,Mathematics,1,,False,,136
-Biomarker (medicine),Bioinformatics,4,,False,,1360
-Electronic Engineering,Computer Science,2,,False,,1361
-Electronic Engineering,Flux BalanceAnalysis,2,,False,,1362
-Microarray Analysis Techniques,Flux BalanceAnalysis,2,,False,,1363
-Physiology,Biology,2,,False,,1364
-Physiology,Flux BalanceAnalysis,2,,False,,1365
-Biology,Machine Learning,2,,False,,1366
-Modeling And Simulation,Flux BalanceAnalysis,1,,False,,1367
-Supercomputer,Flux BalanceAnalysis,1,,False,,1368
-Supercomputer,Modeling And Simulation,1,,False,,1369
-Logarithm,Flux BalanceAnalysis,2,,False,,137
-Ecology,Glycolysis,2,,False,,1370
-Metabolic Age,Genetics,2,,False,,1371
-Metabolic Age,Flux BalanceAnalysis,2,,False,,1372
-Metagenomics,Computational Biology,2,,False,,1373
-Integer,Flux BalanceAnalysis,2,,False,,1374
-Petri Net,Computer Science,2,,False,,1375
-Petri Net,Flux BalanceAnalysis,4,,False,,1376
-Nitrogen Cycle,Flux BalanceAnalysis,4,,False,,1377
-Ecology,Obligate,2,,False,,1378
-Obligate,Flux BalanceAnalysis,2,,False,,1379
-Extracellular,Chromatography,4,,False,,138
-Cascade,Mathematics,1,,False,,1380
-Cascade,Flux BalanceAnalysis,2,,False,,1381
-Linear System,Flux BalanceAnalysis,2,,False,,1382
-Lipschitz Continuity,Linear System,1,,False,,1383
-Lipschitz Continuity,Flux BalanceAnalysis,2,,False,,1384
-Biological Dispersal,Genetics,2,,False,,1385
-Biological Dispersal,Flux Balance Analysis,2,,False,,1386
-Pentose Phosphate Pathway,Personalized Medicine,2,,False,,1387
-Personalized Medicine,Flux Balance Analysis,2,,False,,1388
-Renewable Fuels,Biochemistry,2,,False,,1389
-Chlamydomonas Reinhardtii,Flux BalanceAnalysis,7,,False,,139
-Phenome,Metabolic FluxAnalysis,1,,False,,1390
-Phenome,Flux Balance Analysis,2,,False,,1391
-Biological Hydrogen Production,Flux Balance Analysis,1,,False,,1392
-Hydrogenase,Flux Balance Analysis,1,,False,,1393
-Hydrogenase,Biological Hydrogen Production,1,,False,,1394
-Energy Charge,Metabolic Engineering,2,,False,,1395
-Energy Charge,Flux Balance Analysis,2,,False,,1396
-Mathematics,Simulation,2,,False,,1397
-Simulation,Flux Balance Analysis,2,,False,,1398
-Genetic Algorithm,Biology,2,,False,,1399
-Metabolomics,Genetics,20,,False,,14
-Heterotroph,Biochemistry,6,,False,,140
-Synthetic Biology,FluxBalanceAnalysis,2,,False,,1400
-Algae Fuel,Synthetic Biology,1,,False,,1401
-Algae Fuel,FluxBalanceAnalysis,2,,False,,1402
-Integer,Visualization,2,,False,,1403
-Mixed Acid Fermentation,Biochemistry,2,,False,,1404
-Mixed Acid Fermentation,FluxBalanceAnalysis,2,,False,,1405
-Systems Biology,Metabolic Control Analysis,2,,False,,1406
-Bacterial Growth,Computational Biology,2,,False,,1407
-Experimental Data,Mathematical Optimization,2,,False,,1408
-Mathematical Optimization,FluxBalanceAnalysis,2,,False,,1409
-Heterotroph,Flux BalanceAnalysis,2,,False,,141
-Ethanol Fermentation,Biochemistry,1,,False,,1410
-Ethanol Fermentation,FluxBalanceAnalysis,2,,False,,1411
-Computational Biology,Transcription Factor,2,,False,,1412
-Elasticity Coefficient,Biophysics,1,,False,,1413
-Elasticity Coefficient,FluxBalanceAnalysis,2,,False,,1414
-Visualization,Genetics,2,,False,,1415
-Metabolic Engineering,Mathematics,2,,False,,1416
-Geometric Programming,Computer Science,2,,False,,1417
-Geometric Programming,FluxBalanceAnalysis,2,,False,,1418
-Environmental Science,Scalability,2,,False,,1419
-Pathway Analysis,Metabolic Network,1,,False,,142
-Food Science,Respiration,2,,False,,1420
-FluxBalanceAnalysis,Respiration,2,,False,,1421
-Bioplastic,Biochemistry,2,,False,,1422
-Bioplastic,FluxBalanceAnalysis,2,,False,,1423
-Gene Deletion,FluxBalanceAnalysis,2,,False,,1424
-Microorganism,Gene Deletion,1,,False,,1425
-Microorganism,FluxBalanceAnalysis,2,,False,,1426
-Redox Cycling,FluxBalanceAnalysis,2,,False,,1427
-Head And Neck Cancer,Redox Cycling,1,,False,,1428
-Head And Neck Cancer,FluxBalanceAnalysis,2,,False,,1429
-Pathway Analysis,Flux BalanceAnalysis,2,,False,,143
-Overfitting,Metabolic Engineering,1,,False,,1430
-Overfitting,Flux Balance Analysis,2,,False,,1431
-Monte Carlo Method,Biological Network,2,,False,,1432
-Computational Biology,Chemistry,2,,False,,1433
-Chromatography,Ethanol Fuel,2,,False,,1434
-Ethanol Fuel,Flux Balance Analysis,2,,False,,1435
-Timeline,Metabolic Engineering,4,,False,,1436
-Timeline,Flux Balance Analysis,2,,False,,1437
-Biological Network,Mathematics,2,,False,,1438
-Trial And Error,Genetic Algorithm,1,,False,,1439
-Biofuel,Flux BalanceAnalysis,8,,False,,144
-Trial And Error,Flux Balance Analysis,2,,False,,1440
-Null Model,Botany,2,,False,,1441
-Null Model,Flux Balance Analysis,2,,False,,1442
-Stochastic Game,Mathematics,2,,False,,1443
-Stochastic Game,Flux Balance Analysis,2,,False,,1444
-Crystallography,Flux (metallurgy),2,,False,,1445
-Crystallography,Flux Balance Analysis,4,,False,,1446
-PEP Group Translocation,Biochemistry,2,,False,,1447
-PEP Group Translocation,Flux BalanceAnalysis,2,,False,,1448
-Chemical Synthesis,Chromatography,1,,False,,1449
-Cyanobacteria,Biofuel,1,,False,,145
-Chemical Synthesis,Flux BalanceAnalysis,2,,False,,1450
-Recombinant Protein Production,Flux BalanceAnalysis,2,,False,,1451
-Recombinant Protein Production,Stringent Response,2,,False,,1452
-Flux BalanceAnalysis,Stringent Response,2,,False,,1453
-Biofuel,Control Theory,2,,False,,1454
-Control Theory,Flux BalanceAnalysis,2,,False,,1455
-Pseudomonas Putida,Flux BalanceAnalysis,2,,False,,1456
-Chemostat,Pseudomonas Putida,1,,False,,1457
-Chemostat,Flux BalanceAnalysis,2,,False,,1458
-Nash Equilibrium,Metabolic Network,1,,False,,1459
-Cyanobacteria,Flux BalanceAnalysis,4,,False,,146
-Nash Equilibrium,Flux BalanceAnalysis,2,,False,,1460
-Enterobacteriaceae,Metabolism,1,,False,,1461
-Enterobacteriaceae,Flux BalanceAnalysis,1,,False,,1462
-Mixed Acid Fermentation,Genetics,2,,False,,1463
-Mixed Acid Fermentation,Flux Balance Analysis,2,,False,,1464
-Crystallography,Monte Carlo Method,2,,False,,1465
-Lipid Metabolism,Gene Expression Profiling,2,,False,,1466
-Mitochondrion,Bioinformatics,2,,False,,1467
-Metabolic Engineering,Scalability,2,,False,,1468
-Scalability,Flux Balance Analysis,2,,False,,1469
-Virtual Screening,Flux BalanceAnalysis,1,,False,,147
-Systems Medicine,Metabolomics,1,,False,,1470
-Systems Medicine,Flux Balance Analysis,2,,False,,1471
-Nutraceutical,Metabolic Engineering,1,,False,,1472
-Nutraceutical,Flux Balance Analysis,2,,False,,1473
-Phosphoenolpyruvate Carboxykinase,Biochemistry,1,,False,,1474
-Phosphoenolpyruvate Carboxykinase,Flux Balance Analysis,2,,False,,1475
-Glycolysis,Mathematics,2,,False,,1476
-Biochemistry,Metabolic Flux Analysis,2,,False,,1477
-Metabolic Flux Analysis,Flux Balance Analysis,2,,False,,1478
-Protein Biosynthesis,Metabolic Engineering,2,,False,,1479
-Homology Modeling,Flux BalanceAnalysis,1,,False,,148
-Genetic Algorithm,Mathematics,2,,False,,1480
-Mitosome,Biological Network,1,,False,,1481
-Mitosome,Flux Balance Analysis,2,,False,,1482
-Oscillation,Computer Science,2,,False,,1483
-Oscillation,Flux Balance Analysis,2,,False,,1484
-Directed Hypergraph,Biomass,1,,False,,1485
-Directed Hypergraph,Flux BalanceAnalysis,1,,False,,1486
-Genetics,Drug Discovery,2,,False,,1487
-Prediction Algorithms,Computational Biology,1,,False,,1488
-Prediction Algorithms,Flux BalanceAnalysis,2,,False,,1489
-Homology Modeling,Virtual Screening,1,,False,,149
-Differential Evolution,Flux BalanceAnalysis,2,,False,,1490
-Gene Deletions,Differential Evolution,1,,False,,1491
-Gene Deletions,Flux BalanceAnalysis,2,,False,,1492
-Computation,Bioinformatics,2,,False,,1493
-Distributed Element Model,Flux BalanceAnalysis,2,,False,,1494
-Uncertainty Quantification,Distributed Element Model,1,,False,,1495
-Uncertainty Quantification,Flux BalanceAnalysis,2,,False,,1496
-Internal Medicine,Biology,1,,False,,1497
-Internal Medicine,Flux BalanceAnalysis,2,,False,,1498
-Linear Programming,Optimal Control,2,,False,,1499
-Metabolomics,Flux Balance Analysis,52,,False,,15
-Systems Biology,Flux BalanceAnalysis,12,,False,,150
-Optimal Control,Flux BalanceAnalysis,2,,False,,1500
-Mathematical Optimization,Biochemistry,2,,False,,1501
-Differential Search Algorithm,Flux BalanceAnalysis,1,,False,,1502
-Xylitol,Flux BalanceAnalysis,1,,False,,1503
-Xylitol,Differential Search Algorithm,1,,False,,1504
-Biophysics,Bacterial Growth,2,,False,,1505
-Singular Value Decomposition,Steady State,2,,False,,1506
-Singular Value Decomposition,Flux BalanceAnalysis,2,,False,,1507
-Yeast Metabolism,Synthetic Biology,2,,False,,1508
-Yeast Metabolism,Flux BalanceAnalysis,2,,False,,1509
-Type 2 Diabetes,Systems Biology,1,,False,,151
-Computational Biology,Rhizosphere,2,,False,,1510
-Rhizosphere,Flux BalanceAnalysis,2,,False,,1511
-Nutrient,Mathematics,1,,False,,1512
-Nutrient,Flux BalanceAnalysis,2,,False,,1513
-Neuroprotection,Ketone Bodies,2,,False,,1514
-Neuroprotection,Flux BalanceAnalysis,2,,False,,1515
-Ketone Bodies,Flux BalanceAnalysis,2,,False,,1516
-Metabolic Engineering,Biomarker (medicine),2,,False,,1517
-Metabolic Engineering,Design of Experiments,2,,False,,1518
-Information Theory,Computer Science,1,,False,,1519
-Type 2 Diabetes,Flux BalanceAnalysis,2,,False,,152
-Information Theory,Flux BalanceAnalysis,2,,False,,1520
-Nitrogen Cycle,Bioinformatics,2,,False,,1521
-Carbon Sequestration,Environmental Chemistry,2,,False,,1522
-Carbon Sequestration,Flux BalanceAnalysis,2,,False,,1523
-Environmental Chemistry,Flux BalanceAnalysis,2,,False,,1524
-High-performance Liquid Chromatography,Flux BalanceAnalysis,2,,False,,1525
-High-performance Liquid Chromatography,Metabolic Network,2,,False,,1526
-Serotype,Biology,2,,False,,1527
-Serotype,Flux BalanceAnalysis,2,,False,,1528
-Photosynthesis,Flux BalanceAnalysis,2,,False,,1529
-Malaria,Flux BalanceAnalysis,1,,False,,153
-Terpenoid,Photosynthesis,1,,False,,1530
-Terpenoid,Flux BalanceAnalysis,1,,False,,1531
-Metabolic Engineering,Isotopic Labeling,2,,False,,1532
-Differential Equation,Ordinary Differential Equation,1,,False,,1533
-Differential Equation,Flux BalanceAnalysis,1,,False,,1534
-Metabolic Engineering,Thermophile,2,,False,,1535
-Thermophile,Flux BalanceAnalysis,2,,False,,1536
-Glycolate Metabolism,Systems Biology,1,,False,,1537
-Glycolate Metabolism,Flux BalanceAnalysis,2,,False,,1538
-Boolean Data Type,Bilevel Optimization,1,,False,,1539
-Malaria,Metabolic Network,2,,False,,154
-Boolean Data Type,Flux BalanceAnalysis,2,,False,,1540
-Ode,Petri Net,2,,False,,1541
-Chemical Industry,Flux BalanceAnalysis,2,,False,,1542
-Computer Science,Mathematical Model,2,,False,,1543
-Principal Component Analysis,Computer Science,2,,False,,1544
-Principal Component Analysis,Flux BalanceAnalysis,2,,False,,1545
-Cancer Metabolism,Flux BalanceAnalysis,1,,False,,1546
-Cancer Metabolism,Personalized Medicine,2,,False,,1547
-Bioinformatics,Natural Selection,2,,False,,1548
-Natural Selection,Flux BalanceAnalysis,4,,False,,1549
-Carbohydrate Metabolism,Flux BalanceAnalysis,4,,False,,155
-Biofuel,Genetics,2,,False,,1550
-Ecology,Osmoprotectant,2,,False,,1551
-Osmoprotectant,Flux BalanceAnalysis,2,,False,,1552
-Directed Evolution,Metabolic Engineering,1,,False,,1553
-Directed Evolution,Flux BalanceAnalysis,2,,False,,1554
-Mathematical And Theoretical Biology,Flux BalanceAnalysis,2,,False,,1555
-Second-order Cone Programming,Mathematical And Theoretical Biology,1,,False,,1556
-Second-order Cone Programming,Flux BalanceAnalysis,2,,False,,1557
-Quantum Mechanics,Natural Selection,2,,False,,1558
-Boolean Network,Drug Discovery,2,,False,,1559
-Proteomics,Carbohydrate Metabolism,1,,False,,156
-Boolean Network,Flux BalanceAnalysis,2,,False,,1560
-Specification,Flux BalanceAnalysis,1,,False,,1561
-Modelling Biological Systems,Flux BalanceAnalysis,1,,False,,1562
-Modelling Biological Systems,Specification,1,,False,,1563
-Compartmentalization (psychology),Genetics,2,,False,,1564
-Compartmentalization (psychology),Flux BalanceAnalysis,2,,False,,1565
-Ecology,Stochastic Simulation,2,,False,,1566
-Stochastic Simulation,Flux BalanceAnalysis,2,,False,,1567
-Biophysics,Mitochondrion,2,,False,,1568
-Cancer Cell,Biology,1,,False,,1569
-Proteomics,Flux BalanceAnalysis,10,,False,,157
-Cancer Cell,Flux BalanceAnalysis,2,,False,,1570
-Timeline,FluxBalanceAnalysis,2,,False,,1571
-Computational Science,Visualization,2,,False,,1572
-Simulated Annealing,FluxBalanceAnalysis,1,,False,,1573
-Simulated Annealing,Metabolic Engineering,1,,False,,1574
-Cancer,FluxBalanceAnalysis,2,,False,,1575
-Penicillin,Cancer,1,,False,,1576
-Penicillin,FluxBalanceAnalysis,2,,False,,1577
-Scale-free Network,Computational Biology,2,,False,,1578
-Scale-free Network,FluxBalanceAnalysis,2,,False,,1579
-Markup Language,Bioinformatics,2,,False,,158
-Branch-decomposition,Biochemistry,2,,False,,1580
-Branch-decomposition,FluxBalanceAnalysis,2,,False,,1581
-Ecology,Exponential Growth,2,,False,,1582
-Exponential Growth,FluxBalanceAnalysis,2,,False,,1583
-Metabolic Engineering,Human Genetics,2,,False,,1584
-Human Genetics,FluxBalanceAnalysis,2,,False,,1585
-Biotechnology,FluxBalanceAnalysis,2,,False,,1586
-Biodegradation,Text Mining,1,,False,,1587
-Biodegradation,FluxBalanceAnalysis,2,,False,,1588
-PEP Group Translocation,Genetics,2,,False,,1589
-Markup Language,Flux Balance Analysis,2,,False,,159
-PEP Group Translocation,FluxBalanceAnalysis,4,,False,,1590
-Phosphorylation,PEP Group Translocation,2,,False,,1591
-Phosphorylation,FluxBalanceAnalysis,2,,False,,1592
-Experimental Data,Genetics,1,,False,,16
-Biochemistry,Biology,58,,False,,160
-Experimental Data,Computational Biology,4,,False,,161
-Linear Programming,Bioinformatics,2,,False,,162
-Linear Programming,Flux Balance Analysis,24,,False,,163
-Gene,Biology,1,,False,,164
-Gene,Flux Balance Analysis,4,,False,,165
-Proteomics,Flux Balance Analysis,22,,False,,166
-DNA Sequencing,Proteomics,3,,False,,167
-DNA Sequencing,Flux Balance Analysis,10,,False,,168
-Multicellular Organism,Bioinformatics,1,,False,,169
-Experimental Data,Flux Balance Analysis,12,,False,,17
-Multicellular Organism,Flux Balance Analysis,2,,False,,170
-Epistasis And Functional Genomics,Genetics,4,,False,,171
-Epistasis And Functional Genomics,Flux Balance Analysis,2,,False,,172
-FluxBalanceAnalysis,Proteomics,16,,False,,173
-Lipidomics,FluxBalanceAnalysis,1,,False,,174
-Lipidomics,Proteomics,2,,False,,175
-Ethanol,FluxBalanceAnalysis,3,,False,,176
-Xylose,FluxBalanceAnalysis,3,,False,,177
-Xylose,Ethanol,3,,False,,178
-Integer,FluxBalanceAnalysis,10,,False,,179
-Bilevel Optimization,Flux Balance Analysis,4,,False,,18
-Theoretical Computer Science,Integer,1,,False,,180
-Theoretical Computer Science,FluxBalanceAnalysis,2,,False,,181
-Biophysics,FluxBalanceAnalysis,16,,False,,182
-Electron Transport Chain,Biophysics,1,,False,,183
-Electron Transport Chain,FluxBalanceAnalysis,6,,False,,184
-Metabolic Engineering,FluxBalanceAnalysis,138,,False,,185
-Process Engineering,Metabolic Engineering,1,,False,,186
-Process Engineering,FluxBalanceAnalysis,4,,False,,187
-Genetics,FluxBalanceAnalysis,72,,False,,188
-Biology,FluxBalanceAnalysis,66,,False,,189
-Biochemistry,Bilevel Optimization,1,,False,,19
-Metabolic Control Analysis,FluxBalanceAnalysis,4,,False,,190
-The Arts,Metabolic Control Analysis,1,,False,,191
-The Arts,FluxBalanceAnalysis,2,,False,,192
-Yersiniabactin,FluxBalanceAnalysis,1,,False,,193
-6-deoxyerythronolide B,FluxBalanceAnalysis,1,,False,,194
-6-deoxyerythronolide B,Yersiniabactin,1,,False,,195
-Fluxomics,Computer Science,4,,False,,196
-Fluxomics,FluxBalanceAnalysis,38,,False,,197
-Computer Science,FluxBalanceAnalysis,54,,False,,198
-Computer Science,Linear Programming,12,,False,,199
-Flux Balance Analysis,Biology,123,,False,,2
-Biochemistry,Flux Balance Analysis,234,,False,,20
-Linear Programming,FluxBalanceAnalysis,16,,False,,200
-Metabolomics,FluxBalanceAnalysis,38,,False,,201
-Taxus,FluxBalanceAnalysis,2,,False,,202
-Methyl Jasmonate,Taxus,1,,False,,203
-Methyl Jasmonate,FluxBalanceAnalysis,2,,False,,204
-Metabolic Engineering,Fluxomics,16,,False,,205
-Neuroblastoma RAS Viral Oncogene Homolog,Extracellular,4,,False,,206
-Neuroblastoma RAS Viral Oncogene Homolog,FluxBalanceAnalysis,2,,False,,207
-Extracellular,FluxBalanceAnalysis,8,,False,,208
-Machine Learning,Bioinformatics,2,,False,,209
-Ecology,Computational Biology,6,,False,,21
-Machine Learning,FluxBalanceAnalysis,4,,False,,210
-Bioinformatics,FluxBalanceAnalysis,104,,False,,211
-Transcriptional Regulation,Bioinformatics,4,,False,,212
-Transcriptional Regulation,FluxBalanceAnalysis,2,,False,,213
-Cellular Potts Model,FluxBalanceAnalysis,2,,False,,214
-Synchronization,Cellular Potts Model,1,,False,,215
-Synchronization,FluxBalanceAnalysis,2,,False,,216
-PI3K/AKT/mTOR Pathway,Biology,2,,False,,217
-PI3K/AKT/mTOR Pathway,FluxBalanceAnalysis,2,,False,,218
-Particle Swarm Optimization,Bioinformatics,1,,False,,219
-Ecology,Flux Balance Analysis,60,,False,,22
-Particle Swarm Optimization,FluxBalanceAnalysis,1,,False,,220
-Nuclear Magnetic Resonance,Metabolism,2,,False,,221
-Nuclear Magnetic Resonance,FluxBalanceAnalysis,2,,False,,222
-Metabolism,FluxBalanceAnalysis,30,,False,,223
-Metabolomics,Bioinformatics,8,,False,,224
-Plasmodium Falciparum,Flux Balance Analysis,1,,False,,225
-Metabolic Control Analysis,Flux Balance Analysis,8,,False,,226
-Thermodynamics,Metabolic Control Analysis,1,,False,,227
-Thermodynamics,Flux Balance Analysis,2,,False,,228
-Computational Biology,Biology,8,,False,,229
-Genetics,Biology,18,,False,,23
-CRISPR,Biofuel,2,,False,,230
-CRISPR,Flux Balance Analysis,2,,False,,231
-Biofuel,Flux Balance Analysis,22,,False,,232
-Proteomics,Computational Biology,2,,False,,233
-Mammary Gland,Flux Balance Analysis,1,,False,,234
-Applied Mathematics,Mathematics,6,,False,,235
-Applied Mathematics,Flux Balance Analysis,4,,False,,236
-Mathematics,Flux Balance Analysis,22,,False,,237
-Cupriavidus Necator,Flux Balance Analysis,3,,False,,238
-Cupriavidus Necator,Metabolic Control Analysis,1,,False,,239
-Agronomy,Biochemistry,2,,False,,24
-Metabolic Engineering,Computer Science,32,,False,,240
-Computer Science,Flux Balance Analysis,74,,False,,241
-Escherichia Coli,Flux Balance Analysis,2,,False,,242
-Genetics,Botany,4,,False,,243
-Botany,Flux Balance Analysis,32,,False,,244
-"Fructose 1,6-bisphosphatase",Metabolism,2,,False,,245
-"Fructose 1,6-bisphosphatase",Flux Balance Analysis,2,,False,,246
-Metabolism,Flux Balance Analysis,20,,False,,247
-Computation,Linear Programming,1,,False,,248
-Computation,Flux Balance Analysis,8,,False,,249
-Agronomy,Flux Balance Analysis,2,,False,,25
-Cyanobacteria,Flux Balance Analysis,4,,False,,250
-Phenylalanine,Cyanobacteria,1,,False,,251
-Phenylalanine,Flux Balance Analysis,1,,False,,252
-Graphical User Interface,Computer Science,2,,False,,253
-Graphical User Interface,Flux Balance Analysis,4,,False,,254
-Glycolysis,Genetics,2,,False,,255
-Glycolysis,Flux Balance Analysis,20,,False,,256
-Algorithm,FluxBalanceAnalysis,14,,False,,257
-Scalability,Algorithm,1,,False,,258
-Scalability,FluxBalanceAnalysis,6,,False,,259
-Metabolic Engineering,Biochemistry,92,,False,,26
-Food Science,Genetics,2,,False,,260
-Food Science,FluxBalanceAnalysis,16,,False,,261
-Fermentation,FluxBalanceAnalysis,6,,False,,262
-Saccharomyces Cerevisiae,Fermentation,1,,False,,263
-Saccharomyces Cerevisiae,FluxBalanceAnalysis,4,,False,,264
-Mathematics,Cellular Automaton,2,,False,,265
-Mathematics,FluxBalanceAnalysis,38,,False,,266
-Cellular Automaton,FluxBalanceAnalysis,2,,False,,267
-Mathematics,Bioinformatics,2,,False,,268
-Acidogenesis,Biochemistry,2,,False,,269
-Gene Expression Profiling,Flux Balance Analysis,12,,False,,27
-Acidogenesis,FluxBalanceAnalysis,2,,False,,270
-Biochemistry,FluxBalanceAnalysis,178,,False,,271
-Control Theory,Computer Science,1,,False,,272
-Control Theory,FluxBalanceAnalysis,4,,False,,273
-Enhanced Biological Phosphorus Removal,Biochemistry,2,,False,,274
-Enhanced Biological Phosphorus Removal,FluxBalanceAnalysis,2,,False,,275
-3-Hydroxypropionic Acid,Flux BalanceAnalysis,1,,False,,276
-Glycerol,Flux BalanceAnalysis,5,,False,,277
-Glycerol,3-Hydroxypropionic Acid,1,,False,,278
-Ecology,Biology,10,,False,,279
-Gene Cluster,Gene Expression Profiling,1,,False,,28
-Steady State,Computer Science,4,,False,,280
-Steady State,Flux BalanceAnalysis,8,,False,,281
-Lactococcus Lactis,Saccharomyces Cerevisiae,2,,False,,282
-Lactococcus Lactis,Flux BalanceAnalysis,2,,False,,283
-Saccharomyces Cerevisiae,Flux BalanceAnalysis,4,,False,,284
-Phenotypic Plasticity,Flux BalanceAnalysis,2,,False,,285
-Neutral Theory of Molecular Evolution,Phenotypic Plasticity,1,,False,,286
-Neutral Theory of Molecular Evolution,Flux BalanceAnalysis,2,,False,,287
-Biophysics,Genetics,6,,False,,288
-Genome Scale,Computational Biology,1,,False,,289
-Gene Cluster,Flux Balance Analysis,2,,False,,29
-Genome Scale,Flux BalanceAnalysis,1,,False,,290
-Dynamic Simulation,Flux BalanceAnalysis,2,,False,,291
-Phytophthora Infestans,FluxBalanceAnalysis,1,,False,,292
-Source Code,Mathematics,1,,False,,293
-Source Code,FluxBalanceAnalysis,2,,False,,294
-Experimental Data,FluxBalanceAnalysis,12,,False,,295
-Computational Biology,FluxBalanceAnalysis,30,,False,,296
-Food Science,Metabolism,2,,False,,297
-Algae,FluxBalanceAnalysis,2,,False,,298
-Carbon,Algae,1,,False,,299
-Fluxomics,Flux Balance Analysis,36,,False,,3
-Genetics,Bioinformatics,32,,False,,30
-Carbon,FluxBalanceAnalysis,2,,False,,300
-Gibbs Free Energy,Systems Biology,2,,False,,301
-Gibbs Free Energy,FluxBalanceAnalysis,2,,False,,302
-Systems Biology,FluxBalanceAnalysis,14,,False,,303
-Operations Research,Engineering,2,,False,,304
-Operations Research,FluxBalanceAnalysis,2,,False,,305
-Engineering,FluxBalanceAnalysis,4,,False,,306
-Energy Metabolism,FluxBalanceAnalysis,4,,False,,307
-Orthogonality,Energy Metabolism,1,,False,,308
-Orthogonality,FluxBalanceAnalysis,2,,False,,309
-Systems Biology,Biology,1,,False,,31
-Bioprocess,Genetics,2,,False,,310
-Bioprocess,FluxBalanceAnalysis,12,,False,,311
-Resource Allocation,Biological Network,1,,False,,312
-Resource Allocation,Flux BalanceAnalysis,4,,False,,313
-Methanosarcina,Flux BalanceAnalysis,2,,False,,314
-Geobacter,Methanosarcina,1,,False,,315
-Geobacter,Flux BalanceAnalysis,2,,False,,316
-Kidney,Bioinformatics,1,,False,,317
-Kidney,Flux BalanceAnalysis,2,,False,,318
-Regulator,Flux BalanceAnalysis,2,,False,,319
-Systems Biology,Flux Balance Analysis,6,,False,,32
-Immune System,Regulator,1,,False,,320
-Immune System,Flux BalanceAnalysis,2,,False,,321
-Biological Pathway,Computer Network,2,,False,,322
-Biological Pathway,Flux BalanceAnalysis,4,,False,,323
-Archaea,Flux BalanceAnalysis,1,,False,,324
-Archaea,Biochemistry,1,,False,,325
-Ecology,Multicellular Organism,2,,False,,326
-Multicellular Organism,Flux BalanceAnalysis,2,,False,,327
-Comparative Biology,Genetics,2,,False,,328
-Comparative Biology,Flux BalanceAnalysis,2,,False,,329
-Lipid Metabolism,Biology,2,,False,,33
-Computer Science,Computation,6,,False,,330
-Computation,Flux BalanceAnalysis,4,,False,,331
-Protein Biosynthesis,Carbohydrate Metabolism,2,,False,,332
-Protein Biosynthesis,Flux BalanceAnalysis,2,,False,,333
-Chloroplast,Genetics,1,,False,,334
-Chloroplast,Flux BalanceAnalysis,2,,False,,335
-Mathematical Optimization,Metabolic Engineering,2,,False,,336
-Mathematical Optimization,Flux BalanceAnalysis,6,,False,,337
-Neuroblastoma RAS Viral Oncogene Homolog,Flux BalanceAnalysis,2,,False,,338
-Applied Mathematics,Metabolic Network,2,,False,,339
-Lipid Metabolism,Flux Balance Analysis,14,,False,,34
-Ordinary Differential Equation,Flux BalanceAnalysis,4,,False,,340
-Adipose Tissue,Ordinary Differential Equation,1,,False,,341
-Adipose Tissue,Flux BalanceAnalysis,1,,False,,342
-Gene Expression,Biology,1,,False,,343
-Gene Expression,Flux BalanceAnalysis,2,,False,,344
-Biofuel,FluxBalanceAnalysis,14,,False,,345
-Biofuel,Systems Biology,2,,False,,346
-DNA Sequencing,FluxBalanceAnalysis,6,,False,,347
-Microbiology,DNA Sequencing,1,,False,,348
-Microbiology,FluxBalanceAnalysis,4,,False,,349
-Metabolic Engineering,Genetics,18,,False,,35
-Integer,Metabolic Engineering,4,,False,,350
-Metabolic Pathway,FluxBalanceAnalysis,1,,False,,351
-Nitrogen Assimilation,Metabolic Engineering,4,,False,,352
-Nitrogen Assimilation,FluxBalanceAnalysis,2,,False,,353
-Ode,Genetics,2,,False,,354
-Ode,FluxBalanceAnalysis,2,,False,,355
-Stochastic Simulation,Proteomics,2,,False,,356
-Stochastic Simulation,FluxBalanceAnalysis,2,,False,,357
-Bioprocess,Bioinformatics,2,,False,,358
-Knowledge Base,Flux Balance Analysis,4,,False,,359
-Chemical Industry,Biochemistry,4,,False,,36
-Human Pathogen,Knowledge Base,1,,False,,360
-Human Pathogen,Flux Balance Analysis,4,,False,,361
-Aspergillus Niger,Flux Balance Analysis,1,,False,,362
-Functional Genomics,Flux Balance Analysis,1,,False,,363
-Functional Genomics,Aspergillus Niger,1,,False,,364
-Metabolic Engineering,Biology,10,,False,,365
-Thermophile,Biofuel,2,,False,,366
-Thermophile,Flux Balance Analysis,4,,False,,367
-Anaerobic Exercise,Biochemistry,6,,False,,368
-Anaerobic Exercise,Flux Balance Analysis,8,,False,,369
-Chemical Industry,Flux Balance Analysis,4,,False,,37
-Herbivore,Ecology,1,,False,,370
-Herbivore,Flux Balance Analysis,2,,False,,371
-Gene Duplication,Genetics,4,,False,,372
-Gene Duplication,Flux Balance Analysis,4,,False,,373
-Discrete Mathematics,Mathematics,1,,False,,374
-Discrete Mathematics,FluxBalanceAnalysis,2,,False,,375
-Algorithm,Mathematics,8,,False,,376
-Applied Mathematics,FluxBalanceAnalysis,12,,False,,377
-Symbiosis,FluxBalanceAnalysis,8,,False,,378
-Microbiome,Symbiosis,1,,False,,379
-Whole Genome Sequencing,Flux Balance Analysis,10,,False,,38
-Microbiome,FluxBalanceAnalysis,4,,False,,380
-Genetic Algorithm,FluxBalanceAnalysis,4,,False,,381
-Bioinformatics,Computational Biology,20,,False,,382
-Robustness (computer Science),Computer Science,1,,False,,383
-Robustness (computer Science),FluxBalanceAnalysis,2,,False,,384
-Symbiosis,Botany,4,,False,,385
-Botany,FluxBalanceAnalysis,18,,False,,386
-Glycerol,Bilevel Optimization,2,,False,,387
-Bilevel Optimization,Flux BalanceAnalysis,4,,False,,388
-Bacterial Growth,Flux BalanceAnalysis,4,,False,,389
-Open Reading Frame,Whole Genome Sequencing,3,,False,,39
-Michaelis–Menten Kinetics,Bacterial Growth,1,,False,,390
-Michaelis–Menten Kinetics,Flux BalanceAnalysis,2,,False,,391
-Quorum Sensing,Flux BalanceAnalysis,2,,False,,392
-Indole Test,Quorum Sensing,1,,False,,393
-Indole Test,Flux BalanceAnalysis,2,,False,,394
-Biophysics,Metabolism,2,,False,,395
-Complex Network,Biological Network,1,,False,,396
-Complex Network,Flux BalanceAnalysis,4,,False,,397
-Bioprocess,Environmental Science,4,,False,,398
-Bioprocess,Flux BalanceAnalysis,8,,False,,399
-Genetics,Fluxomics,3,,False,,4
-Open Reading Frame,Flux Balance Analysis,4,,False,,40
-Computer Science,Mathematical Optimization,2,,False,,400
-Metabolic Engineering,Biological Pathway,2,,False,,401
-Pentose Phosphate Pathway,Biochemistry,26,,False,,402
-Clostridium Ljungdahlii,Flux BalanceAnalysis,1,,False,,403
-Wood–Ljungdahl Pathway,Flux BalanceAnalysis,1,,False,,404
-Wood–Ljungdahl Pathway,Clostridium Ljungdahlii,1,,False,,405
-Pichia Pastoris,Flux BalanceAnalysis,2,,False,,406
-Pichia Pastoris,Metabolic Flux Analysis,2,,False,,407
-Muconic Acid,Flux BalanceAnalysis,1,,False,,408
-Aromatic Amino Acids,Flux BalanceAnalysis,1,,False,,409
-Drug Discovery,Computational Biology,1,,False,,41
-Aromatic Amino Acids,Muconic Acid,1,,False,,410
-Chemical Engineering,Flux BalanceAnalysis,4,,False,,411
-Computational Science,Computer Science,4,,False,,412
-Computational Science,Flux BalanceAnalysis,4,,False,,413
-Registry of Standard Biological Parts,Flux BalanceAnalysis,2,,False,,414
-Microbial Metabolism,Registry of Standard Biological Parts,1,,False,,415
-Microbial Metabolism,Flux BalanceAnalysis,2,,False,,416
-Computational Science,FluxBalanceAnalysis,4,,False,,417
-Protein–protein Interaction,Computational Science,1,,False,,418
-Protein–protein Interaction,FluxBalanceAnalysis,2,,False,,419
-Flux BalanceAnalysis,Computational Biology,35,,False,,42
-Control Engineering,Engineering,1,,False,,420
-Control Engineering,FluxBalanceAnalysis,2,,False,,421
-Mathematics,Experimental Data,2,,False,,422
-Mathematics,Steady State,2,,False,,423
-Steady State,FluxBalanceAnalysis,16,,False,,424
-Avermectin,FluxBalanceAnalysis,1,,False,,425
-Simulation,Metabolic Network,2,,False,,426
-Simulation,FluxBalanceAnalysis,6,,False,,427
-Metabolic Network,FluxBalanceAnalysis,10,,False,,428
-Agent-based Model,FluxBalanceAnalysis,2,,False,,429
-Flux BalanceAnalysis,Drug Discovery,5,,False,,43
-Stochastic Modelling,Agent-based Model,1,,False,,430
-Stochastic Modelling,FluxBalanceAnalysis,2,,False,,431
-Metabolic FluxAnalysis,Metabolic Engineering,2,,False,,432
-Metabolic FluxAnalysis,FluxBalanceAnalysis,10,,False,,433
-Synechocystis Sp.,Metabolic Engineering,1,,False,,434
-Synechocystis Sp.,FluxBalanceAnalysis,2,,False,,435
-Environmental Science,FluxBalanceAnalysis,8,,False,,436
-Mechanics,Environmental Science,1,,False,,437
-Mechanics,FluxBalanceAnalysis,2,,False,,438
-Pentose Phosphate Pathway,FluxBalanceAnalysis,18,,False,,439
-Botany,Biology,8,,False,,44
-Biofilm,Pentose Phosphate Pathway,1,,False,,440
-Biofilm,FluxBalanceAnalysis,4,,False,,441
-Protein Biosynthesis,Heterotroph,2,,False,,442
-Protein Biosynthesis,FluxBalanceAnalysis,4,,False,,443
-Heterotroph,FluxBalanceAnalysis,4,,False,,444
-Yeast,FluxBalanceAnalysis,2,,False,,445
-Vanillin,Yeast,1,,False,,446
-Vanillin,FluxBalanceAnalysis,2,,False,,447
-Model Organism,FluxBalanceAnalysis,26,,False,,448
-Programmed Cell Death,Model Organism,1,,False,,449
-Botany,Flux BalanceAnalysis,8,,False,,45
-Programmed Cell Death,FluxBalanceAnalysis,2,,False,,450
-Mathematical Model,Biochemistry,1,,False,,451
-Mathematical Model,FluxBalanceAnalysis,4,,False,,452
-MAPK/ERK Pathway,FluxBalanceAnalysis,2,,False,,453
-Transcription Factor,MAPK/ERK Pathway,1,,False,,454
-Transcription Factor,FluxBalanceAnalysis,6,,False,,455
-Resource Allocation,FluxBalanceAnalysis,4,,False,,456
-Pentose Phosphate Pathway,Metabolic Engineering,8,,False,,457
-Cell Growth,Flux BalanceAnalysis,2,,False,,458
-Exponential Growth,Cell Growth,1,,False,,459
-Biology,Flux BalanceAnalysis,66,,False,,46
-Exponential Growth,Flux BalanceAnalysis,4,,False,,460
-Biology,Metabolic Network,4,,False,,461
-Visualization,Mathematics,1,,False,,462
-Visualization,Flux BalanceAnalysis,2,,False,,463
-Metabolic Engineering,Environmental Science,4,,False,,464
-Bioreactor,Chlamydomonas Reinhardtii,1,,False,,465
-Bioreactor,Flux BalanceAnalysis,2,,False,,466
-Polyketide,Flux BalanceAnalysis,1,,False,,467
-Extracellular,Biochemistry,8,,False,,468
-Metagenomics,Systems Biology,2,,False,,469
-Nitrogen Assimilation,Computational Biology,2,,False,,47
-Metagenomics,Flux BalanceAnalysis,10,,False,,470
-Genetics,Metabolism,4,,False,,471
-Synthetic Biology,Flux Balance Analysis,2,,False,,472
-Ozone Depletion,Synthetic Biology,1,,False,,473
-Ozone Depletion,Flux Balance Analysis,2,,False,,474
-Heterotroph,Genetics,2,,False,,475
-Heterotroph,Flux Balance Analysis,8,,False,,476
-Food Science,Flux Balance Analysis,4,,False,,477
-Chemistry,Food Science,1,,False,,478
-Chemistry,Flux Balance Analysis,5,,False,,479
-Nitrogen Assimilation,Flux BalanceAnalysis,4,,False,,48
-Resource Allocation,Genetics,2,,False,,480
-Resource Allocation,Flux Balance Analysis,8,,False,,481
-Reaction Mechanism,Metabolic Network,2,,False,,482
-Reaction Mechanism,Flux Balance Analysis,2,,False,,483
-Metabolic Network,Flux Balance Analysis,12,,False,,484
-Microbial Population Biology,Computer Science,1,,False,,485
-Microbial Population Biology,Flux Balance Analysis,2,,False,,486
-Pseudomonas Aeruginosa,Flux Balance Analysis,1,,False,,487
-Model Organism,Glycolysis,2,,False,,488
-Model Organism,Flux Balance Analysis,10,,False,,489
-Escherichia Coli,Flux BalanceAnalysis,4,,False,,49
-Genome Size,Computer Science,1,,False,,490
-Genome Size,Flux Balance Analysis,2,,False,,491
-Marine Biology,Flux Balance Analysis,2,,False,,492
-Marine Biology,Cyanobacteria,2,,False,,493
-Extracellular,Flux Balance Analysis,8,,False,,494
-Metabolic Engineering,Algorithm,6,,False,,495
-Algorithm,Flux Balance Analysis,4,,False,,496
-Experimental Data,Bioinformatics,2,,False,,497
-Network Analysis,Metabolic Engineering,3,,False,,498
-Network Analysis,Flux Balance Analysis,18,,False,,499
-Genetics,Flux Balance Analysis,140,,False,,5
-Computer Network,Escherichia Coli,1,,False,,50
-Cholesterol Side-chain Cleavage Enzyme,Genetics,1,,False,,500
-Cholesterol Side-chain Cleavage Enzyme,Flux Balance Analysis,2,,False,,501
-Microbial Fuel Cell,Flux Balance Analysis,1,,False,,502
-Microbial Fuel Cell,Metabolic Engineering,2,,False,,503
-Ecology,Environmental Science,2,,False,,504
-Environmental Science,Flux Balance Analysis,4,,False,,505
-Glycolysis,Biochemistry,10,,False,,506
-Ecology,Thermophile,2,,False,,507
-Fluxomics,Computation,2,,False,,508
-Metabolic Engineering,Proteomics,4,,False,,509
-Computer Network,Flux BalanceAnalysis,4,,False,,51
-Biofuel,Mathematical Model,2,,False,,510
-Mathematical Model,Flux Balance Analysis,2,,False,,511
-Biological Database,Metabolomics,2,,False,,512
-Biological Database,Flux Balance Analysis,4,,False,,513
-Personalized Medicine,Proteomics,2,,False,,514
-Personalized Medicine,Flux BalanceAnalysis,4,,False,,515
-Computer Science,Metabolic Network,4,,False,,516
-Source Code,Genetics,4,,False,,517
-Source Code,Flux BalanceAnalysis,4,,False,,518
-Metabolic Network Modelling,Flux BalanceAnalysis,2,,False,,519
-Gene Expression Profiling,Flux BalanceAnalysis,4,,False,,52
-Metabolic Network Modelling,Systems Biology,2,,False,,520
-Metagenomics,Ecology,10,,False,,521
-Chlamydomonas,Flux BalanceAnalysis,2,,False,,522
-Biomass,Chlamydomonas,1,,False,,523
-Biomass,Flux BalanceAnalysis,4,,False,,524
-Minimal Genome,Flux BalanceAnalysis,2,,False,,525
-Gene Deletion,Minimal Genome,1,,False,,526
-Gene Deletion,Flux BalanceAnalysis,2,,False,,527
-Genomics,Metabolic Network,2,,False,,528
-Genomics,Flux BalanceAnalysis,2,,False,,529
-Systems Analysis,Gene Expression Profiling,1,,False,,53
-Linear Combination,Exponential Growth,2,,False,,530
-Linear Combination,Flux BalanceAnalysis,2,,False,,531
-Ageing,Metabolomics,1,,False,,532
-Ageing,FluxBalanceAnalysis,2,,False,,533
-Ontology,Fluxomics,1,,False,,534
-Ontology,FluxBalanceAnalysis,2,,False,,535
-Bioreactor,FluxBalanceAnalysis,2,,False,,536
-Process Engineering,Environmental Science,2,,False,,537
-Genetics,Epistasis,6,,False,,538
-Epistasis,FluxBalanceAnalysis,2,,False,,539
-Systems Analysis,Flux BalanceAnalysis,2,,False,,54
-Materials Science,Biochemistry,1,,False,,540
-Materials Science,FluxBalanceAnalysis,1,,False,,541
-Sampling,FluxBalanceAnalysis,1,,False,,542
-C4 Photosynthesis,FluxBalanceAnalysis,1,,False,,543
-C4 Photosynthesis,Sampling,1,,False,,544
-Komagataella Phaffii,FluxBalanceAnalysis,2,,False,,545
-Flux BalanceAnalysis,Chemistry,2,,False,,546
-Biological System,Flux BalanceAnalysis,1,,False,,547
-Biological System,Chemistry,1,,False,,548
-Biochemistry,Botany,22,,False,,549
-Genetics,Flux BalanceAnalysis,60,,False,,55
-Horizontal Gene Transfer,Flux BalanceAnalysis,1,,False,,550
-Fungal Genome,Flux BalanceAnalysis,1,,False,,551
-Fungal Genome,Horizontal Gene Transfer,1,,False,,552
-Autosomal Dominant Polycystic Kidney Disease,Flux BalanceAnalysis,1,,False,,553
-Autosomal Dominant Polycystic Kidney Disease,Metabolism,1,,False,,554
-Design of Experiments,Flux BalanceAnalysis,3,,False,,555
-Quantum Mechanics,Biochemistry,1,,False,,556
-Quantum Mechanics,Flux BalanceAnalysis,4,,False,,557
-Environmental Science,Botany,2,,False,,558
-Resource Allocation,Biology,2,,False,,559
-Bioinformatics,Flux BalanceAnalysis,70,,False,,56
-Mitochondrion,Systems Biology,2,,False,,560
-Greedy Algorithm,Computer Science,1,,False,,561
-Greedy Algorithm,Flux BalanceAnalysis,2,,False,,562
-Integer Programming,Flux BalanceAnalysis,2,,False,,563
-Integer Programming,Transcriptional Regulation,2,,False,,564
-Flux BalanceAnalysis,Transcriptional Regulation,6,,False,,565
-Secretion,Metabolomics,1,,False,,566
-Secretion,Flux BalanceAnalysis,2,,False,,567
-Epigenetics,Ecology,1,,False,,568
-Epigenetics,Flux BalanceAnalysis,2,,False,,569
-Extracellular,Flux BalanceAnalysis,12,,False,,57
-Microbial Ecology,Flux BalanceAnalysis,1,,False,,570
-Microbial Ecology,Metabolism,2,,False,,571
-Mathematics,Linear Programming,10,,False,,572
-Spermatogenesis,Flux Balance Analysis,1,,False,,573
-Spermatogenesis,Bioinformatics,1,,False,,574
-Respiration,Gene,2,,False,,575
-Respiration,Flux Balance Analysis,2,,False,,576
-Bees Algorithm,Flux Balance Analysis,1,,False,,577
-Hill Climbing,Flux Balance Analysis,1,,False,,578
-Hill Climbing,Bees Algorithm,1,,False,,579
-Recombinant DNA,Extracellular,1,,False,,58
-ENCODE,Computer Science,1,,False,,580
-ENCODE,Flux Balance Analysis,2,,False,,581
-Representation (mathematics),Computational Biology,2,,False,,582
-Representation (mathematics),Flux Balance Analysis,2,,False,,583
-Metabolomics,Resource Allocation,2,,False,,584
-Feedback Vertex Set,Computer Science,2,,False,,585
-Feedback Vertex Set,Flux Balance Analysis,2,,False,,586
-Systems Biology,Transcriptional Regulation,2,,False,,587
-Flux Balance Analysis,Transcriptional Regulation,8,,False,,588
-Pentose Phosphate Pathway,Flux Balance Analysis,26,,False,,589
-Recombinant DNA,Flux BalanceAnalysis,2,,False,,59
-Food Science,Biology,2,,False,,590
-Evolutionary Algorithm,Flux Balance Analysis,1,,False,,591
-Evolutionary Algorithm,Metabolic Engineering,3,,False,,592
-Fluxomics,Metabolism,2,,False,,593
-Biological Database,Bioinformatics,2,,False,,594
-Systems Biology,Metabolic Engineering,2,,False,,595
-Perturbation,Flux Balance Analysis,2,,False,,596
-Topology,Perturbation,1,,False,,597
-Topology,Flux Balance Analysis,2,,False,,598
-Cupriavidus Necator,Glycerol,2,,False,,599
-Bioinformatics,Biology,72,,False,,6
-Metabolic Network,Flux BalanceAnalysis,34,,False,,60
-Glycerol,Flux Balance Analysis,2,,False,,600
-Environmental Science,Fermentation,2,,False,,601
-Fermentation,Flux Balance Analysis,2,,False,,602
-Biogeochemical Cycle,Flux Balance Analysis,2,,False,,603
-Porous Medium,Biogeochemical Cycle,1,,False,,604
-Porous Medium,Flux Balance Analysis,2,,False,,605
-Redox,Metabolic Engineering,1,,False,,606
-Redox,Flux Balance Analysis,2,,False,,607
-Transcriptome,Flux Balance Analysis,1,,False,,608
-Artificial Life,Ecology,1,,False,,609
-Data Mining,Flux BalanceAnalysis,2,,False,,61
-Artificial Life,Flux Balance Analysis,2,,False,,610
-In Silico,Metabolic Engineering,1,,False,,611
-In Silico,Flux Balance Analysis,1,,False,,612
-Computer Science,Theoretical Computer Science,2,,False,,613
-Theoretical Computer Science,Flux Balance Analysis,2,,False,,614
-Relational Database,Flux Balance Analysis,2,,False,,615
-Database,Relational Database,1,,False,,616
-Database,Flux Balance Analysis,2,,False,,617
-Biophysics,Flux Balance Analysis,10,,False,,618
-Biophysics,Chemistry,2,,False,,619
-Engineering,Data Mining,1,,False,,62
-Mathematics,Mathematical Model,2,,False,,620
-Mathematical Model,Flux BalanceAnalysis,4,,False,,621
-Interaction Network,Computer Science,1,,False,,622
-Interaction Network,Flux BalanceAnalysis,2,,False,,623
-Biophysics,Extracellular,2,,False,,624
-Turing,Flux BalanceAnalysis,2,,False,,625
-Turing Machine,Turing,1,,False,,626
-Turing Machine,Flux BalanceAnalysis,2,,False,,627
-Artemisinic Acid,Synthetic Biology,1,,False,,628
-Artemisinic Acid,Flux BalanceAnalysis,2,,False,,629
-Engineering,Flux BalanceAnalysis,2,,False,,63
-Root Cause,Computer Science,1,,False,,630
-Root Cause,Flux BalanceAnalysis,2,,False,,631
-Regularization (mathematics),Computer Science,2,,False,,632
-Regularization (mathematics),FluxBalanceAnalysis,4,,False,,633
-Titer,Biochemistry,4,,False,,634
-Titer,FluxBalanceAnalysis,2,,False,,635
-Petri Net,Systems Biology,1,,False,,636
-Petri Net,FluxBalanceAnalysis,1,,False,,637
-Metabolic Engineering,Biofuel,12,,False,,638
-Metabolomics,Visualization,2,,False,,639
-Environmental Science,Flux BalanceAnalysis,12,,False,,64
-Visualization,FluxBalanceAnalysis,16,,False,,640
-Simulation,Biology,2,,False,,641
-Computational Model,Environmental Science,1,,False,,642
-Computational Model,FluxBalanceAnalysis,2,,False,,643
-Resource Allocation,Computational Biology,2,,False,,644
-Rhizosphere,Genetics,1,,False,,645
-Rhizosphere,Flux Balance Analysis,2,,False,,646
-PlasmoDB,Malaria,2,,False,,647
-PlasmoDB,Flux Balance Analysis,2,,False,,648
-Malaria,Flux Balance Analysis,2,,False,,649
-Flux (metallurgy),Environmental Science,1,,False,,65
-Cell Cycle,Proteomics,2,,False,,650
-Cell Cycle,Flux Balance Analysis,2,,False,,651
-Steady State,Ode,2,,False,,652
-Ode,Flux Balance Analysis,2,,False,,653
-Biofuel,Biochemistry,8,,False,,654
-Metabolic Phenotype,Flux Balance Analysis,1,,False,,655
-Cluster Coefficient,Flux Balance Analysis,1,,False,,656
-Cluster Coefficient,Metabolic Phenotype,1,,False,,657
-Ecology,Genetics,6,,False,,658
-Steady State,Experimental Data,2,,False,,659
-Flux (metallurgy),Flux BalanceAnalysis,6,,False,,66
-Systems Analysis,Bioinformatics,4,,False,,660
-Systems Analysis,Flux Balance Analysis,2,,False,,661
-Homeostasis,Bioinformatics,1,,False,,662
-Homeostasis,Flux Balance Analysis,2,,False,,663
-Enzyme Kinetics,Bioinformatics,2,,False,,664
-Enzyme Kinetics,Flux Balance Analysis,4,,False,,665
-Computer Science,Integer Programming,2,,False,,666
-Integer Programming,Flux Balance Analysis,2,,False,,667
-Fluxomics,Ecology,6,,False,,668
-Bioprocess,Biochemistry,6,,False,,669
-Centrality,Bioinformatics,4,,False,,67
-Bioprocess,Flux Balance Analysis,12,,False,,670
-Lipid Metabolism,Metabolomics,2,,False,,671
-Biochemistry,Bioinformatics,18,,False,,672
-Drug Development,Bioinformatics,5,,False,,673
-Drug Development,Flux Balance Analysis,6,,False,,674
-Implementation,Computer Science,2,,False,,675
-Implementation,Flux Balance Analysis,2,,False,,676
-Sink (computing),Botany,1,,False,,677
-Sink (computing),Flux Balance Analysis,2,,False,,678
-Nitrogen Assimilation,Pentose Phosphate Pathway,2,,False,,679
-Centrality,Flux BalanceAnalysis,2,,False,,68
-Nitrogen Assimilation,Flux Balance Analysis,4,,False,,680
-Bioinformatics,Metabolism,6,,False,,681
-Convergent Evolution,Botany,1,,False,,682
-Convergent Evolution,Flux Balance Analysis,2,,False,,683
-Substrate (chemistry),Biochemistry,1,,False,,684
-Substrate (chemistry),Flux Balance Analysis,2,,False,,685
-Constrained Optimization,Transcriptional Regulation,1,,False,,686
-Constrained Optimization,Flux Balance Analysis,4,,False,,687
-Function (biology),Biophysics,1,,False,,688
-Function (biology),Flux Balance Analysis,2,,False,,689
-Metabolic Engineering,Flux BalanceAnalysis,74,,False,,69
-Metabolic Engineering,Chromatography,4,,False,,690
-Chromatography,Flux Balance Analysis,10,,False,,691
-Network Analysis,Bioinformatics,6,,False,,692
-RuBisCO,Biochemistry,8,,False,,693
-RuBisCO,Flux Balance Analysis,6,,False,,694
-Knowledge Base,Proteomics,2,,False,,695
-Biological Network,Genetics,6,,False,,696
-Biological Network,Flux Balance Analysis,16,,False,,697
-Linear Programming,Chromatography,2,,False,,698
-Biochemistry,Microbial Ecology,2,,False,,699
-Bioinformatics,Flux Balance Analysis,176,,False,,7
-Biochemistry,Flux BalanceAnalysis,102,,False,,70
-Microbial Ecology,Flux Balance Analysis,2,,False,,700
-Metagenomics,Flux Balance Analysis,8,,False,,701
-Software Architecture,Computer Science,2,,False,,702
-Software Architecture,Flux Balance Analysis,2,,False,,703
-Nitrogen Cycle,Genetics,4,,False,,704
-Nitrogen Cycle,Flux Balance Analysis,4,,False,,705
-Biological Network,Biochemistry,2,,False,,706
-Carbohydrate Metabolism,Genetics,2,,False,,707
-Carbohydrate Metabolism,Flux Balance Analysis,2,,False,,708
-Ecology,Steady State,8,,False,,709
-Gene Knockout,Biology,6,,False,,71
-Ecology,Biochemistry,6,,False,,710
-Metabolic Engineering,Metabolomics,6,,False,,711
-Lipid Metabolism,Metabolic Engineering,4,,False,,712
-Biochemistry,Gene Knockout,4,,False,,713
-Gene Knockout,Flux Balance Analysis,4,,False,,714
-Bioprocess,Metabolic Engineering,8,,False,,715
-Metabolomics,Whole Genome Sequencing,2,,False,,716
-Whole Genome Sequencing,DNA Sequencing,4,,False,,717
-Fluxomics,Bioinformatics,10,,False,,718
-Metabolic Engineering,Biophysics,4,,False,,719
-Gene Knockout,Flux BalanceAnalysis,4,,False,,72
-Cell Biology,Biology,1,,False,,720
-Cell Biology,Flux Balance Analysis,2,,False,,721
-Oxidative Phosphorylation,Bioinformatics,2,,False,,722
-Oxidative Phosphorylation,Flux Balance Analysis,4,,False,,723
-Nucleotide Sugar,Chromatography,2,,False,,724
-Nucleotide Sugar,Flux Balance Analysis,2,,False,,725
-Compartmentalization (psychology),Heterotroph,1,,False,,726
-Compartmentalization (psychology),Flux Balance Analysis,2,,False,,727
-Polyhedron,Computer Science,1,,False,,728
-Polyhedron,Flux Balance Analysis,2,,False,,729
-Linear Programming,Flux BalanceAnalysis,13,,False,,73
-Ecology,Mathematics,2,,False,,730
-Glycolysis,Proteomics,2,,False,,731
-Multi-objective Optimization,Metabolic Control Analysis,2,,False,,732
-Multi-objective Optimization,Flux Balance Analysis,2,,False,,733
-Gene Expression Profiling,Proteomics,2,,False,,734
-Penalty Method,Computer Science,2,,False,,735
-Penalty Method,Flux Balance Analysis,2,,False,,736
-Nonlinear Programming,Biochemistry,1,,False,,737
-Nonlinear Programming,Flux Balance Analysis,2,,False,,738
-Autocatalysis,Genetics,2,,False,,739
-Linear Programming,Metabolic Network,1,,False,,74
-Autocatalysis,Flux Balance Analysis,4,,False,,740
-Lipid Metabolism,Biochemistry,2,,False,,741
-Metabolomics,Biochemistry,8,,False,,742
-Bioinformatics,Flux (metallurgy),4,,False,,743
-Flux (metallurgy),Flux Balance Analysis,6,,False,,744
-Isotopic Labeling,Metabolomics,1,,False,,745
-Isotopic Labeling,Flux Balance Analysis,2,,False,,746
-Protein Biosynthesis,Transcriptional Regulation,2,,False,,747
-Protein Biosynthesis,Flux Balance Analysis,6,,False,,748
-Reverse Krebs Cycle,Biofuel,2,,False,,749
-Algorithm,Flux BalanceAnalysis,10,,False,,75
-Reverse Krebs Cycle,Flux Balance Analysis,4,,False,,750
-Ecology,Symbiosis,2,,False,,751
-Symbiosis,Flux Balance Analysis,4,,False,,752
-Gene Expression Profiling,Genetics,4,,False,,753
-Metabolic Engineering,Reverse Krebs Cycle,2,,False,,754
-Gluconeogenesis,Genetics,2,,False,,755
-Gluconeogenesis,Flux Balance Analysis,2,,False,,756
-Vascular Bundle,Flux Balance Analysis,2,,False,,757
-Transformation,Vascular Bundle,1,,False,,758
-Transformation,Flux Balance Analysis,2,,False,,759
-Ode,Algorithm,1,,False,,76
-Interconnectivity,Bioinformatics,2,,False,,760
-Interconnectivity,Flux Balance Analysis,2,,False,,761
-Metabolomics,Chromatography,2,,False,,762
-Human Genetics,Genetics,2,,False,,763
-Human Genetics,Flux Balance Analysis,2,,False,,764
-Metabolic Engineering,Ecology,4,,False,,765
-Completeness (statistics),Gene Expression Profiling,1,,False,,766
-Completeness (statistics),Flux Balance Analysis,2,,False,,767
-Human Pathogen,Genetics,2,,False,,768
-Mitochondrial Matrix,Mitochondrion,2,,False,,769
-Ode,Flux BalanceAnalysis,4,,False,,77
-Mitochondrial Matrix,Flux Balance Analysis,2,,False,,770
-Mitochondrion,Flux Balance Analysis,8,,False,,771
-Biohydrogen,Biochemistry,2,,False,,772
-Biohydrogen,Flux Balance Analysis,6,,False,,773
-Glycolysis,Metabolomics,2,,False,,774
-Metabolic Engineering,Recombinant DNA,4,,False,,775
-Recombinant DNA,Flux Balance Analysis,4,,False,,776
-Anabolism,Biochemistry,6,,False,,777
-Anabolism,Flux Balance Analysis,8,,False,,778
-Biochemistry,Metabolic Network,2,,False,,779
-Central Metabolic Pathway,Linear Programming,2,,False,,78
-Lethality,Genetics,2,,False,,780
-Lethality,Flux Balance Analysis,4,,False,,781
-Normal Conditions,Metabolomics,2,,False,,782
-Normal Conditions,Flux Balance Analysis,2,,False,,783
-Bacterial Genome Size,DNA Sequencing,2,,False,,784
-Bacterial Genome Size,Flux Balance Analysis,2,,False,,785
-Botany,Metabolism,2,,False,,786
-Metabolomics,Steady State,4,,False,,787
-Biofuel,Biology,4,,False,,788
-Biohydrogen,Anaerobic Exercise,2,,False,,789
-Central Metabolic Pathway,Flux BalanceAnalysis,2,,False,,79
-NAD+ Kinase,Biochemistry,3,,False,,790
-NAD+ Kinase,Flux Balance Analysis,2,,False,,791
-Microarray Analysis Techniques,Model Organism,2,,False,,792
-Microarray Analysis Techniques,Flux Balance Analysis,2,,False,,793
-Photophosphorylation,Pentose Phosphate Pathway,1,,False,,794
-Photophosphorylation,Flux Balance Analysis,4,,False,,795
-Biohydrogen,Metabolic Engineering,2,,False,,796
-Metabolic Engineering,Heterotroph,2,,False,,797
-Model Organism,Genetics,6,,False,,798
-Genetic Algorithm,Bioinformatics,4,,False,,799
-Computational Biology,Genetics,13,,False,,8
-Oxidative Phosphorylation,Biochemistry,3,,False,,80
-Genetic Algorithm,Flux Balance Analysis,10,,False,,800
-Process Simulation,Flux Balance Analysis,2,,False,,801
-Streptomyces Coelicolor,Process Simulation,1,,False,,802
-Streptomyces Coelicolor,Flux Balance Analysis,2,,False,,803
-Metagenomics,Experimental Data,2,,False,,804
-A Priori And A Posteriori,Computer Science,1,,False,,805
-A Priori And A Posteriori,Flux Balance Analysis,2,,False,,806
-Steady State,Bioinformatics,4,,False,,807
-Laws of Thermodynamics,Complex Network,2,,False,,808
-Laws of Thermodynamics,Flux Balance Analysis,4,,False,,809
-Oxidative Phosphorylation,Flux BalanceAnalysis,2,,False,,81
-Complex Network,Flux Balance Analysis,2,,False,,810
-Linear Combination,Flux Balance Analysis,6,,False,,811
-Convex Analysis,Linear Combination,1,,False,,812
-Convex Analysis,Flux Balance Analysis,4,,False,,813
-Metabolomics,Extracellular,2,,False,,814
-Stringent Response,Genetics,2,,False,,815
-Stringent Response,Flux Balance Analysis,2,,False,,816
-Metabolic Engineering,Botany,6,,False,,817
-Network Analysis,Computer Science,4,,False,,818
-Directionality,Steady State,2,,False,,819
-Anabolism,Flux BalanceAnalysis,2,,False,,82
-Directionality,Flux Balance Analysis,2,,False,,820
-Lethality,Bioinformatics,2,,False,,821
-Auxotrophy,Genetics,4,,False,,822
-Auxotrophy,Flux Balance Analysis,4,,False,,823
-Equilibrium Constant,Biochemistry,2,,False,,824
-Equilibrium Constant,Flux Balance Analysis,2,,False,,825
-Strain (chemistry),Bioinformatics,1,,False,,826
-Strain (chemistry),Flux Balance Analysis,6,,False,,827
-Obligate,Symbiosis,2,,False,,828
-Obligate,Flux Balance Analysis,2,,False,,829
-Pentose Phosphate Pathway,Anabolism,3,,False,,83
-Critical To Quality,Metabolic Engineering,1,,False,,830
-Critical To Quality,Flux Balance Analysis,2,,False,,831
-Biology,Microbiology,6,,False,,832
-Microbiology,Flux Balance Analysis,4,,False,,833
-Nitrous Oxide,Metabolic Network Modelling,2,,False,,834
-Nitrous Oxide,Flux Balance Analysis,2,,False,,835
-Metabolic Network Modelling,Flux Balance Analysis,2,,False,,836
-Arithmetic,Biology,1,,False,,837
-Arithmetic,Flux Balance Analysis,2,,False,,838
-Transposon Mutagenesis,Genetics,2,,False,,839
-Pentose Phosphate Pathway,Flux BalanceAnalysis,14,,False,,84
-Transposon Mutagenesis,Flux Balance Analysis,2,,False,,840
-Polyhydroxyalkanoates,Biochemistry,1,,False,,841
-Polyhydroxyalkanoates,Flux Balance Analysis,2,,False,,842
-Computational Problem,Autocatalysis,2,,False,,843
-Computational Problem,Flux Balance Analysis,2,,False,,844
-Environmental Stress,Flux Balance Analysis,2,,False,,845
-Nitric Oxide Synthase,Environmental Stress,1,,False,,846
-Nitric Oxide Synthase,Flux Balance Analysis,1,,False,,847
-Climate Change,Metabolic FluxAnalysis,2,,False,,848
-Climate Change,Flux Balance Analysis,2,,False,,849
-Computer Science,Bioinformatics,28,,False,,85
-Metabolic FluxAnalysis,Flux Balance Analysis,6,,False,,850
-Extracellular,Bioinformatics,2,,False,,851
-BioModels Database,Computer Science,1,,False,,852
-BioModels Database,Flux Balance Analysis,2,,False,,853
-Biological Network,Computer Science,4,,False,,854
-Streptomyces Lividans,Flux Balance Analysis,1,,False,,855
-Evolutionary Game Theory,Linear Programming,2,,False,,856
-Evolutionary Game Theory,Flux Balance Analysis,4,,False,,857
-Pentose Phosphate Pathway,Saccharomyces Cerevisiae,2,,False,,858
-Saccharomyces Cerevisiae,Flux Balance Analysis,2,,False,,859
-Computer Science,Flux BalanceAnalysis,74,,False,,86
-Fluxomics,Biochemistry,8,,False,,860
-Biochemistry,Enzyme Kinetics,4,,False,,861
-Network Analysis,Experimental Data,2,,False,,862
-Bioinformatics,Computational Model,2,,False,,863
-Computational Model,Flux Balance Analysis,6,,False,,864
-Scientific Progress,Ecology,1,,False,,865
-Scientific Progress,Flux Balance Analysis,2,,False,,866
-Systematic Error,Computer Science,1,,False,,867
-Systematic Error,Flux Balance Analysis,2,,False,,868
-Monte Carlo Method,Algorithm,3,,False,,869
-Spin-½,Flux BalanceAnalysis,1,,False,,87
-Monte Carlo Method,Flux Balance Analysis,6,,False,,870
-Antimicrobial,Metabolic Engineering,2,,False,,871
-Antimicrobial,Flux Balance Analysis,2,,False,,872
-Visualization,Linear Programming,2,,False,,873
-Visualization,Flux Balance Analysis,2,,False,,874
-Metabolic Engineering,Electron Transport Chain,4,,False,,875
-Electron Transport Chain,Flux Balance Analysis,2,,False,,876
-Biophysics,Ecology,4,,False,,877
-Niche Construction,Flux Balance Analysis,2,,False,,878
-Evolutionary Biology,Niche Construction,1,,False,,879
-Model Checking,Flux BalanceAnalysis,1,,False,,88
-Evolutionary Biology,Flux Balance Analysis,2,,False,,880
-Whole Genome Sequencing,Biochemistry,2,,False,,881
-Cell Culture,Protein Biosynthesis,1,,False,,882
-Cell Culture,Flux Balance Analysis,2,,False,,883
-Biochemistry,Strain (chemistry),8,,False,,884
-Normal Distribution,Flux Balance Analysis,1,,False,,885
-Normal Distribution,Metabolic Network,1,,False,,886
-Ecology,Control Theory,2,,False,,887
-Control Theory,Flux Balance Analysis,2,,False,,888
-Metabolic Engineering,Linear Programming,2,,False,,889
-Model Checking,Spin-½,1,,False,,89
-Renewable Fuels,Biofuel,2,,False,,890
-Renewable Fuels,Flux Balance Analysis,4,,False,,891
-Java Applet,Computer Science,2,,False,,892
-Java Applet,Flux Balance Analysis,2,,False,,893
-Network Analysis,Biochemistry,2,,False,,894
-Applied Mathematics,Linear Programming,4,,False,,895
-Systems Biomedicine,Computational Biology,2,,False,,896
-Systems Biomedicine,Flux Balance Analysis,2,,False,,897
-Constrained Optimization,Metabolic Control Analysis,2,,False,,898
-Metabolic Engineering,Graphical User Interface,2,,False,,899
-Computational Biology,Flux Balance Analysis,40,,False,,9
-Flux (metallurgy),Metabolic Network,2,,False,,90
-Gene Expression Profiling,Biochemistry,2,,False,,900
-Probabilistic Logic,Model Organism,1,,False,,901
-Probabilistic Logic,Flux Balance Analysis,2,,False,,902
-Linear Combination,Linear Programming,2,,False,,903
-DNA Sequencing,Genetics,4,,False,,904
-Metabolomics,Biological Network,2,,False,,905
-RuBisCO,FluxBalanceAnalysis,4,,False,,906
-Pentose Phosphate Pathway,Lipid Metabolism,2,,False,,907
-Lipid Metabolism,FluxBalanceAnalysis,4,,False,,908
-Biochemistry,Cell Growth,2,,False,,909
-Epistasis,Computational Biology,2,,False,,91
-Cell Growth,FluxBalanceAnalysis,2,,False,,910
-Integer,Computer Science,2,,False,,911
-Mathematics,Metabolic Network,4,,False,,912
-Algorithm,Computer Science,2,,False,,913
-Fluxomics,Biological Network,2,,False,,914
-Biological Network,FluxBalanceAnalysis,24,,False,,915
-Whole Genome Sequencing,Food Science,2,,False,,916
-Whole Genome Sequencing,FluxBalanceAnalysis,8,,False,,917
-Gene Knockout,FluxBalanceAnalysis,4,,False,,918
-Gene Expression Profiling,Model Organism,2,,False,,919
-Epistasis,Flux BalanceAnalysis,2,,False,,92
-Gene Expression Profiling,FluxBalanceAnalysis,12,,False,,920
-Anabolism,Anaerobic Exercise,2,,False,,921
-Anabolism,FluxBalanceAnalysis,4,,False,,922
-Anaerobic Exercise,FluxBalanceAnalysis,6,,False,,923
-Agronomy,RuBisCO,2,,False,,924
-Agronomy,Flux BalanceAnalysis,2,,False,,925
-RuBisCO,Flux BalanceAnalysis,4,,False,,926
-Stochastic Differential Equation,Mathematics,1,,False,,927
-Stochastic Differential Equation,Flux BalanceAnalysis,2,,False,,928
-Steady State,Chromatography,2,,False,,929
-Proteome,Computational Biology,1,,False,,93
-Network Analysis,Multi-objective Optimization,2,,False,,930
-Network Analysis,Flux BalanceAnalysis,4,,False,,931
-Multi-objective Optimization,Flux BalanceAnalysis,2,,False,,932
-Chromatography,Biochemistry,4,,False,,933
-Genetically Modified Organism,Genetics,2,,False,,934
-Genetically Modified Organism,Flux BalanceAnalysis,2,,False,,935
-Gene Expression Profiling,Transcriptional Regulation,2,,False,,936
-Ecology,Biological Database,2,,False,,937
-Biological Database,Flux BalanceAnalysis,2,,False,,938
-Formalism (philosophy),Computer Science,2,,False,,939
-Proteome,Flux BalanceAnalysis,2,,False,,94
-Formalism (philosophy),Flux BalanceAnalysis,2,,False,,940
-Computer Science,Experimental Data,6,,False,,941
-Experimental Data,Flux BalanceAnalysis,4,,False,,942
-Proteomics,Biochemistry,2,,False,,943
-Biofilm,Flux BalanceAnalysis,2,,False,,944
-Virulence,Biofilm,3,,False,,945
-Virulence,Flux BalanceAnalysis,2,,False,,946
-Electricity Generation,Ecology,2,,False,,947
-Electricity Generation,FluxBalanceAnalysis,4,,False,,948
-Ecology,FluxBalanceAnalysis,30,,False,,949
-Genetic Algorithm,Metabolic Engineering,4,,False,,95
-Systems Analysis,FluxBalanceAnalysis,2,,False,,950
-Fluxomics,Model Organism,4,,False,,951
-inductive logic programming,Biochemistry,1,,False,,952
-inductive logic programming,FluxBalanceAnalysis,2,,False,,953
-Lipid Metabolism,Transcription Factor,2,,False,,954
-Metabolic FluxAnalysis,Computational Biology,2,,False,,955
-Linear Programming,Biochemistry,2,,False,,956
-Bayes' Theorem,Systems Biology,2,,False,,957
-Bayes' Theorem,FluxBalanceAnalysis,2,,False,,958
-Biomarker (medicine),Biochemistry,2,,False,,959
-Genetic Algorithm,Flux BalanceAnalysis,2,,False,,96
-Biomarker (medicine),FluxBalanceAnalysis,4,,False,,960
-NAD+ Kinase,FluxBalanceAnalysis,2,,False,,961
-Parasite Hosting,Bioinformatics,1,,False,,962
-Parasite Hosting,FluxBalanceAnalysis,2,,False,,963
-Experimental Data,Biology,2,,False,,964
-Bioinformatics,Drug Discovery,2,,False,,965
-Drug Discovery,FluxBalanceAnalysis,2,,False,,966
-Subnet,Bioinformatics,2,,False,,967
-Subnet,FluxBalanceAnalysis,2,,False,,968
-Chromatography,FluxBalanceAnalysis,20,,False,,969
-Network Theory,Fluxomics,2,,False,,97
-Proteomics,Genetics,6,,False,,970
-Metabolomics,Mitochondrion,2,,False,,971
-Mitochondrion,FluxBalanceAnalysis,4,,False,,972
-Visualization,Computer Science,2,,False,,973
-Metabolomics,Electron Transport Chain,2,,False,,974
-Adaptive Response,Genetics,2,,False,,975
-Adaptive Response,FluxBalanceAnalysis,2,,False,,976
-Predicate Logic,Computer Science,2,,False,,977
-Predicate Logic,Flux BalanceAnalysis,2,,False,,978
-Metabolomics,Computer Science,2,,False,,979
-Network Theory,Flux BalanceAnalysis,2,,False,,98
-Biomarker (medicine),Biological Network,2,,False,,980
-Biomarker (medicine),Flux BalanceAnalysis,6,,False,,981
-Complex Network,Operations Research,2,,False,,982
-Operations Research,Flux BalanceAnalysis,2,,False,,983
-Electricity Generation,Genetics,2,,False,,984
-Test Data Generation,Fluxomics,1,,False,,985
-Test Data Generation,FluxBalanceAnalysis,2,,False,,986
-Anesthesia,Biophysics,1,,False,,987
-Anesthesia,FluxBalanceAnalysis,2,,False,,988
-Transposable Element,Transposon Mutagenesis,2,,False,,989
-Fluxomics,Flux BalanceAnalysis,10,,False,,99
-Transposable Element,FluxBalanceAnalysis,2,,False,,990
-Transposon Mutagenesis,FluxBalanceAnalysis,2,,False,,991
-Gene Expression Profiling,Bioinformatics,2,,False,,992
-Algorithm,Biological Network,2,,False,,993
-Environmental Chemistry,Biochemistry,1,,False,,994
-Environmental Chemistry,FluxBalanceAnalysis,2,,False,,995
-Explicit Knowledge,Biological Network,1,,False,,996
-Explicit Knowledge,FluxBalanceAnalysis,2,,False,,997
-Mathematics,Computation,2,,False,,998
-Computation,FluxBalanceAnalysis,4,,False,,999
+Biological Network,Bioinformatics,2,,False,,10
+Biological Computation,Computer Science,1,,False,,100
+Metabolomics,Mitochondrion,2,,False,,1000
+Mitochondrion,FluxBalanceAnalysis,4,,False,,1001
+Visualization,Computer Science,2,,False,,1002
+Metabolomics,Electron Transport Chain,2,,False,,1003
+Metabolomics,Computer Science,2,,False,,1004
+Network Theory,Flux BalanceAnalysis,2,,False,,1005
+Biomarker (medicine),Biological Network,2,,False,,1006
+Biomarker (medicine),Flux BalanceAnalysis,6,,False,,1007
+Complex Network,Operations Research,2,,False,,1008
+Operations Research,Flux BalanceAnalysis,2,,False,,1009
+Biological Computation,Flux Balance Analysis,2,,False,,101
+Electricity Generation,Genetics,2,,False,,1010
+Fluxomics,Flux BalanceAnalysis,10,,False,,1011
+Transposon Mutagenesis,FluxBalanceAnalysis,2,,False,,1012
+Gene Expression Profiling,Bioinformatics,2,,False,,1013
+Algorithm,Biological Network,2,,False,,1014
+Mathematics,Computation,2,,False,,1015
+Computation,FluxBalanceAnalysis,4,,False,,1016
+Photophosphorylation,Biochemistry,2,,False,,102
+Null Allele,Genetics,1,,False,,103
+Null Allele,Flux Balance Analysis,2,,False,,104
+Epistasis,Flux Balance Analysis,4,,False,,105
+Model Organism,Bioinformatics,2,,False,,106
+Microarray Analysis Techniques,Genetics,2,,False,,107
+Metagenomics,FluxBalanceAnalysis,4,,False,,108
+Ecology,Flux (metallurgy),4,,False,,109
+Metabolomics,Nitrogen Cycle,2,,False,,11
+Electricity Generation,Flux BalanceAnalysis,2,,False,,110
+Ecology,Flux BalanceAnalysis,28,,False,,111
+Bilevel Optimization,Mathematics,2,,False,,112
+Bilevel Optimization,FluxBalanceAnalysis,2,,False,,113
+Metabolic Flux Analysis,Metabolic Network,1,,False,,114
+Whole Genome Sequencing,Genetics,2,,False,,115
+Model Organism,Symbiosis,2,,False,,116
+Strain (chemistry),FluxBalanceAnalysis,2,,False,,117
+Gene Expression Profiling,Extracellular,2,,False,,118
+Linear Programming,Markup Language,2,,False,,119
+Nitrogen Cycle,FluxBalanceAnalysis,4,,False,,12
+Mathematics,Integer Programming,2,,False,,120
+Integer Programming,FluxBalanceAnalysis,2,,False,,121
+Visualization,Bioinformatics,2,,False,,122
+Metabolic Flux Analysis,Flux BalanceAnalysis,7,,False,,123
+Bioprocess,Biofuel,2,,False,,124
+Ecology,Biological Network,2,,False,,125
+Homeostasis,FluxBalanceAnalysis,2,,False,,126
+Ecology,Computer Science,2,,False,,127
+Glycolysis,Mitochondrion,4,,False,,128
+Applied Mathematics,Resource Allocation,2,,False,,129
+Biological Network,Scalability,2,,False,,13
+Metabolic Engineering,Computational Biology,2,,False,,130
+Metabolic Engineering,Glycolysis,2,,False,,131
+Computer Science,Cell Biology,2,,False,,132
+Cell Biology,Flux BalanceAnalysis,2,,False,,133
+Food Science,Biochemistry,4,,False,,134
+Glycolysis,Flux BalanceAnalysis,10,,False,,135
+Food Science,Flux BalanceAnalysis,4,,False,,136
+Metabolomics,Biology,2,,False,,137
+Ecology,Bioinformatics,2,,False,,138
+Computational Biology,Mathematical Model,2,,False,,139
+Ecology,Food Science,2,,False,,14
+Metabolomics,Computational Biology,2,,False,,140
+Biological Network,Metabolism,2,,False,,141
+Strain (chemistry),Biology,2,,False,,142
+Strain (chemistry),Flux BalanceAnalysis,4,,False,,143
+Metabolic Engineering,Flux Balance Analysis,172,,False,,144
+Metabolomics,Flux BalanceAnalysis,20,,False,,145
+Anaerobic Exercise,Food Science,2,,False,,146
+Anaerobic Exercise,Flux BalanceAnalysis,2,,False,,147
+Lipid Metabolism,Lipidomics,2,,False,,148
+Lipid Metabolism,Flux BalanceAnalysis,2,,False,,149
+Chromatography,Flux BalanceAnalysis,12,,False,,15
+Lipidomics,Flux BalanceAnalysis,2,,False,,150
+Genetics,Gene Knockout,2,,False,,151
+Flux BalanceAnalysis,Evolutionary Algorithm,2,,False,,152
+Bioprocess,Metabolic Network,2,,False,,153
+Fluxomics,Proteomics,2,,False,,154
+Epistasis And Functional Genomics,FluxBalanceAnalysis,2,,False,,155
+Biophysics,Model Organism,2,,False,,156
+Genetics,Natural Selection,2,,False,,157
+Natural Selection,Flux Balance Analysis,2,,False,,158
+Negative Selection,Metabolic Engineering,1,,False,,159
+Biophysics,Steady State,2,,False,,16
+Negative Selection,Flux Balance Analysis,2,,False,,160
+Metabolic Engineering,Chemical Industry,2,,False,,161
+Bioprocess,Mathematics,2,,False,,162
+Pentose Phosphate Pathway,Model Organism,2,,False,,163
+Synthetic Biology,Flux BalanceAnalysis,5,,False,,164
+Metabolic Engineering,Carbohydrate Metabolism,2,,False,,165
+Carbohydrate Metabolism,FluxBalanceAnalysis,2,,False,,166
+Stringent Response,Recombinant DNA,2,,False,,167
+Stringent Response,FluxBalanceAnalysis,2,,False,,168
+Recombinant DNA,FluxBalanceAnalysis,2,,False,,169
+Bioprocess,Proteomics,2,,False,,17
+Mathematics,Flux BalanceAnalysis,20,,False,,170
+Biochemistry,Drug Development,2,,False,,171
+Drug Development,FluxBalanceAnalysis,2,,False,,172
+Convex Analysis,Chromatography,2,,False,,173
+Convex Analysis,Flux BalanceAnalysis,2,,False,,174
+Biomarker (medicine),Bioinformatics,4,,False,,175
+Microarray Analysis Techniques,Flux BalanceAnalysis,2,,False,,176
+Ecology,Glycolysis,2,,False,,177
+Metagenomics,Computational Biology,2,,False,,178
+Integer,Flux BalanceAnalysis,2,,False,,179
+Isotopic Labeling,Biochemistry,2,,False,,18
+Petri Net,Computer Science,2,,False,,180
+Petri Net,Flux BalanceAnalysis,4,,False,,181
+Nitrogen Cycle,Flux BalanceAnalysis,4,,False,,182
+Ecology,Obligate,2,,False,,183
+Obligate,Flux BalanceAnalysis,2,,False,,184
+Extracellular,Chromatography,4,,False,,185
+Chlamydomonas Reinhardtii,Flux BalanceAnalysis,7,,False,,186
+Mathematics,Simulation,2,,False,,187
+Simulation,Flux Balance Analysis,2,,False,,188
+Genetic Algorithm,Biology,2,,False,,189
+Isotopic Labeling,Flux BalanceAnalysis,4,,False,,19
+Metabolomics,Genetics,20,,False,,190
+Heterotroph,Biochemistry,6,,False,,191
+Synthetic Biology,FluxBalanceAnalysis,2,,False,,192
+Integer,Visualization,2,,False,,193
+Mixed Acid Fermentation,Biochemistry,2,,False,,194
+Mixed Acid Fermentation,FluxBalanceAnalysis,2,,False,,195
+Systems Biology,Metabolic Control Analysis,2,,False,,196
+Experimental Data,Mathematical Optimization,2,,False,,197
+Mathematical Optimization,FluxBalanceAnalysis,2,,False,,198
+Heterotroph,Flux BalanceAnalysis,2,,False,,199
+Steady State,Fluxomics,1,,False,,2
+Computer Science,Computational Biology,4,,False,,20
+Computational Biology,Transcription Factor,2,,False,,200
+Visualization,Genetics,2,,False,,201
+Metabolic Engineering,Mathematics,2,,False,,202
+Environmental Science,Scalability,2,,False,,203
+Pathway Analysis,Metabolic Network,1,,False,,204
+Food Science,Respiration,2,,False,,205
+FluxBalanceAnalysis,Respiration,2,,False,,206
+Pathway Analysis,Flux BalanceAnalysis,2,,False,,207
+Monte Carlo Method,Biological Network,2,,False,,208
+Computational Biology,Chemistry,2,,False,,209
+Metagenomics,Bioinformatics,2,,False,,21
+Biological Network,Mathematics,2,,False,,210
+Biofuel,Flux BalanceAnalysis,8,,False,,211
+Crystallography,Flux (metallurgy),2,,False,,212
+Crystallography,Flux Balance Analysis,4,,False,,213
+Cyanobacteria,Biofuel,1,,False,,214
+Flux BalanceAnalysis,Stringent Response,2,,False,,215
+Biofuel,Control Theory,2,,False,,216
+Control Theory,Flux BalanceAnalysis,2,,False,,217
+Cyanobacteria,Flux BalanceAnalysis,4,,False,,218
+Mixed Acid Fermentation,Genetics,2,,False,,219
+Metabolomics,Proteomics,6,,False,,22
+Mixed Acid Fermentation,Flux Balance Analysis,2,,False,,220
+Crystallography,Monte Carlo Method,2,,False,,221
+Lipid Metabolism,Gene Expression Profiling,2,,False,,222
+Mitochondrion,Bioinformatics,2,,False,,223
+Metabolic Engineering,Scalability,2,,False,,224
+Scalability,Flux Balance Analysis,2,,False,,225
+Virtual Screening,Flux BalanceAnalysis,1,,False,,226
+Systems Medicine,Metabolomics,1,,False,,227
+Systems Medicine,Flux Balance Analysis,2,,False,,228
+Nutraceutical,Metabolic Engineering,1,,False,,229
+Pentose Phosphate Pathway,RuBisCO,2,,False,,23
+Nutraceutical,Flux Balance Analysis,2,,False,,230
+Phosphoenolpyruvate Carboxykinase,Biochemistry,1,,False,,231
+Phosphoenolpyruvate Carboxykinase,Flux Balance Analysis,2,,False,,232
+Glycolysis,Mathematics,2,,False,,233
+Biochemistry,Metabolic Flux Analysis,2,,False,,234
+Metabolic Flux Analysis,Flux Balance Analysis,2,,False,,235
+Protein Biosynthesis,Metabolic Engineering,2,,False,,236
+Homology Modeling,Flux BalanceAnalysis,1,,False,,237
+Genetic Algorithm,Mathematics,2,,False,,238
+Homology Modeling,Virtual Screening,1,,False,,239
+Anaerobic Exercise,Chromatography,2,,False,,24
+Computation,Bioinformatics,2,,False,,240
+Metabolomics,Flux Balance Analysis,52,,False,,241
+Systems Biology,Flux BalanceAnalysis,12,,False,,242
+Mathematical Optimization,Biochemistry,2,,False,,243
+Type 2 Diabetes,Systems Biology,1,,False,,244
+Metabolic Engineering,Biomarker (medicine),2,,False,,245
+Metabolic Engineering,Design of Experiments,2,,False,,246
+Type 2 Diabetes,Flux BalanceAnalysis,2,,False,,247
+Nitrogen Cycle,Bioinformatics,2,,False,,248
+Malaria,Flux BalanceAnalysis,1,,False,,249
+Biophysics,Pentose Phosphate Pathway,1,,False,,25
+Metabolic Engineering,Isotopic Labeling,2,,False,,250
+Metabolic Engineering,Thermophile,2,,False,,251
+Thermophile,Flux BalanceAnalysis,2,,False,,252
+Malaria,Metabolic Network,2,,False,,253
+Chemical Industry,Flux BalanceAnalysis,2,,False,,254
+Computer Science,Mathematical Model,2,,False,,255
+Bioinformatics,Natural Selection,2,,False,,256
+Natural Selection,Flux BalanceAnalysis,4,,False,,257
+Carbohydrate Metabolism,Flux BalanceAnalysis,4,,False,,258
+Biofuel,Genetics,2,,False,,259
+FluxBalanceAnalysis,Transcriptome,2,,False,,26
+Proteomics,Carbohydrate Metabolism,1,,False,,260
+Compartmentalization (psychology),Genetics,2,,False,,261
+Compartmentalization (psychology),Flux BalanceAnalysis,2,,False,,262
+Biophysics,Mitochondrion,2,,False,,263
+Proteomics,Flux BalanceAnalysis,10,,False,,264
+Computational Science,Visualization,2,,False,,265
+Markup Language,Bioinformatics,2,,False,,266
+Ecology,Exponential Growth,2,,False,,267
+Exponential Growth,FluxBalanceAnalysis,2,,False,,268
+Metabolic Engineering,Human Genetics,2,,False,,269
+Transcriptome,Energy Metabolism,2,,False,,27
+Human Genetics,FluxBalanceAnalysis,2,,False,,270
+Markup Language,Flux Balance Analysis,2,,False,,271
+Experimental Data,Genetics,1,,False,,272
+Biochemistry,Biology,58,,False,,273
+Experimental Data,Computational Biology,4,,False,,274
+Linear Programming,Bioinformatics,2,,False,,275
+Linear Programming,Flux Balance Analysis,24,,False,,276
+Gene,Biology,1,,False,,277
+Gene,Flux Balance Analysis,4,,False,,278
+Proteomics,Flux Balance Analysis,22,,False,,279
+Protein Biosynthesis,Biochemistry,2,,False,,28
+DNA Sequencing,Proteomics,3,,False,,280
+DNA Sequencing,Flux Balance Analysis,10,,False,,281
+Multicellular Organism,Bioinformatics,1,,False,,282
+Experimental Data,Flux Balance Analysis,12,,False,,283
+Multicellular Organism,Flux Balance Analysis,2,,False,,284
+Epistasis And Functional Genomics,Genetics,4,,False,,285
+Epistasis And Functional Genomics,Flux Balance Analysis,2,,False,,286
+FluxBalanceAnalysis,Proteomics,16,,False,,287
+Lipidomics,FluxBalanceAnalysis,1,,False,,288
+Lipidomics,Proteomics,2,,False,,289
+Biological Network,Flux (metallurgy),2,,False,,29
+Ethanol,FluxBalanceAnalysis,3,,False,,290
+Xylose,FluxBalanceAnalysis,3,,False,,291
+Xylose,Ethanol,3,,False,,292
+Integer,FluxBalanceAnalysis,10,,False,,293
+Bilevel Optimization,Flux Balance Analysis,4,,False,,294
+Theoretical Computer Science,Integer,1,,False,,295
+Theoretical Computer Science,FluxBalanceAnalysis,2,,False,,296
+Biophysics,FluxBalanceAnalysis,16,,False,,297
+Electron Transport Chain,Biophysics,1,,False,,298
+Electron Transport Chain,FluxBalanceAnalysis,6,,False,,299
+Model Organism,Computer Science,2,,False,,3
+Flux (metallurgy),FluxBalanceAnalysis,8,,False,,30
+Metabolic Engineering,FluxBalanceAnalysis,138,,False,,300
+Process Engineering,Metabolic Engineering,1,,False,,301
+Process Engineering,FluxBalanceAnalysis,4,,False,,302
+Genetics,FluxBalanceAnalysis,72,,False,,303
+Biology,FluxBalanceAnalysis,66,,False,,304
+Biochemistry,Bilevel Optimization,1,,False,,305
+Metabolic Control Analysis,FluxBalanceAnalysis,4,,False,,306
+The Arts,Metabolic Control Analysis,1,,False,,307
+The Arts,FluxBalanceAnalysis,2,,False,,308
+Fluxomics,Computer Science,4,,False,,309
+Lipid Metabolism,Biomarker (medicine),2,,False,,31
+Fluxomics,FluxBalanceAnalysis,38,,False,,310
+Computer Science,FluxBalanceAnalysis,54,,False,,311
+Computer Science,Linear Programming,12,,False,,312
+Flux Balance Analysis,Biology,123,,False,,313
+Biochemistry,Flux Balance Analysis,234,,False,,314
+Linear Programming,FluxBalanceAnalysis,16,,False,,315
+Metabolomics,FluxBalanceAnalysis,38,,False,,316
+Taxus,FluxBalanceAnalysis,2,,False,,317
+Methyl Jasmonate,Taxus,1,,False,,318
+Methyl Jasmonate,FluxBalanceAnalysis,2,,False,,319
+Biophysics,Flux BalanceAnalysis,14,,False,,32
+Metabolic Engineering,Fluxomics,16,,False,,320
+Extracellular,FluxBalanceAnalysis,8,,False,,321
+Ecology,Computational Biology,6,,False,,322
+Bioinformatics,FluxBalanceAnalysis,104,,False,,323
+Transcriptional Regulation,Bioinformatics,4,,False,,324
+Transcriptional Regulation,FluxBalanceAnalysis,2,,False,,325
+Particle Swarm Optimization,Bioinformatics,1,,False,,326
+Ecology,Flux Balance Analysis,60,,False,,327
+Particle Swarm Optimization,FluxBalanceAnalysis,1,,False,,328
+Metabolism,FluxBalanceAnalysis,30,,False,,329
+Biomarker (medicine),Flux Balance Analysis,2,,False,,33
+Metabolomics,Bioinformatics,8,,False,,330
+Plasmodium Falciparum,Flux Balance Analysis,1,,False,,331
+Metabolic Control Analysis,Flux Balance Analysis,8,,False,,332
+Thermodynamics,Metabolic Control Analysis,1,,False,,333
+Thermodynamics,Flux Balance Analysis,2,,False,,334
+Computational Biology,Biology,8,,False,,335
+Genetics,Biology,18,,False,,336
+CRISPR,Biofuel,2,,False,,337
+CRISPR,Flux Balance Analysis,2,,False,,338
+Biofuel,Flux Balance Analysis,22,,False,,339
+Linear Combination,Biochemistry,2,,False,,34
+Proteomics,Computational Biology,2,,False,,340
+Applied Mathematics,Mathematics,6,,False,,341
+Applied Mathematics,Flux Balance Analysis,4,,False,,342
+Mathematics,Flux Balance Analysis,22,,False,,343
+Cupriavidus Necator,Flux Balance Analysis,3,,False,,344
+Cupriavidus Necator,Metabolic Control Analysis,1,,False,,345
+Agronomy,Biochemistry,2,,False,,346
+Metabolic Engineering,Computer Science,32,,False,,347
+Computer Science,Flux Balance Analysis,74,,False,,348
+Escherichia Coli,Flux Balance Analysis,2,,False,,349
+Computational Science,Flux Balance Analysis,2,,False,,35
+Genetics,Botany,4,,False,,350
+Botany,Flux Balance Analysis,32,,False,,351
+"Fructose 1,6-bisphosphatase",Metabolism,2,,False,,352
+"Fructose 1,6-bisphosphatase",Flux Balance Analysis,2,,False,,353
+Metabolism,Flux Balance Analysis,20,,False,,354
+Computation,Linear Programming,1,,False,,355
+Computation,Flux Balance Analysis,8,,False,,356
+Agronomy,Flux Balance Analysis,2,,False,,357
+Cyanobacteria,Flux Balance Analysis,4,,False,,358
+Phenylalanine,Cyanobacteria,1,,False,,359
+Botany,Flux (metallurgy),2,,False,,36
+Phenylalanine,Flux Balance Analysis,1,,False,,360
+Graphical User Interface,Computer Science,2,,False,,361
+Graphical User Interface,Flux Balance Analysis,4,,False,,362
+Glycolysis,Genetics,2,,False,,363
+Glycolysis,Flux Balance Analysis,20,,False,,364
+Algorithm,FluxBalanceAnalysis,14,,False,,365
+Scalability,Algorithm,1,,False,,366
+Scalability,FluxBalanceAnalysis,6,,False,,367
+Metabolic Engineering,Biochemistry,92,,False,,368
+Food Science,Genetics,2,,False,,369
+Applied Mathematics,Bioinformatics,2,,False,,37
+Food Science,FluxBalanceAnalysis,16,,False,,370
+Fermentation,FluxBalanceAnalysis,6,,False,,371
+Saccharomyces Cerevisiae,Fermentation,1,,False,,372
+Saccharomyces Cerevisiae,FluxBalanceAnalysis,4,,False,,373
+Mathematics,FluxBalanceAnalysis,38,,False,,374
+Mathematics,Bioinformatics,2,,False,,375
+Gene Expression Profiling,Flux Balance Analysis,12,,False,,376
+Biochemistry,FluxBalanceAnalysis,178,,False,,377
+Control Theory,Computer Science,1,,False,,378
+Control Theory,FluxBalanceAnalysis,4,,False,,379
+Biophysics,Bioinformatics,2,,False,,38
+3-Hydroxypropionic Acid,Flux BalanceAnalysis,1,,False,,380
+Glycerol,Flux BalanceAnalysis,5,,False,,381
+Glycerol,3-Hydroxypropionic Acid,1,,False,,382
+Ecology,Biology,10,,False,,383
+Gene Cluster,Gene Expression Profiling,1,,False,,384
+Steady State,Computer Science,4,,False,,385
+Steady State,Flux BalanceAnalysis,8,,False,,386
+Lactococcus Lactis,Saccharomyces Cerevisiae,2,,False,,387
+Lactococcus Lactis,Flux BalanceAnalysis,2,,False,,388
+Saccharomyces Cerevisiae,Flux BalanceAnalysis,4,,False,,389
+Fluxomics,Metabolomics,12,,False,,39
+Phenotypic Plasticity,Flux BalanceAnalysis,2,,False,,390
+Neutral Theory of Molecular Evolution,Phenotypic Plasticity,1,,False,,391
+Neutral Theory of Molecular Evolution,Flux BalanceAnalysis,2,,False,,392
+Biophysics,Genetics,6,,False,,393
+Gene Cluster,Flux Balance Analysis,2,,False,,394
+Dynamic Simulation,Flux BalanceAnalysis,2,,False,,395
+Phytophthora Infestans,FluxBalanceAnalysis,1,,False,,396
+Experimental Data,FluxBalanceAnalysis,12,,False,,397
+Computational Biology,FluxBalanceAnalysis,30,,False,,398
+Food Science,Metabolism,2,,False,,399
+Convex Analysis,Fluxomics,2,,False,,4
+Computation,Biochemistry,2,,False,,40
+Algae,FluxBalanceAnalysis,2,,False,,400
+Carbon,Algae,1,,False,,401
+Fluxomics,Flux Balance Analysis,36,,False,,402
+Genetics,Bioinformatics,32,,False,,403
+Carbon,FluxBalanceAnalysis,2,,False,,404
+Gibbs Free Energy,Systems Biology,2,,False,,405
+Gibbs Free Energy,FluxBalanceAnalysis,2,,False,,406
+Systems Biology,FluxBalanceAnalysis,14,,False,,407
+Operations Research,Engineering,2,,False,,408
+Operations Research,FluxBalanceAnalysis,2,,False,,409
+Biochemistry,Flux (metallurgy),2,,False,,41
+Engineering,FluxBalanceAnalysis,4,,False,,410
+Energy Metabolism,FluxBalanceAnalysis,4,,False,,411
+Orthogonality,Energy Metabolism,1,,False,,412
+Orthogonality,FluxBalanceAnalysis,2,,False,,413
+Systems Biology,Biology,1,,False,,414
+Bioprocess,Genetics,2,,False,,415
+Bioprocess,FluxBalanceAnalysis,12,,False,,416
+Resource Allocation,Biological Network,1,,False,,417
+Resource Allocation,Flux BalanceAnalysis,4,,False,,418
+Methanosarcina,Flux BalanceAnalysis,2,,False,,419
+Linear Combination,Gene Expression Profiling,2,,False,,42
+Geobacter,Methanosarcina,1,,False,,420
+Geobacter,Flux BalanceAnalysis,2,,False,,421
+Systems Biology,Flux Balance Analysis,6,,False,,422
+Archaea,Flux BalanceAnalysis,1,,False,,423
+Archaea,Biochemistry,1,,False,,424
+Ecology,Multicellular Organism,2,,False,,425
+Multicellular Organism,Flux BalanceAnalysis,2,,False,,426
+Lipid Metabolism,Biology,2,,False,,427
+Computer Science,Computation,6,,False,,428
+Computation,Flux BalanceAnalysis,4,,False,,429
+Applied Mathematics,Flux BalanceAnalysis,4,,False,,43
+Protein Biosynthesis,Carbohydrate Metabolism,2,,False,,430
+Protein Biosynthesis,Flux BalanceAnalysis,2,,False,,431
+Mathematical Optimization,Metabolic Engineering,2,,False,,432
+Mathematical Optimization,Flux BalanceAnalysis,6,,False,,433
+Applied Mathematics,Metabolic Network,2,,False,,434
+Lipid Metabolism,Flux Balance Analysis,14,,False,,435
+Ordinary Differential Equation,Flux BalanceAnalysis,4,,False,,436
+Adipose Tissue,Ordinary Differential Equation,1,,False,,437
+Adipose Tissue,Flux BalanceAnalysis,1,,False,,438
+Gene Expression,Biology,1,,False,,439
+Linear Combination,FluxBalanceAnalysis,4,,False,,44
+Gene Expression,Flux BalanceAnalysis,2,,False,,440
+Biofuel,FluxBalanceAnalysis,14,,False,,441
+Biofuel,Systems Biology,2,,False,,442
+DNA Sequencing,FluxBalanceAnalysis,6,,False,,443
+Microbiology,DNA Sequencing,1,,False,,444
+Microbiology,FluxBalanceAnalysis,4,,False,,445
+Metabolic Engineering,Genetics,18,,False,,446
+Integer,Metabolic Engineering,4,,False,,447
+Metabolic Pathway,FluxBalanceAnalysis,1,,False,,448
+Nitrogen Assimilation,Metabolic Engineering,4,,False,,449
+Metabolic Engineering,Model Organism,2,,False,,45
+Nitrogen Assimilation,FluxBalanceAnalysis,2,,False,,450
+Bioprocess,Bioinformatics,2,,False,,451
+Knowledge Base,Flux Balance Analysis,4,,False,,452
+Chemical Industry,Biochemistry,4,,False,,453
+Human Pathogen,Knowledge Base,1,,False,,454
+Human Pathogen,Flux Balance Analysis,4,,False,,455
+Aspergillus Niger,Flux Balance Analysis,1,,False,,456
+Functional Genomics,Flux Balance Analysis,1,,False,,457
+Functional Genomics,Aspergillus Niger,1,,False,,458
+Metabolic Engineering,Biology,10,,False,,459
+Graphical User Interface,FluxBalanceAnalysis,2,,False,,46
+Thermophile,Biofuel,2,,False,,460
+Thermophile,Flux Balance Analysis,4,,False,,461
+Anaerobic Exercise,Biochemistry,6,,False,,462
+Anaerobic Exercise,Flux Balance Analysis,8,,False,,463
+Chemical Industry,Flux Balance Analysis,4,,False,,464
+Herbivore,Ecology,1,,False,,465
+Herbivore,Flux Balance Analysis,2,,False,,466
+Gene Duplication,Genetics,4,,False,,467
+Gene Duplication,Flux Balance Analysis,4,,False,,468
+Algorithm,Mathematics,8,,False,,469
+Biochemistry,Fermentation,4,,False,,47
+Applied Mathematics,FluxBalanceAnalysis,12,,False,,470
+Symbiosis,FluxBalanceAnalysis,8,,False,,471
+Microbiome,Symbiosis,1,,False,,472
+Whole Genome Sequencing,Flux Balance Analysis,10,,False,,473
+Microbiome,FluxBalanceAnalysis,4,,False,,474
+Genetic Algorithm,FluxBalanceAnalysis,4,,False,,475
+Bioinformatics,Computational Biology,20,,False,,476
+Symbiosis,Botany,4,,False,,477
+Botany,FluxBalanceAnalysis,18,,False,,478
+Glycerol,Bilevel Optimization,2,,False,,479
+Mathematics,Metabolism,2,,False,,48
+Bilevel Optimization,Flux BalanceAnalysis,4,,False,,480
+Open Reading Frame,Whole Genome Sequencing,3,,False,,481
+Biophysics,Metabolism,2,,False,,482
+Complex Network,Biological Network,1,,False,,483
+Complex Network,Flux BalanceAnalysis,4,,False,,484
+Bioprocess,Environmental Science,4,,False,,485
+Bioprocess,Flux BalanceAnalysis,8,,False,,486
+Genetics,Fluxomics,3,,False,,487
+Open Reading Frame,Flux Balance Analysis,4,,False,,488
+Computer Science,Mathematical Optimization,2,,False,,489
+Biological Network,Flux BalanceAnalysis,16,,False,,49
+Pentose Phosphate Pathway,Biochemistry,26,,False,,490
+Pichia Pastoris,Flux BalanceAnalysis,2,,False,,491
+Pichia Pastoris,Metabolic Flux Analysis,2,,False,,492
+Muconic Acid,Flux BalanceAnalysis,1,,False,,493
+Aromatic Amino Acids,Flux BalanceAnalysis,1,,False,,494
+Aromatic Amino Acids,Muconic Acid,1,,False,,495
+Chemical Engineering,Flux BalanceAnalysis,4,,False,,496
+Computational Science,Computer Science,4,,False,,497
+Computational Science,Flux BalanceAnalysis,4,,False,,498
+Registry of Standard Biological Parts,Flux BalanceAnalysis,2,,False,,499
+Community,Metagenomics,2,,False,,5
+Natural Selection,Metabolic Network,1,,False,,50
+Microbial Metabolism,Registry of Standard Biological Parts,1,,False,,500
+Microbial Metabolism,Flux BalanceAnalysis,2,,False,,501
+Computational Science,FluxBalanceAnalysis,4,,False,,502
+Protein–protein Interaction,Computational Science,1,,False,,503
+Protein–protein Interaction,FluxBalanceAnalysis,2,,False,,504
+Flux BalanceAnalysis,Computational Biology,35,,False,,505
+Control Engineering,Engineering,1,,False,,506
+Control Engineering,FluxBalanceAnalysis,2,,False,,507
+Mathematics,Experimental Data,2,,False,,508
+Mathematics,Steady State,2,,False,,509
+Natural Selection,FluxBalanceAnalysis,2,,False,,51
+Steady State,FluxBalanceAnalysis,16,,False,,510
+Avermectin,FluxBalanceAnalysis,1,,False,,511
+Simulation,Metabolic Network,2,,False,,512
+Simulation,FluxBalanceAnalysis,6,,False,,513
+Metabolic Network,FluxBalanceAnalysis,10,,False,,514
+Agent-based Model,FluxBalanceAnalysis,2,,False,,515
+Stochastic Modelling,Agent-based Model,1,,False,,516
+Stochastic Modelling,FluxBalanceAnalysis,2,,False,,517
+Metabolic FluxAnalysis,Metabolic Engineering,2,,False,,518
+Metabolic FluxAnalysis,FluxBalanceAnalysis,10,,False,,519
+Systems Biology,Metabolism,2,,False,,52
+Synechocystis Sp.,Metabolic Engineering,1,,False,,520
+Synechocystis Sp.,FluxBalanceAnalysis,2,,False,,521
+Environmental Science,FluxBalanceAnalysis,8,,False,,522
+Mechanics,Environmental Science,1,,False,,523
+Mechanics,FluxBalanceAnalysis,2,,False,,524
+Pentose Phosphate Pathway,FluxBalanceAnalysis,18,,False,,525
+Botany,Biology,8,,False,,526
+Protein Biosynthesis,Heterotroph,2,,False,,527
+Protein Biosynthesis,FluxBalanceAnalysis,4,,False,,528
+Heterotroph,FluxBalanceAnalysis,4,,False,,529
+Signal Transduction,Bioinformatics,1,,False,,53
+Model Organism,FluxBalanceAnalysis,26,,False,,530
+Programmed Cell Death,Model Organism,1,,False,,531
+Botany,Flux BalanceAnalysis,8,,False,,532
+Programmed Cell Death,FluxBalanceAnalysis,2,,False,,533
+Mathematical Model,Biochemistry,1,,False,,534
+Mathematical Model,FluxBalanceAnalysis,4,,False,,535
+MAPK/ERK Pathway,FluxBalanceAnalysis,2,,False,,536
+Transcription Factor,MAPK/ERK Pathway,1,,False,,537
+Transcription Factor,FluxBalanceAnalysis,6,,False,,538
+Resource Allocation,FluxBalanceAnalysis,4,,False,,539
+Signal Transduction,Flux Balance Analysis,2,,False,,54
+Pentose Phosphate Pathway,Metabolic Engineering,8,,False,,540
+Biology,Flux BalanceAnalysis,66,,False,,541
+Exponential Growth,Flux BalanceAnalysis,4,,False,,542
+Biology,Metabolic Network,4,,False,,543
+Visualization,Mathematics,1,,False,,544
+Visualization,Flux BalanceAnalysis,2,,False,,545
+Metabolic Engineering,Environmental Science,4,,False,,546
+Bioreactor,Chlamydomonas Reinhardtii,1,,False,,547
+Bioreactor,Flux BalanceAnalysis,2,,False,,548
+Polyketide,Flux BalanceAnalysis,1,,False,,549
+Ecology,Evolutionary Game Theory,2,,False,,55
+Extracellular,Biochemistry,8,,False,,550
+Metagenomics,Systems Biology,2,,False,,551
+Nitrogen Assimilation,Computational Biology,2,,False,,552
+Metagenomics,Flux BalanceAnalysis,10,,False,,553
+Genetics,Metabolism,4,,False,,554
+Synthetic Biology,Flux Balance Analysis,2,,False,,555
+Heterotroph,Genetics,2,,False,,556
+Heterotroph,Flux Balance Analysis,8,,False,,557
+Food Science,Flux Balance Analysis,4,,False,,558
+Chemistry,Food Science,1,,False,,559
+Network Theory,Laws of Thermodynamics,2,,False,,56
+Chemistry,Flux Balance Analysis,5,,False,,560
+Nitrogen Assimilation,Flux BalanceAnalysis,4,,False,,561
+Resource Allocation,Genetics,2,,False,,562
+Resource Allocation,Flux Balance Analysis,8,,False,,563
+Reaction Mechanism,Metabolic Network,2,,False,,564
+Reaction Mechanism,Flux Balance Analysis,2,,False,,565
+Metabolic Network,Flux Balance Analysis,12,,False,,566
+Microbial Population Biology,Computer Science,1,,False,,567
+Microbial Population Biology,Flux Balance Analysis,2,,False,,568
+Model Organism,Glycolysis,2,,False,,569
+Steady State,Flux Balance Analysis,20,,False,,57
+Model Organism,Flux Balance Analysis,10,,False,,570
+Escherichia Coli,Flux BalanceAnalysis,4,,False,,571
+Genome Size,Computer Science,1,,False,,572
+Genome Size,Flux Balance Analysis,2,,False,,573
+Extracellular,Flux Balance Analysis,8,,False,,574
+Metabolic Engineering,Algorithm,6,,False,,575
+Algorithm,Flux Balance Analysis,4,,False,,576
+Experimental Data,Bioinformatics,2,,False,,577
+Network Analysis,Metabolic Engineering,3,,False,,578
+Network Analysis,Flux Balance Analysis,18,,False,,579
+Network Theory,Flux Balance Analysis,2,,False,,58
+Genetics,Flux Balance Analysis,140,,False,,580
+Microbial Fuel Cell,Flux Balance Analysis,1,,False,,581
+Microbial Fuel Cell,Metabolic Engineering,2,,False,,582
+Ecology,Environmental Science,2,,False,,583
+Environmental Science,Flux Balance Analysis,4,,False,,584
+Glycolysis,Biochemistry,10,,False,,585
+Ecology,Thermophile,2,,False,,586
+Fluxomics,Computation,2,,False,,587
+Metabolic Engineering,Proteomics,4,,False,,588
+Biofuel,Mathematical Model,2,,False,,589
+Biological Network,Biology,2,,False,,59
+Mathematical Model,Flux Balance Analysis,2,,False,,590
+Biological Database,Metabolomics,2,,False,,591
+Biological Database,Flux Balance Analysis,4,,False,,592
+Computer Science,Metabolic Network,4,,False,,593
+Metabolic Network Modelling,Flux BalanceAnalysis,2,,False,,594
+Gene Expression Profiling,Flux BalanceAnalysis,4,,False,,595
+Metabolic Network Modelling,Systems Biology,2,,False,,596
+Metagenomics,Ecology,10,,False,,597
+Chlamydomonas,Flux BalanceAnalysis,2,,False,,598
+Biomass,Chlamydomonas,1,,False,,599
+Community,Flux Balance Analysis,2,,False,,6
+Enzyme Kinetics,FluxBalanceAnalysis,2,,False,,60
+Biomass,Flux BalanceAnalysis,4,,False,,600
+Systems Analysis,Gene Expression Profiling,1,,False,,601
+Linear Combination,Exponential Growth,2,,False,,602
+Linear Combination,Flux BalanceAnalysis,2,,False,,603
+Ageing,Metabolomics,1,,False,,604
+Ageing,FluxBalanceAnalysis,2,,False,,605
+Bioreactor,FluxBalanceAnalysis,2,,False,,606
+Process Engineering,Environmental Science,2,,False,,607
+Genetics,Epistasis,6,,False,,608
+Epistasis,FluxBalanceAnalysis,2,,False,,609
+Auxotrophy,FluxBalanceAnalysis,2,,False,,61
+Systems Analysis,Flux BalanceAnalysis,2,,False,,610
+Sampling,FluxBalanceAnalysis,1,,False,,611
+C4 Photosynthesis,FluxBalanceAnalysis,1,,False,,612
+C4 Photosynthesis,Sampling,1,,False,,613
+Komagataella Phaffii,FluxBalanceAnalysis,2,,False,,614
+Flux BalanceAnalysis,Chemistry,2,,False,,615
+Biological System,Flux BalanceAnalysis,1,,False,,616
+Biological System,Chemistry,1,,False,,617
+Biochemistry,Botany,22,,False,,618
+Genetics,Flux BalanceAnalysis,60,,False,,619
+Nitrogen Cycle,Biochemistry,2,,False,,62
+Horizontal Gene Transfer,Flux BalanceAnalysis,1,,False,,620
+Fungal Genome,Flux BalanceAnalysis,1,,False,,621
+Fungal Genome,Horizontal Gene Transfer,1,,False,,622
+Design of Experiments,Flux BalanceAnalysis,3,,False,,623
+Environmental Science,Botany,2,,False,,624
+Resource Allocation,Biology,2,,False,,625
+Bioinformatics,Flux BalanceAnalysis,70,,False,,626
+Mitochondrion,Systems Biology,2,,False,,627
+Integer Programming,Flux BalanceAnalysis,2,,False,,628
+Integer Programming,Transcriptional Regulation,2,,False,,629
+Chemical Engineering,FluxBalanceAnalysis,2,,False,,63
+Flux BalanceAnalysis,Transcriptional Regulation,6,,False,,630
+Extracellular,Flux BalanceAnalysis,12,,False,,631
+Microbial Ecology,Flux BalanceAnalysis,1,,False,,632
+Microbial Ecology,Metabolism,2,,False,,633
+Mathematics,Linear Programming,10,,False,,634
+Spermatogenesis,Flux Balance Analysis,1,,False,,635
+Spermatogenesis,Bioinformatics,1,,False,,636
+Respiration,Gene,2,,False,,637
+Respiration,Flux Balance Analysis,2,,False,,638
+Recombinant DNA,Extracellular,1,,False,,639
+Microarray Analysis Techniques,Biochemistry,4,,False,,64
+ENCODE,Computer Science,1,,False,,640
+ENCODE,Flux Balance Analysis,2,,False,,641
+Representation (mathematics),Computational Biology,2,,False,,642
+Representation (mathematics),Flux Balance Analysis,2,,False,,643
+Metabolomics,Resource Allocation,2,,False,,644
+Systems Biology,Transcriptional Regulation,2,,False,,645
+Flux Balance Analysis,Transcriptional Regulation,8,,False,,646
+Pentose Phosphate Pathway,Flux Balance Analysis,26,,False,,647
+Recombinant DNA,Flux BalanceAnalysis,2,,False,,648
+Food Science,Biology,2,,False,,649
+Microarray Analysis Techniques,FluxBalanceAnalysis,4,,False,,65
+Evolutionary Algorithm,Flux Balance Analysis,1,,False,,650
+Evolutionary Algorithm,Metabolic Engineering,3,,False,,651
+Fluxomics,Metabolism,2,,False,,652
+Biological Database,Bioinformatics,2,,False,,653
+Systems Biology,Metabolic Engineering,2,,False,,654
+Perturbation,Flux Balance Analysis,2,,False,,655
+Topology,Perturbation,1,,False,,656
+Topology,Flux Balance Analysis,2,,False,,657
+Cupriavidus Necator,Glycerol,2,,False,,658
+Bioinformatics,Biology,72,,False,,659
+Metabolic Engineering,Whole Genome Sequencing,2,,False,,66
+Metabolic Network,Flux BalanceAnalysis,34,,False,,660
+Glycerol,Flux Balance Analysis,2,,False,,661
+Environmental Science,Fermentation,2,,False,,662
+Fermentation,Flux Balance Analysis,2,,False,,663
+Biogeochemical Cycle,Flux Balance Analysis,2,,False,,664
+Porous Medium,Biogeochemical Cycle,1,,False,,665
+Porous Medium,Flux Balance Analysis,2,,False,,666
+Redox,Metabolic Engineering,1,,False,,667
+Redox,Flux Balance Analysis,2,,False,,668
+Transcriptome,Flux Balance Analysis,1,,False,,669
+Niche Construction,Ecology,2,,False,,67
+Artificial Life,Ecology,1,,False,,670
+Artificial Life,Flux Balance Analysis,2,,False,,671
+In Silico,Metabolic Engineering,1,,False,,672
+In Silico,Flux Balance Analysis,1,,False,,673
+Computer Science,Theoretical Computer Science,2,,False,,674
+Theoretical Computer Science,Flux Balance Analysis,2,,False,,675
+Biophysics,Flux Balance Analysis,10,,False,,676
+Biophysics,Chemistry,2,,False,,677
+Mathematics,Mathematical Model,2,,False,,678
+Mathematical Model,Flux BalanceAnalysis,4,,False,,679
+Niche Construction,Flux BalanceAnalysis,2,,False,,68
+Biophysics,Extracellular,2,,False,,680
+Artemisinic Acid,Synthetic Biology,1,,False,,681
+Artemisinic Acid,Flux BalanceAnalysis,2,,False,,682
+Engineering,Flux BalanceAnalysis,2,,False,,683
+Petri Net,Systems Biology,1,,False,,684
+Petri Net,FluxBalanceAnalysis,1,,False,,685
+Metabolic Engineering,Biofuel,12,,False,,686
+Metabolomics,Visualization,2,,False,,687
+Environmental Science,Flux BalanceAnalysis,12,,False,,688
+Visualization,FluxBalanceAnalysis,16,,False,,689
+Monte Carlo Method,Flux BalanceAnalysis,2,,False,,69
+Simulation,Biology,2,,False,,690
+Computational Model,Environmental Science,1,,False,,691
+Computational Model,FluxBalanceAnalysis,2,,False,,692
+Resource Allocation,Computational Biology,2,,False,,693
+PlasmoDB,Malaria,2,,False,,694
+PlasmoDB,Flux Balance Analysis,2,,False,,695
+Malaria,Flux Balance Analysis,2,,False,,696
+Flux (metallurgy),Environmental Science,1,,False,,697
+Biofuel,Biochemistry,8,,False,,698
+Metabolic Phenotype,Flux Balance Analysis,1,,False,,699
+Ecology,Resource Allocation,2,,False,,7
+Mitochondrion,Genetics,4,,False,,70
+Cluster Coefficient,Flux Balance Analysis,1,,False,,700
+Cluster Coefficient,Metabolic Phenotype,1,,False,,701
+Ecology,Genetics,6,,False,,702
+Steady State,Experimental Data,2,,False,,703
+Flux (metallurgy),Flux BalanceAnalysis,6,,False,,704
+Systems Analysis,Bioinformatics,4,,False,,705
+Systems Analysis,Flux Balance Analysis,2,,False,,706
+Homeostasis,Bioinformatics,1,,False,,707
+Homeostasis,Flux Balance Analysis,2,,False,,708
+Enzyme Kinetics,Bioinformatics,2,,False,,709
+Markup Language,FluxBalanceAnalysis,4,,False,,71
+Enzyme Kinetics,Flux Balance Analysis,4,,False,,710
+Computer Science,Integer Programming,2,,False,,711
+Integer Programming,Flux Balance Analysis,2,,False,,712
+Fluxomics,Ecology,6,,False,,713
+Bioprocess,Biochemistry,6,,False,,714
+Bioprocess,Flux Balance Analysis,12,,False,,715
+Lipid Metabolism,Metabolomics,2,,False,,716
+Biochemistry,Bioinformatics,18,,False,,717
+Drug Development,Bioinformatics,5,,False,,718
+Drug Development,Flux Balance Analysis,6,,False,,719
+Monte Carlo Method,FluxBalanceAnalysis,2,,False,,72
+Implementation,Computer Science,2,,False,,720
+Implementation,Flux Balance Analysis,2,,False,,721
+Sink (computing),Botany,1,,False,,722
+Sink (computing),Flux Balance Analysis,2,,False,,723
+Nitrogen Assimilation,Pentose Phosphate Pathway,2,,False,,724
+Nitrogen Assimilation,Flux Balance Analysis,4,,False,,725
+Bioinformatics,Metabolism,6,,False,,726
+Convergent Evolution,Botany,1,,False,,727
+Convergent Evolution,Flux Balance Analysis,2,,False,,728
+Substrate (chemistry),Biochemistry,1,,False,,729
+Mitochondrion,Flux BalanceAnalysis,8,,False,,73
+Substrate (chemistry),Flux Balance Analysis,2,,False,,730
+Constrained Optimization,Transcriptional Regulation,1,,False,,731
+Constrained Optimization,Flux Balance Analysis,4,,False,,732
+Function (biology),Biophysics,1,,False,,733
+Function (biology),Flux Balance Analysis,2,,False,,734
+Metabolic Engineering,Flux BalanceAnalysis,74,,False,,735
+Metabolic Engineering,Chromatography,4,,False,,736
+Chromatography,Flux Balance Analysis,10,,False,,737
+Network Analysis,Bioinformatics,6,,False,,738
+RuBisCO,Biochemistry,8,,False,,739
+Metabolic Engineering,RuBisCO,2,,False,,74
+RuBisCO,Flux Balance Analysis,6,,False,,740
+Knowledge Base,Proteomics,2,,False,,741
+Biological Network,Genetics,6,,False,,742
+Biological Network,Flux Balance Analysis,16,,False,,743
+Linear Programming,Chromatography,2,,False,,744
+Biochemistry,Microbial Ecology,2,,False,,745
+Bioinformatics,Flux Balance Analysis,176,,False,,746
+Biochemistry,Flux BalanceAnalysis,102,,False,,747
+Microbial Ecology,Flux Balance Analysis,2,,False,,748
+Metagenomics,Flux Balance Analysis,8,,False,,749
+Biological Network,Visualization,2,,False,,75
+Software Architecture,Computer Science,2,,False,,750
+Software Architecture,Flux Balance Analysis,2,,False,,751
+Nitrogen Cycle,Genetics,4,,False,,752
+Nitrogen Cycle,Flux Balance Analysis,4,,False,,753
+Biological Network,Biochemistry,2,,False,,754
+Carbohydrate Metabolism,Genetics,2,,False,,755
+Carbohydrate Metabolism,Flux Balance Analysis,2,,False,,756
+Ecology,Steady State,8,,False,,757
+Gene Knockout,Biology,6,,False,,758
+Ecology,Biochemistry,6,,False,,759
+Food Science,Chromatography,4,,False,,76
+Metabolic Engineering,Metabolomics,6,,False,,760
+Lipid Metabolism,Metabolic Engineering,4,,False,,761
+Biochemistry,Gene Knockout,4,,False,,762
+Gene Knockout,Flux Balance Analysis,4,,False,,763
+Bioprocess,Metabolic Engineering,8,,False,,764
+Metabolomics,Whole Genome Sequencing,2,,False,,765
+Whole Genome Sequencing,DNA Sequencing,4,,False,,766
+Fluxomics,Bioinformatics,10,,False,,767
+Metabolic Engineering,Biophysics,4,,False,,768
+Gene Knockout,Flux BalanceAnalysis,4,,False,,769
+Metabolism,Biochemistry,35,,False,,77
+Cell Biology,Biology,1,,False,,770
+Cell Biology,Flux Balance Analysis,2,,False,,771
+Oxidative Phosphorylation,Bioinformatics,2,,False,,772
+Oxidative Phosphorylation,Flux Balance Analysis,4,,False,,773
+Nucleotide Sugar,Chromatography,2,,False,,774
+Nucleotide Sugar,Flux Balance Analysis,2,,False,,775
+Compartmentalization (psychology),Heterotroph,1,,False,,776
+Compartmentalization (psychology),Flux Balance Analysis,2,,False,,777
+Polyhedron,Computer Science,1,,False,,778
+Polyhedron,Flux Balance Analysis,2,,False,,779
+Model Organism,Proteomics,2,,False,,78
+Linear Programming,Flux BalanceAnalysis,13,,False,,780
+Ecology,Mathematics,2,,False,,781
+Glycolysis,Proteomics,2,,False,,782
+Multi-objective Optimization,Metabolic Control Analysis,2,,False,,783
+Multi-objective Optimization,Flux Balance Analysis,2,,False,,784
+Gene Expression Profiling,Proteomics,2,,False,,785
+Penalty Method,Computer Science,2,,False,,786
+Penalty Method,Flux Balance Analysis,2,,False,,787
+Nonlinear Programming,Biochemistry,1,,False,,788
+Nonlinear Programming,Flux Balance Analysis,2,,False,,789
+Metabolic Network,Virtual Screening,2,,False,,79
+Autocatalysis,Genetics,2,,False,,790
+Linear Programming,Metabolic Network,1,,False,,791
+Autocatalysis,Flux Balance Analysis,4,,False,,792
+Lipid Metabolism,Biochemistry,2,,False,,793
+Metabolomics,Biochemistry,8,,False,,794
+Bioinformatics,Flux (metallurgy),4,,False,,795
+Flux (metallurgy),Flux Balance Analysis,6,,False,,796
+Isotopic Labeling,Metabolomics,1,,False,,797
+Isotopic Labeling,Flux Balance Analysis,2,,False,,798
+Protein Biosynthesis,Transcriptional Regulation,2,,False,,799
+Transcriptional Regulation,Genetics,2,,False,,8
+FluxBalanceAnalysis,Virtual Screening,2,,False,,80
+Protein Biosynthesis,Flux Balance Analysis,6,,False,,800
+Reverse Krebs Cycle,Biofuel,2,,False,,801
+Algorithm,Flux BalanceAnalysis,10,,False,,802
+Reverse Krebs Cycle,Flux Balance Analysis,4,,False,,803
+Ecology,Symbiosis,2,,False,,804
+Symbiosis,Flux Balance Analysis,4,,False,,805
+Gene Expression Profiling,Genetics,4,,False,,806
+Metabolic Engineering,Reverse Krebs Cycle,2,,False,,807
+Gluconeogenesis,Genetics,2,,False,,808
+Gluconeogenesis,Flux Balance Analysis,2,,False,,809
+Model Organism,Metabolomics,2,,False,,81
+Vascular Bundle,Flux Balance Analysis,2,,False,,810
+Transformation,Vascular Bundle,1,,False,,811
+Transformation,Flux Balance Analysis,2,,False,,812
+Interconnectivity,Bioinformatics,2,,False,,813
+Interconnectivity,Flux Balance Analysis,2,,False,,814
+Metabolomics,Chromatography,2,,False,,815
+Human Genetics,Genetics,2,,False,,816
+Human Genetics,Flux Balance Analysis,2,,False,,817
+Metabolic Engineering,Ecology,4,,False,,818
+Completeness (statistics),Gene Expression Profiling,1,,False,,819
+Metabolism,Flux BalanceAnalysis,24,,False,,82
+Completeness (statistics),Flux Balance Analysis,2,,False,,820
+Human Pathogen,Genetics,2,,False,,821
+Mitochondrial Matrix,Mitochondrion,2,,False,,822
+Mitochondrial Matrix,Flux Balance Analysis,2,,False,,823
+Mitochondrion,Flux Balance Analysis,8,,False,,824
+Biohydrogen,Biochemistry,2,,False,,825
+Biohydrogen,Flux Balance Analysis,6,,False,,826
+Glycolysis,Metabolomics,2,,False,,827
+Metabolic Engineering,Recombinant DNA,4,,False,,828
+Recombinant DNA,Flux Balance Analysis,4,,False,,829
+Complex Network,Computer Science,4,,False,,83
+Anabolism,Biochemistry,6,,False,,830
+Anabolism,Flux Balance Analysis,8,,False,,831
+Biochemistry,Metabolic Network,2,,False,,832
+Lethality,Genetics,2,,False,,833
+Lethality,Flux Balance Analysis,4,,False,,834
+Normal Conditions,Metabolomics,2,,False,,835
+Normal Conditions,Flux Balance Analysis,2,,False,,836
+Bacterial Genome Size,DNA Sequencing,2,,False,,837
+Bacterial Genome Size,Flux Balance Analysis,2,,False,,838
+Botany,Metabolism,2,,False,,839
+Complex Network,FluxBalanceAnalysis,8,,False,,84
+Metabolomics,Steady State,4,,False,,840
+Biofuel,Biology,4,,False,,841
+Biohydrogen,Anaerobic Exercise,2,,False,,842
+NAD+ Kinase,Biochemistry,3,,False,,843
+NAD+ Kinase,Flux Balance Analysis,2,,False,,844
+Microarray Analysis Techniques,Model Organism,2,,False,,845
+Microarray Analysis Techniques,Flux Balance Analysis,2,,False,,846
+Photophosphorylation,Pentose Phosphate Pathway,1,,False,,847
+Photophosphorylation,Flux Balance Analysis,4,,False,,848
+Biohydrogen,Metabolic Engineering,2,,False,,849
+Glycolysis,Bioinformatics,2,,False,,85
+Metabolic Engineering,Heterotroph,2,,False,,850
+Model Organism,Genetics,6,,False,,851
+Genetic Algorithm,Bioinformatics,4,,False,,852
+Computational Biology,Genetics,13,,False,,853
+Oxidative Phosphorylation,Biochemistry,3,,False,,854
+Genetic Algorithm,Flux Balance Analysis,10,,False,,855
+Process Simulation,Flux Balance Analysis,2,,False,,856
+Streptomyces Coelicolor,Process Simulation,1,,False,,857
+Streptomyces Coelicolor,Flux Balance Analysis,2,,False,,858
+Metagenomics,Experimental Data,2,,False,,859
+Glycolysis,FluxBalanceAnalysis,2,,False,,86
+A Priori And A Posteriori,Computer Science,1,,False,,860
+A Priori And A Posteriori,Flux Balance Analysis,2,,False,,861
+Steady State,Bioinformatics,4,,False,,862
+Laws of Thermodynamics,Complex Network,2,,False,,863
+Laws of Thermodynamics,Flux Balance Analysis,4,,False,,864
+Oxidative Phosphorylation,Flux BalanceAnalysis,2,,False,,865
+Complex Network,Flux Balance Analysis,2,,False,,866
+Linear Combination,Flux Balance Analysis,6,,False,,867
+Convex Analysis,Linear Combination,1,,False,,868
+Convex Analysis,Flux Balance Analysis,4,,False,,869
+Biochemistry,Computational Biology,10,,False,,87
+Metabolomics,Extracellular,2,,False,,870
+Stringent Response,Genetics,2,,False,,871
+Stringent Response,Flux Balance Analysis,2,,False,,872
+Metabolic Engineering,Botany,6,,False,,873
+Network Analysis,Computer Science,4,,False,,874
+Directionality,Steady State,2,,False,,875
+Anabolism,Flux BalanceAnalysis,2,,False,,876
+Directionality,Flux Balance Analysis,2,,False,,877
+Lethality,Bioinformatics,2,,False,,878
+Auxotrophy,Genetics,4,,False,,879
+Ecology,Experimental Data,2,,False,,88
+Auxotrophy,Flux Balance Analysis,4,,False,,880
+Equilibrium Constant,Biochemistry,2,,False,,881
+Equilibrium Constant,Flux Balance Analysis,2,,False,,882
+Strain (chemistry),Bioinformatics,1,,False,,883
+Strain (chemistry),Flux Balance Analysis,6,,False,,884
+Obligate,Symbiosis,2,,False,,885
+Obligate,Flux Balance Analysis,2,,False,,886
+Pentose Phosphate Pathway,Anabolism,3,,False,,887
+Critical To Quality,Metabolic Engineering,1,,False,,888
+Critical To Quality,Flux Balance Analysis,2,,False,,889
+Linear Programming,Simulation,2,,False,,89
+Biology,Microbiology,6,,False,,890
+Microbiology,Flux Balance Analysis,4,,False,,891
+Nitrous Oxide,Metabolic Network Modelling,2,,False,,892
+Nitrous Oxide,Flux Balance Analysis,2,,False,,893
+Metabolic Network Modelling,Flux Balance Analysis,2,,False,,894
+Arithmetic,Biology,1,,False,,895
+Arithmetic,Flux Balance Analysis,2,,False,,896
+Transposon Mutagenesis,Genetics,2,,False,,897
+Pentose Phosphate Pathway,Flux BalanceAnalysis,14,,False,,898
+Transposon Mutagenesis,Flux Balance Analysis,2,,False,,899
+Bilevel Optimization,Anaerobic Exercise,2,,False,,9
+Complex Network,Bioinformatics,2,,False,,90
+Polyhydroxyalkanoates,Biochemistry,1,,False,,900
+Polyhydroxyalkanoates,Flux Balance Analysis,2,,False,,901
+Computational Problem,Autocatalysis,2,,False,,902
+Computational Problem,Flux Balance Analysis,2,,False,,903
+Environmental Stress,Flux Balance Analysis,2,,False,,904
+Nitric Oxide Synthase,Environmental Stress,1,,False,,905
+Nitric Oxide Synthase,Flux Balance Analysis,1,,False,,906
+Climate Change,Metabolic FluxAnalysis,2,,False,,907
+Climate Change,Flux Balance Analysis,2,,False,,908
+Computer Science,Bioinformatics,28,,False,,909
+Nitrogen Assimilation,Nitrogen Cycle,2,,False,,91
+Metabolic FluxAnalysis,Flux Balance Analysis,6,,False,,910
+Extracellular,Bioinformatics,2,,False,,911
+BioModels Database,Computer Science,1,,False,,912
+BioModels Database,Flux Balance Analysis,2,,False,,913
+Biological Network,Computer Science,4,,False,,914
+Streptomyces Lividans,Flux Balance Analysis,1,,False,,915
+Evolutionary Game Theory,Linear Programming,2,,False,,916
+Evolutionary Game Theory,Flux Balance Analysis,4,,False,,917
+Pentose Phosphate Pathway,Saccharomyces Cerevisiae,2,,False,,918
+Saccharomyces Cerevisiae,Flux Balance Analysis,2,,False,,919
+Genetics,Biochemistry,10,,False,,92
+Computer Science,Flux BalanceAnalysis,74,,False,,920
+Fluxomics,Biochemistry,8,,False,,921
+Biochemistry,Enzyme Kinetics,4,,False,,922
+Network Analysis,Experimental Data,2,,False,,923
+Bioinformatics,Computational Model,2,,False,,924
+Computational Model,Flux Balance Analysis,6,,False,,925
+Monte Carlo Method,Algorithm,3,,False,,926
+Monte Carlo Method,Flux Balance Analysis,6,,False,,927
+Visualization,Linear Programming,2,,False,,928
+Visualization,Flux Balance Analysis,2,,False,,929
+Network Analysis,Steady State,2,,False,,93
+Metabolic Engineering,Electron Transport Chain,4,,False,,930
+Electron Transport Chain,Flux Balance Analysis,2,,False,,931
+Biophysics,Ecology,4,,False,,932
+Niche Construction,Flux Balance Analysis,2,,False,,933
+Whole Genome Sequencing,Biochemistry,2,,False,,934
+Biochemistry,Strain (chemistry),8,,False,,935
+Ecology,Control Theory,2,,False,,936
+Control Theory,Flux Balance Analysis,2,,False,,937
+Metabolic Engineering,Linear Programming,2,,False,,938
+Network Analysis,Biochemistry,2,,False,,939
+Genetics,Computational Model,2,,False,,94
+Applied Mathematics,Linear Programming,4,,False,,940
+Constrained Optimization,Metabolic Control Analysis,2,,False,,941
+Metabolic Engineering,Graphical User Interface,2,,False,,942
+Computational Biology,Flux Balance Analysis,40,,False,,943
+Flux (metallurgy),Metabolic Network,2,,False,,944
+Gene Expression Profiling,Biochemistry,2,,False,,945
+Probabilistic Logic,Model Organism,1,,False,,946
+Probabilistic Logic,Flux Balance Analysis,2,,False,,947
+Linear Combination,Linear Programming,2,,False,,948
+DNA Sequencing,Genetics,4,,False,,949
+Anabolism,Ecology,2,,False,,95
+Metabolomics,Biological Network,2,,False,,950
+RuBisCO,FluxBalanceAnalysis,4,,False,,951
+Pentose Phosphate Pathway,Lipid Metabolism,2,,False,,952
+Lipid Metabolism,FluxBalanceAnalysis,4,,False,,953
+Epistasis,Computational Biology,2,,False,,954
+Integer,Computer Science,2,,False,,955
+Mathematics,Metabolic Network,4,,False,,956
+Algorithm,Computer Science,2,,False,,957
+Fluxomics,Biological Network,2,,False,,958
+Biological Network,FluxBalanceAnalysis,24,,False,,959
+Bioprocess,Chromatography,2,,False,,96
+Whole Genome Sequencing,Food Science,2,,False,,960
+Whole Genome Sequencing,FluxBalanceAnalysis,8,,False,,961
+Gene Knockout,FluxBalanceAnalysis,4,,False,,962
+Gene Expression Profiling,Model Organism,2,,False,,963
+Epistasis,Flux BalanceAnalysis,2,,False,,964
+Gene Expression Profiling,FluxBalanceAnalysis,12,,False,,965
+Anabolism,Anaerobic Exercise,2,,False,,966
+Anabolism,FluxBalanceAnalysis,4,,False,,967
+Anaerobic Exercise,FluxBalanceAnalysis,6,,False,,968
+Agronomy,RuBisCO,2,,False,,969
+Metabolic Engineering,Bioinformatics,22,,False,,97
+Agronomy,Flux BalanceAnalysis,2,,False,,970
+RuBisCO,Flux BalanceAnalysis,4,,False,,971
+Steady State,Chromatography,2,,False,,972
+Network Analysis,Multi-objective Optimization,2,,False,,973
+Network Analysis,Flux BalanceAnalysis,4,,False,,974
+Multi-objective Optimization,Flux BalanceAnalysis,2,,False,,975
+Chromatography,Biochemistry,4,,False,,976
+Gene Expression Profiling,Transcriptional Regulation,2,,False,,977
+Ecology,Biological Database,2,,False,,978
+Biological Database,Flux BalanceAnalysis,2,,False,,979
+Penalty Method,FluxBalanceAnalysis,4,,False,,98
+Computer Science,Experimental Data,6,,False,,980
+Experimental Data,Flux BalanceAnalysis,4,,False,,981
+Proteomics,Biochemistry,2,,False,,982
+Electricity Generation,Ecology,2,,False,,983
+Electricity Generation,FluxBalanceAnalysis,4,,False,,984
+Ecology,FluxBalanceAnalysis,30,,False,,985
+Genetic Algorithm,Metabolic Engineering,4,,False,,986
+Systems Analysis,FluxBalanceAnalysis,2,,False,,987
+Fluxomics,Model Organism,4,,False,,988
+Lipid Metabolism,Transcription Factor,2,,False,,989
+Computer Science,Computational Model,2,,False,,99
+Metabolic FluxAnalysis,Computational Biology,2,,False,,990
+Linear Programming,Biochemistry,2,,False,,991
+Biomarker (medicine),Biochemistry,2,,False,,992
+Genetic Algorithm,Flux BalanceAnalysis,2,,False,,993
+Biomarker (medicine),FluxBalanceAnalysis,4,,False,,994
+NAD+ Kinase,FluxBalanceAnalysis,2,,False,,995
+Experimental Data,Biology,2,,False,,996
+Chromatography,FluxBalanceAnalysis,20,,False,,997
+Network Theory,Fluxomics,2,,False,,998
+Proteomics,Genetics,6,,False,,999
