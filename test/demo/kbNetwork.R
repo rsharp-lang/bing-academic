@@ -81,7 +81,7 @@ g
 |> louvain_cluster
 |> (function(g) {
 	# set node color by class
-	class(g) = colors(length(unique(class(g))))[factor(class(g))];
+	class(g) = colors("material", length(unique(class(g))), character = TRUE)[factor(class(g))];
 	g;
 })
 |> save.network(`${dirname(@script)}/FBA_graph/`)
