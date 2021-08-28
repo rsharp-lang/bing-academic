@@ -79,6 +79,10 @@ for(v in vertex(g)[i]) {
 g 
 |> connected_graph
 |> louvain_cluster
+|> (function(g) {
+	class(g) = colors(length(unique(class(g))))[factor(class(g))];
+	g;
+})
 |> save.network(`${dirname(@script)}/FBA_graph/`)
 ;
 
