@@ -80,6 +80,7 @@ g
 |> connected_graph
 |> louvain_cluster
 |> (function(g) {
+	# set node color by class
 	class(g) = colors(length(unique(class(g))))[factor(class(g))];
 	g;
 })
