@@ -20,41 +20,38 @@ const splitKeyword as function(str) {
 	}
 }
 
+str(loading[[1]]);
+
+const pushWordVertex as function(word, cites) {
+	if (length(g |> getElementByID(word)) == 0) {
+		g :> add.node(label = word);
+	}
+	
+	mass(g, word) = {			
+		const node  = g |> getElementByID(word);
+		const ndata = as.object(as.object(node)$data);
+
+		ndata$mass + ifelse(cites == 0, 1, cites);
+	}
+}
 const pushArticle as function(article) {
-	const words            = article$keywords;
+	const words as string  = sapply(article$keywords, w -> w$word);
 	const cites as integer = as.integer(article$cites);
+	const firstWord as string = splitKeyword(words[1]);
 
 	print(article$title);
+	pushWordVertex(firstWord, cites);
 
-	for(word in words) {
-		word = splitKeyword(word$word);
+	for(word in words[2:length(words)]) {
+		word = splitKeyword(word);
 	
-		if (length(g |> getElementByID(word)) == 0) {
-			g :> add.node(label = word);
+		pushWordVertex(word, cites);
+
+		if (!(g |> has.edge(firstWord, word))) {
+			g |> add.edge(firstWord, word);
 		}
 		
-		# print(word);
-
-		mass(g, word) = {			
-			const node  = g |> getElementByID(word);
-			const ndata = as.object(as.object(node)$data);
-
-			# print(names(ndata));
-
-			ndata$mass + ifelse(cites == 0, 1, cites);
-		}
-
-		for(word2 in words) {
-			word2 = splitKeyword(word2$word);
-
-			if (word != word2) {
-				if (!(g |> has.edge(word, word2))) {
-					g |> add.edge(word, word2);
-				}
-				
-				g |> weight(word, word2, g |> weight(word, word2) + 1);
-			}
-		}
+		g |> weight(firstWord, word, g |> weight(firstWord, word) + 1);
 	}
 }
 
@@ -64,24 +61,23 @@ for(list in loading) {
 	}
 }
 
-mass(g, NULL) = lapply(mass(g), log);
+const q = quantile(unlist(mass(g)));
+const i as boolean = unlist(mass(g)) < q[["50%"]];
+const j as boolean = unlist(mass(g)) > q[["75%"]];
 
-const i as boolean = unlist(mass(g)) < quantile(unlist(mass(g)))[["50%"]];
-
-print("low cites words will be removes from the word graph:");
+print("Words of cites count less than 50% quantile:");
 print(sum(i));
-print(i);
+print("Words of cites count greater than 75% quantile:");
+print(sum(j));
 
-for(v in vertex(g)[i]) {
-	g |> igraph::delete(v);
-}
+mass(g, NULL) = lapply(mass(g), x -> ifelse(x < q[["50%"]], q[["50%"]], x));
 
 g 
 |> connected_graph
 |> louvain_cluster
 |> (function(g) {
 	# set node color by class
-	class(g) = colors("material", length(unique(class(g))), character = TRUE)[factor(class(g))];
+	class(g) = colors("scibasic.category31()", length(unique(class(g))), character = TRUE)[factor(class(g))];
 	g;
 })
 |> save.network(`${dirname(@script)}/FBA_graph/`)

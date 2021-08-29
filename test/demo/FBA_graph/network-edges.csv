@@ -1,820 +1,629 @@
 ﻿fromNode,toNode,value,interaction,selfLoop,label,guid
-Biology,Flow (psychology),1,,False,,0
-FBA,Flow (psychology),1,,False,,1
-Complex Network,Bioinformatics,2,,False,,10
-Lipid Metabolism,Gene Expression Profiling,2,,False,,100
-Mathematics,FBA,80,,False,,101
-Mitochondrion,Bioinformatics,2,,False,,102
-Metabolic Engineering,Scalability,2,,False,,103
-Systems Medicine,Metabolomics,1,,False,,104
-Systems Medicine,FBA,2,,False,,105
-Nutraceutical,Metabolic Engineering,1,,False,,106
-Nutraceutical,FBA,2,,False,,107
-Phosphoenolpyruvate Carboxykinase,Biochemistry,1,,False,,108
-Phosphoenolpyruvate Carboxykinase,FBA,2,,False,,109
-Nitrogen Assimilation,Nitrogen Cycle,2,,False,,11
-Glycolysis,Mathematics,2,,False,,110
-Biochemistry,Metabolic Flux Analysis,2,,False,,111
-Protein Biosynthesis,Metabolic Engineering,2,,False,,112
-Genetic Algorithm,Mathematics,2,,False,,113
-Computation,Bioinformatics,2,,False,,114
-Extracellular,Chromatography,4,,False,,115
-Mathematical Optimization,Biochemistry,2,,False,,116
-Chlamydomonas Reinhardtii,FBA,7,,False,,117
-Metabolic Engineering,Biomarker (medicine),2,,False,,118
-Metabolic Engineering,Design of Experiments,2,,False,,119
-Network Analysis,Steady State,2,,False,,12
-Nitrogen Cycle,Bioinformatics,2,,False,,120
-Metabolic Engineering,FBA,384,,False,,121
-Heterotroph,Biochemistry,6,,False,,122
-Metabolic Engineering,Isotopic Labeling,2,,False,,123
-Heterotroph,FBA,14,,False,,124
-Metabolic Engineering,Thermophile,2,,False,,125
-Computer Science,Mathematical Model,2,,False,,126
-Pathway Analysis,Metabolic Network,1,,False,,127
-Bioinformatics,Natural Selection,2,,False,,128
-Biofuel,Genetics,2,,False,,129
-Genetics,Computational Model,2,,False,,13
-Pathway Analysis,FBA,2,,False,,130
-Compartmentalization (psychology),Genetics,2,,False,,131
-Biophysics,Mitochondrion,2,,False,,132
-Computational Science,Visualization,2,,False,,133
-Biofuel,FBA,44,,False,,134
-Ecology,Exponential Growth,2,,False,,135
-Metabolic Engineering,Human Genetics,2,,False,,136
-Cyanobacteria,Biofuel,1,,False,,137
-Cyanobacteria,FBA,8,,False,,138
-Virtual Screening,FBA,3,,False,,139
-Anabolism,Ecology,2,,False,,14
-Homology Modeling,FBA,1,,False,,140
-Homology Modeling,Virtual Screening,1,,False,,141
-Metabolomics,Genetics,20,,False,,142
-Type 2 Diabetes,Systems Biology,1,,False,,143
-Type 2 Diabetes,FBA,2,,False,,144
-Malaria,FBA,3,,False,,145
-Malaria,Metabolic Network,2,,False,,146
-Carbohydrate Metabolism,FBA,8,,False,,147
-Proteomics,Carbohydrate Metabolism,1,,False,,148
-Proteomics,FBA,48,,False,,149
-Bioprocess,Chromatography,2,,False,,15
-Markup Language,Bioinformatics,2,,False,,150
-Markup Language,FBA,6,,False,,151
-Biochemistry,Biology,58,,False,,152
-Metabolomics,FBA,110,,False,,153
-Experimental Data,Computational Biology,4,,False,,154
-Linear Programming,Bioinformatics,2,,False,,155
-Gene,Biology,1,,False,,156
-Gene,FBA,4,,False,,157
-DNA Sequencing,Proteomics,3,,False,,158
-DNA Sequencing,FBA,16,,False,,159
-Computer Science,Computational Model,2,,False,,16
-Multicellular Organism,Bioinformatics,1,,False,,160
-Multicellular Organism,FBA,4,,False,,161
-Epistasis And Functional Genomics,Genetics,4,,False,,162
-Epistasis And Functional Genomics,FBA,4,,False,,163
-Experimental Data,Genetics,1,,False,,164
-Lipidomics,FBA,3,,False,,165
-Lipidomics,Proteomics,2,,False,,166
-Ethanol,FBA,3,,False,,167
-Xylose,FBA,3,,False,,168
-Xylose,Ethanol,3,,False,,169
-Biological Computation,Computer Science,1,,False,,17
-Integer,FBA,12,,False,,170
-Theoretical Computer Science,Integer,1,,False,,171
-Theoretical Computer Science,FBA,4,,False,,172
-Electron Transport Chain,Biophysics,1,,False,,173
-Electron Transport Chain,FBA,8,,False,,174
-Experimental Data,FBA,28,,False,,175
-Process Engineering,Metabolic Engineering,1,,False,,176
-Process Engineering,FBA,4,,False,,177
-Metabolic Control Analysis,FBA,12,,False,,178
-The Arts,Metabolic Control Analysis,1,,False,,179
-Biological Computation,FBA,2,,False,,18
-The Arts,FBA,2,,False,,180
-Fluxomics,Computer Science,4,,False,,181
-Computer Science,Linear Programming,12,,False,,182
-Bilevel Optimization,FBA,10,,False,,183
-Taxus,FBA,2,,False,,184
-Methyl Jasmonate,Taxus,1,,False,,185
-Methyl Jasmonate,FBA,2,,False,,186
-Metabolic Engineering,Fluxomics,16,,False,,187
-Transcriptional Regulation,Bioinformatics,4,,False,,188
-Transcriptional Regulation,FBA,16,,False,,189
-Photophosphorylation,Biochemistry,2,,False,,19
-Biochemistry,Bilevel Optimization,1,,False,,190
-Particle Swarm Optimization,Bioinformatics,1,,False,,191
-Particle Swarm Optimization,FBA,1,,False,,192
-Metabolomics,Bioinformatics,8,,False,,193
-FBA,Biology,255,,False,,194
-Biochemistry,FBA,514,,False,,195
-Plasmodium Falciparum,FBA,1,,False,,196
-Thermodynamics,Metabolic Control Analysis,1,,False,,197
-Thermodynamics,FBA,2,,False,,198
-Computational Biology,Biology,8,,False,,199
-Steady State,Fluxomics,1,,False,,2
-Null Allele,Genetics,1,,False,,20
-CRISPR,Biofuel,2,,False,,200
-CRISPR,FBA,2,,False,,201
-Proteomics,Computational Biology,2,,False,,202
-Applied Mathematics,Mathematics,6,,False,,203
-Cupriavidus Necator,FBA,3,,False,,204
-Ecology,Computational Biology,6,,False,,205
-Cupriavidus Necator,Metabolic Control Analysis,1,,False,,206
-Metabolic Engineering,Computer Science,32,,False,,207
-Genetics,Botany,4,,False,,208
-"Fructose 1,6-bisphosphatase",Metabolism,2,,False,,209
-Null Allele,FBA,2,,False,,21
-"Fructose 1,6-bisphosphatase",FBA,2,,False,,210
-Computation,Linear Programming,1,,False,,211
-Computation,FBA,16,,False,,212
-Phenylalanine,Cyanobacteria,1,,False,,213
-Phenylalanine,FBA,1,,False,,214
-Graphical User Interface,Computer Science,2,,False,,215
-Ecology,FBA,118,,False,,216
-Graphical User Interface,FBA,6,,False,,217
-Glycolysis,Genetics,2,,False,,218
-Scalability,Algorithm,1,,False,,219
-Model Organism,Bioinformatics,2,,False,,22
-Scalability,FBA,8,,False,,220
-Food Science,Genetics,2,,False,,221
-Food Science,FBA,24,,False,,222
-Fermentation,FBA,8,,False,,223
-Saccharomyces Cerevisiae,Fermentation,1,,False,,224
-Saccharomyces Cerevisiae,FBA,10,,False,,225
-Genetics,Biology,18,,False,,226
-Mathematics,Bioinformatics,2,,False,,227
-Control Theory,Computer Science,1,,False,,228
-Control Theory,FBA,8,,False,,229
-Microarray Analysis Techniques,Genetics,2,,False,,23
-3-Hydroxypropionic Acid,FBA,1,,False,,230
-Glycerol,FBA,7,,False,,231
-Glycerol,3-Hydroxypropionic Acid,1,,False,,232
-Agronomy,Biochemistry,2,,False,,233
-Ecology,Biology,10,,False,,234
-Steady State,Computer Science,4,,False,,235
-Lactococcus Lactis,Saccharomyces Cerevisiae,2,,False,,236
-Lactococcus Lactis,FBA,2,,False,,237
-Phenotypic Plasticity,FBA,2,,False,,238
-Neutral Theory of Molecular Evolution,Phenotypic Plasticity,1,,False,,239
-Mitochondrion,Genetics,4,,False,,24
-Neutral Theory of Molecular Evolution,FBA,2,,False,,240
-Biophysics,Genetics,6,,False,,241
-Agronomy,FBA,4,,False,,242
-Dynamic Simulation,FBA,2,,False,,243
-Phytophthora Infestans,FBA,1,,False,,244
-Food Science,Metabolism,2,,False,,245
-Algae,FBA,2,,False,,246
-Carbon,Algae,1,,False,,247
-Carbon,FBA,2,,False,,248
-Gibbs Free Energy,Systems Biology,2,,False,,249
-Mitochondrion,FBA,20,,False,,25
-Gibbs Free Energy,FBA,2,,False,,250
-Metabolic Engineering,Biochemistry,92,,False,,251
-Operations Research,Engineering,2,,False,,252
-Operations Research,FBA,4,,False,,253
-Energy Metabolism,FBA,4,,False,,254
-Orthogonality,Energy Metabolism,1,,False,,255
-Orthogonality,FBA,2,,False,,256
-Bioprocess,Genetics,2,,False,,257
-Bioprocess,FBA,32,,False,,258
-Resource Allocation,Biological Network,1,,False,,259
-Bilevel Optimization,Mathematics,2,,False,,26
-Resource Allocation,FBA,16,,False,,260
-Methanosarcina,FBA,2,,False,,261
-Gene Expression Profiling,FBA,28,,False,,262
-Geobacter,Methanosarcina,1,,False,,263
-Geobacter,FBA,2,,False,,264
-Archaea,FBA,1,,False,,265
-Gene Cluster,Gene Expression Profiling,1,,False,,266
-Archaea,Biochemistry,1,,False,,267
-Ecology,Multicellular Organism,2,,False,,268
-Computer Science,Computation,6,,False,,269
-Whole Genome Sequencing,Genetics,2,,False,,27
-Protein Biosynthesis,Carbohydrate Metabolism,2,,False,,270
-Protein Biosynthesis,FBA,12,,False,,271
-Mathematical Optimization,Metabolic Engineering,2,,False,,272
-Gene Cluster,FBA,2,,False,,273
-Mathematical Optimization,FBA,8,,False,,274
-Applied Mathematics,Metabolic Network,2,,False,,275
-Ordinary Differential Equation,FBA,4,,False,,276
-Adipose Tissue,Ordinary Differential Equation,1,,False,,277
-Adipose Tissue,FBA,1,,False,,278
-Gene Expression,Biology,1,,False,,279
-Model Organism,Symbiosis,2,,False,,28
-Gene Expression,FBA,2,,False,,280
-Biofuel,Systems Biology,2,,False,,281
-Microbiology,DNA Sequencing,1,,False,,282
-Microbiology,FBA,8,,False,,283
-Fluxomics,FBA,84,,False,,284
-Genetics,Bioinformatics,32,,False,,285
-Integer,Metabolic Engineering,4,,False,,286
-Metabolic Pathway,FBA,1,,False,,287
-Nitrogen Assimilation,Metabolic Engineering,4,,False,,288
-Bioprocess,Bioinformatics,2,,False,,289
-Gene Expression Profiling,Extracellular,2,,False,,29
-Knowledge Base,FBA,4,,False,,290
-Human Pathogen,Knowledge Base,1,,False,,291
-Human Pathogen,FBA,4,,False,,292
-Systems Biology,Biology,1,,False,,293
-Aspergillus Niger,FBA,1,,False,,294
-Functional Genomics,FBA,1,,False,,295
-Functional Genomics,Aspergillus Niger,1,,False,,296
-Metabolic Engineering,Biology,10,,False,,297
-Thermophile,Biofuel,2,,False,,298
-Thermophile,FBA,6,,False,,299
-Applied Mathematics,FBA,20,,False,,3
-Linear Programming,Markup Language,2,,False,,30
-Anaerobic Exercise,Biochemistry,6,,False,,300
-Anaerobic Exercise,FBA,16,,False,,301
-Herbivore,Ecology,1,,False,,302
-Herbivore,FBA,2,,False,,303
-Systems Biology,FBA,32,,False,,304
-Gene Duplication,Genetics,4,,False,,305
-Gene Duplication,FBA,4,,False,,306
-Algorithm,Mathematics,8,,False,,307
-Symbiosis,FBA,12,,False,,308
-Microbiome,Symbiosis,1,,False,,309
-Mathematics,Integer Programming,2,,False,,31
-Microbiome,FBA,4,,False,,310
-Bioinformatics,Computational Biology,20,,False,,311
-Lipid Metabolism,Biology,2,,False,,312
-Symbiosis,Botany,4,,False,,313
-Glycerol,Bilevel Optimization,2,,False,,314
-Biophysics,Metabolism,2,,False,,315
-Lipid Metabolism,FBA,20,,False,,316
-Complex Network,Biological Network,1,,False,,317
-Complex Network,FBA,14,,False,,318
-Bioprocess,Environmental Science,4,,False,,319
-Visualization,Bioinformatics,2,,False,,32
-Computer Science,Mathematical Optimization,2,,False,,320
-Pentose Phosphate Pathway,Biochemistry,26,,False,,321
-Pichia Pastoris,FBA,2,,False,,322
-Metabolic Engineering,Genetics,18,,False,,323
-Pichia Pastoris,Metabolic Flux Analysis,2,,False,,324
-Muconic Acid,FBA,1,,False,,325
-Aromatic Amino Acids,FBA,1,,False,,326
-Aromatic Amino Acids,Muconic Acid,1,,False,,327
-Chemical Engineering,FBA,6,,False,,328
-Computational Science,Computer Science,4,,False,,329
-Metabolism,Biochemistry,35,,False,,33
-Computational Science,FBA,10,,False,,330
-Registry of Standard Biological Parts,FBA,2,,False,,331
-Microbial Metabolism,Registry of Standard Biological Parts,1,,False,,332
-Microbial Metabolism,FBA,2,,False,,333
-Chemical Industry,Biochemistry,4,,False,,334
-Protein–protein Interaction,Computational Science,1,,False,,335
-Protein–protein Interaction,FBA,2,,False,,336
-Control Engineering,Engineering,1,,False,,337
-Control Engineering,FBA,2,,False,,338
-Mathematics,Experimental Data,2,,False,,339
-Bioprocess,Biofuel,2,,False,,34
-Mathematics,Steady State,2,,False,,340
-Avermectin,FBA,1,,False,,341
-Simulation,Metabolic Network,2,,False,,342
-Simulation,FBA,8,,False,,343
-Agent-based Model,FBA,2,,False,,344
-Chemical Industry,FBA,6,,False,,345
-Stochastic Modelling,Agent-based Model,1,,False,,346
-Stochastic Modelling,FBA,2,,False,,347
-Metabolic FluxAnalysis,Metabolic Engineering,2,,False,,348
-Metabolic FluxAnalysis,FBA,16,,False,,349
-Ecology,Biological Network,2,,False,,35
-Synechocystis Sp.,Metabolic Engineering,1,,False,,350
-Synechocystis Sp.,FBA,2,,False,,351
-Mechanics,Environmental Science,1,,False,,352
-Mechanics,FBA,2,,False,,353
-Whole Genome Sequencing,FBA,18,,False,,354
-Protein Biosynthesis,Heterotroph,2,,False,,355
-Model Organism,FBA,36,,False,,356
-Programmed Cell Death,Model Organism,1,,False,,357
-Programmed Cell Death,FBA,2,,False,,358
-Mathematical Model,Biochemistry,1,,False,,359
-Ecology,Computer Science,2,,False,,36
-Mathematical Model,FBA,10,,False,,360
-MAPK/ERK Pathway,FBA,2,,False,,361
-Open Reading Frame,Whole Genome Sequencing,3,,False,,362
-Transcription Factor,MAPK/ERK Pathway,1,,False,,363
-Transcription Factor,FBA,6,,False,,364
-Pentose Phosphate Pathway,Metabolic Engineering,8,,False,,365
-Exponential Growth,FBA,6,,False,,366
-Biology,Metabolic Network,4,,False,,367
-Visualization,Mathematics,1,,False,,368
-Visualization,FBA,20,,False,,369
-Applied Mathematics,Resource Allocation,2,,False,,37
-Metabolic Engineering,Environmental Science,4,,False,,370
-Genetics,Fluxomics,3,,False,,371
-Open Reading Frame,FBA,4,,False,,372
-Bioreactor,Chlamydomonas Reinhardtii,1,,False,,373
-Bioreactor,FBA,4,,False,,374
-Polyketide,FBA,1,,False,,375
-Extracellular,Biochemistry,8,,False,,376
-Metagenomics,Systems Biology,2,,False,,377
-Metagenomics,FBA,22,,False,,378
-Genetics,Metabolism,4,,False,,379
-Metabolism,FBA,74,,False,,38
-Heterotroph,Genetics,2,,False,,380
-Chemistry,Food Science,1,,False,,381
-Chemistry,FBA,7,,False,,382
-Resource Allocation,Genetics,2,,False,,383
-Reaction Mechanism,Metabolic Network,2,,False,,384
-Reaction Mechanism,FBA,2,,False,,385
-Microbial Population Biology,Computer Science,1,,False,,386
-Microbial Population Biology,FBA,2,,False,,387
-Model Organism,Glycolysis,2,,False,,388
-Genome Size,Computer Science,1,,False,,389
-Metabolic Engineering,Computational Biology,2,,False,,39
-Genome Size,FBA,2,,False,,390
-Metabolic Engineering,Algorithm,6,,False,,391
-Experimental Data,Bioinformatics,2,,False,,392
-Network Analysis,Metabolic Engineering,3,,False,,393
-Network Analysis,FBA,22,,False,,394
-Microbial Fuel Cell,FBA,1,,False,,395
-Botany,Biology,8,,False,,396
-Microbial Fuel Cell,Metabolic Engineering,2,,False,,397
-Ecology,Environmental Science,2,,False,,398
-Glycolysis,Biochemistry,10,,False,,399
-Model Organism,Metabolomics,2,,False,,4
-Metabolic Engineering,Glycolysis,2,,False,,40
-Ecology,Thermophile,2,,False,,400
-Fluxomics,Computation,2,,False,,401
-Metabolic Engineering,Proteomics,4,,False,,402
-Biofuel,Mathematical Model,2,,False,,403
-Biological Database,Metabolomics,2,,False,,404
-Biological Database,FBA,6,,False,,405
-Botany,FBA,58,,False,,406
-Computer Science,Metabolic Network,4,,False,,407
-Metabolic Network Modelling,FBA,4,,False,,408
-Metabolic Network Modelling,Systems Biology,2,,False,,409
-Computer Science,Cell Biology,2,,False,,41
-Metagenomics,Ecology,10,,False,,410
-Chlamydomonas,FBA,2,,False,,411
-Biomass,Chlamydomonas,1,,False,,412
-Biomass,FBA,4,,False,,413
-Nitrogen Assimilation,Computational Biology,2,,False,,414
-Linear Combination,Exponential Growth,2,,False,,415
-Linear Combination,FBA,12,,False,,416
-Ageing,Metabolomics,1,,False,,417
-Ageing,FBA,2,,False,,418
-Nitrogen Assimilation,FBA,10,,False,,419
-Food Science,Biochemistry,4,,False,,42
-Process Engineering,Environmental Science,2,,False,,420
-Genetics,Epistasis,6,,False,,421
-Sampling,FBA,1,,False,,422
-C4 Photosynthesis,FBA,1,,False,,423
-C4 Photosynthesis,Sampling,1,,False,,424
-Komagataella Phaffii,FBA,2,,False,,425
-Biological System,FBA,1,,False,,426
-Biological System,Chemistry,1,,False,,427
-Escherichia Coli,FBA,6,,False,,428
-Biochemistry,Botany,22,,False,,429
-Metabolomics,Biology,2,,False,,43
-Horizontal Gene Transfer,FBA,1,,False,,430
-Fungal Genome,FBA,1,,False,,431
-Fungal Genome,Horizontal Gene Transfer,1,,False,,432
-Design of Experiments,FBA,3,,False,,433
-Environmental Science,Botany,2,,False,,434
-Resource Allocation,Biology,2,,False,,435
-Mitochondrion,Systems Biology,2,,False,,436
-Integer Programming,FBA,6,,False,,437
-Integer Programming,Transcriptional Regulation,2,,False,,438
-Microbial Ecology,FBA,3,,False,,439
-Ecology,Bioinformatics,2,,False,,44
-Microbial Ecology,Metabolism,2,,False,,440
-Mathematics,Linear Programming,10,,False,,441
-Spermatogenesis,FBA,1,,False,,442
-Spermatogenesis,Bioinformatics,1,,False,,443
-Respiration,Gene,2,,False,,444
-Respiration,FBA,4,,False,,445
-Genetics,FBA,272,,False,,446
-Systems Analysis,Gene Expression Profiling,1,,False,,447
-ENCODE,Computer Science,1,,False,,448
-ENCODE,FBA,2,,False,,449
-Steady State,FBA,44,,False,,45
-Representation (mathematics),Computational Biology,2,,False,,450
-Representation (mathematics),FBA,2,,False,,451
-Metabolomics,Resource Allocation,2,,False,,452
-Systems Biology,Transcriptional Regulation,2,,False,,453
-Food Science,Biology,2,,False,,454
-Evolutionary Algorithm,FBA,3,,False,,455
-Systems Analysis,FBA,6,,False,,456
-Evolutionary Algorithm,Metabolic Engineering,3,,False,,457
-Fluxomics,Metabolism,2,,False,,458
-Biological Database,Bioinformatics,2,,False,,459
-Biochemistry,Computational Biology,10,,False,,46
-Systems Biology,Metabolic Engineering,2,,False,,460
-Perturbation,FBA,2,,False,,461
-Topology,Perturbation,1,,False,,462
-Topology,FBA,2,,False,,463
-Cupriavidus Necator,Glycerol,2,,False,,464
-Environmental Science,Fermentation,2,,False,,465
-Biogeochemical Cycle,FBA,2,,False,,466
-Extracellular,FBA,28,,False,,467
-Porous Medium,Biogeochemical Cycle,1,,False,,468
-Porous Medium,FBA,2,,False,,469
-Computational Biology,Mathematical Model,2,,False,,47
-Redox,Metabolic Engineering,1,,False,,470
-Redox,FBA,2,,False,,471
-Transcriptome,FBA,3,,False,,472
-Artificial Life,Ecology,1,,False,,473
-Artificial Life,FBA,2,,False,,474
-In Silico,Metabolic Engineering,1,,False,,475
-In Silico,FBA,1,,False,,476
-Computer Science,Theoretical Computer Science,2,,False,,477
-Recombinant DNA,Extracellular,1,,False,,478
-Biophysics,Chemistry,2,,False,,479
-Biological Network,Metabolism,2,,False,,48
-Mathematics,Mathematical Model,2,,False,,480
-Biophysics,Extracellular,2,,False,,481
-Recombinant DNA,FBA,8,,False,,482
-Artemisinic Acid,Synthetic Biology,1,,False,,483
-Artemisinic Acid,FBA,2,,False,,484
-Petri Net,Systems Biology,1,,False,,485
-Metabolic Network,FBA,56,,False,,486
-Petri Net,FBA,5,,False,,487
-Metabolic Engineering,Biofuel,12,,False,,488
-Metabolomics,Visualization,2,,False,,489
-Genetics,Biochemistry,10,,False,,49
-Simulation,Biology,2,,False,,490
-Computational Model,Environmental Science,1,,False,,491
-Computational Model,FBA,8,,False,,492
-Resource Allocation,Computational Biology,2,,False,,493
-PlasmoDB,Malaria,2,,False,,494
-PlasmoDB,FBA,2,,False,,495
-Biofuel,Biochemistry,8,,False,,496
-Metabolic Phenotype,FBA,1,,False,,497
-Cluster Coefficient,FBA,1,,False,,498
-Cluster Coefficient,Metabolic Phenotype,1,,False,,499
-Complex Network,Computer Science,4,,False,,5
-Strain (chemistry),Biology,2,,False,,50
-Ecology,Genetics,6,,False,,500
-Steady State,Experimental Data,2,,False,,501
-Systems Analysis,Bioinformatics,4,,False,,502
-Homeostasis,Bioinformatics,1,,False,,503
-Homeostasis,FBA,4,,False,,504
-Enzyme Kinetics,Bioinformatics,2,,False,,505
-Enzyme Kinetics,FBA,6,,False,,506
-Computer Science,Integer Programming,2,,False,,507
-Fluxomics,Ecology,6,,False,,508
-Bioprocess,Biochemistry,6,,False,,509
-Anaerobic Exercise,Food Science,2,,False,,51
-Lipid Metabolism,Metabolomics,2,,False,,510
-Biochemistry,Bioinformatics,18,,False,,511
-Engineering,FBA,6,,False,,512
-Drug Development,Bioinformatics,5,,False,,513
-Drug Development,FBA,8,,False,,514
-Implementation,Computer Science,2,,False,,515
-Implementation,FBA,2,,False,,516
-Sink (computing),Botany,1,,False,,517
-Sink (computing),FBA,2,,False,,518
-Nitrogen Assimilation,Pentose Phosphate Pathway,2,,False,,519
-Lipid Metabolism,Lipidomics,2,,False,,52
-Bioinformatics,Metabolism,6,,False,,520
-Convergent Evolution,Botany,1,,False,,521
-Convergent Evolution,FBA,2,,False,,522
-Environmental Science,FBA,24,,False,,523
-Substrate (chemistry),Biochemistry,1,,False,,524
-Substrate (chemistry),FBA,2,,False,,525
-Constrained Optimization,Transcriptional Regulation,1,,False,,526
-Constrained Optimization,FBA,4,,False,,527
-Function (biology),Biophysics,1,,False,,528
-Function (biology),FBA,2,,False,,529
-Bioprocess,Metabolic Network,2,,False,,53
-Metabolic Engineering,Chromatography,4,,False,,530
-Network Analysis,Bioinformatics,6,,False,,531
-RuBisCO,Biochemistry,8,,False,,532
-RuBisCO,FBA,14,,False,,533
-Bioinformatics,Biology,72,,False,,534
-Flux (metallurgy),Environmental Science,1,,False,,535
-Knowledge Base,Proteomics,2,,False,,536
-Biological Network,Genetics,6,,False,,537
-Linear Programming,Chromatography,2,,False,,538
-Biochemistry,Microbial Ecology,2,,False,,539
-Fluxomics,Proteomics,2,,False,,54
-Software Architecture,Computer Science,2,,False,,540
-Software Architecture,FBA,2,,False,,541
-Nitrogen Cycle,Genetics,4,,False,,542
-Nitrogen Cycle,FBA,12,,False,,543
-Biological Network,Biochemistry,2,,False,,544
-Carbohydrate Metabolism,Genetics,2,,False,,545
-Flux (metallurgy),FBA,20,,False,,546
-Ecology,Steady State,8,,False,,547
-Ecology,Biochemistry,6,,False,,548
-Metabolic Engineering,Metabolomics,6,,False,,549
-Biophysics,Model Organism,2,,False,,55
-Lipid Metabolism,Metabolic Engineering,4,,False,,550
-Biochemistry,Gene Knockout,4,,False,,551
-Bioprocess,Metabolic Engineering,8,,False,,552
-Metabolomics,Whole Genome Sequencing,2,,False,,553
-Whole Genome Sequencing,DNA Sequencing,4,,False,,554
-Fluxomics,Bioinformatics,10,,False,,555
-Metabolic Engineering,Biophysics,4,,False,,556
-Cell Biology,Biology,1,,False,,557
-Cell Biology,FBA,4,,False,,558
-Oxidative Phosphorylation,Bioinformatics,2,,False,,559
-Genetics,Natural Selection,2,,False,,56
-Nucleotide Sugar,Chromatography,2,,False,,560
-Nucleotide Sugar,FBA,2,,False,,561
-Compartmentalization (psychology),Heterotroph,1,,False,,562
-Compartmentalization (psychology),FBA,4,,False,,563
-Polyhedron,Computer Science,1,,False,,564
-Polyhedron,FBA,2,,False,,565
-Ecology,Mathematics,2,,False,,566
-Glycolysis,Proteomics,2,,False,,567
-Multi-objective Optimization,Metabolic Control Analysis,2,,False,,568
-Multi-objective Optimization,FBA,4,,False,,569
-Negative Selection,Metabolic Engineering,1,,False,,57
-Gene Expression Profiling,Proteomics,2,,False,,570
-Penalty Method,Computer Science,2,,False,,571
-Penalty Method,FBA,6,,False,,572
-Nonlinear Programming,Biochemistry,1,,False,,573
-Nonlinear Programming,FBA,2,,False,,574
-Autocatalysis,Genetics,2,,False,,575
-Autocatalysis,FBA,4,,False,,576
-Gene Knockout,Biology,6,,False,,577
-Lipid Metabolism,Biochemistry,2,,False,,578
-Metabolomics,Biochemistry,8,,False,,579
-Negative Selection,FBA,2,,False,,58
-Bioinformatics,Flux (metallurgy),4,,False,,580
-Isotopic Labeling,Metabolomics,1,,False,,581
-Isotopic Labeling,FBA,6,,False,,582
-Protein Biosynthesis,Transcriptional Regulation,2,,False,,583
-Reverse Krebs Cycle,Biofuel,2,,False,,584
-Reverse Krebs Cycle,FBA,4,,False,,585
-Ecology,Symbiosis,2,,False,,586
-Gene Expression Profiling,Genetics,4,,False,,587
-Gene Knockout,FBA,12,,False,,588
-Metabolic Engineering,Reverse Krebs Cycle,2,,False,,589
-Metabolic Engineering,Chemical Industry,2,,False,,59
-Gluconeogenesis,Genetics,2,,False,,590
-Gluconeogenesis,FBA,2,,False,,591
-Vascular Bundle,FBA,2,,False,,592
-Transformation,Vascular Bundle,1,,False,,593
-Transformation,FBA,2,,False,,594
-Interconnectivity,Bioinformatics,2,,False,,595
-Interconnectivity,FBA,2,,False,,596
-Metabolomics,Chromatography,2,,False,,597
-Human Genetics,Genetics,2,,False,,598
-Linear Programming,FBA,53,,False,,599
-Glycolysis,Bioinformatics,2,,False,,6
-Bioprocess,Mathematics,2,,False,,60
-Human Genetics,FBA,4,,False,,600
-Metabolic Engineering,Ecology,4,,False,,601
-Completeness (statistics),Gene Expression Profiling,1,,False,,602
-Completeness (statistics),FBA,2,,False,,603
-Human Pathogen,Genetics,2,,False,,604
-Mitochondrial Matrix,Mitochondrion,2,,False,,605
-Mitochondrial Matrix,FBA,2,,False,,606
-Biohydrogen,Biochemistry,2,,False,,607
-Biohydrogen,FBA,6,,False,,608
-Glycolysis,Metabolomics,2,,False,,609
-Pentose Phosphate Pathway,Model Organism,2,,False,,61
-Linear Programming,Metabolic Network,1,,False,,610
-Metabolic Engineering,Recombinant DNA,4,,False,,611
-Anabolism,Biochemistry,6,,False,,612
-Biochemistry,Metabolic Network,2,,False,,613
-Lethality,Genetics,2,,False,,614
-Lethality,FBA,4,,False,,615
-Normal Conditions,Metabolomics,2,,False,,616
-Normal Conditions,FBA,2,,False,,617
-Bacterial Genome Size,DNA Sequencing,2,,False,,618
-Bacterial Genome Size,FBA,2,,False,,619
-Metabolic Engineering,Carbohydrate Metabolism,2,,False,,62
-Botany,Metabolism,2,,False,,620
-Algorithm,FBA,28,,False,,621
-Metabolomics,Steady State,4,,False,,622
-Biofuel,Biology,4,,False,,623
-Biohydrogen,Anaerobic Exercise,2,,False,,624
-NAD+ Kinase,Biochemistry,3,,False,,625
-NAD+ Kinase,FBA,4,,False,,626
-Microarray Analysis Techniques,Model Organism,2,,False,,627
-Microarray Analysis Techniques,FBA,8,,False,,628
-Photophosphorylation,Pentose Phosphate Pathway,1,,False,,629
-Ecology,Flux (metallurgy),4,,False,,63
-Photophosphorylation,FBA,4,,False,,630
-Biohydrogen,Metabolic Engineering,2,,False,,631
-Metabolic Engineering,Heterotroph,2,,False,,632
-Model Organism,Genetics,6,,False,,633
-Genetic Algorithm,Bioinformatics,4,,False,,634
-Process Simulation,FBA,2,,False,,635
-Streptomyces Coelicolor,Process Simulation,1,,False,,636
-Streptomyces Coelicolor,FBA,2,,False,,637
-Metagenomics,Experimental Data,2,,False,,638
-A Priori And A Posteriori,Computer Science,1,,False,,639
-Stringent Response,Recombinant DNA,2,,False,,64
-A Priori And A Posteriori,FBA,2,,False,,640
-Steady State,Bioinformatics,4,,False,,641
-Bioinformatics,FBA,350,,False,,642
-Laws of Thermodynamics,Complex Network,2,,False,,643
-Laws of Thermodynamics,FBA,4,,False,,644
-Convex Analysis,Linear Combination,1,,False,,645
-Convex Analysis,FBA,6,,False,,646
-Metabolomics,Extracellular,2,,False,,647
-Stringent Response,Genetics,2,,False,,648
-Stringent Response,FBA,6,,False,,649
-Biochemistry,Drug Development,2,,False,,65
-Metabolic Engineering,Botany,6,,False,,650
-Network Analysis,Computer Science,4,,False,,651
-Directionality,Steady State,2,,False,,652
-Directionality,FBA,2,,False,,653
-Lethality,Bioinformatics,2,,False,,654
-Auxotrophy,Genetics,4,,False,,655
-Auxotrophy,FBA,6,,False,,656
-Equilibrium Constant,Biochemistry,2,,False,,657
-Equilibrium Constant,FBA,2,,False,,658
-Strain (chemistry),Bioinformatics,1,,False,,659
-Convex Analysis,Chromatography,2,,False,,66
-Strain (chemistry),FBA,12,,False,,660
-Obligate,Symbiosis,2,,False,,661
-Obligate,FBA,4,,False,,662
-Critical To Quality,Metabolic Engineering,1,,False,,663
-Critical To Quality,FBA,2,,False,,664
-Biology,Microbiology,6,,False,,665
-Nitrous Oxide,Metabolic Network Modelling,2,,False,,666
-Nitrous Oxide,FBA,2,,False,,667
-Arithmetic,Biology,1,,False,,668
-Arithmetic,FBA,2,,False,,669
-Biomarker (medicine),Bioinformatics,4,,False,,67
-Transposon Mutagenesis,Genetics,2,,False,,670
-Transposon Mutagenesis,FBA,4,,False,,671
-Polyhydroxyalkanoates,Biochemistry,1,,False,,672
-Oxidative Phosphorylation,Biochemistry,3,,False,,673
-Polyhydroxyalkanoates,FBA,2,,False,,674
-Computational Problem,Autocatalysis,2,,False,,675
-Computational Problem,FBA,2,,False,,676
-Environmental Stress,FBA,2,,False,,677
-Nitric Oxide Synthase,Environmental Stress,1,,False,,678
-Nitric Oxide Synthase,FBA,1,,False,,679
-Metabolic Flux Analysis,Metabolic Network,1,,False,,68
-Climate Change,Metabolic FluxAnalysis,2,,False,,680
-Climate Change,FBA,2,,False,,681
-Extracellular,Bioinformatics,2,,False,,682
-BioModels Database,Computer Science,1,,False,,683
-Oxidative Phosphorylation,FBA,6,,False,,684
-BioModels Database,FBA,2,,False,,685
-Biological Network,Computer Science,4,,False,,686
-Streptomyces Lividans,FBA,1,,False,,687
-Evolutionary Game Theory,Linear Programming,2,,False,,688
-Evolutionary Game Theory,FBA,4,,False,,689
-Ecology,Glycolysis,2,,False,,69
-Pentose Phosphate Pathway,Saccharomyces Cerevisiae,2,,False,,690
-Fluxomics,Biochemistry,8,,False,,691
-Biochemistry,Enzyme Kinetics,4,,False,,692
-Network Analysis,Experimental Data,2,,False,,693
-Bioinformatics,Computational Model,2,,False,,694
-Anabolism,FBA,14,,False,,695
-Monte Carlo Method,Algorithm,3,,False,,696
-Monte Carlo Method,FBA,10,,False,,697
-Visualization,Linear Programming,2,,False,,698
-Metabolic Engineering,Electron Transport Chain,4,,False,,699
-Biological Network,FBA,56,,False,,7
-Metabolic Flux Analysis,FBA,9,,False,,70
-Pentose Phosphate Pathway,Anabolism,3,,False,,700
-Biophysics,Ecology,4,,False,,701
-Niche Construction,FBA,4,,False,,702
-Whole Genome Sequencing,Biochemistry,2,,False,,703
-Biochemistry,Strain (chemistry),8,,False,,704
-Pentose Phosphate Pathway,FBA,58,,False,,705
-Ecology,Control Theory,2,,False,,706
-Metabolic Engineering,Linear Programming,2,,False,,707
-Network Analysis,Biochemistry,2,,False,,708
-Applied Mathematics,Linear Programming,4,,False,,709
-Metagenomics,Computational Biology,2,,False,,71
-Computer Science,Bioinformatics,28,,False,,710
-Constrained Optimization,Metabolic Control Analysis,2,,False,,711
-Metabolic Engineering,Graphical User Interface,2,,False,,712
-Gene Expression Profiling,Biochemistry,2,,False,,713
-Probabilistic Logic,Model Organism,1,,False,,714
-Probabilistic Logic,FBA,2,,False,,715
-Linear Combination,Linear Programming,2,,False,,716
-DNA Sequencing,Genetics,4,,False,,717
-Metabolomics,Biological Network,2,,False,,718
-Pentose Phosphate Pathway,Lipid Metabolism,2,,False,,719
-Petri Net,Computer Science,2,,False,,72
-Computer Science,FBA,202,,False,,720
-Integer,Computer Science,2,,False,,721
-Mathematics,Metabolic Network,4,,False,,722
-Algorithm,Computer Science,2,,False,,723
-Fluxomics,Biological Network,2,,False,,724
-Whole Genome Sequencing,Food Science,2,,False,,725
-Gene Expression Profiling,Model Organism,2,,False,,726
-Anabolism,Anaerobic Exercise,2,,False,,727
-Agronomy,RuBisCO,2,,False,,728
-Computational Biology,Genetics,13,,False,,729
-Ecology,Obligate,2,,False,,73
-Steady State,Chromatography,2,,False,,730
-Network Analysis,Multi-objective Optimization,2,,False,,731
-Chromatography,Biochemistry,4,,False,,732
-Gene Expression Profiling,Transcriptional Regulation,2,,False,,733
-Ecology,Biological Database,2,,False,,734
-Computer Science,Experimental Data,6,,False,,735
-Proteomics,Biochemistry,2,,False,,736
-Electricity Generation,Ecology,2,,False,,737
-Electricity Generation,FBA,6,,False,,738
-Fluxomics,Model Organism,4,,False,,739
-Glycolysis,Mitochondrion,4,,False,,74
-Lipid Metabolism,Transcription Factor,2,,False,,740
-Metabolic FluxAnalysis,Computational Biology,2,,False,,741
-Linear Programming,Biochemistry,2,,False,,742
-Biomarker (medicine),Biochemistry,2,,False,,743
-Biomarker (medicine),FBA,12,,False,,744
-Experimental Data,Biology,2,,False,,745
-Flux (metallurgy),Metabolic Network,2,,False,,746
-Proteomics,Genetics,6,,False,,747
-Metabolomics,Mitochondrion,2,,False,,748
-Visualization,Computer Science,2,,False,,749
-Mathematics,Simulation,2,,False,,75
-Metabolomics,Electron Transport Chain,2,,False,,750
-Metabolomics,Computer Science,2,,False,,751
-Epistasis,Computational Biology,2,,False,,752
-Biomarker (medicine),Biological Network,2,,False,,753
-Complex Network,Operations Research,2,,False,,754
-Electricity Generation,Genetics,2,,False,,755
-Gene Expression Profiling,Bioinformatics,2,,False,,756
-Epistasis,FBA,8,,False,,757
-Algorithm,Biological Network,2,,False,,758
-Mathematics,Computation,2,,False,,759
-Glycolysis,FBA,32,,False,,76
-Model Organism,Computer Science,2,,False,,760
-Convex Analysis,Fluxomics,2,,False,,761
-Community,Metagenomics,2,,False,,762
-Community,FBA,2,,False,,763
-Ecology,Resource Allocation,2,,False,,764
-Transcriptional Regulation,Genetics,2,,False,,765
-Bilevel Optimization,Anaerobic Exercise,2,,False,,766
-Biological Network,Bioinformatics,2,,False,,767
-Metabolomics,Nitrogen Cycle,2,,False,,768
-Biological Network,Scalability,2,,False,,769
-Genetic Algorithm,Biology,2,,False,,77
-Ecology,Food Science,2,,False,,770
-Biophysics,Steady State,2,,False,,771
-Genetic Algorithm,Metabolic Engineering,4,,False,,772
-Bioprocess,Proteomics,2,,False,,773
-Isotopic Labeling,Biochemistry,2,,False,,774
-Genetic Algorithm,FBA,16,,False,,775
-Computer Science,Computational Biology,4,,False,,776
-Metagenomics,Bioinformatics,2,,False,,777
-Metabolomics,Proteomics,6,,False,,778
-Pentose Phosphate Pathway,RuBisCO,2,,False,,779
-Integer,Visualization,2,,False,,78
-Computational Biology,FBA,106,,False,,780
-Network Theory,Fluxomics,2,,False,,781
-Anaerobic Exercise,Chromatography,2,,False,,782
-Transcriptome,Energy Metabolism,2,,False,,783
-Protein Biosynthesis,Biochemistry,2,,False,,784
-Biological Network,Flux (metallurgy),2,,False,,785
-Lipid Metabolism,Biomarker (medicine),2,,False,,786
-Network Theory,FBA,4,,False,,787
-Linear Combination,Biochemistry,2,,False,,788
-Botany,Flux (metallurgy),2,,False,,789
-Mixed Acid Fermentation,Biochemistry,2,,False,,79
-Biophysics,Bioinformatics,2,,False,,790
-Fluxomics,Metabolomics,12,,False,,791
-Computation,Biochemistry,2,,False,,792
-Biochemistry,Flux (metallurgy),2,,False,,793
-Linear Combination,Gene Expression Profiling,2,,False,,794
-Metabolic Engineering,Model Organism,2,,False,,795
-Biochemistry,Fermentation,4,,False,,796
-Mathematics,Metabolism,2,,False,,797
-Natural Selection,Metabolic Network,1,,False,,798
-Natural Selection,FBA,8,,False,,799
-Ecology,Experimental Data,2,,False,,8
-Mixed Acid Fermentation,FBA,4,,False,,80
-Systems Biology,Metabolism,2,,False,,800
-Chromatography,FBA,42,,False,,801
-Signal Transduction,Bioinformatics,1,,False,,802
-Signal Transduction,FBA,2,,False,,803
-Ecology,Evolutionary Game Theory,2,,False,,804
-Network Theory,Laws of Thermodynamics,2,,False,,805
-Biological Network,Biology,2,,False,,806
-Nitrogen Cycle,Biochemistry,2,,False,,807
-Microarray Analysis Techniques,Biochemistry,4,,False,,808
-Metabolic Engineering,Whole Genome Sequencing,2,,False,,809
-Systems Biology,Metabolic Control Analysis,2,,False,,81
-Biophysics,Pentose Phosphate Pathway,1,,False,,810
-Niche Construction,Ecology,2,,False,,811
-Biophysics,FBA,40,,False,,812
-Metabolic Engineering,RuBisCO,2,,False,,813
-Applied Mathematics,Bioinformatics,2,,False,,814
-Biological Network,Visualization,2,,False,,815
-Food Science,Chromatography,4,,False,,816
-Model Organism,Proteomics,2,,False,,817
-Metabolic Network,Virtual Screening,2,,False,,818
-Experimental Data,Mathematical Optimization,2,,False,,82
-Metabolic Engineering,Bioinformatics,22,,False,,83
-Metabolomics,Computational Biology,2,,False,,84
-Computational Biology,Transcription Factor,2,,False,,85
-Visualization,Genetics,2,,False,,86
-Metabolic Engineering,Mathematics,2,,False,,87
-Environmental Science,Scalability,2,,False,,88
-Food Science,Respiration,2,,False,,89
-Linear Programming,Simulation,2,,False,,9
-Genetics,Gene Knockout,2,,False,,90
-Monte Carlo Method,Biological Network,2,,False,,91
-Computational Biology,Chemistry,2,,False,,92
-Biological Network,Mathematics,2,,False,,93
-Crystallography,Flux (metallurgy),2,,False,,94
-Crystallography,FBA,4,,False,,95
-Biofuel,Control Theory,2,,False,,96
-Synthetic Biology,FBA,9,,False,,97
-Mixed Acid Fermentation,Genetics,2,,False,,98
-Crystallography,Monte Carlo Method,2,,False,,99
+Genetics,Computational Biology,7,,False,,0
+Genetics,FBA,53,,False,,1
+Glycerol,Bilevel Optimization,1,,False,,10
+Metabolomics,Resource Allocation,1,,False,,100
+Pentose Phosphate Pathway,FBA,26,,False,,101
+Systems Biology,Transcriptional Regulation,1,,False,,102
+FBA,Evolutionary Algorithm,1,,False,,103
+Fluxomics,Metabolism,1,,False,,104
+Systems Biology,Metabolic Engineering,1,,False,,105
+Cupriavidus Necator,Glycerol,1,,False,,106
+Environmental Science,Fermentation,1,,False,,107
+Metabolic Engineering,Redox,1,,False,,108
+FBA,Transcriptome,2,,False,,109
+Biophysics,Metabolism,1,,False,,11
+Ecology,Artificial Life,1,,False,,110
+Metabolic Engineering,In Silico,1,,False,,111
+Genetics,Experimental Data,1,,False,,112
+Biochemistry,Metabolism,18,,False,,113
+Computer Science,Theoretical Computer Science,1,,False,,114
+Biophysics,Chemistry,1,,False,,115
+Mathematics,Mathematical Model,1,,False,,116
+Computer Science,Interaction Network,1,,False,,117
+Biophysics,Extracellular,1,,False,,118
+Synthetic Biology,Artemisinic Acid,1,,False,,119
+Computer Science,Mathematical Optimization,1,,False,,12
+Computer Science,Root Cause,1,,False,,120
+Systems Biology,Petri Net,1,,False,,121
+Metabolic Engineering,Biofuel,6,,False,,122
+Metabolomics,Visualization,1,,False,,123
+Computer Science,Bioinformatics,13,,False,,124
+Environmental Science,Computational Model,1,,False,,125
+Resource Allocation,Computational Biology,1,,False,,126
+Genetics,Rhizosphere,1,,False,,127
+Steady State,Ode,1,,False,,128
+Biofuel,Biochemistry,4,,False,,129
+Biochemistry,Oxidative Phosphorylation,2,,False,,13
+FBA,Metabolic Phenotype,1,,False,,130
+FBA,Cluster Coefficient,1,,False,,131
+Ecology,Biology,4,,False,,132
+Ecology,Genetics,3,,False,,133
+Steady State,Experimental Data,1,,False,,134
+Computer Science,FBA,50,,False,,135
+Systems Analysis,Bioinformatics,2,,False,,136
+Systems Analysis,FBA,2,,False,,137
+Bioinformatics,Homeostasis,1,,False,,138
+Computer Science,Integer Programming,1,,False,,139
+Metabolic Engineering,Biological Pathway,1,,False,,14
+Fluxomics,Ecology,3,,False,,140
+Biochemistry,Bioinformatics,9,,False,,141
+Bioinformatics,Drug Development,3,,False,,142
+Botany,Sink (computing),1,,False,,143
+Botany,FBA,7,,False,,144
+Bioinformatics,Metabolism,3,,False,,145
+Biochemistry,Computational Biology,5,,False,,146
+Botany,Convergent Evolution,1,,False,,147
+Biochemistry,Substrate (chemistry),1,,False,,148
+Transcriptional Regulation,Constrained Optimization,1,,False,,149
+Pentose Phosphate Pathway,Biochemistry,13,,False,,15
+Transcriptional Regulation,FBA,3,,False,,150
+Biophysics,Function (biology),1,,False,,151
+Metabolic Engineering,Chromatography,2,,False,,152
+Network Analysis,Bioinformatics,3,,False,,153
+Network Analysis,FBA,9,,False,,154
+Metabolomics,Genetics,7,,False,,155
+Linear Programming,Chromatography,1,,False,,156
+Genetics,Biochemistry,5,,False,,157
+Biochemistry,Microbial Ecology,1,,False,,158
+Carbohydrate Metabolism,Genetics,1,,False,,159
+FBA,Clostridium Ljungdahlii,1,,False,,16
+Carbohydrate Metabolism,FBA,1,,False,,160
+Ecology,Steady State,4,,False,,161
+Ecology,Biochemistry,3,,False,,162
+Metabolic Engineering,Metabolomics,3,,False,,163
+Biochemistry,Gene Knockout,2,,False,,164
+Metabolomics,Whole Genome Sequencing,1,,False,,165
+Whole Genome Sequencing,DNA Sequencing,2,,False,,166
+Whole Genome Sequencing,FBA,6,,False,,167
+FBA,Yield,1,,False,,168
+Fluxomics,Bioinformatics,5,,False,,169
+FBA,Wood–Ljungdahl Pathway,1,,False,,17
+Metabolic Engineering,Biophysics,2,,False,,170
+Biology,Cell Biology,1,,False,,171
+Oxidative Phosphorylation,Bioinformatics,1,,False,,172
+Oxidative Phosphorylation,FBA,1,,False,,173
+Heterotroph,Compartmentalization (psychology),1,,False,,174
+Computer Science,Polyhedron,1,,False,,175
+Ecology,Mathematics,1,,False,,176
+Glycolysis,Proteomics,1,,False,,177
+Biochemistry,Nonlinear Programming,1,,False,,178
+FBA,Respiratory Pathway,1,,False,,179
+FBA,Muconic Acid,1,,False,,18
+Botany,Biology,3,,False,,180
+Metabolomics,Biochemistry,4,,False,,181
+Bioinformatics,Flux (metallurgy),2,,False,,182
+Metabolomics,Isotopic Labeling,1,,False,,183
+Ecology,Symbiosis,1,,False,,184
+Metabolic Engineering,Reverse Krebs Cycle,1,,False,,185
+Metabolomics,Chromatography,1,,False,,186
+Metabolic Engineering,Ecology,2,,False,,187
+Heterotroph,Biochemistry,2,,False,,188
+Human Pathogen,Genetics,1,,False,,189
+FBA,Aromatic Amino Acids,1,,False,,19
+Metabolic Network,Metabolic Flux Analysis,1,,False,,190
+Human Pathogen,FBA,1,,False,,191
+Glycolysis,Metabolomics,1,,False,,192
+Metabolic Engineering,Recombinant DNA,2,,False,,193
+Biochemistry,Metabolic Network,1,,False,,194
+Botany,Metabolism,1,,False,,195
+Metabolomics,Steady State,2,,False,,196
+Biofuel,Biology,2,,False,,197
+Biochemistry,NAD+ Kinase,2,,False,,198
+Pentose Phosphate Pathway,Photophosphorylation,1,,False,,199
+FBA,Linear Programming,9,,False,,2
+Engineering,Control Engineering,1,,False,,20
+Metabolic Engineering,Heterotroph,1,,False,,200
+Metabolic Engineering,Biochemistry,44,,False,,201
+Model Organism,Genetics,3,,False,,202
+Model Organism,FBA,9,,False,,203
+Genetic Algorithm,Bioinformatics,2,,False,,204
+Genetic Algorithm,FBA,6,,False,,205
+Computer Science,A Priori And A Posteriori,1,,False,,206
+Metabolic Engineering,Genetics,8,,False,,207
+Steady State,Bioinformatics,2,,False,,208
+Whole Genome Sequencing,Open Reading Frame,1,,False,,209
+Engineering,FBA,1,,False,,21
+Metabolomics,Extracellular,1,,False,,210
+Metabolic Engineering,Botany,3,,False,,211
+Metabolic Engineering,FBA,162,,False,,212
+Network Analysis,Computer Science,2,,False,,213
+Bioinformatics,Strain (chemistry),1,,False,,214
+Metabolic Engineering,Critical To Quality,1,,False,,215
+Biology,Microbiology,3,,False,,216
+Biology,Arithmetic,1,,False,,217
+Biochemistry,Polyhydroxyalkanoates,1,,False,,218
+Extracellular,Bioinformatics,1,,False,,219
+FBA,Microbiome,1,,False,,22
+Computer Science,BioModels Database,1,,False,,220
+FBA,Streptomyces Lividans,1,,False,,221
+Pentose Phosphate Pathway,Saccharomyces Cerevisiae,1,,False,,222
+Genetics,Biology,9,,False,,223
+Genetics,Gene Knockout,1,,False,,224
+Fluxomics,Biochemistry,4,,False,,225
+Biochemistry,Enzyme Kinetics,2,,False,,226
+Network Analysis,Experimental Data,1,,False,,227
+Bioinformatics,Computational Model,1,,False,,228
+Ecology,Scientific Progress,1,,False,,229
+Mathematics,Experimental Data,1,,False,,23
+Computer Science,Systematic Error,1,,False,,230
+Algorithm,Monte Carlo Method,2,,False,,231
+Algorithm,FBA,7,,False,,232
+Visualization,Linear Programming,1,,False,,233
+Visualization,FBA,4,,False,,234
+FBA,Chlamydomonas Reinhardtii,4,,False,,235
+Metabolic Engineering,Electron Transport Chain,2,,False,,236
+Biophysics,Ecology,2,,False,,237
+Metabolomics,Bioinformatics,3,,False,,238
+Whole Genome Sequencing,Biochemistry,1,,False,,239
+Biochemistry,FBA,109,,False,,24
+Biochemistry,Strain (chemistry),4,,False,,240
+FBA,Normal Distribution,1,,False,,241
+Ecology,Control Theory,1,,False,,242
+Metabolic Engineering,Linear Programming,1,,False,,243
+Network Analysis,Biochemistry,1,,False,,244
+Constrained Optimization,Metabolic Control Analysis,1,,False,,245
+Metabolic Network,Pathway Analysis,1,,False,,246
+Constrained Optimization,FBA,1,,False,,247
+Metabolic Engineering,Graphical User Interface,1,,False,,248
+Model Organism,Probabilistic Logic,1,,False,,249
+Mathematics,Steady State,1,,False,,25
+DNA Sequencing,Genetics,2,,False,,250
+Metabolomics,Biological Network,1,,False,,251
+Pentose Phosphate Pathway,Lipid Metabolism,1,,False,,252
+Biochemistry,Cell Growth,1,,False,,253
+Mathematics,Metabolic Network,2,,False,,254
+Algorithm,Computer Science,1,,False,,255
+Fluxomics,Genetics,1,,False,,256
+FBA,Virtual Screening,1,,False,,257
+Fluxomics,Biological Network,1,,False,,258
+Whole Genome Sequencing,Food Science,1,,False,,259
+FBA,Avermectin,1,,False,,26
+Gene Knockout,Biology,2,,False,,260
+Gene Knockout,FBA,2,,False,,261
+Mathematics,Stochastic Differential Equation,1,,False,,262
+Steady State,Chromatography,1,,False,,263
+Network Analysis,Multi-objective Optimization,1,,False,,264
+Chromatography,Biochemistry,2,,False,,265
+Chromatography,FBA,7,,False,,266
+Ecology,Biological Database,1,,False,,267
+FBA,Homology Modeling,1,,False,,268
+Computer Science,Experimental Data,3,,False,,269
+Metabolic Engineering,Synechocystis Sp.,1,,False,,27
+Proteomics,Biochemistry,1,,False,,270
+Biofilm,Virulence,2,,False,,271
+Biofilm,FBA,2,,False,,272
+Fluxomics,Model Organism,2,,False,,273
+Biochemistry,inductive logic programming,1,,False,,274
+Lipid Metabolism,Transcription Factor,1,,False,,275
+Lipid Metabolism,FBA,5,,False,,276
+Metabolic FluxAnalysis,Computational Biology,1,,False,,277
+Metabolic FluxAnalysis,FBA,5,,False,,278
+Systems Biology,Type 2 Diabetes,1,,False,,279
+Environmental Science,Mechanics,1,,False,,28
+Linear Programming,Biochemistry,1,,False,,280
+Bioinformatics,Parasite Hosting,1,,False,,281
+Experimental Data,Biology,1,,False,,282
+Bioinformatics,Drug Discovery,1,,False,,283
+Extracellular,Chromatography,1,,False,,284
+Proteomics,Genetics,3,,False,,285
+Metabolomics,Mitochondrion,1,,False,,286
+Visualization,Computer Science,1,,False,,287
+Metabolomics,Electron Transport Chain,1,,False,,288
+Metabolomics,Computer Science,1,,False,,289
+Environmental Science,FBA,5,,False,,29
+Systems Biology,FBA,10,,False,,290
+Complex Network,Operations Research,1,,False,,291
+Complex Network,FBA,5,,False,,292
+Fluxomics,Test Data Generation,1,,False,,293
+Biophysics,Anesthesia,1,,False,,294
+Algorithm,Biological Network,1,,False,,295
+Biochemistry,Environmental Chemistry,1,,False,,296
+Biological Network,Explicit Knowledge,1,,False,,297
+Biological Network,FBA,13,,False,,298
+Mathematics,Computation,1,,False,,299
+FBA,Functional Genomics,1,,False,,3
+Pentose Phosphate Pathway,Biofilm,1,,False,,30
+Bioinformatics,Gene Regulatory Network,1,,False,,300
+FBA,Malaria,1,,False,,301
+Model Organism,Computer Science,1,,False,,302
+Convex Analysis,Fluxomics,1,,False,,303
+Convex Analysis,FBA,2,,False,,304
+Ecology,Resource Allocation,1,,False,,305
+Transcriptional Regulation,Genetics,1,,False,,306
+Bilevel Optimization,Anaerobic Exercise,1,,False,,307
+Bilevel Optimization,FBA,3,,False,,308
+Biological Network,Bioinformatics,1,,False,,309
+Biochemistry,Mathematical Model,1,,False,,31
+Metabolomics,Nitrogen Cycle,1,,False,,310
+Biological Network,Scalability,1,,False,,311
+Biochemistry,Biology,29,,False,,312
+Ecology,Food Science,1,,False,,313
+Biophysics,Steady State,1,,False,,314
+Isotopic Labeling,Biochemistry,1,,False,,315
+Isotopic Labeling,FBA,1,,False,,316
+Biochemistry,Bioprocess Engineering,1,,False,,317
+Computer Science,Computational Biology,2,,False,,318
+Metagenomics,Bioinformatics,1,,False,,319
+Resource Allocation,FBA,4,,False,,32
+Metagenomics,FBA,5,,False,,320
+Metabolomics,Proteomics,3,,False,,321
+Pentose Phosphate Pathway,RuBisCO,1,,False,,322
+Experimental Data,Computational Biology,2,,False,,323
+Anaerobic Exercise,Chromatography,1,,False,,324
+Anaerobic Exercise,FBA,3,,False,,325
+FBA,Energy Metabolism,1,,False,,326
+Biochemistry,Ethanol Fuel,1,,False,,327
+Biochemistry,Genetic Variation,1,,False,,328
+Biological Network,Flux (metallurgy),1,,False,,329
+Pentose Phosphate Pathway,Metabolic Engineering,4,,False,,33
+Lipid Metabolism,Biomarker (medicine),1,,False,,330
+Botany,Flux (metallurgy),1,,False,,331
+Biochemistry,Cellular Respiration,1,,False,,332
+Genetic Algorithm,Theory of Computation,1,,False,,333
+Genetics,Bioinformatics,16,,False,,334
+Experimental Data,FBA,5,,False,,335
+Biophysics,Bioinformatics,1,,False,,336
+Fluxomics,Metabolomics,6,,False,,337
+Computation,Biochemistry,1,,False,,338
+Computation,FBA,2,,False,,339
+Biology,Metabolic Network,2,,False,,34
+Biochemistry,Flux (metallurgy),1,,False,,340
+Metabolic Engineering,Model Organism,1,,False,,341
+Biochemistry,Fermentation,2,,False,,342
+Mathematics,Metabolism,1,,False,,343
+Metabolic Network,Natural Selection,1,,False,,344
+Ecology,Complex System,1,,False,,345
+Linear Programming,Bioinformatics,1,,False,,346
+Bioinformatics,Signal Transduction,1,,False,,347
+Ecology,Evolutionary Game Theory,1,,False,,348
+Control Theory,Optimal Control,1,,False,,349
+FBA,Spin-½,1,,False,,35
+Control Theory,FBA,1,,False,,350
+Biological Network,Biology,1,,False,,351
+Nitrogen Cycle,Biochemistry,1,,False,,352
+Nitrogen Cycle,FBA,3,,False,,353
+FBA,Raw Material,1,,False,,354
+Computer Science,Documentation,1,,False,,355
+Metabolic Engineering,Yield (chemistry),1,,False,,356
+Bioinformatics,Biology,35,,False,,357
+Metabolic Engineering,Whole Genome Sequencing,1,,False,,358
+Linear Programming,Combinatorial Optimization,1,,False,,359
+Mathematics,Visualization,1,,False,,36
+Metabolomics,Stable Isotope Ratio,1,,False,,360
+Fluxomics,Centrality,1,,False,,361
+Metabolic Engineering,RuBisCO,1,,False,,362
+Anaerobic Exercise,Biochemistry,1,,False,,363
+Biological Network,Visualization,1,,False,,364
+Metabolic FluxAnalysis,Constraint Satisfaction Problem,1,,False,,365
+Food Science,Chromatography,2,,False,,366
+Food Science,FBA,5,,False,,367
+Bioinformatics,FBA,68,,False,,368
+Model Organism,Proteomics,1,,False,,369
+Metabolic Engineering,Environmental Science,2,,False,,37
+Chromatography,Biochemical Engineering,1,,False,,370
+Metabolic Network,Virtual Screening,1,,False,,371
+Model Organism,Metabolomics,1,,False,,372
+Bioinformatics,SBML,1,,False,,373
+Complex Network,Computer Science,2,,False,,374
+Glycolysis,Bioinformatics,1,,False,,375
+Steady State,Chemical Kinetics,1,,False,,376
+Proteomics,Breast Cancer,1,,False,,377
+Ecology,Experimental Data,1,,False,,378
+Biology,Gene,1,,False,,379
+Chlamydomonas Reinhardtii,Bioreactor,1,,False,,38
+Linear Programming,Simulation,1,,False,,380
+Complex Network,Bioinformatics,1,,False,,381
+Network Analysis,Steady State,1,,False,,382
+Lipid Metabolism,Metabolic Engineering,1,,False,,383
+Pentose Phosphate Pathway,Genetically Modified Organism,1,,False,,384
+Genetics,Computational Model,1,,False,,385
+Extracellular,Metabolic Waste,1,,False,,386
+Metabolic FluxAnalysis,Photosynthesis,1,,False,,387
+Chromatography,Differential Evolution,1,,False,,388
+Complex System,Biology,1,,False,,389
+FBA,Polyketide,1,,False,,39
+Proteomics,DNA Sequencing,2,,False,,390
+Complex System,FBA,1,,False,,391
+Computer Science,Computational Model,1,,False,,392
+Glycolysis,Mitochondrion,1,,False,,393
+Computer Science,Biological Computation,1,,False,,394
+Photophosphorylation,Biochemistry,1,,False,,395
+Photophosphorylation,FBA,1,,False,,396
+Genetics,Null Allele,1,,False,,397
+RuBisCO,Biochemistry,1,,False,,398
+RuBisCO,FBA,1,,False,,399
+Metabolic Engineering,Biology,5,,False,,4
+Extracellular,Biochemistry,4,,False,,40
+Model Organism,Bioinformatics,1,,False,,400
+Proteomics,FBA,9,,False,,401
+Chromatography,Second Law of Thermodynamics,1,,False,,402
+Metagenomics,Biotransformation,1,,False,,403
+Biology,Biotechnology,2,,False,,404
+FBA,Feature Selection,1,,False,,405
+FBA,Machine Learning,2,,False,,406
+FBA,Stationary State,1,,False,,407
+FBA,Markov Chain Monte Carlo,1,,False,,408
+Biochemistry,Dilution,1,,False,,409
+Extracellular,FBA,7,,False,,41
+Biological Network,Classical Mechanics,1,,False,,410
+Bilevel Optimization,Mathematics,1,,False,,411
+Bioinformatics,Multicellular Organism,1,,False,,412
+Whole Genome Sequencing,Genetics,1,,False,,413
+Model Organism,Symbiosis,1,,False,,414
+Gene Expression Profiling,Extracellular,1,,False,,415
+Gene Expression Profiling,FBA,1,,False,,416
+Linear Programming,Markup Language,1,,False,,417
+Mathematics,Integer Programming,1,,False,,418
+Algorithm,Mathematics,3,,False,,419
+Genetics,Metabolism,2,,False,,42
+Visualization,Bioinformatics,1,,False,,420
+Ecology,Biological Network,1,,False,,421
+Metabolic Engineering,Ant Colony Optimization Algorithms,1,,False,,422
+FBA,Lipidomics,1,,False,,423
+Ecology,Computer Science,1,,False,,424
+Applied Mathematics,Resource Allocation,1,,False,,425
+Applied Mathematics,FBA,2,,False,,426
+Bioinformatics,Text Mining,1,,False,,427
+Metabolic Engineering,Computational Biology,1,,False,,428
+Metabolic Engineering,Glycolysis,1,,False,,429
+Synthetic Biology,Ozone Depletion,1,,False,,43
+Computer Science,Cell Biology,1,,False,,430
+Food Science,Biochemistry,2,,False,,431
+Metabolomics,Biology,1,,False,,432
+Ecology,Bioinformatics,1,,False,,433
+FBA,Ethanol,1,,False,,434
+Computational Biology,Mathematical Model,1,,False,,435
+Complex Network,Ecological Network,1,,False,,436
+Biological Network,Plasma Protein Binding,1,,False,,437
+Biological Network,Metabolism,1,,False,,438
+Applied Mathematics,Bounded Function,1,,False,,439
+Synthetic Biology,FBA,3,,False,,44
+FBA,Metabolic Flux Analysis,2,,False,,440
+FBA,Nuclear Magnetic Resonance,1,,False,,441
+Strain (chemistry),Biology,1,,False,,442
+Strain (chemistry),FBA,1,,False,,443
+Transcriptional Regulation,Bioinformatics,1,,False,,444
+Biology,Systems Biology,1,,False,,445
+FBA,Xylose,2,,False,,446
+Anaerobic Exercise,Food Science,1,,False,,447
+FBA,Fatty Acid Synthesis,1,,False,,448
+Lipid Metabolism,Lipidomics,1,,False,,449
+Heterotroph,Genetics,1,,False,,45
+Metabolic Engineering,Evolutionary Algorithm,1,,False,,450
+Fluxomics,Proteomics,1,,False,,451
+Mitochondrion,Genetics,1,,False,,452
+Metabolic Engineering,Bounded Function,1,,False,,453
+Mathematics,Karush–Kuhn–Tucker Conditions,1,,False,,454
+Mitochondrion,Ketone Bodies,1,,False,,455
+Biophysics,Model Organism,1,,False,,456
+Biophysics,Electron Transport Chain,1,,False,,457
+Metabolism,Medicine,1,,False,,458
+Genetics,Natural Selection,1,,False,,459
+FBA,Model Checking,1,,False,,46
+Metabolic Engineering,Negative Selection,1,,False,,460
+Metabolic Engineering,Chemical Industry,1,,False,,461
+Pentose Phosphate Pathway,Model Organism,1,,False,,462
+Metabolic Engineering,Carbohydrate Metabolism,1,,False,,463
+Biochemistry,Drug Development,1,,False,,464
+Convex Analysis,Chromatography,1,,False,,465
+Glycerol,Klebsiella Pneumoniae,1,,False,,466
+Biomarker (medicine),Bioinformatics,2,,False,,467
+Biophysics,FBA,17,,False,,468
+Biomarker (medicine),FBA,2,,False,,469
+Heterotroph,FBA,4,,False,,47
+Biological Network,Genetics,1,,False,,470
+Biology,Machine Learning,1,,False,,471
+FBA,Modeling And Simulation,1,,False,,472
+FBA,Supercomputer,1,,False,,473
+Ecology,Glycolysis,1,,False,,474
+Metagenomics,Computational Biology,1,,False,,475
+Petri Net,Computer Science,1,,False,,476
+Petri Net,FBA,1,,False,,477
+Nitrogen Cycle,Genetics,1,,False,,478
+Metabolic Engineering,Process Engineering,1,,False,,479
+Resource Allocation,Genetics,1,,False,,48
+Ecology,Obligate,1,,False,,480
+Mathematics,Cascade,1,,False,,481
+Pentose Phosphate Pathway,Personalized Medicine,1,,False,,482
+Metabolic FluxAnalysis,Phenome,1,,False,,483
+FBA,Biological Hydrogen Production,1,,False,,484
+FBA,Hydrogenase,1,,False,,485
+Ecology,Computational Biology,2,,False,,486
+Mathematics,Simulation,1,,False,,487
+Genetic Algorithm,Biology,1,,False,,488
+Synthetic Biology,Algae Fuel,1,,False,,489
+Computer Science,Microbial Population Biology,1,,False,,49
+FBA,Yersiniabactin,1,,False,,490
+Metagenomics,Ecology,2,,False,,491
+Symbiosis,Botany,1,,False,,492
+Symbiosis,FBA,1,,False,,493
+Experimental Data,Mathematical Optimization,1,,False,,494
+Biochemistry,Ethanol Fermentation,1,,False,,495
+Computational Biology,Transcription Factor,1,,False,,496
+Biophysics,Elasticity Coefficient,1,,False,,497
+Visualization,Genetics,1,,False,,498
+Ecology,Flux (metallurgy),1,,False,,499
+Mathematics,Discrete Mathematics,1,,False,,5
+FBA,Pseudomonas Aeruginosa,1,,False,,50
+Metabolic Engineering,Mathematics,1,,False,,500
+FBA,6-deoxyerythronolide B,1,,False,,501
+Environmental Science,Scalability,1,,False,,502
+Food Science,Respiration,1,,False,,503
+Gene Deletion,Microorganism,1,,False,,504
+Gene Deletion,FBA,1,,False,,505
+Metabolic Engineering,Overfitting,1,,False,,506
+Monte Carlo Method,Biological Network,1,,False,,507
+Monte Carlo Method,FBA,1,,False,,508
+Computational Biology,Chemistry,1,,False,,509
+Computer Science,Genome Size,1,,False,,51
+Chromatography,Ethanol Fuel,1,,False,,510
+Biological Network,Mathematics,1,,False,,511
+Fluxomics,Computer Science,2,,False,,512
+Genetic Algorithm,Trial And Error,1,,False,,513
+Chromatography,Chemical Synthesis,1,,False,,514
+Biofuel,Control Theory,1,,False,,515
+Metabolic Network,Nash Equilibrium,1,,False,,516
+Metabolism,Enterobacteriaceae,1,,False,,517
+Lipid Metabolism,Gene Expression Profiling,1,,False,,518
+Mitochondrion,Bioinformatics,1,,False,,519
+Metabolic Engineering,Algorithm,3,,False,,52
+Metabolic Engineering,Scalability,1,,False,,520
+Metabolomics,Systems Medicine,1,,False,,521
+Metabolic Engineering,Nutraceutical,1,,False,,522
+Fluxomics,FBA,30,,False,,523
+Biochemistry,Phosphoenolpyruvate Carboxykinase,1,,False,,524
+Glycolysis,Mathematics,1,,False,,525
+Biochemistry,Metabolic Flux Analysis,1,,False,,526
+Genetic Algorithm,Mathematics,1,,False,,527
+Biological Network,Mitosome,1,,False,,528
+Biomass,FBA,1,,False,,529
+Experimental Data,Bioinformatics,1,,False,,53
+Biomass,Directed Hypergraph,1,,False,,530
+Genetics,Drug Discovery,1,,False,,531
+Computational Biology,Prediction Algorithms,1,,False,,532
+Differential Evolution,Gene Deletions,1,,False,,533
+Computer Science,Linear Programming,6,,False,,534
+Differential Evolution,FBA,1,,False,,535
+Computation,Bioinformatics,1,,False,,536
+Biology,Internal Medicine,1,,False,,537
+Linear Programming,Optimal Control,1,,False,,538
+Mathematical Optimization,Biochemistry,1,,False,,539
+Metabolic Engineering,Network Analysis,2,,False,,54
+Mathematical Optimization,FBA,1,,False,,540
+FBA,Differential Search Algorithm,1,,False,,541
+FBA,Xylitol,1,,False,,542
+Biophysics,Bacterial Growth,1,,False,,543
+Computational Biology,Rhizosphere,1,,False,,544
+Metabolic Engineering,Fluxomics,8,,False,,545
+Mathematics,Nutrient,1,,False,,546
+Metabolic Engineering,Biomarker (medicine),1,,False,,547
+Metabolic Engineering,Design of Experiments,1,,False,,548
+Computer Science,Information Theory,1,,False,,549
+Genetics,Cholesterol Side-chain Cleavage Enzyme,1,,False,,55
+Nitrogen Cycle,Bioinformatics,1,,False,,550
+Photosynthesis,FBA,1,,False,,551
+Photosynthesis,Terpenoid,1,,False,,552
+Metabolic Engineering,Isotopic Labeling,1,,False,,553
+Metabolic Engineering,Thermophile,1,,False,,554
+Systems Biology,Glycolate Metabolism,1,,False,,555
+Biology,FBA,15,,False,,556
+Bioinformatics,Particle Swarm Optimization,1,,False,,557
+Bilevel Optimization,Boolean Data Type,1,,False,,558
+Ode,Petri Net,1,,False,,559
+FBA,Microbial Fuel Cell,1,,False,,56
+Chemical Industry,Biochemistry,1,,False,,560
+Chemical Industry,FBA,1,,False,,561
+Computer Science,Mathematical Model,1,,False,,562
+FBA,Cancer Metabolism,1,,False,,563
+FBA,Personalized Medicine,1,,False,,564
+Bioinformatics,Natural Selection,1,,False,,565
+Biofuel,Genetics,1,,False,,566
+Ecology,Osmoprotectant,1,,False,,567
+FBA,Plasmodium Falciparum,1,,False,,568
+Metabolic Engineering,Directed Evolution,1,,False,,569
+Flux (metallurgy),Metabolic Network,1,,False,,57
+Quantum Mechanics,Natural Selection,1,,False,,570
+Quantum Mechanics,FBA,1,,False,,571
+Biological Network,Computer Science,1,,False,,572
+FBA,Specification,1,,False,,573
+FBA,Modelling Biological Systems,1,,False,,574
+Compartmentalization (psychology),Genetics,1,,False,,575
+Compartmentalization (psychology),FBA,1,,False,,576
+Ecology,Stochastic Simulation,1,,False,,577
+Biophysics,Mitochondrion,1,,False,,578
+Computational Biology,Biology,4,,False,,579
+Glycolysis,Biochemistry,5,,False,,58
+Biology,Cancer Cell,1,,False,,580
+FBA,Simulated Annealing,1,,False,,581
+Centrality,Bioinformatics,1,,False,,582
+Centrality,FBA,1,,False,,583
+Ecology,Exponential Growth,1,,False,,584
+Metabolic Engineering,Human Genetics,1,,False,,585
+Text Mining,Biodegradation,1,,False,,586
+Text Mining,FBA,1,,False,,587
+Proteomics,Computational Biology,1,,False,,588
+FBA,Mammary Gland,1,,False,,589
+Fluxomics,Computation,1,,False,,59
+FBA,Metabolic Control Analysis,2,,False,,590
+FBA,Cupriavidus Necator,2,,False,,591
+Metabolic Engineering,Computer Science,16,,False,,592
+Genetics,Botany,2,,False,,593
+Linear Programming,Computation,1,,False,,594
+Computational Biology,Drug Discovery,1,,False,,595
+Cyanobacteria,FBA,2,,False,,596
+Cyanobacteria,Phenylalanine,1,,False,,597
+FBA,Glycolysis,11,,False,,598
+Mathematics,Cellular Automaton,1,,False,,599
+Xylose,Ethanol,1,,False,,6
+Metabolic Engineering,Proteomics,2,,False,,60
+Mathematics,FBA,23,,False,,600
+Mathematics,Bioinformatics,1,,False,,601
+Computer Science,Control Theory,1,,False,,602
+FBA,3-Hydroxypropionic Acid,1,,False,,603
+FBA,Glycerol,3,,False,,604
+Steady State,Computer Science,2,,False,,605
+Computational Biology,FBA,12,,False,,606
+Steady State,FBA,8,,False,,607
+Metabolism,FBA,6,,False,,608
+Biophysics,Genetics,3,,False,,609
+Biofuel,Mathematical Model,1,,False,,61
+Computational Biology,Genome Scale,1,,False,,610
+FBA,Phytophthora Infestans,1,,False,,611
+Mathematics,Source Code,1,,False,,612
+Bioinformatics,Kidney,1,,False,,613
+FBA,Archaea,1,,False,,614
+Computer Science,Computation,3,,False,,615
+Genetics,Chloroplast,1,,False,,616
+FBA,Metabolic Network,11,,False,,617
+FBA,Saccharomyces Cerevisiae,2,,False,,618
+Biology,Gene Expression,1,,False,,619
+Metabolic Engineering,Bioinformatics,10,,False,,62
+Biofuel,FBA,10,,False,,620
+Biofuel,Systems Biology,1,,False,,621
+DNA Sequencing,Microbiology,1,,False,,622
+DNA Sequencing,FBA,3,,False,,623
+FBA,Metabolic Pathway,1,,False,,624
+Ode,Genetics,1,,False,,625
+Ode,FBA,2,,False,,626
+FBA,Aspergillus Niger,1,,False,,627
+Computer Science,Metabolic Network,2,,False,,63
+Source Code,Genetics,2,,False,,64
+Source Code,FBA,2,,False,,65
+Metabolomics,Ageing,1,,False,,66
+Metabolomics,FBA,35,,False,,67
+Flux (metallurgy),FBA,1,,False,,68
+Fluxomics,Ontology,1,,False,,69
+Metabolic Engineering,Genetic Algorithm,1,,False,,7
+Bioreactor,FBA,1,,False,,70
+Process Engineering,Environmental Science,1,,False,,71
+Process Engineering,FBA,1,,False,,72
+Genetics,Epistasis,3,,False,,73
+Biochemistry,Materials Science,1,,False,,74
+FBA,Sampling,1,,False,,75
+FBA,C4 Photosynthesis,1,,False,,76
+FBA,Chemistry,1,,False,,77
+FBA,Biological System,1,,False,,78
+Computational Biology,Proteome,1,,False,,79
+Bioinformatics,Computational Biology,10,,False,,8
+Biochemistry,Botany,11,,False,,80
+FBA,Horizontal Gene Transfer,1,,False,,81
+FBA,Fungal Genome,1,,False,,82
+FBA,Autosomal Dominant Polycystic Kidney Disease,1,,False,,83
+FBA,Design of Experiments,1,,False,,84
+Biochemistry,Quantum Mechanics,1,,False,,85
+Environmental Science,Botany,1,,False,,86
+Resource Allocation,Biology,1,,False,,87
+FBA,Mitochondrion,4,,False,,88
+Computer Science,Greedy Algorithm,1,,False,,89
+Computer Science,Robustness (computer Science),1,,False,,9
+Pentose Phosphate Pathway,Biophysics,1,,False,,90
+Metabolomics,Secretion,1,,False,,91
+Ecology,Epigenetics,1,,False,,92
+Ecology,FBA,37,,False,,93
+FBA,Microbial Ecology,1,,False,,94
+Mathematics,Linear Programming,5,,False,,95
+FBA,Spermatogenesis,1,,False,,96
+FBA,Bees Algorithm,1,,False,,97
+FBA,Hill Climbing,1,,False,,98
+Computer Science,ENCODE,1,,False,,99

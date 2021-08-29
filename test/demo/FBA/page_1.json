@@ -1,363 +1,402 @@
 [
-{
-            "guid": "f90f3af810bb9e282720a8ec86bc2726",
-"title": "What is flux balance analysis",
-"authors": [
-{
-            "name": "Jeffrey D Orth",
-"guid": "2129044226"
-        }, {
-            "name": "Ines Thiele",
-"guid": "2015971504"
-        }, {
-            "name": "Bernhard O Palsson",
-"guid": "2068736320"
-        }
-]
-,
-"year": "2010",
-"journal": "· Nature Biotechnology",
-"cites": 2885,
-"abstract": "Flux balance analysis is a mathematical approach for analyzing the flow of metabolites through a metabolic network. This primer covers the theoretical basis of the approach, several practical examples …",
-"keywords": [
-{
-            "word": "Flow (psychology)",
-"guid": "75673492"
-        }, {
-            "word": "Biology",
-"guid": "86803240"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "af7d5b468a17464b5a7960a1d736a775",
-"title": "A genome-scale metabolic reconstruction for Escherichia coli K-12 MG1655 that accounts for 1260 ORFs and thermodynamic …",
-"authors": [
-{
-            "name": "Adam M Feist",
-"guid": "2061080551"
-        }, {
-            "name": "Christopher S Henry",
-"guid": "2129467050"
-        }, {
-            "name": "Jennifer L Reed",
-"guid": "2139351304"
-        }, {
-            "name": "Markus Krummenacker",
-"guid": "2275098877"
-        }, {
-            "name": "Andrew R Joyce",
-"guid": "1976430726"
-        }, {
-            "name": "Pe…",
-"guid": "2124303263"
-        }
-]
-,
-"year": "2007",
-"journal": "· Molecular Systems Biology",
-"cites": 1482,
-"abstract": "An updated genome-scale reconstruction of the metabolic network in Escherichia coli K-12 MG1655 is presented. This updated metabolic reconstruction includes: (1) an alignment with the latest genome ann…",
-"keywords": [
-{
-            "word": "Fluxomics",
-"guid": "17667019"
-        }, {
-            "word": "Genetics",
-"guid": "54355233"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "45fa3a026e7771c596b4d95370c68940",
-"title": "Quantitative prediction of cellular metabolism with constraint-based models: the COBRA Toolbox v2.0",
-"authors": [
-{
-            "name": "Jan Schellenberger",
-"guid": "2149846568"
-        }, {
-            "name": "Richard Que",
-"guid": "2327546897"
-        }, {
-            "name": "Ronan M T Fleming",
-"guid": "2103396758"
-        }, {
-            "name": "Ines Thiele",
-"guid": "2015971504"
-        }, {
-            "name": "Jeffrey D Orth",
-"guid": "2129044226"
-        }, {
-            "name": "Adam M Feist",
-"guid": "2061080551"
-        }
-]
-,
-"year": "2007",
-"journal": "· Nature Protocols",
-"cites": 1454,
-"abstract": "The manner in which microorganisms utilize their metabolic processes can be predicted using constraint-based analysis of genome-scale metabolic networks. Herein, we present the constraint-based reconstru…",
-"keywords": [
-{
-            "word": "Bioinformatics",
-"guid": "60644358"
-        }, {
-            "word": "Biology",
-"guid": "86803240"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "8239ad452ecb95160e5ab0c9c5ab5016",
-"title": "Global reconstruction of the human metabolic network based on genomic and bibliomic data",
-"authors": [
-{
-            "name": "Natalie C Duarte",
-"guid": "2169977584"
-        }, {
-            "name": "Scott A Becker",
-"guid": "2127115023"
-        }, {
-            "name": "Neema Jamshidi",
-"guid": "2022775796"
-        }, {
-            "name": "Ines Thiele",
-"guid": "2015971504"
-        }, {
-            "name": "Monica L Mo",
-"guid": "2142724337"
-        }, {
-            "name": "Thuy D Vo",
-"guid": "2463149146"
-        }, {
-            "name": "Rohith …",
-"guid": "2987241027"
-        }
-]
-,
-"year": "2007",
-"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
-"cites": 1361,
-"abstract": "Metabolism is a vital cellular process, and its malfunction is a major contributor to human disease. Metabolic networks are complex and highly interconnected, and thus systems-level computational appro…",
-"keywords": [
-{
-            "word": "Genetics",
-"guid": "54355233"
-        }, {
-            "word": "Computational Biology",
-"guid": "70721500"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "1aa1eb15ef815e9189ab04612663bb99",
-"title": "Analysis of optimality in natural and perturbed metabolic networks",
-"authors": [
-{
-            "name": "Daniel Segre",
-"guid": "2034634026"
-        }, {
-            "name": "Dennis Vitkup",
-"guid": "167887920"
-        }, {
-            "name": "George M Church",
-"guid": "2111535815"
-        }
-]
-,
-"year": "2002",
-"journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
-"cites": 1334,
-"abstract": "An important goal of whole-cell computational modeling is to integrate detailed biochemical information with biological intuition to produce testable predictions. Based on the premise that prokaryotes such as …",
-"keywords": [
-{
-            "word": "Fluxomics",
-"guid": "17667019"
-        }, {
-            "word": "Steady State",
-"guid": "34560132"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "9a97302678f688399f072d3f112d63cf",
-"title": "A protocol for generating a high-quality genome-scale metabolic reconstruction.",
-"authors": [
-{
-            "name": "Ines Thiele",
-"guid": "2015971504"
-        }, {
-            "name": "Bernhard O Palsson",
-"guid": "2068736320"
-        }
-]
-,
-"year": "2010",
-"journal": "· Nature Protocols",
-"cites": 1276,
-"abstract": "Network reconstructions are a common denominator in systems biology. Bottom–up metabolic network reconstructions have been developed over the last 10 years. These reconstructions represent structure…",
-"keywords": [
-{
-            "word": "Metabolic Engineering",
-"guid": "6350086"
-        }, {
-            "word": "Bioinformatics",
-"guid": "60644358"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "0ee653104b900bf6c1479680a603954a",
-"title": "An expanded genome-scale model of Escherichia coli K-12 (iJR904 GSM\/GPR).",
-"authors": [
-{
-            "name": "Jennifer L Reed",
-"guid": "2139351304"
-        }, {
-            "name": "Thuy D Vo",
-"guid": "2463149146"
-        }, {
-            "name": "Christophe H Schilling",
-"guid": "2159110332"
-        }, {
-            "name": "Bernhard O Palsson",
-"guid": "2068736320"
-        }
-]
-,
-"year": "2003",
-"journal": "· Genome Biology",
-"cites": 1161,
-"abstract": "Background#R##N#Diverse datasets, including genomic, transcriptomic, proteomic and metabolomic data, are becoming readily available for specific organisms. There is currently a need to integrate these …",
-"keywords": [
-{
-            "word": "Metabolomics",
-"guid": "21565614"
-        }, {
-            "word": "Genetics",
-"guid": "54355233"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "762abb4a4b4860b61d74e8ce1a0f1b7c",
-"title": "In silico predictions of Escherichia coli metabolic capabilities are consistent with experimental data",
-"authors": [
-{
-            "name": "Jeremy S Edwards",
-"guid": "2923627577"
-        }, {
-            "name": "Rafael U Ibarra",
-"guid": "2478536568"
-        }, {
-            "name": "Bernhard O Palsson",
-"guid": "2068736320"
-        }
-]
-,
-"year": "2001",
-"journal": "· Nature Biotechnology",
-"cites": 1153,
-"abstract": "In silico predictions of Escherichia coli metabolic capabilities are consistent with experimental data",
-"keywords": [
-{
-            "word": "Genetics",
-"guid": "54355233"
-        }, {
-            "word": "Experimental Data",
-"guid": "55037315"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "fc8b97a987194e90a6f3abd3ecfdba6e",
-"title": "OptKnock: A Bilevel Programming Framework for Identifying Gene Knockout Strategies for Microbial Strain Optimization",
-"authors": [
-{
-            "name": "Anthony P Burgard",
-"guid": "2763851512"
-        }, {
-            "name": "Priti Pharkya",
-"guid": "2070845905"
-        }, {
-            "name": "Costas D Maranas",
-"guid": "66001407"
-        }
-]
-,
-"year": "2003",
-"journal": "· Biotechnology and Bioengineering",
-"cites": 1129,
-"abstract": "The advent of genome-scale models of metabo- lism has laid the foundation for the development of computational procedures for suggesting genetic manipu- lations that lead to overproduction. In this wor…",
-"keywords": [
-{
-            "word": "Bilevel Optimization",
-"guid": "3309286"
-        }, {
-            "word": "Biochemistry",
-"guid": "55493867"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
-        }, {
-            "guid": "b73bbd2166b578e94717709f4996d11d",
-"title": "GENOME-SCALE MODELS OF MICROBIAL CELLS: EVALUATING THE CONSEQUENCES OF CONSTRAINTS",
-"authors": [
-{
-            "name": "Nathan D Price",
-"guid": "2133907422"
-        }, {
-            "name": "Jennifer L Reed",
-"guid": "2139351304"
-        }, {
-            "name": "Bernhard O Palsson",
-"guid": "2068736320"
-        }
-]
-,
-"year": "2004",
-"journal": "· Nature Reviews Microbiology",
-"cites": 1126,
-"abstract": "Microbial cells operate under governing constraints that limit their range of possible functions. With the availability of annotated genome sequences, it has become possible to reconstruct genome-scale bioch…",
-"keywords": [
-{
-            "word": "Ecology",
-"guid": "18903297"
-        }, {
-            "word": "Computational Biology",
-"guid": "70721500"
-        }, {
-            "word": "Flux Balance Analysis",
-"guid": "167091322"
-        }
-]
-
+        {
+                "guid": "f90f3af810bb9e282720a8ec86bc2726",
+                "title": "What is flux balance analysis",
+                "authors": [
+                        {
+                                "name": "Jeffrey D Orth",
+                                "guid": "2129044226"
+                        },
+                        {
+                                "name": "Ines Thiele",
+                                "guid": "2015971504"
+                        },
+                        {
+                                "name": "Bernhard O Palsson",
+                                "guid": "2068736320"
+                        }
+                ],
+                "year": "2010",
+                "journal": "· Nature Biotechnology",
+                "cites": 2885,
+                "abstract": "Flux balance analysis is a mathematical approach for analyzing the flow of metabolites through a metabolic network. This primer covers the theoretical basis of the approach, several practical examples …",
+                "keywords": [
+                        {
+                                "word": "Flow (psychology)",
+                                "guid": "75673492"
+                        },
+                        {
+                                "word": "Biology",
+                                "guid": "86803240"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "af7d5b468a17464b5a7960a1d736a775",
+                "title": "A genome-scale metabolic reconstruction for Escherichia coli K-12 MG1655 that accounts for 1260 ORFs and thermodynamic …",
+                "authors": [
+                        {
+                                "name": "Adam M Feist",
+                                "guid": "2061080551"
+                        },
+                        {
+                                "name": "Christopher S Henry",
+                                "guid": "2129467050"
+                        },
+                        {
+                                "name": "Jennifer L Reed",
+                                "guid": "2139351304"
+                        },
+                        {
+                                "name": "Markus Krummenacker",
+                                "guid": "2275098877"
+                        },
+                        {
+                                "name": "Andrew R Joyce",
+                                "guid": "1976430726"
+                        },
+                        {
+                                "name": "Pe…",
+                                "guid": "2124303263"
+                        }
+                ],
+                "year": "2007",
+                "journal": "· Molecular Systems Biology",
+                "cites": 1482,
+                "abstract": "An updated genome-scale reconstruction of the metabolic network in Escherichia coli K-12 MG1655 is presented. This updated metabolic reconstruction includes: (1) an alignment with the latest genome ann…",
+                "keywords": [
+                        {
+                                "word": "Fluxomics",
+                                "guid": "17667019"
+                        },
+                        {
+                                "word": "Genetics",
+                                "guid": "54355233"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "45fa3a026e7771c596b4d95370c68940",
+                "title": "Quantitative prediction of cellular metabolism with constraint-based models: the COBRA Toolbox v2.0",
+                "authors": [
+                        {
+                                "name": "Jan Schellenberger",
+                                "guid": "2149846568"
+                        },
+                        {
+                                "name": "Richard Que",
+                                "guid": "2327546897"
+                        },
+                        {
+                                "name": "Ronan M T Fleming",
+                                "guid": "2103396758"
+                        },
+                        {
+                                "name": "Ines Thiele",
+                                "guid": "2015971504"
+                        },
+                        {
+                                "name": "Jeffrey D Orth",
+                                "guid": "2129044226"
+                        },
+                        {
+                                "name": "Adam M Feist",
+                                "guid": "2061080551"
+                        }
+                ],
+                "year": "2007",
+                "journal": "· Nature Protocols",
+                "cites": 1454,
+                "abstract": "The manner in which microorganisms utilize their metabolic processes can be predicted using constraint-based analysis of genome-scale metabolic networks. Herein, we present the constraint-based reconstru…",
+                "keywords": [
+                        {
+                                "word": "Bioinformatics",
+                                "guid": "60644358"
+                        },
+                        {
+                                "word": "Biology",
+                                "guid": "86803240"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "8239ad452ecb95160e5ab0c9c5ab5016",
+                "title": "Global reconstruction of the human metabolic network based on genomic and bibliomic data",
+                "authors": [
+                        {
+                                "name": "Natalie C Duarte",
+                                "guid": "2169977584"
+                        },
+                        {
+                                "name": "Scott A Becker",
+                                "guid": "2127115023"
+                        },
+                        {
+                                "name": "Neema Jamshidi",
+                                "guid": "2022775796"
+                        },
+                        {
+                                "name": "Ines Thiele",
+                                "guid": "2015971504"
+                        },
+                        {
+                                "name": "Monica L Mo",
+                                "guid": "2142724337"
+                        },
+                        {
+                                "name": "Thuy D Vo",
+                                "guid": "2463149146"
+                        },
+                        {
+                                "name": "Rohith …",
+                                "guid": "2987241027"
+                        }
+                ],
+                "year": "2007",
+                "journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+                "cites": 1361,
+                "abstract": "Metabolism is a vital cellular process, and its malfunction is a major contributor to human disease. Metabolic networks are complex and highly interconnected, and thus systems-level computational appro…",
+                "keywords": [
+                        {
+                                "word": "Genetics",
+                                "guid": "54355233"
+                        },
+                        {
+                                "word": "Computational Biology",
+                                "guid": "70721500"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "1aa1eb15ef815e9189ab04612663bb99",
+                "title": "Analysis of optimality in natural and perturbed metabolic networks",
+                "authors": [
+                        {
+                                "name": "Daniel Segre",
+                                "guid": "2034634026"
+                        },
+                        {
+                                "name": "Dennis Vitkup",
+                                "guid": "167887920"
+                        },
+                        {
+                                "name": "George M Church",
+                                "guid": "2111535815"
+                        }
+                ],
+                "year": "2002",
+                "journal": "· Proceedings of the National Academy of Sciences of the United States of Am…",
+                "cites": 1334,
+                "abstract": "An important goal of whole-cell computational modeling is to integrate detailed biochemical information with biological intuition to produce testable predictions. Based on the premise that prokaryotes such as …",
+                "keywords": [
+                        {
+                                "word": "Fluxomics",
+                                "guid": "17667019"
+                        },
+                        {
+                                "word": "Steady State",
+                                "guid": "34560132"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "9a97302678f688399f072d3f112d63cf",
+                "title": "A protocol for generating a high-quality genome-scale metabolic reconstruction.",
+                "authors": [
+                        {
+                                "name": "Ines Thiele",
+                                "guid": "2015971504"
+                        },
+                        {
+                                "name": "Bernhard O Palsson",
+                                "guid": "2068736320"
+                        }
+                ],
+                "year": "2010",
+                "journal": "· Nature Protocols",
+                "cites": 1276,
+                "abstract": "Network reconstructions are a common denominator in systems biology. Bottom–up metabolic network reconstructions have been developed over the last 10 years. These reconstructions represent structure…",
+                "keywords": [
+                        {
+                                "word": "Metabolic Engineering",
+                                "guid": "6350086"
+                        },
+                        {
+                                "word": "Bioinformatics",
+                                "guid": "60644358"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "0ee653104b900bf6c1479680a603954a",
+                "title": "An expanded genome-scale model of Escherichia coli K-12 (iJR904 GSM\/GPR).",
+                "authors": [
+                        {
+                                "name": "Jennifer L Reed",
+                                "guid": "2139351304"
+                        },
+                        {
+                                "name": "Thuy D Vo",
+                                "guid": "2463149146"
+                        },
+                        {
+                                "name": "Christophe H Schilling",
+                                "guid": "2159110332"
+                        },
+                        {
+                                "name": "Bernhard O Palsson",
+                                "guid": "2068736320"
+                        }
+                ],
+                "year": "2003",
+                "journal": "· Genome Biology",
+                "cites": 1161,
+                "abstract": "Background#R##N#Diverse datasets, including genomic, transcriptomic, proteomic and metabolomic data, are becoming readily available for specific organisms. There is currently a need to integrate these …",
+                "keywords": [
+                        {
+                                "word": "Metabolomics",
+                                "guid": "21565614"
+                        },
+                        {
+                                "word": "Genetics",
+                                "guid": "54355233"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "762abb4a4b4860b61d74e8ce1a0f1b7c",
+                "title": "In silico predictions of Escherichia coli metabolic capabilities are consistent with experimental data",
+                "authors": [
+                        {
+                                "name": "Jeremy S Edwards",
+                                "guid": "2923627577"
+                        },
+                        {
+                                "name": "Rafael U Ibarra",
+                                "guid": "2478536568"
+                        },
+                        {
+                                "name": "Bernhard O Palsson",
+                                "guid": "2068736320"
+                        }
+                ],
+                "year": "2001",
+                "journal": "· Nature Biotechnology",
+                "cites": 1153,
+                "abstract": "In silico predictions of Escherichia coli metabolic capabilities are consistent with experimental data",
+                "keywords": [
+                        {
+                                "word": "Genetics",
+                                "guid": "54355233"
+                        },
+                        {
+                                "word": "Experimental Data",
+                                "guid": "55037315"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "fc8b97a987194e90a6f3abd3ecfdba6e",
+                "title": "OptKnock: A Bilevel Programming Framework for Identifying Gene Knockout Strategies for Microbial Strain Optimization",
+                "authors": [
+                        {
+                                "name": "Anthony P Burgard",
+                                "guid": "2763851512"
+                        },
+                        {
+                                "name": "Priti Pharkya",
+                                "guid": "2070845905"
+                        },
+                        {
+                                "name": "Costas D Maranas",
+                                "guid": "66001407"
+                        }
+                ],
+                "year": "2003",
+                "journal": "· Biotechnology and Bioengineering",
+                "cites": 1129,
+                "abstract": "The advent of genome-scale models of metabo- lism has laid the foundation for the development of computational procedures for suggesting genetic manipu- lations that lead to overproduction. In this wor…",
+                "keywords": [
+                        {
+                                "word": "Bilevel Optimization",
+                                "guid": "3309286"
+                        },
+                        {
+                                "word": "Biochemistry",
+                                "guid": "55493867"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
+        },
+        {
+                "guid": "b73bbd2166b578e94717709f4996d11d",
+                "title": "GENOME-SCALE MODELS OF MICROBIAL CELLS: EVALUATING THE CONSEQUENCES OF CONSTRAINTS",
+                "authors": [
+                        {
+                                "name": "Nathan D Price",
+                                "guid": "2133907422"
+                        },
+                        {
+                                "name": "Jennifer L Reed",
+                                "guid": "2139351304"
+                        },
+                        {
+                                "name": "Bernhard O Palsson",
+                                "guid": "2068736320"
+                        }
+                ],
+                "year": "2004",
+                "journal": "· Nature Reviews Microbiology",
+                "cites": 1126,
+                "abstract": "Microbial cells operate under governing constraints that limit their range of possible functions. With the availability of annotated genome sequences, it has become possible to reconstruct genome-scale bioch…",
+                "keywords": [
+                        {
+                                "word": "Ecology",
+                                "guid": "18903297"
+                        },
+                        {
+                                "word": "Computational Biology",
+                                "guid": "70721500"
+                        },
+                        {
+                                "word": "Flux Balance Analysis",
+                                "guid": "167091322"
+                        }
+                ]
         }
 ]
